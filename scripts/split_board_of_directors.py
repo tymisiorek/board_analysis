@@ -129,7 +129,10 @@ def determine_director_schools(df):
     for key, value in grouped_df:
         word_count = Counter()
         for position in value["Position"]:
-            individual_words = position.split()
+            if isinstance(position, str):
+                individual_words = position.split()
+            else:
+                individual_words = []
             board_words_dir = ['Director']
             filtered_words = [word for word in individual_words if word in board_words_dir]
             word_count.update(filtered_words)
@@ -175,7 +178,7 @@ def find_word_grouping(df, board_name):
         first_institution_occurrence[key] = value.index[0]
 
         if board_position is not None:
-            all_members = value["Position"].tolist()
+            all_members = [str(pos) if pd.notna(pos) else "" for pos in value["Position"]]
             try:
                 # Find the first and last index of the board position in the group
                 first_index = next(i for i, pos in enumerate(all_members) if board_position == pos.title())
@@ -225,7 +228,7 @@ def find_word_grouping_substring(df, board_name):
         first_institution_occurrence[key] = value.index[0]
 
         if board_position is not None:
-            all_members = value["Position"].tolist()
+            all_members = [str(pos) if pd.notna(pos) else "" for pos in value["Position"]]
             try:
                 # Find the first and last index of the board position using substring matching
                 first_index = next(i for i, pos in enumerate(all_members) if board_position in pos.title())
@@ -569,6 +572,7 @@ def clean_false_members(expanded_boards, university_boards, original_boards):
     indices_to_drop = []
     for index, row in expanded_boards.iterrows():
         pos = row["Position"]
+        pos = str(pos) if pd.notna(pos) else ""
         if "Dean" in pos or "Director" in pos:
             indices_to_drop.append(index)
     cleaned__df = expanded_boards.drop(index=indices_to_drop).reset_index(drop=True)
@@ -676,15 +680,18 @@ def mark_members(board_df, university_boards):
     grouped_boards = board_df.groupby("Institution")
     for key, value in grouped_boards:
         for index, row in value.iterrows():
-            position = row["Position"].title()
+            position = row["Position"]
+            # Ensure 'position' is a string before calling .title()
+            position = position.title() if isinstance(position, str) else ""
             board_name = university_boards[key]
             pres_appears = any(pos in position for pos in CHAIRPERSONS)
             if board_name is None:
                 board_name = "zZbkjlhz01" 
 
-            if board_name in row["Position"]:
+            # Replace 'row["Position"]' with 'position' to avoid TypeError
+            if board_name in position:
                 board_df.at[index, "FixedPosition"] = board_name
-            elif  pres_appears and "Vice" not in position:
+            elif pres_appears and "Vice" not in position:
                 board_df.at[index, "FixedPosition"] = "Board President"
             elif pres_appears and "Vice" in position:
                 board_df.at[index, "FixedPosition"] = "Board Vice President"
@@ -693,7 +700,8 @@ def mark_members(board_df, university_boards):
             else:
                 board_df.at[index, "FixedPosition"] = board_name
 
-            if "Ex Officio" in row["Position"]:
+            # Replace 'row["Position"]' with 'position' here as well
+            if "Ex Officio" in position:
                 board_df.at[index, "FixedPosition"] += ", Ex Officio"
     return board_df
 
