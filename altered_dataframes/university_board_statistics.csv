@@ -1,0 +1,1025 @@
+Year,Institution,carnegie_id,AffiliationId,female_president,poc_president,total_members,poc,white,female,male,unknown,poc_change,white_change,unknown_change,male_change,female_change
+1999,Adelphi University,188429.0,71965598.0,False,False,17,2,15,3,12,2,,,,,
+1999,American University,131159.0,181401687.0,False,False,27,1,26,11,15,1,,,,,
+1999,Andrews University,168740.0,102298084.0,False,False,36,6,30,9,23,4,,,,,
+1999,Arizona State University,104151.0,55732556.0,False,False,11,0,11,4,7,0,,,,,
+1999,Auburn University,100858.0,82497590.0,False,False,12,1,11,1,10,1,,,,,
+1999,Ball State University,150136.0,198089087.0,False,False,9,1,8,2,6,1,,,,,
+1999,Baylor University,223232.0,157394403.0,False,False,33,6,27,3,27,3,,,,,
+1999,Biola University,110097.0,152479009.0,False,False,21,2,19,3,17,1,,,,,
+1999,Boston College,164924.0,103531236.0,False,False,36,0,36,6,22,8,,,,,
+1999,Boston University,164988.0,111088046.0,False,False,49,5,44,6,39,4,,,,,
+1999,Bowling Green State University,201441.0,157417397.0,False,False,8,0,8,1,6,1,,,,,
+1999,Brandeis University,165015.0,6902469.0,False,False,44,1,43,11,30,3,,,,,
+1999,Brigham Young University,230038.0,100005738.0,False,False,12,0,12,2,7,3,,,,,
+1999,Brown University,217156.0,27804330.0,False,False,35,4,31,10,21,4,,,,,
+1999,California Institute Of Technology,110404.0,122411786.0,False,False,45,3,42,9,36,0,,,,,
+1999,Carnegie Mellon University,211440.0,74973139.0,False,False,78,4,74,5,68,5,,,,,
+1999,Case Western Reserve University,201645.0,58956616.0,False,False,42,2,40,7,33,2,,,,,
+1999,Catholic University Of America,131283.0,84470341.0,False,False,37,2,35,4,24,9,,,,,
+1999,Central Michigan University,169248.0,1629065.0,False,False,3,0,3,1,2,0,,,,,
+1999,Chapman University,111948.0,185071736.0,False,False,34,2,32,7,25,2,,,,,
+1999,Clark Atlanta University,138947.0,52064589.0,False,False,23,3,20,5,14,4,,,,,
+1999,Clark University,165334.0,130785548.0,False,False,19,0,19,5,14,0,,,,,
+1999,Clarkson University,190044.0,16944753.0,False,False,19,0,19,3,14,2,,,,,
+1999,Clemson University,217882.0,8078737.0,False,False,36,0,36,6,24,6,,,,,
+1999,Cleveland State University,202134.0,102607778.0,True,False,13,1,12,3,10,0,,,,,
+1999,College Of William And Mary,231624.0,16285277.0,False,False,15,0,15,3,8,4,,,,,
+1999,Colorado School Of Mines,126775.0,167576493.0,False,False,6,1,5,1,4,1,,,,,
+1999,Columbia University,190150.0,78577930.0,False,False,21,2,19,5,13,3,,,,,
+1999,Cornell University,190415.0,205783295.0,False,False,35,2,33,6,27,2,,,,,
+1999,Creighton University,181002.0,114493937.0,False,False,27,2,25,2,17,8,,,,,
+1999,Dartmouth College,182670.0,107672454.0,False,False,15,1,14,4,11,0,,,,,
+1999,Depaul University,144740.0,118353179.0,False,False,67,6,61,7,54,6,,,,,
+1999,Drexel University,212054.0,72816309.0,False,False,33,1,32,6,26,1,,,,,
+1999,Duke University,198419.0,170897317.0,False,False,24,2,22,8,13,3,,,,,
+1999,Duquesne University,212106.0,165102784.0,False,True,33,0,33,5,23,5,,,,,
+1999,East Tennessee State University,220075.0,119443389.0,False,False,7,0,7,2,4,1,,,,,
+1999,Eastern Michigan University,169798.0,138216421.0,False,False,17,2,15,7,9,1,,,,,
+1999,Emory University,139658.0,150468666.0,False,False,29,0,29,3,20,6,,,,,
+1999,Florida Institute Of Technology,133881.0,106959904.0,True,False,19,1,18,3,15,1,,,,,
+1999,Fordham University,191241.0,164389053.0,False,False,24,1,23,5,19,0,,,,,
+1999,Gallaudet University,131450.0,66108857.0,False,False,14,3,11,4,9,1,,,,,
+1999,George Mason University,232186.0,162714631.0,False,False,11,0,11,4,6,1,,,,,
+1999,George Washington University,131469.0,193531525.0,False,False,35,2,33,7,25,3,,,,,
+1999,Georgetown University,131496.0,184565670.0,False,False,33,2,31,5,18,10,,,,,
+1999,Hampton University,232265.0,151328261.0,False,False,14,0,14,2,12,0,,,,,
+1999,Harvard University,166027.0,136199984.0,False,False,21,1,20,8,12,1,,,,,
+1999,Hofstra University,191649.0,139290212.0,False,False,36,2,34,9,27,0,,,,,
+1999,Howard University,131520.0,137853757.0,False,False,17,1,16,4,10,3,,,,,
+1999,Idaho State University,142276.0,106969075.0,False,False,5,0,5,1,3,1,,,,,
+1999,Illinois Institute Of Technology,145725.0,180949307.0,False,False,48,1,47,5,39,4,,,,,
+1999,Illinois State University,145813.0,47301684.0,False,False,6,1,5,2,3,1,,,,,
+1999,Indiana State University,151324.0,86420138.0,False,False,6,0,6,1,5,0,,,,,
+1999,Indiana University Of Pennsylvania,213020.0,200885203.0,False,False,9,0,9,3,5,1,,,,,
+1999,Iowa State University,153603.0,173911158.0,False,False,5,0,5,2,3,0,,,,,
+1999,James Madison University,232423.0,11883440.0,False,False,11,2,9,4,6,1,,,,,
+1999,Johns Hopkins University,162928.0,145311948.0,False,False,44,4,40,7,29,8,,,,,
+1999,Kansas State University,155399.0,189590672.0,False,False,6,0,6,1,5,0,,,,,
+1999,Kent State University,203517.0,149910238.0,True,False,7,0,7,1,4,2,,,,,
+1999,Lehigh University,213543.0,186143895.0,False,False,29,1,28,9,18,2,,,,,
+1999,Loma Linda University,117636.0,26347476.0,False,False,13,4,9,2,8,3,,,,,
+1999,Long Island University,192448.0,138873065.0,False,False,45,2,43,7,37,1,,,,,
+1999,Loyola Marymount University,117946.0,35566140.0,False,False,27,5,22,5,11,11,,,,,
+1999,Loyola University Chicago,146719.0,1925986.0,False,False,2,0,2,0,2,0,,,,,
+1999,Marquette University,239105.0,102461120.0,False,False,25,4,21,2,14,9,,,,,
+1999,Marshall University,237525.0,88694374.0,False,False,10,0,10,3,7,0,,,,,
+1999,Massachusetts Institute Of Technology,166683.0,63966007.0,False,False,41,4,37,12,25,4,,,,,
+1999,Mercer University,140447.0,150149174.0,False,False,27,0,27,3,15,9,,,,,
+1999,Miami University,204024.0,83328450.0,False,False,9,1,8,4,5,0,,,,,
+1999,Michigan State University,171100.0,87216513.0,False,False,8,1,7,3,5,0,,,,,
+1999,Michigan Technological University,171128.0,11957088.0,False,False,3,0,3,0,3,0,,,,,
+1999,Middle Tennessee State University,220978.0,169615421.0,False,False,6,0,6,5,1,0,,,,,
+1999,Mississippi State University,176080.0,99041443.0,False,True,9,0,9,2,4,3,,,,,
+1999,Montclair State University,185590.0,,False,False,11,2,9,5,6,0,2.0,-4.0,-1.0,-3.0,2.0
+1999,New Jersey Institute Of Technology,185828.0,118118575.0,False,False,41,5,36,2,36,3,,,,,
+1999,New Mexico State University,188030.0,10052268.0,False,False,5,1,4,1,4,0,,,,,
+1999,New School University,193654.0,102179633.0,False,True,36,4,32,8,26,2,,,,,
+1999,New York University,193900.0,57206974.0,False,True,31,3,28,6,21,4,,,,,
+1999,North Carolina Agricultural And Technical State University,199102.0,35777872.0,False,False,12,0,12,1,11,0,,,,,
+1999,North Carolina State University,199193.0,137902535.0,True,False,9,1,8,3,3,3,,,,,
+1999,Northern Illinois University,147703.0,102502594.0,False,False,7,1,6,1,6,0,,,,,
+1999,Nova Southeastern University,136215.0,,False,False,20,2,18,1,18,1,1.0,5.0,-4.0,9.0,1.0
+1999,Oakland University,171571.0,177721651.0,False,False,6,0,6,0,6,0,,,,,
+1999,Ohio State University,204796.0,52357470.0,False,False,7,1,6,2,5,0,,,,,
+1999,Oklahoma State University,207388.0,115475287.0,False,False,8,1,7,0,8,0,,,,,
+1999,Old Dominion University,232982.0,81365321.0,False,False,10,1,9,2,7,1,,,,,
+1999,Pace University,194310.0,126863827.0,True,False,25,0,25,4,19,2,,,,,
+1999,Pennsylvania State University,495767.0,130769515.0,False,False,24,0,24,7,15,2,,,,,
+1999,Pepperdine University,121150.0,100191712.0,False,False,25,2,23,5,19,1,,,,,
+1999,Polytechnic University,193900.0,57206974.0,False,True,25,3,22,2,23,0,,,,,
+1999,Princeton University,186131.0,20089843.0,False,False,26,1,25,5,19,2,,,,,
+1999,Purdue University,243780.0,219193219.0,False,False,8,0,8,1,4,3,,,,,
+1999,Rensselaer Polytechnic Institute,194824.0,165799507.0,False,False,22,1,21,3,17,2,,,,,
+1999,Rice University,227757.0,74775410.0,False,False,15,0,15,1,10,4,,,,,
+1999,Rochester Institute Of Technology,195003.0,155173764.0,False,False,32,2,30,2,29,1,,,,,
+1999,Rowan University,184782.0,44265643.0,False,False,10,0,10,3,7,0,,,,,
+1999,Rutgers State University Of New Jersey,186380.0,102322142.0,False,False,50,3,47,13,33,4,,,,,
+1999,Seton Hall University,186584.0,12524447.0,False,False,21,1,20,2,14,5,,,,,
+1999,South Dakota State University,219356.0,177156846.0,True,False,6,0,6,0,5,1,,,,,
+1999,Southern Illinois University,149222.0,2801502357.0,False,False,7,0,7,2,4,1,,,,,
+1999,St Johns University,195809.0,142823887.0,False,False,18,3,15,3,14,1,,,,,
+1999,Stanford University,243744.0,97018004.0,False,False,22,2,20,5,17,0,,,,,
+1999,State University Of New York At Albany,196060.0,392282.0,True,False,9,2,7,1,6,2,,,,,
+1999,State University Of New York At Buffalo,196088.0,63190737.0,False,False,5,1,4,1,3,1,,,,,
+1999,State University Of New York At Stony Brook,196097.0,59553526.0,True,False,7,2,5,3,4,0,,,,,
+1999,Syracuse University,196413.0,70983195.0,False,False,12,0,12,1,9,2,,,,,
+1999,Temple University,216339.0,84392919.0,False,False,21,1,20,4,17,0,,,,,
+1999,Texas Christian University,228875.0,128956969.0,False,False,26,0,26,5,15,6,,,,,
+1999,Texas Tech University,229115.0,12315562.0,False,False,2,0,2,0,2,0,,,,,
+1999,Texas Womans University,229179.0,150913223.0,True,False,4,0,4,3,1,0,,,,,
+1999,Thomas Jefferson University,216366.0,149251103.0,False,False,18,0,18,2,13,3,,,,,
+1999,Tufts University,168148.0,121934306.0,False,False,21,0,21,9,12,0,,,,,
+1999,Union Institute,206279.0,204669301.0,False,False,8,1,7,0,5,3,,,,,
+1999,University Of Alabama,100751.0,17301866.0,False,False,6,0,6,0,4,2,,,,,
+1999,University Of Arizona,104179.0,138006243.0,False,False,1,0,1,0,1,0,,,,,
+1999,University Of Chicago,144050.0,40347166.0,False,False,33,5,28,7,24,2,,,,,
+1999,University Of Connecticut,129020.0,140172145.0,False,False,12,0,12,2,9,1,,,,,
+1999,University Of Dayton,202480.0,127591826.0,False,False,26,1,25,4,13,9,,,,,
+1999,University Of Delaware,130943.0,86501945.0,False,False,20,1,19,2,13,5,,,,,
+1999,University Of Denver,127060.0,131651094.0,False,False,17,2,15,4,11,2,,,,,
+1999,University Of Hartford,129525.0,162281398.0,False,False,34,2,32,8,24,2,,,,,
+1999,University Of Illinois At Urbana Champaign,145637.0,157725225.0,False,False,9,2,7,4,5,0,,,,,
+1999,University Of Kentucky,157085.0,143302722.0,False,False,15,2,13,2,8,5,,,,,
+1999,University Of La Verne,117140.0,708430.0,False,False,23,2,21,5,17,1,,,,,
+1999,University Of Louisville,157289.0,142740786.0,False,False,12,0,12,6,4,2,,,,,
+1999,University Of Massachusetts Worcester,166708.0,166722992.0,False,False,16,2,14,4,12,0,,,,,
+1999,University Of Miami,135726.0,145608581.0,False,False,34,4,30,7,25,2,,,,,
+1999,University Of Michigan,170976.0,27837315.0,False,False,5,0,5,2,3,0,,,,,
+1999,University Of Minnesota,174066.0,130238516.0,False,False,6,0,6,1,4,1,,,,,
+1999,University Of Missouri St Louis,178420.0,208333798.0,True,False,4,0,4,0,4,0,,,,,
+1999,University Of Montana Missoula,180489.0,6750721.0,False,False,8,0,8,2,6,0,,,,,
+1999,University Of Nevada Reno,182290.0,134113660.0,False,False,5,1,4,2,3,0,,,,,
+1999,University Of New Mexico,187985.0,,False,False,4,1,3,2,2,0,1.0,-1.0,0.0,-1.0,1.0
+1999,University Of North Carolina At Charlotte,199139.0,102149020.0,False,False,9,0,9,1,8,0,,,,,
+1999,University Of North Carolina At Greensboro,199148.0,,False,False,4,0,4,0,0,4,0.0,0.0,3.0,-1.0,-2.0
+1999,University Of North Carolina At Wilmington,199218.0,153901656.0,False,False,9,0,9,3,6,0,,,,,
+1999,University Of North Texas,227216.0,123534392.0,False,False,6,0,6,2,2,2,,,,,
+1999,University Of Northern Colorado,127741.0,,False,False,6,0,6,0,5,1,-1.0,0.0,0.0,1.0,-2.0
+1999,University Of Notre Dame,152080.0,107639228.0,False,False,29,5,24,4,22,3,,,,,
+1999,University Of Oklahoma,207500.0,8692664.0,False,False,5,0,5,1,3,1,,,,,
+1999,University Of Oregon,209551.0,181233156.0,False,False,9,1,8,3,6,0,,,,,
+1999,University Of Pacific,120883.0,119942576.0,False,False,24,2,22,7,17,0,,,,,
+1999,University Of Pittsburgh,215293.0,170201317.0,False,False,29,1,28,2,23,4,,,,,
+1999,University Of Rhode Island,217484.0,17626003.0,False,False,10,0,10,2,8,0,,,,,
+1999,University Of Rochester,195030.0,5388228.0,False,False,34,0,34,4,24,6,,,,,
+1999,University Of San Diego,122436.0,160856358.0,True,False,26,4,22,5,16,5,,,,,
+1999,University Of South Alabama,102094.0,83809506.0,False,False,10,0,10,1,6,3,,,,,
+1999,University Of South Carolina,218663.0,155781252.0,False,False,18,1,17,4,13,1,,,,,
+1999,University Of Southern California,123961.0,1174212.0,False,False,26,4,22,3,22,1,,,,,
+1999,University Of St Thomas Minnesota,174914.0,161515732.0,False,False,27,1,26,7,18,2,,,,,
+1999,University Of Texas At Brownsville/Texas Southmost College,227368.0,2802326326.0,True,True,6,2,4,3,2,1,,,,,
+1999,University Of Toledo,206084.0,90871651.0,False,False,9,0,9,3,6,0,,,,,
+1999,University Of Tulsa,207971.0,87208437.0,False,False,19,0,19,4,13,2,,,,,
+1999,University Of Utah,230764.0,223532165.0,False,False,13,0,13,4,7,2,,,,,
+1999,University Of Vermont,231174.0,111236770.0,True,False,19,2,17,4,12,3,,,,,
+1999,University Of Virginia,234076.0,51556381.0,False,False,12,0,12,1,10,1,,,,,
+1999,University Of Washington,236948.0,201448701.0,False,False,7,1,6,2,4,1,,,,,
+1999,University Of Wyoming,240727.0,12834331.0,False,False,11,1,10,5,6,0,,,,,
+1999,Utah State University,230728.0,121980950.0,False,False,2,1,1,1,0,1,,,,,
+1999,Vanderbilt University,221999.0,200719446.0,False,False,21,0,21,2,17,2,,,,,
+1999,Villanova University,216597.0,7863295.0,False,True,22,2,20,2,8,12,,,,,
+1999,Virginia Commonwealth University,234030.0,184840846.0,False,False,9,0,9,0,7,2,,,,,
+1999,Virginia Polytechnic Institute And State University,233921.0,859038795.0,False,False,12,0,12,2,9,1,,,,,
+1999,Wake Forest University,199847.0,47251452.0,False,False,21,0,21,5,12,4,,,,,
+1999,Washington State University,236939.0,,False,False,6,2,4,1,5,0,1.0,1.0,-1.0,4.0,-1.0
+1999,Washington University,179867.0,204465549.0,False,False,35,0,35,2,26,7,,,,,
+1999,Wayne State University,172644.0,185443292.0,False,False,3,0,3,2,1,0,,,,,
+1999,West Chester University Of Pennsylvania,216764.0,161171246.0,True,False,9,0,9,6,2,1,,,,,
+1999,West Virginia University,238032.0,12097938.0,False,False,2,0,2,0,2,0,,,,,
+1999,Western Michigan University,172699.0,141649380.0,False,False,6,0,6,2,4,0,,,,,
+1999,Widener University,216852.0,138659443.0,False,False,19,0,19,2,15,2,,,,,
+1999,Worcester Polytechnic Institute,168421.0,107077323.0,False,False,19,3,16,3,15,1,,,,,
+1999,Wright State University,206604.0,19648265.0,True,False,7,1,6,1,5,1,,,,,
+1999,Yale University,130794.0,32971472.0,False,False,8,1,7,1,6,1,,,,,
+1999,Yeshiva University,197708.0,19772626.0,False,False,39,2,37,12,24,3,,,,,
+2000,Adelphi University,188429.0,71965598.0,False,False,17,2,15,4,11,2,0.0,0.0,0.0,-1.0,1.0
+2000,American University,131159.0,181401687.0,False,False,27,0,27,9,16,2,-1.0,1.0,1.0,1.0,-2.0
+2000,Andrews University,168740.0,102298084.0,False,False,36,6,30,9,23,4,0.0,0.0,0.0,0.0,0.0
+2000,Arizona State University,104151.0,55732556.0,False,False,10,0,10,3,7,0,0.0,-1.0,0.0,0.0,-1.0
+2000,Auburn University,100858.0,82497590.0,False,False,12,2,10,1,10,1,1.0,-1.0,0.0,0.0,0.0
+2000,Ball State University,150136.0,198089087.0,False,False,6,0,6,0,6,0,-1.0,-2.0,-1.0,0.0,-2.0
+2000,Baylor University,223232.0,157394403.0,False,False,35,4,31,4,25,6,-2.0,4.0,3.0,-2.0,1.0
+2000,Biola University,110097.0,152479009.0,False,False,17,1,16,2,14,1,-1.0,-3.0,0.0,-3.0,-1.0
+2000,Boston College,164924.0,103531236.0,False,False,44,0,44,5,28,11,0.0,8.0,3.0,6.0,-1.0
+2000,Boston University,164988.0,111088046.0,False,False,50,7,43,7,38,5,2.0,-1.0,1.0,-1.0,1.0
+2000,Bowling Green State University,201441.0,157417397.0,False,False,8,0,8,1,7,0,0.0,0.0,-1.0,1.0,0.0
+2000,Brandeis University,165015.0,6902469.0,False,False,46,1,45,11,34,1,0.0,2.0,-2.0,4.0,0.0
+2000,Brigham Young University,230038.0,100005738.0,False,False,12,0,12,2,8,2,0.0,0.0,-1.0,1.0,0.0
+2000,Brown University,217156.0,27804330.0,False,False,34,3,31,8,24,2,-1.0,0.0,-2.0,3.0,-2.0
+2000,California Institute Of Technology,110404.0,122411786.0,False,False,48,2,46,9,38,1,-1.0,4.0,1.0,2.0,0.0
+2000,Carnegie Mellon University,211440.0,74973139.0,False,False,86,5,81,8,69,9,1.0,7.0,4.0,1.0,3.0
+2000,Case Western Reserve University,201645.0,58956616.0,False,False,43,2,41,6,34,3,0.0,1.0,1.0,1.0,-1.0
+2000,Catholic University Of America,131283.0,84470341.0,False,False,37,2,35,4,24,9,0.0,0.0,0.0,0.0,0.0
+2000,Central Michigan University,169248.0,1629065.0,False,False,3,1,2,1,2,0,1.0,-1.0,0.0,0.0,0.0
+2000,Chapman University,111948.0,185071736.0,False,False,37,3,34,8,26,3,1.0,2.0,1.0,1.0,1.0
+2000,Clark Atlanta University,138947.0,52064589.0,False,False,18,2,16,4,12,2,-1.0,-4.0,-2.0,-2.0,-1.0
+2000,Clark University,165334.0,130785548.0,False,False,17,0,17,7,10,0,0.0,-2.0,0.0,-4.0,2.0
+2000,Clarkson University,190044.0,16944753.0,False,False,21,0,21,4,15,2,0.0,2.0,0.0,1.0,1.0
+2000,Clemson University,217882.0,8078737.0,False,False,35,1,34,3,26,6,1.0,-2.0,0.0,2.0,-3.0
+2000,Cleveland State University,202134.0,102607778.0,True,False,7,0,7,1,4,2,-1.0,-5.0,2.0,-6.0,-2.0
+2000,College Of William And Mary,231624.0,16285277.0,False,False,14,0,14,3,8,3,0.0,-1.0,-1.0,0.0,0.0
+2000,Colorado School Of Mines,126775.0,167576493.0,False,False,6,0,6,2,3,1,-1.0,1.0,0.0,-1.0,1.0
+2000,Columbia University,190150.0,78577930.0,False,False,19,3,16,4,12,3,1.0,-3.0,0.0,-1.0,-1.0
+2000,Cornell University,190415.0,205783295.0,False,False,35,3,32,6,26,3,1.0,-1.0,1.0,-1.0,0.0
+2000,Creighton University,181002.0,114493937.0,False,False,31,2,29,2,21,8,0.0,4.0,0.0,4.0,0.0
+2000,Dartmouth College,182670.0,107672454.0,False,False,15,1,14,4,11,0,0.0,0.0,0.0,0.0,0.0
+2000,Drexel University,212054.0,72816309.0,False,False,27,2,25,5,21,1,1.0,-7.0,0.0,-5.0,-1.0
+2000,Duke University,198419.0,170897317.0,False,False,28,3,25,8,15,5,1.0,3.0,2.0,2.0,0.0
+2000,Duquesne University,212106.0,165102784.0,False,False,36,2,34,6,25,5,2.0,1.0,0.0,2.0,1.0
+2000,East Carolina University,198464.0,186335123.0,False,False,7,0,7,1,5,1,,,,,
+2000,East Tennessee State University,220075.0,119443389.0,False,False,13,0,13,4,7,2,0.0,6.0,1.0,3.0,2.0
+2000,Eastern Michigan University,169798.0,138216421.0,False,False,7,0,7,2,5,0,-2.0,-8.0,-1.0,-4.0,-5.0
+2000,Emory University,139658.0,150468666.0,False,False,27,0,27,4,16,7,0.0,-2.0,1.0,-4.0,1.0
+2000,Florida Institute Of Technology,133881.0,106959904.0,True,False,19,2,17,2,16,1,1.0,-1.0,0.0,1.0,-1.0
+2000,Fordham University,191241.0,164389053.0,False,False,24,0,24,5,18,1,-1.0,1.0,1.0,-1.0,0.0
+2000,Gallaudet University,131450.0,66108857.0,False,True,16,3,13,4,11,1,0.0,2.0,0.0,2.0,0.0
+2000,George Mason University,232186.0,162714631.0,False,False,12,0,12,2,8,2,0.0,1.0,1.0,2.0,-2.0
+2000,George Washington University,131469.0,193531525.0,False,False,34,1,33,8,21,5,-1.0,0.0,2.0,-4.0,1.0
+2000,Georgetown University,131496.0,184565670.0,False,False,29,3,26,3,18,8,1.0,-5.0,-2.0,0.0,-2.0
+2000,Hampton University,232265.0,151328261.0,False,False,16,1,15,2,12,2,1.0,1.0,2.0,0.0,0.0
+2000,Harvard University,166027.0,136199984.0,False,False,21,1,20,8,12,1,0.0,0.0,0.0,0.0,0.0
+2000,Hofstra University,191649.0,139290212.0,False,False,28,2,26,8,20,0,0.0,-8.0,0.0,-7.0,-1.0
+2000,Howard University,131520.0,137853757.0,False,False,13,1,12,3,7,3,0.0,-4.0,0.0,-3.0,-1.0
+2000,Idaho State University,142276.0,106969075.0,False,False,6,1,5,2,4,0,1.0,0.0,-1.0,1.0,1.0
+2000,Illinois Institute Of Technology,145725.0,180949307.0,False,False,54,2,52,7,42,5,1.0,5.0,1.0,3.0,2.0
+2000,Illinois State University,145813.0,47301684.0,False,False,7,1,6,2,4,1,0.0,1.0,0.0,1.0,0.0
+2000,Indiana State University,151324.0,86420138.0,False,False,5,0,5,0,5,0,0.0,-1.0,0.0,0.0,-1.0
+2000,Indiana University Of Pennsylvania,213020.0,200885203.0,False,False,9,0,9,3,5,1,0.0,0.0,0.0,0.0,0.0
+2000,Iowa State University,153603.0,173911158.0,False,False,3,0,3,0,3,0,0.0,-2.0,0.0,0.0,-2.0
+2000,James Madison University,232423.0,11883440.0,False,False,13,2,11,3,9,1,0.0,2.0,0.0,3.0,-1.0
+2000,Johns Hopkins University,162928.0,145311948.0,False,False,46,4,42,10,25,11,0.0,2.0,3.0,-4.0,3.0
+2000,Kansas State University,155399.0,189590672.0,False,False,6,0,6,1,5,0,0.0,0.0,0.0,0.0,0.0
+2000,Lehigh University,213543.0,186143895.0,False,False,28,1,27,9,17,2,0.0,-1.0,0.0,-1.0,0.0
+2000,Loma Linda University,117636.0,26347476.0,False,False,11,3,8,2,8,1,-1.0,-1.0,-2.0,0.0,0.0
+2000,Long Island University,192448.0,138873065.0,False,False,46,2,44,8,38,0,0.0,1.0,-1.0,1.0,1.0
+2000,Loyola Marymount University,117946.0,35566140.0,False,True,43,8,35,7,33,3,3.0,13.0,-8.0,22.0,2.0
+2000,Loyola University Chicago,146719.0,1925986.0,False,False,26,2,24,2,14,10,2.0,22.0,10.0,12.0,2.0
+2000,Marquette University,239105.0,102461120.0,False,False,29,3,26,3,16,10,-1.0,5.0,1.0,2.0,1.0
+2000,Marshall University,237525.0,88694374.0,False,False,10,0,10,2,8,0,0.0,0.0,0.0,1.0,-1.0
+2000,Massachusetts Institute Of Technology,166683.0,63966007.0,False,False,44,5,39,14,23,7,1.0,2.0,3.0,-2.0,2.0
+2000,Mercer University,140447.0,150149174.0,False,False,26,0,26,3,15,8,0.0,-1.0,-1.0,0.0,0.0
+2000,Miami University,204024.0,83328450.0,False,False,8,1,7,3,5,0,0.0,-1.0,0.0,0.0,-1.0
+2000,Michigan State University,171100.0,87216513.0,False,False,8,1,7,3,5,0,0.0,0.0,0.0,0.0,0.0
+2000,Michigan Technological University,171128.0,11957088.0,False,False,3,0,3,0,3,0,0.0,0.0,0.0,0.0,0.0
+2000,Mississippi State University,176080.0,99041443.0,False,True,9,0,9,0,7,2,0.0,0.0,-1.0,3.0,-2.0
+2000,Montclair State University,185590.0,,False,False,11,2,9,5,6,0,0.0,0.0,0.0,0.0,0.0
+2000,New Jersey Institute Of Technology,185828.0,118118575.0,False,False,43,5,38,2,38,3,0.0,2.0,0.0,2.0,0.0
+2000,New Mexico State University,188030.0,10052268.0,False,False,2,1,1,1,1,0,0.0,-3.0,0.0,-3.0,0.0
+2000,New School University,193654.0,102179633.0,False,False,32,3,29,7,22,3,-1.0,-3.0,1.0,-4.0,-1.0
+2000,New York University,193900.0,57206974.0,False,True,38,3,35,5,30,3,0.0,7.0,-1.0,9.0,-1.0
+2000,North Carolina Agricultural And Technical State University,199102.0,35777872.0,False,False,11,0,11,2,9,0,0.0,-1.0,0.0,-2.0,1.0
+2000,North Carolina State University,199193.0,137902535.0,True,False,8,1,7,2,3,3,0.0,-1.0,0.0,0.0,-1.0
+2000,Northern Arizona University,105330.0,203172682.0,True,False,1,0,1,1,0,0,,,,,
+2000,Northern Illinois University,147703.0,102502594.0,False,False,6,2,4,1,5,0,1.0,-2.0,0.0,-1.0,0.0
+2000,Nova Southeastern University,136215.0,203088144.0,False,False,21,2,19,2,18,1,,,,,
+2000,Oakland University,171571.0,177721651.0,False,False,5,0,5,0,5,0,0.0,-1.0,0.0,-1.0,0.0
+2000,Ohio State University,204796.0,52357470.0,False,False,9,0,9,4,5,0,-1.0,3.0,0.0,0.0,2.0
+2000,Ohio University,204857.0,4210106879.0,False,False,8,1,7,0,6,2,,,,,
+2000,Oklahoma State University,207388.0,115475287.0,False,False,9,1,8,0,9,0,0.0,1.0,0.0,1.0,0.0
+2000,Old Dominion University,232982.0,81365321.0,False,False,11,2,9,5,6,0,1.0,0.0,-1.0,-1.0,3.0
+2000,Pace University,194310.0,126863827.0,True,False,24,0,24,4,17,3,0.0,-1.0,1.0,-2.0,0.0
+2000,Pennsylvania State University,495767.0,130769515.0,False,False,24,0,24,6,16,2,0.0,0.0,0.0,1.0,-1.0
+2000,Polytechnic University,193900.0,57206974.0,False,True,27,4,23,2,25,0,1.0,1.0,0.0,2.0,0.0
+2000,Princeton University,186131.0,20089843.0,False,False,24,2,22,5,17,2,1.0,-3.0,0.0,-2.0,0.0
+2000,Purdue University,243780.0,219193219.0,False,False,6,0,6,1,2,3,0.0,-2.0,0.0,-2.0,0.0
+2000,Rensselaer Polytechnic Institute,194824.0,165799507.0,True,True,22,2,20,3,17,2,1.0,-1.0,0.0,0.0,0.0
+2000,Rice University,227757.0,74775410.0,False,False,15,0,15,0,11,4,0.0,0.0,0.0,1.0,-1.0
+2000,Rochester Institute Of Technology,195003.0,155173764.0,False,False,34,1,33,7,26,1,-1.0,3.0,0.0,-3.0,5.0
+2000,Rockefeller University,195049.0,83399316.0,False,False,16,0,16,5,10,1,,,,,
+2000,Rowan University,184782.0,44265643.0,False,False,9,0,9,4,5,0,0.0,-1.0,0.0,-2.0,1.0
+2000,Rutgers State University Of New Jersey,186380.0,102322142.0,False,False,49,2,47,16,31,2,-1.0,0.0,-2.0,-2.0,3.0
+2000,Saint Louis University,179159.0,47838141.0,False,False,40,3,37,3,25,12,,,,,
+2000,Seton Hall University,186584.0,12524447.0,False,False,25,0,25,3,17,5,-1.0,5.0,0.0,3.0,1.0
+2000,South Dakota State University,219356.0,177156846.0,True,False,5,0,5,0,4,1,0.0,-1.0,0.0,-1.0,0.0
+2000,Southern Illinois University System,149222.0,2801502357.0,False,False,6,0,6,2,3,1,,,,,
+2000,Southern Methodist University,228246.0,178169726.0,False,False,26,1,25,4,20,2,,,,,
+2000,St Johns University,195809.0,142823887.0,False,False,19,3,16,5,12,2,0.0,1.0,1.0,-2.0,2.0
+2000,Stanford University,243744.0,97018004.0,False,False,22,4,18,7,15,0,2.0,-2.0,0.0,-2.0,2.0
+2000,State University Of New York At Binghamton,196079.0,123946342.0,True,False,6,0,6,1,5,0,,,,,
+2000,State University Of New York At Buffalo,196088.0,63190737.0,False,False,4,1,3,1,2,1,0.0,-1.0,0.0,-1.0,0.0
+2000,State University Of New York At Stony Brook,196097.0,59553526.0,True,False,6,2,4,2,4,0,0.0,-1.0,0.0,0.0,-1.0
+2000,Stevens Institute Of Technology,186867.0,108468826.0,False,False,27,3,24,1,25,1,,,,,
+2000,Syracuse University,196413.0,70983195.0,False,False,11,0,11,1,8,2,0.0,-1.0,0.0,-1.0,0.0
+2000,Temple University,216339.0,84392919.0,False,False,25,2,23,5,20,0,1.0,3.0,0.0,3.0,1.0
+2000,Tennessee Technological University,221847.0,63920570.0,False,False,4,0,4,1,3,0,,,,,
+2000,Texas Christian University,228875.0,128956969.0,False,False,24,0,24,5,13,6,0.0,-2.0,0.0,-2.0,0.0
+2000,Texas Tech University,229115.0,12315562.0,False,False,3,0,3,1,2,0,0.0,1.0,0.0,0.0,1.0
+2000,Texas Womans University,229179.0,150913223.0,True,False,3,1,2,2,1,0,1.0,-2.0,0.0,0.0,-1.0
+2000,Thomas Jefferson University,216366.0,149251103.0,False,False,25,0,25,2,19,4,0.0,7.0,1.0,6.0,0.0
+2000,Tufts University,168148.0,121934306.0,False,False,24,0,24,10,14,0,0.0,3.0,0.0,2.0,1.0
+2000,Union Institute,206279.0,204669301.0,False,False,7,1,6,0,4,3,0.0,-1.0,0.0,-1.0,0.0
+2000,University At Albany Suny,196060.0,392282.0,True,False,10,1,9,1,8,1,,,,,
+2000,University Of Arizona,104179.0,138006243.0,False,False,1,0,1,0,1,0,0.0,0.0,0.0,0.0,0.0
+2000,University Of Chicago,144050.0,40347166.0,False,False,33,3,30,9,22,2,-2.0,2.0,0.0,-2.0,2.0
+2000,University Of Cincinnati,201885.0,63135867.0,False,False,7,2,5,2,5,0,,,,,
+2000,University Of Connecticut,129020.0,140172145.0,False,False,13,1,12,4,9,0,1.0,0.0,-1.0,0.0,2.0
+2000,University Of Dayton,202480.0,127591826.0,False,False,24,0,24,4,12,8,-1.0,-1.0,-1.0,-1.0,0.0
+2000,University Of Delaware,130943.0,86501945.0,False,False,21,2,19,2,15,4,1.0,0.0,-1.0,2.0,0.0
+2000,University Of Denver,127060.0,131651094.0,False,False,18,2,16,4,12,2,0.0,1.0,0.0,1.0,0.0
+2000,University Of Hartford,129525.0,162281398.0,False,False,44,4,40,11,30,3,2.0,8.0,1.0,6.0,3.0
+2000,University Of Kentucky,157085.0,143302722.0,False,False,15,2,13,1,9,5,0.0,0.0,0.0,1.0,-1.0
+2000,University Of La Verne,117140.0,708430.0,False,False,18,2,16,2,15,1,0.0,-5.0,0.0,-2.0,-3.0
+2000,University Of Louisville,157289.0,142740786.0,False,False,13,0,13,7,5,1,0.0,1.0,-1.0,1.0,1.0
+2000,University Of Miami,135726.0,145608581.0,False,False,41,7,34,7,28,6,3.0,4.0,4.0,3.0,0.0
+2000,University Of Michigan,170976.0,27837315.0,False,False,5,0,5,2,3,0,0.0,0.0,0.0,0.0,0.0
+2000,University Of Minnesota,174066.0,130238516.0,False,False,10,1,9,2,7,1,1.0,3.0,0.0,3.0,1.0
+2000,University Of New Mexico,187985.0,,False,False,8,3,5,2,6,0,2.0,2.0,0.0,4.0,0.0
+2000,University Of North Carolina At Charlotte,199139.0,102149020.0,False,False,9,0,9,1,8,0,0.0,0.0,0.0,0.0,0.0
+2000,University Of North Carolina At Greensboro,199148.0,,False,False,6,0,6,2,1,3,0.0,2.0,-1.0,1.0,2.0
+2000,University Of North Carolina At Wilmington,199218.0,153901656.0,False,False,8,0,8,3,5,0,0.0,-1.0,0.0,-1.0,0.0
+2000,University Of North Texas,227216.0,123534392.0,False,False,5,0,5,2,2,1,0.0,-1.0,-1.0,0.0,0.0
+2000,University Of Northern Colorado,127741.0,,False,False,5,1,4,3,2,0,1.0,-2.0,-1.0,-3.0,3.0
+2000,University Of Notre Dame,152080.0,107639228.0,False,False,31,5,26,4,25,2,0.0,2.0,-1.0,3.0,0.0
+2000,University Of Oklahoma,207500.0,8692664.0,False,False,5,0,5,2,2,1,0.0,0.0,0.0,-1.0,1.0
+2000,University Of Pacific,120883.0,119942576.0,False,False,18,0,18,6,12,0,-2.0,-4.0,0.0,-5.0,-1.0
+2000,University Of Pennsylvania,215062.0,79576946.0,True,False,30,2,28,10,19,1,,,,,
+2000,University Of Pittsburgh,215293.0,170201317.0,False,False,31,0,31,1,28,2,-1.0,3.0,-2.0,5.0,-1.0
+2000,University Of Rhode Island,217484.0,17626003.0,False,False,10,0,10,2,8,0,0.0,0.0,0.0,0.0,0.0
+2000,University Of San Diego,122436.0,160856358.0,True,False,22,3,19,5,13,4,-1.0,-3.0,-1.0,-3.0,0.0
+2000,University Of San Francisco,122612.0,76766440.0,False,False,31,6,25,4,12,15,,,,,
+2000,University Of South Alabama,102094.0,83809506.0,False,False,10,0,10,1,6,3,0.0,0.0,0.0,0.0,0.0
+2000,University Of South Carolina,218663.0,155781252.0,False,False,14,0,14,1,11,2,-1.0,-3.0,1.0,-2.0,-3.0
+2000,University Of South Dakota,219471.0,189957204.0,False,False,1,0,1,0,1,0,,,,,
+2000,University Of Southern California,123961.0,1174212.0,False,False,26,5,21,5,20,1,1.0,-1.0,0.0,-2.0,2.0
+2000,University Of St Thomas Minnesota,174914.0,161515732.0,False,False,27,2,25,7,19,1,1.0,-1.0,-1.0,1.0,0.0
+2000,University Of Texas At Austin,228778.0,86519309.0,False,False,7,1,6,4,3,0,,,,,
+2000,University Of Texas At Brownsville/Texas Southmost College,227368.0,2802326326.0,True,True,5,2,3,3,2,0,0.0,-1.0,-1.0,0.0,0.0
+2000,University Of Toledo,206084.0,90871651.0,False,True,7,0,7,2,5,0,0.0,-2.0,0.0,-1.0,-1.0
+2000,University Of Tulsa,207971.0,87208437.0,False,False,19,0,19,7,11,1,0.0,0.0,-1.0,-2.0,3.0
+2000,University Of Utah,230764.0,223532165.0,False,False,8,1,7,2,4,2,1.0,-6.0,0.0,-3.0,-2.0
+2000,University Of Vermont,231174.0,111236770.0,True,False,19,2,17,4,12,3,0.0,0.0,0.0,0.0,0.0
+2000,University Of Virginia,234076.0,51556381.0,False,False,12,0,12,1,10,1,0.0,0.0,0.0,0.0,0.0
+2000,University Of Washington,236948.0,201448701.0,False,False,6,1,5,3,2,1,0.0,-1.0,0.0,-2.0,1.0
+2000,University Of Wyoming,240727.0,12834331.0,False,False,11,0,11,1,7,3,-1.0,1.0,3.0,1.0,-4.0
+2000,Vanderbilt University,221999.0,200719446.0,False,False,29,1,28,7,20,2,1.0,7.0,0.0,3.0,5.0
+2000,Villanova University,216597.0,7863295.0,False,True,21,1,20,2,10,9,-1.0,0.0,-3.0,2.0,0.0
+2000,Virginia Commonwealth University,234030.0,184840846.0,False,False,11,1,10,1,9,1,1.0,1.0,-1.0,2.0,1.0
+2000,Virginia Polytechnic Institute And State University,233921.0,859038795.0,False,False,9,0,9,2,6,1,0.0,-3.0,0.0,-3.0,0.0
+2000,Wake Forest University,199847.0,47251452.0,False,False,24,0,24,6,14,4,0.0,3.0,0.0,2.0,1.0
+2000,Washington State University,236939.0,,False,False,8,2,6,2,6,0,0.0,2.0,0.0,1.0,1.0
+2000,Washington University,179867.0,204465549.0,False,False,33,1,32,3,27,3,1.0,-3.0,-4.0,1.0,1.0
+2000,Wayne State University,172644.0,185443292.0,False,False,2,0,2,1,1,0,0.0,-1.0,0.0,0.0,-1.0
+2000,West Chester University Of Pennsylvania,216764.0,161171246.0,True,False,8,0,8,4,3,1,0.0,-1.0,0.0,1.0,-2.0
+2000,West Virginia University,238032.0,12097938.0,False,False,2,0,2,0,2,0,0.0,0.0,0.0,0.0,0.0
+2000,Western Michigan University,172699.0,141649380.0,False,False,6,0,6,2,4,0,0.0,0.0,0.0,0.0,0.0
+2000,Wichita State University,156125.0,39587148.0,False,False,1,0,1,1,0,0,,,,,
+2000,Widener University,216852.0,138659443.0,False,False,19,0,19,3,14,2,0.0,0.0,0.0,-1.0,1.0
+2000,Worcester Polytechnic Institute,168421.0,107077323.0,False,False,24,3,21,3,19,2,0.0,5.0,1.0,4.0,0.0
+2000,Wright State University,206604.0,19648265.0,True,False,6,2,4,1,4,1,1.0,-2.0,0.0,-1.0,0.0
+2000,Yale University,130794.0,32971472.0,False,False,6,0,6,1,4,1,-1.0,-1.0,0.0,-2.0,0.0
+2000,Yeshiva University,197708.0,19772626.0,False,False,30,0,30,7,23,0,-2.0,-7.0,-3.0,-1.0,-5.0
+2005,Adelphi University,188429.0,71965598.0,False,False,23,1,22,3,18,2,-1.0,7.0,0.0,7.0,-1.0
+2005,American University,131159.0,181401687.0,False,False,24,2,22,5,17,2,2.0,-5.0,0.0,1.0,-4.0
+2005,Andrews University,168740.0,102298084.0,False,False,31,2,29,6,22,3,-4.0,-1.0,-1.0,-1.0,-3.0
+2005,Arizona State University,104151.0,55732556.0,False,False,10,1,9,2,8,0,1.0,-1.0,0.0,1.0,-1.0
+2005,Auburn University,100858.0,82497590.0,False,False,26,1,25,6,17,3,-1.0,15.0,2.0,7.0,5.0
+2005,Ball State University,150136.0,198089087.0,False,False,8,0,8,1,6,1,0.0,2.0,1.0,0.0,1.0
+2005,Baylor University,223232.0,157394403.0,False,False,33,4,29,4,26,3,0.0,-2.0,-3.0,1.0,0.0
+2005,Biola University,110097.0,152479009.0,False,False,22,2,20,3,17,2,1.0,4.0,1.0,3.0,1.0
+2005,Boston College,164924.0,103531236.0,False,False,43,3,40,8,23,12,3.0,-4.0,1.0,-5.0,3.0
+2005,Boston University,164988.0,111088046.0,False,False,32,5,27,7,23,2,-2.0,-16.0,-3.0,-15.0,0.0
+2005,Bowling Green State University,201441.0,157417397.0,False,False,10,0,10,1,7,2,0.0,2.0,2.0,0.0,0.0
+2005,Brandeis University,165015.0,6902469.0,False,False,48,2,46,11,35,2,1.0,1.0,1.0,1.0,0.0
+2005,Brigham Young University,230038.0,100005738.0,False,False,9,0,9,2,7,0,0.0,-3.0,-2.0,-1.0,0.0
+2005,Brown University,217156.0,27804330.0,True,False,40,3,37,10,27,3,0.0,6.0,1.0,3.0,2.0
+2005,California Institute Of Technology,110404.0,122411786.0,False,False,45,3,42,9,34,2,1.0,-4.0,1.0,-4.0,0.0
+2005,Carnegie Mellon University,211440.0,74973139.0,False,False,82,5,77,9,66,7,0.0,-4.0,-2.0,-3.0,1.0
+2005,Case Western Reserve University,201645.0,58956616.0,False,False,38,2,36,6,28,4,0.0,-5.0,1.0,-6.0,0.0
+2005,Catholic University Of America,131283.0,84470341.0,False,False,41,4,37,5,31,5,2.0,2.0,-4.0,7.0,1.0
+2005,Central Michigan University,169248.0,1629065.0,False,True,7,3,4,2,5,0,2.0,2.0,0.0,3.0,1.0
+2005,Chapman University,111948.0,185071736.0,False,False,40,3,37,10,27,3,0.0,3.0,0.0,1.0,2.0
+2005,Clark Atlanta University,138947.0,52064589.0,False,True,24,3,21,8,14,2,1.0,5.0,0.0,2.0,4.0
+2005,Clark University,165334.0,130785548.0,False,False,24,0,24,5,17,2,0.0,7.0,2.0,7.0,-2.0
+2005,Clarkson University,190044.0,16944753.0,False,False,22,0,22,3,16,3,0.0,1.0,1.0,1.0,-1.0
+2005,Clemson University,217882.0,8078737.0,False,False,42,2,40,2,32,8,1.0,6.0,2.0,6.0,-1.0
+2005,Cleveland State University,202134.0,102607778.0,False,False,8,2,6,2,5,1,2.0,-1.0,-1.0,1.0,1.0
+2005,College Of William And Mary,231624.0,16285277.0,False,False,17,1,16,4,12,1,1.0,2.0,-2.0,4.0,1.0
+2005,Colorado School Of Mines,126775.0,167576493.0,False,False,7,0,7,0,6,1,0.0,1.0,0.0,3.0,-2.0
+2005,Columbia University,190150.0,78577930.0,False,False,48,6,42,16,30,2,3.0,26.0,-1.0,18.0,12.0
+2005,Cornell University,190415.0,205783295.0,False,False,55,6,49,16,36,3,3.0,17.0,0.0,10.0,10.0
+2005,Creighton University,181002.0,114493937.0,False,False,28,3,25,4,17,7,1.0,-4.0,-1.0,-4.0,2.0
+2005,Dartmouth College,182670.0,107672454.0,False,False,12,2,10,3,9,0,1.0,-4.0,0.0,-2.0,-1.0
+2005,Drexel University,212054.0,72816309.0,False,False,36,4,32,5,28,3,2.0,7.0,2.0,7.0,0.0
+2005,Duke University,198419.0,170897317.0,False,False,30,3,27,10,16,4,0.0,2.0,-1.0,1.0,2.0
+2005,Duquesne University,212106.0,165102784.0,False,False,30,1,29,3,20,7,-1.0,-5.0,2.0,-5.0,-3.0
+2005,East Carolina University,198464.0,186335123.0,False,False,10,0,10,2,7,1,0.0,3.0,0.0,2.0,1.0
+2005,East Tennessee State University,220075.0,119443389.0,False,False,13,1,12,4,8,1,1.0,-1.0,-1.0,1.0,0.0
+2005,Eastern Michigan University,169798.0,138216421.0,False,False,8,1,7,3,5,0,1.0,0.0,0.0,0.0,1.0
+2005,Emory University,139658.0,150468666.0,False,False,23,0,23,2,17,4,0.0,-4.0,-3.0,1.0,-2.0
+2005,Florida Agricultural And Mechanical University,133650.0,8248082.0,False,False,9,2,7,4,4,1,,,,,
+2005,Florida Atlantic University,133669.0,63772739.0,False,False,9,1,8,3,5,1,,,,,
+2005,Florida Institute Of Technology,133881.0,106959904.0,False,False,25,3,22,3,21,1,1.0,5.0,0.0,5.0,1.0
+2005,Florida International University,133951.0,19700959.0,False,False,9,5,4,3,6,0,,,,,
+2005,Florida State University,134097.0,103163165.0,False,False,12,3,9,2,7,3,,,,,
+2005,Fordham University,191241.0,164389053.0,False,False,31,1,30,5,19,7,1.0,6.0,6.0,1.0,0.0
+2005,Gallaudet University,131450.0,66108857.0,False,False,10,1,9,4,4,2,-2.0,-4.0,1.0,-7.0,0.0
+2005,George Mason University,232186.0,162714631.0,False,False,14,3,11,4,9,1,3.0,-1.0,-1.0,1.0,2.0
+2005,George Washington University,131469.0,193531525.0,False,False,26,2,24,9,14,3,1.0,-9.0,-2.0,-7.0,1.0
+2005,Georgetown University,131496.0,184565670.0,False,False,36,3,33,5,26,5,0.0,7.0,-3.0,8.0,2.0
+2005,Harvard University,166027.0,136199984.0,False,False,25,4,21,13,9,3,3.0,1.0,2.0,-3.0,5.0
+2005,Hofstra University,191649.0,139290212.0,False,False,24,3,21,5,19,0,1.0,-5.0,0.0,-1.0,-3.0
+2005,Howard University,131520.0,137853757.0,False,False,22,0,22,6,12,4,-1.0,10.0,1.0,5.0,3.0
+2005,Idaho State University,142276.0,106969075.0,False,False,5,0,5,2,3,0,-1.0,0.0,0.0,-1.0,0.0
+2005,Illinois Institute Of Technology,145725.0,180949307.0,False,False,46,2,44,7,35,4,0.0,-8.0,-1.0,-7.0,0.0
+2005,Illinois State University,145813.0,47301684.0,True,False,8,1,7,3,4,1,0.0,1.0,0.0,0.0,1.0
+2005,Indiana State University,151324.0,86420138.0,False,False,7,0,7,2,5,0,0.0,2.0,0.0,0.0,2.0
+2005,Indiana University Of Pennsylvania,213020.0,200885203.0,True,False,8,0,8,3,4,1,0.0,-1.0,0.0,-1.0,0.0
+2005,Iowa State University,153603.0,173911158.0,False,False,8,0,8,3,5,0,0.0,5.0,0.0,2.0,3.0
+2005,James Madison University,232423.0,11883440.0,False,False,12,2,10,2,7,3,0.0,-1.0,2.0,-2.0,-1.0
+2005,Johns Hopkins University,162928.0,145311948.0,False,False,50,2,48,10,32,8,-2.0,6.0,-3.0,7.0,0.0
+2005,Kansas State University,155399.0,189590672.0,False,False,8,0,8,2,5,1,0.0,2.0,1.0,0.0,1.0
+2005,Kent State University,203517.0,149910238.0,True,False,5,0,5,3,1,1,0.0,-2.0,-1.0,-3.0,2.0
+2005,Lehigh University,213543.0,186143895.0,False,False,24,3,21,5,16,3,2.0,-6.0,1.0,-1.0,-4.0
+2005,Loma Linda University,117636.0,26347476.0,False,False,12,3,9,0,10,2,0.0,1.0,1.0,2.0,-2.0
+2005,Long Island University,192448.0,138873065.0,False,False,31,0,31,1,30,0,-2.0,-13.0,0.0,-8.0,-7.0
+2005,Loyola Marymount University,117946.0,35566140.0,False,True,37,5,32,9,26,2,-3.0,-3.0,-1.0,-7.0,2.0
+2005,Loyola University Chicago,146719.0,1925986.0,False,False,51,5,46,8,24,19,3.0,22.0,9.0,10.0,6.0
+2005,Marquette University,239105.0,102461120.0,False,False,31,1,30,6,17,8,-2.0,4.0,-2.0,1.0,3.0
+2005,Marshall University,237525.0,88694374.0,False,True,9,0,9,2,6,1,0.0,-1.0,1.0,-2.0,0.0
+2005,Massachusetts Institute Of Technology,166683.0,63966007.0,True,False,37,6,31,6,28,3,1.0,-8.0,-4.0,5.0,-8.0
+2005,Mercer University,140447.0,150149174.0,False,False,36,2,34,5,23,8,2.0,8.0,0.0,8.0,2.0
+2005,Michigan State University,171100.0,87216513.0,False,False,7,1,6,2,3,2,0.0,-1.0,2.0,-2.0,-1.0
+2005,Michigan Technological University,171128.0,11957088.0,False,False,7,1,6,1,6,0,1.0,3.0,0.0,3.0,1.0
+2005,Middle Tennessee State University,220978.0,169615421.0,False,False,2,1,1,0,2,0,1.0,-5.0,0.0,1.0,-5.0
+2005,Mississippi State University,176080.0,99041443.0,False,True,5,0,5,0,4,1,0.0,-4.0,-1.0,-3.0,0.0
+2005,Montclair State University,185590.0,166088655.0,True,False,12,1,11,4,8,0,,,,,
+2005,New Jersey Institute Of Technology,185828.0,118118575.0,False,False,30,5,25,1,28,1,0.0,-13.0,-2.0,-10.0,-1.0
+2005,New Mexico State University,188030.0,10052268.0,False,False,4,1,3,2,2,0,0.0,2.0,0.0,1.0,1.0
+2005,New School University,193654.0,102179633.0,False,False,35,1,34,7,26,2,-2.0,5.0,-1.0,4.0,0.0
+2005,New York University,193900.0,57206974.0,False,False,38,2,36,6,29,3,-1.0,1.0,0.0,-1.0,1.0
+2005,North Carolina State University,199193.0,137902535.0,False,False,6,1,5,1,4,1,0.0,-2.0,-2.0,1.0,-1.0
+2005,Northern Illinois University,147703.0,102502594.0,False,False,6,0,6,2,3,1,-2.0,2.0,1.0,-2.0,1.0
+2005,Nova Southeastern University,136215.0,203088144.0,False,False,19,1,18,3,14,2,-1.0,-1.0,1.0,-4.0,1.0
+2005,Oakland University,171571.0,177721651.0,False,False,6,0,6,2,4,0,0.0,1.0,0.0,-1.0,2.0
+2005,Ohio State University,204796.0,52357470.0,True,False,10,0,10,3,4,3,0.0,1.0,3.0,-1.0,-1.0
+2005,Ohio University,204857.0,4210106879.0,False,False,7,1,6,0,3,4,0.0,-1.0,2.0,-3.0,0.0
+2005,Oklahoma State University,207388.0,115475287.0,False,False,13,0,13,1,11,1,-1.0,5.0,1.0,2.0,1.0
+2005,Old Dominion University,232982.0,81365321.0,True,False,14,2,12,3,8,3,0.0,3.0,3.0,2.0,-2.0
+2005,Oregon Health & Science University,209490.0,165690674.0,False,False,6,0,6,0,6,0,,,,,
+2005,Pace University,194310.0,126863827.0,False,False,20,0,20,2,17,1,0.0,-4.0,-2.0,0.0,-2.0
+2005,Pennsylvania State University,495767.0,130769515.0,False,False,29,0,29,8,19,2,0.0,5.0,0.0,3.0,2.0
+2005,Polytechnic University,193900.0,57206974.0,False,True,28,4,24,3,25,0,0.0,1.0,0.0,0.0,1.0
+2005,Princeton University,186131.0,20089843.0,True,False,27,3,24,8,15,4,1.0,2.0,2.0,-2.0,3.0
+2005,Purdue University,243780.0,219193219.0,False,False,7,0,7,1,5,1,0.0,1.0,-2.0,3.0,0.0
+2005,Rensselaer Polytechnic Institute,194824.0,165799507.0,True,True,24,3,21,4,19,1,1.0,1.0,-1.0,2.0,1.0
+2005,Rice University,227757.0,74775410.0,False,False,18,2,16,3,11,4,2.0,1.0,0.0,0.0,3.0
+2005,Rochester Institute Of Technology,195003.0,155173764.0,False,False,36,3,33,9,24,3,2.0,0.0,2.0,-2.0,2.0
+2005,Rockefeller University,195049.0,83399316.0,False,False,20,0,20,6,12,2,0.0,4.0,1.0,2.0,1.0
+2005,Rowan University,184782.0,44265643.0,False,False,10,0,10,4,6,0,0.0,1.0,0.0,1.0,0.0
+2005,Rutgers State University Of New Jersey,186380.0,102322142.0,False,False,43,3,40,13,30,0,1.0,-7.0,-2.0,-1.0,-3.0
+2005,Saint Louis University,179159.0,47838141.0,False,False,35,2,33,4,18,13,-1.0,-4.0,1.0,-7.0,1.0
+2005,Seton Hall University,186584.0,12524447.0,False,False,27,1,26,1,24,2,1.0,1.0,-3.0,7.0,-2.0
+2005,South Dakota State University,219356.0,177156846.0,True,False,7,1,6,1,4,2,1.0,1.0,1.0,0.0,1.0
+2005,Southern Illinois University System,149222.0,2801502357.0,False,False,8,0,8,1,5,2,0.0,2.0,1.0,2.0,-1.0
+2005,Southern Methodist University,228246.0,178169726.0,False,False,27,1,26,5,19,3,0.0,1.0,1.0,-1.0,1.0
+2005,St Johns University,195809.0,142823887.0,False,False,19,0,19,5,14,0,-3.0,3.0,-2.0,2.0,0.0
+2005,Stanford University,243744.0,97018004.0,False,False,28,4,24,11,16,1,0.0,6.0,1.0,1.0,4.0
+2005,State University Of New York Stony Brook,196097.0,59553526.0,True,False,5,2,3,2,3,0,,,,,
+2005,Syracuse University,196413.0,70983195.0,True,False,18,0,18,3,15,0,0.0,7.0,-2.0,7.0,2.0
+2005,Temple University,216339.0,84392919.0,False,False,27,3,24,3,24,0,1.0,1.0,0.0,4.0,-2.0
+2005,Tennessee State University,221838.0,75256744.0,False,False,1,0,1,0,1,0,,,,,
+2005,Texas Christian University,228875.0,128956969.0,False,False,22,0,22,3,15,4,0.0,-2.0,-2.0,2.0,-2.0
+2005,Texas Womans University,229179.0,150913223.0,True,False,4,0,4,1,2,1,-1.0,2.0,1.0,1.0,-1.0
+2005,Thomas Jefferson University,216366.0,149251103.0,False,False,25,1,24,4,19,2,1.0,-1.0,-2.0,0.0,2.0
+2005,Tufts University,168148.0,121934306.0,False,False,20,0,20,8,11,1,0.0,-4.0,1.0,-3.0,-2.0
+2005,Union Institute & University,206279.0,204669301.0,False,False,11,1,10,3,6,2,,,,,
+2005,University At Albany Suny,196060.0,392282.0,False,False,11,2,9,0,11,0,1.0,0.0,-1.0,3.0,-1.0
+2005,University At Buffalo State University Of New York,196088.0,63190737.0,False,False,4,0,4,0,4,0,,,,,
+2005,University Of Akron,200800.0,110152177.0,False,False,11,0,11,2,9,0,,,,,
+2005,University Of Central Florida,132903.0,106165777.0,False,False,8,2,6,3,4,1,,,,,
+2005,University Of Chicago,144050.0,40347166.0,False,False,24,2,22,7,16,1,-1.0,-8.0,-1.0,-6.0,-2.0
+2005,University Of Cincinnati,201885.0,63135867.0,True,False,8,1,7,2,4,2,-1.0,2.0,2.0,-1.0,0.0
+2005,University Of Connecticut,129020.0,140172145.0,False,False,14,1,13,4,9,1,0.0,1.0,1.0,0.0,0.0
+2005,University Of Dayton,202480.0,127591826.0,False,False,27,2,25,4,10,13,2.0,1.0,5.0,-2.0,0.0
+2005,University Of Delaware,130943.0,86501945.0,False,False,17,1,16,4,11,2,-1.0,-3.0,-2.0,-4.0,2.0
+2005,University Of Florida,134130.0,33213144.0,False,False,8,1,7,1,6,1,,,,,
+2005,University Of Hartford,129525.0,162281398.0,False,False,45,4,41,12,32,1,0.0,1.0,-2.0,2.0,1.0
+2005,University Of Iowa,153658.0,126307644.0,False,False,1,0,1,0,1,0,,,,,
+2005,University Of Kansas,155317.0,146416000.0,False,False,1,0,1,0,1,0,,,,,
+2005,University Of Kentucky,157085.0,143302722.0,False,False,10,0,10,2,4,4,-2.0,-3.0,-1.0,-5.0,1.0
+2005,University Of La Verne,117140.0,708430.0,False,False,20,3,17,2,15,3,1.0,1.0,2.0,0.0,0.0
+2005,University Of Louisville,157289.0,142740786.0,False,False,14,0,14,6,6,2,0.0,1.0,1.0,1.0,-1.0
+2005,University Of Memphis,220862.0,94658018.0,True,False,1,0,1,1,0,0,,,,,
+2005,University Of Michigan,170976.0,27837315.0,True,False,3,0,3,2,1,0,0.0,-2.0,0.0,-2.0,0.0
+2005,University Of Nevada Reno,182290.0,134113660.0,False,False,10,2,8,3,7,0,1.0,4.0,0.0,4.0,1.0
+2005,University Of New Mexico,187985.0,169521973.0,False,True,4,1,3,2,2,0,,,,,
+2005,University Of North Carolina At Charlotte,199139.0,102149020.0,False,False,11,0,11,1,10,0,0.0,2.0,0.0,2.0,0.0
+2005,University Of North Carolina At Greensboro,199148.0,,False,False,8,0,8,4,2,2,0.0,2.0,-1.0,1.0,2.0
+2005,University Of North Carolina At Wilmington,199218.0,153901656.0,True,False,9,0,9,1,7,1,0.0,1.0,1.0,2.0,-2.0
+2005,University Of North Florida,136172.0,11874761.0,False,False,10,3,7,2,7,1,,,,,
+2005,University Of Northern Colorado,127741.0,71966907.0,False,False,5,1,4,0,5,0,,,,,
+2005,University Of Notre Dame,152080.0,107639228.0,False,False,31,5,26,4,25,2,0.0,0.0,0.0,0.0,0.0
+2005,University Of Oklahoma,207500.0,8692664.0,False,False,4,0,4,1,2,1,0.0,-1.0,0.0,0.0,-1.0
+2005,University Of Pacific,120883.0,119942576.0,False,False,19,1,18,5,13,1,1.0,0.0,1.0,1.0,-1.0
+2005,University Of Pennsylvania,215062.0,79576946.0,True,False,32,2,30,8,23,1,0.0,2.0,0.0,4.0,-2.0
+2005,University Of Pittsburgh,215293.0,170201317.0,False,False,33,1,32,3,25,5,1.0,1.0,3.0,-3.0,2.0
+2005,University Of Rhode Island,217484.0,17626003.0,False,False,4,0,4,1,3,0,0.0,-6.0,0.0,-5.0,-1.0
+2005,University Of San Diego,122436.0,160856358.0,True,False,27,2,25,8,15,4,-1.0,6.0,0.0,2.0,3.0
+2005,University Of San Francisco,122612.0,76766440.0,False,False,34,5,29,4,16,14,-1.0,4.0,-1.0,4.0,0.0
+2005,University Of South Alabama,102094.0,83809506.0,False,False,9,0,9,1,7,1,0.0,-1.0,-2.0,1.0,0.0
+2005,University Of South Carolina,218663.0,155781252.0,False,False,13,0,13,2,9,2,0.0,-1.0,0.0,-2.0,1.0
+2005,University Of South Florida,137351.0,2613432.0,True,False,9,4,5,4,4,1,,,,,
+2005,University Of Southern California,123961.0,1174212.0,False,False,30,5,25,5,25,0,0.0,4.0,-1.0,5.0,0.0
+2005,University Of St Thomas Minnesota,174914.0,161515732.0,False,False,21,2,19,5,14,2,0.0,-6.0,1.0,-5.0,-2.0
+2005,University Of Texas At Brownsville/Texas Southmost College,227368.0,2802326326.0,True,True,5,2,3,2,3,0,0.0,0.0,0.0,1.0,-1.0
+2005,University Of Toledo,206084.0,90871651.0,False,False,6,1,5,1,3,2,1.0,-2.0,2.0,-2.0,-1.0
+2005,University Of Tulsa,207971.0,87208437.0,False,False,18,0,18,3,13,2,0.0,-1.0,1.0,2.0,-4.0
+2005,University Of Utah,230764.0,223532165.0,False,False,15,1,14,5,9,1,0.0,7.0,-1.0,5.0,3.0
+2005,University Of Vermont,231174.0,111236770.0,False,False,18,2,16,7,9,2,0.0,-1.0,-1.0,-3.0,3.0
+2005,University Of Virginia,234076.0,51556381.0,False,False,10,0,10,1,7,2,0.0,-2.0,1.0,-3.0,0.0
+2005,University Of Washington,236948.0,201448701.0,False,False,8,1,7,4,3,1,0.0,2.0,0.0,1.0,1.0
+2005,University Of Wyoming,240727.0,12834331.0,False,False,13,0,13,1,11,1,0.0,2.0,-2.0,4.0,0.0
+2005,Vanderbilt University,221999.0,200719446.0,False,False,35,1,34,8,21,6,0.0,6.0,4.0,1.0,1.0
+2005,Villanova University,216597.0,7863295.0,False,False,21,4,17,2,11,8,3.0,-3.0,-1.0,1.0,0.0
+2005,Virginia Commonwealth University,234030.0,184840846.0,False,False,8,1,7,1,4,3,0.0,-3.0,2.0,-5.0,0.0
+2005,Virginia Polytechnic Institute And State University,233921.0,859038795.0,False,False,6,1,5,0,4,2,1.0,-4.0,1.0,-2.0,-2.0
+2005,Wake Forest University,199847.0,47251452.0,False,False,19,0,19,8,9,2,0.0,-5.0,-2.0,-5.0,2.0
+2005,Washington State University,236939.0,72951846.0,False,False,6,1,5,1,5,0,,,,,
+2005,Washington University,179867.0,204465549.0,False,False,32,1,31,4,26,2,0.0,-1.0,-1.0,-1.0,1.0
+2005,Wayne State University,172644.0,185443292.0,False,False,6,0,6,2,4,0,0.0,4.0,0.0,3.0,1.0
+2005,West Chester University Of Pennsylvania,216764.0,161171246.0,True,False,6,0,6,2,4,0,0.0,-2.0,-1.0,1.0,-2.0
+2005,West Virginia University,238032.0,12097938.0,False,False,8,0,8,1,7,0,0.0,6.0,0.0,5.0,1.0
+2005,Western Michigan University,172699.0,141649380.0,True,False,5,0,5,2,3,0,0.0,-1.0,0.0,-1.0,0.0
+2005,Widener University,216852.0,138659443.0,False,False,16,1,15,2,14,0,1.0,-4.0,-2.0,0.0,-1.0
+2005,Worcester Polytechnic Institute,168421.0,107077323.0,False,False,26,4,22,3,22,1,1.0,1.0,-1.0,3.0,0.0
+2005,Wright State University,206604.0,19648265.0,True,False,6,3,3,1,4,1,1.0,-1.0,0.0,0.0,0.0
+2005,Yale University,130794.0,32971472.0,False,False,8,3,5,3,4,1,3.0,-1.0,0.0,0.0,2.0
+2005,Yeshiva University,197708.0,19772626.0,False,False,30,0,30,8,22,0,0.0,0.0,0.0,-1.0,1.0
+2008,Adelphi University,188429.0,71965598.0,False,False,27,1,26,5,20,2,0.0,4.0,0.0,2.0,2.0
+2008,American University,131159.0,181401687.0,False,False,30,2,28,7,20,3,0.0,6.0,1.0,3.0,2.0
+2008,Andrews University,168740.0,102298084.0,False,False,35,4,31,7,25,3,2.0,2.0,0.0,3.0,1.0
+2008,Arizona State University,104151.0,55732556.0,False,False,12,3,9,4,8,0,2.0,0.0,0.0,0.0,2.0
+2008,Auburn University,100858.0,82497590.0,False,False,23,0,23,7,14,2,-1.0,-2.0,-1.0,-3.0,1.0
+2008,Ball State University,150136.0,198089087.0,False,False,9,0,9,3,6,0,0.0,1.0,-1.0,0.0,2.0
+2008,Baylor College Of Medicine,223223.0,181547552.0,False,False,46,5,41,4,34,8,,,,,
+2008,Baylor University,223232.0,157394403.0,False,False,29,2,27,4,24,1,-2.0,-2.0,-2.0,-2.0,0.0
+2008,Biola University,110097.0,152479009.0,False,False,24,3,21,3,17,4,1.0,1.0,2.0,0.0,0.0
+2008,Boise State University,142115.0,120156002.0,False,False,6,1,5,1,5,0,,,,,
+2008,Boston College,164924.0,103531236.0,False,False,42,2,40,10,21,11,-1.0,0.0,-1.0,-2.0,2.0
+2008,Boston University,164988.0,111088046.0,False,False,34,5,29,6,25,3,0.0,2.0,1.0,2.0,-1.0
+2008,Bowling Green State University,201441.0,157417397.0,False,False,10,0,10,2,7,1,0.0,0.0,-1.0,0.0,1.0
+2008,Brandeis University,165015.0,6902469.0,False,False,43,2,41,9,30,4,0.0,-5.0,2.0,-5.0,-2.0
+2008,Brigham Young University,230038.0,100005738.0,False,False,7,0,7,2,5,0,0.0,-2.0,0.0,-2.0,0.0
+2008,Brown University,217156.0,27804330.0,True,False,35,3,32,14,19,2,0.0,-5.0,-1.0,-8.0,4.0
+2008,California Institute Of Technology,110404.0,122411786.0,False,False,50,4,46,8,38,4,1.0,4.0,2.0,4.0,-1.0
+2008,Carnegie Mellon University,211440.0,74973139.0,False,False,82,6,76,13,62,7,1.0,-1.0,0.0,-4.0,4.0
+2008,Case Western Reserve University,201645.0,58956616.0,True,False,35,5,30,8,25,2,3.0,-6.0,-2.0,-3.0,2.0
+2008,Catholic University Of America,131283.0,84470341.0,False,False,47,5,42,4,39,4,1.0,5.0,-1.0,8.0,-1.0
+2008,Central Michigan University,169248.0,1629065.0,False,True,10,3,7,4,6,0,0.0,3.0,0.0,1.0,2.0
+2008,Chapman University,111948.0,185071736.0,False,False,40,4,36,9,27,4,1.0,-1.0,1.0,0.0,-1.0
+2008,Clark Atlanta University,138947.0,52064589.0,False,True,23,3,20,6,15,2,0.0,-1.0,0.0,1.0,-2.0
+2008,Clark University,165334.0,130785548.0,False,False,28,1,27,6,18,4,1.0,3.0,2.0,1.0,1.0
+2008,Clarkson University,190044.0,16944753.0,False,False,20,0,20,4,14,2,0.0,-2.0,-1.0,-2.0,1.0
+2008,Clemson University,217882.0,8078737.0,False,False,44,2,42,2,31,11,0.0,2.0,3.0,-1.0,0.0
+2008,Cleveland State University,202134.0,102607778.0,False,False,10,2,8,4,6,0,0.0,2.0,-1.0,1.0,2.0
+2008,College Of William And Mary,231624.0,16285277.0,False,False,16,1,15,5,10,1,0.0,-1.0,0.0,-2.0,1.0
+2008,Colorado School Of Mines,126775.0,167576493.0,False,False,5,0,5,0,4,1,0.0,-2.0,0.0,-2.0,0.0
+2008,Columbia University,190150.0,78577930.0,False,False,48,7,41,15,28,5,1.0,-1.0,3.0,-2.0,-1.0
+2008,Cornell University,190415.0,205783295.0,False,False,42,4,38,10,30,2,-2.0,-11.0,-1.0,-6.0,-6.0
+2008,Creighton University,181002.0,114493937.0,False,False,30,2,28,5,18,7,-1.0,3.0,0.0,1.0,1.0
+2008,Dartmouth College,182670.0,107672454.0,False,False,10,2,8,2,7,1,0.0,-2.0,1.0,-2.0,-1.0
+2008,Depaul University,144740.0,118353179.0,False,False,34,4,30,7,27,0,-2.0,-31.0,-6.0,-27.0,0.0
+2008,Drexel University,212054.0,72816309.0,False,False,36,4,32,5,30,1,0.0,0.0,-2.0,2.0,0.0
+2008,Duke University,198419.0,170897317.0,False,False,30,0,30,10,16,4,-3.0,3.0,0.0,0.0,0.0
+2008,Duquesne University,212106.0,165102784.0,False,False,18,0,18,4,9,5,-1.0,-11.0,-2.0,-11.0,1.0
+2008,East Carolina University,198464.0,186335123.0,False,False,12,0,12,3,8,1,0.0,2.0,0.0,1.0,1.0
+2008,East Tennessee State University,220075.0,119443389.0,False,False,12,1,11,3,8,1,0.0,-1.0,0.0,0.0,-1.0
+2008,Eastern Michigan University,169798.0,138216421.0,False,True,5,0,5,0,5,0,-1.0,-2.0,0.0,0.0,-3.0
+2008,Emory University,139658.0,150468666.0,False,False,28,1,27,4,18,6,1.0,4.0,2.0,1.0,2.0
+2008,Florida Agricultural And Mechanical University,133650.0,8248082.0,False,False,8,2,6,3,4,1,0.0,-1.0,0.0,0.0,-1.0
+2008,Florida Atlantic University,133669.0,63772739.0,False,False,10,0,10,3,7,0,-1.0,2.0,-1.0,2.0,0.0
+2008,Florida Institute Of Technology,133881.0,106959904.0,False,False,27,2,25,2,24,1,-1.0,3.0,0.0,3.0,-1.0
+2008,Florida International University,133951.0,19700959.0,False,False,9,4,5,3,5,1,-1.0,1.0,1.0,-1.0,0.0
+2008,Florida State University,134097.0,103163165.0,False,False,10,2,8,4,4,2,-1.0,-1.0,-1.0,-3.0,2.0
+2008,Fordham University,191241.0,164389053.0,False,False,36,1,35,7,21,8,0.0,5.0,1.0,2.0,2.0
+2008,Gallaudet University,131450.0,66108857.0,False,True,18,1,17,6,11,1,0.0,8.0,-1.0,7.0,2.0
+2008,George Mason University,232186.0,162714631.0,False,False,13,2,11,5,7,1,-1.0,0.0,0.0,-2.0,1.0
+2008,George Washington University,131469.0,193531525.0,False,False,24,1,23,10,12,2,-1.0,-1.0,-1.0,-2.0,1.0
+2008,Georgetown University,131496.0,184565670.0,False,False,29,2,27,6,16,7,-1.0,-6.0,2.0,-10.0,1.0
+2008,Harvard University,166027.0,136199984.0,False,False,21,1,20,12,8,1,-3.0,-1.0,-2.0,-1.0,-1.0
+2008,Hofstra University,191649.0,139290212.0,False,False,20,1,19,6,13,1,-2.0,-2.0,1.0,-6.0,1.0
+2008,Howard University,131520.0,137853757.0,False,False,24,0,24,9,11,4,0.0,2.0,0.0,-1.0,3.0
+2008,Illinois Institute Of Technology,145725.0,180949307.0,False,False,38,4,34,4,31,3,2.0,-10.0,-1.0,-4.0,-3.0
+2008,Illinois State University,145813.0,47301684.0,False,False,7,0,7,2,4,1,-1.0,0.0,0.0,0.0,-1.0
+2008,Indiana State University,151324.0,86420138.0,False,False,7,0,7,1,5,1,0.0,0.0,1.0,0.0,-1.0
+2008,Indiana University Of Pennsylvania,213020.0,200885203.0,False,False,6,0,6,2,3,1,0.0,-2.0,0.0,-1.0,-1.0
+2008,Iowa State University,153603.0,173911158.0,False,False,7,1,6,3,4,0,1.0,-2.0,0.0,-1.0,0.0
+2008,James Madison University,232423.0,11883440.0,False,False,11,1,10,4,6,1,-1.0,0.0,-2.0,-1.0,2.0
+2008,Johns Hopkins University,162928.0,145311948.0,False,False,44,3,41,12,24,8,1.0,-7.0,0.0,-8.0,2.0
+2008,Kansas State University,155399.0,189590672.0,False,False,9,0,9,4,5,0,0.0,1.0,-1.0,0.0,2.0
+2008,Kent State University,203517.0,149910238.0,False,False,7,0,7,3,3,1,0.0,2.0,0.0,2.0,0.0
+2008,Lehigh University,213543.0,186143895.0,True,False,32,2,30,11,19,2,-1.0,9.0,-1.0,3.0,6.0
+2008,Loma Linda University,117636.0,26347476.0,False,False,9,2,7,2,6,1,-1.0,-2.0,-1.0,-4.0,2.0
+2008,Long Island University,192448.0,138873065.0,False,False,33,0,33,2,31,0,0.0,2.0,0.0,1.0,1.0
+2008,Loyola Marymount University,117946.0,35566140.0,False,True,42,6,36,14,24,4,1.0,4.0,2.0,-2.0,5.0
+2008,Loyola University Chicago,146719.0,1925986.0,False,False,32,3,29,6,16,10,-2.0,-17.0,-9.0,-8.0,-2.0
+2008,Marquette University,239105.0,102461120.0,False,False,30,0,30,7,14,9,-1.0,0.0,1.0,-3.0,1.0
+2008,Marshall University,237525.0,88694374.0,False,False,10,1,9,3,5,2,1.0,0.0,1.0,-1.0,1.0
+2008,Massachusetts Institute Of Technology,166683.0,63966007.0,True,False,37,6,31,7,24,6,0.0,0.0,3.0,-4.0,1.0
+2008,Mercer University,140447.0,150149174.0,False,False,27,0,27,5,17,5,-2.0,-7.0,-3.0,-6.0,0.0
+2008,Miami University,204024.0,83328450.0,False,False,10,0,10,3,6,1,-1.0,3.0,1.0,1.0,0.0
+2008,Michigan State University,171100.0,87216513.0,False,False,6,1,5,2,2,2,0.0,-1.0,0.0,-1.0,0.0
+2008,Michigan Technological University,171128.0,11957088.0,False,False,7,0,7,1,6,0,-1.0,1.0,0.0,0.0,0.0
+2008,Middle Tennessee State University,220978.0,169615421.0,False,False,1,0,1,0,1,0,-1.0,0.0,0.0,-1.0,0.0
+2008,Mississippi State University,176080.0,99041443.0,False,False,6,0,6,1,4,1,0.0,1.0,0.0,0.0,1.0
+2008,Montana State University,180461.0,23732399.0,False,False,1,0,1,1,0,0,,,,,
+2008,Montclair State University,185590.0,166088655.0,True,False,12,1,11,4,8,0,0.0,0.0,0.0,0.0,0.0
+2008,New Jersey Institute Of Technology,185828.0,118118575.0,False,False,29,3,26,3,24,2,-2.0,1.0,1.0,-4.0,2.0
+2008,New School,193654.0,102179633.0,False,False,45,2,43,12,31,2,,,,,
+2008,New York University,193900.0,57206974.0,False,False,31,2,29,5,23,3,0.0,-7.0,0.0,-6.0,-1.0
+2008,North Carolina State University,199193.0,137902535.0,False,False,7,0,7,3,3,1,-1.0,2.0,0.0,-1.0,2.0
+2008,Northeastern University,167358.0,12912129.0,False,False,22,0,22,6,15,1,,,,,
+2008,Northern Illinois University,147703.0,102502594.0,False,False,8,0,8,2,5,1,0.0,2.0,0.0,2.0,0.0
+2008,Northwestern University,147767.0,111979921.0,False,False,46,2,44,10,32,4,,,,,
+2008,Nova Southeastern University,136215.0,203088144.0,False,False,17,1,16,2,13,2,0.0,-2.0,0.0,-1.0,-1.0
+2008,Oakland University,171571.0,177721651.0,False,False,5,1,4,2,3,0,1.0,-2.0,0.0,-1.0,0.0
+2008,Ohio State University,204796.0,52357470.0,False,False,14,1,13,4,6,4,1.0,3.0,1.0,2.0,1.0
+2008,Ohio University,204857.0,4210106879.0,False,False,7,0,7,1,4,2,-1.0,1.0,-2.0,1.0,1.0
+2008,Oklahoma State University,207388.0,115475287.0,True,False,10,0,10,1,8,1,0.0,-3.0,0.0,-3.0,0.0
+2008,Old Dominion University,232982.0,81365321.0,True,False,14,1,13,3,9,2,-1.0,1.0,-1.0,1.0,0.0
+2008,Oregon Health & Science University,209490.0,165690674.0,False,False,5,0,5,0,5,0,0.0,-1.0,0.0,-1.0,0.0
+2008,Pace University,194310.0,126863827.0,False,False,19,1,18,3,15,1,1.0,-2.0,0.0,-2.0,1.0
+2008,Pennsylvania State University,495767.0,130769515.0,False,False,25,0,25,5,19,1,0.0,-4.0,-1.0,0.0,-3.0
+2008,Pepperdine University,121150.0,100191712.0,False,False,25,4,21,4,19,2,2.0,-2.0,1.0,0.0,-1.0
+2008,Polytechnic University,193900.0,57206974.0,False,False,29,1,28,5,24,0,-3.0,4.0,0.0,-1.0,2.0
+2008,Princeton University,186131.0,20089843.0,True,False,25,4,21,7,15,3,1.0,-3.0,-1.0,0.0,-1.0
+2008,Purdue University,243780.0,219193219.0,True,True,7,0,7,2,4,1,0.0,0.0,0.0,-1.0,1.0
+2008,Rensselaer Polytechnic Institute,194824.0,165799507.0,True,True,27,3,24,5,21,1,0.0,3.0,0.0,2.0,1.0
+2008,Rice University,227757.0,74775410.0,False,False,17,1,16,3,10,4,-1.0,0.0,0.0,-1.0,0.0
+2008,Rochester Institute Of Technology,195003.0,155173764.0,False,False,37,1,36,9,25,3,-2.0,3.0,0.0,1.0,0.0
+2008,Rockefeller University,195049.0,83399316.0,False,False,22,0,22,5,16,1,0.0,2.0,-1.0,4.0,-1.0
+2008,Rowan University,184782.0,44265643.0,False,False,12,0,12,6,6,0,0.0,2.0,0.0,0.0,2.0
+2008,Rutgers State University Of New Jersey,186380.0,102322142.0,False,False,52,2,50,18,31,3,-1.0,10.0,3.0,1.0,5.0
+2008,Saint Louis University,179159.0,47838141.0,False,False,32,1,31,3,18,11,-1.0,-2.0,-2.0,0.0,-1.0
+2008,Seton Hall University,186584.0,12524447.0,False,False,29,5,24,1,27,1,4.0,-2.0,-1.0,3.0,0.0
+2008,South Dakota State University,219356.0,177156846.0,False,False,8,1,7,1,6,1,0.0,1.0,-1.0,2.0,0.0
+2008,Southern Illinois University System,149222.0,2801502357.0,False,False,4,0,4,1,3,0,0.0,-4.0,-2.0,-2.0,0.0
+2008,Southern Methodist University,228246.0,178169726.0,False,False,27,1,26,5,20,2,0.0,0.0,-1.0,1.0,0.0
+2008,St Johns University,195809.0,142823887.0,False,False,15,0,15,4,11,0,0.0,-4.0,0.0,-3.0,-1.0
+2008,Stanford University,243744.0,97018004.0,False,False,24,4,20,9,14,1,0.0,-4.0,0.0,-2.0,-2.0
+2008,State University Of New York At Binghamton,196079.0,123946342.0,True,False,5,0,5,0,5,0,0.0,-1.0,0.0,0.0,-1.0
+2008,State University Of New York Stony Brook,196097.0,59553526.0,True,False,3,1,2,1,2,0,-1.0,-1.0,0.0,-1.0,-1.0
+2008,Stevens Institute Of Technology,186867.0,108468826.0,False,False,26,4,22,3,22,1,1.0,-2.0,0.0,-3.0,2.0
+2008,Syracuse University,196413.0,70983195.0,True,False,18,0,18,5,13,0,0.0,0.0,0.0,-2.0,2.0
+2008,Temple University,216339.0,84392919.0,True,False,22,4,18,4,18,0,1.0,-6.0,0.0,-6.0,1.0
+2008,Texas Christian University,228875.0,128956969.0,False,False,20,0,20,5,13,2,0.0,-2.0,-2.0,-2.0,2.0
+2008,Texas Womans University,229179.0,150913223.0,True,False,9,1,8,4,3,2,1.0,4.0,1.0,1.0,3.0
+2008,Thomas Jefferson University,216366.0,149251103.0,False,False,23,0,23,1,21,1,-1.0,-1.0,-1.0,2.0,-3.0
+2008,Tufts University,168148.0,121934306.0,False,False,29,0,29,11,17,1,0.0,9.0,0.0,6.0,3.0
+2008,Union Institute & University,206279.0,204669301.0,False,False,10,1,9,5,4,1,0.0,-1.0,-1.0,-2.0,2.0
+2008,University At Albany Suny,196060.0,392282.0,False,True,9,2,7,0,9,0,0.0,-2.0,0.0,-2.0,0.0
+2008,University At Buffalo State University Of New York,196088.0,63190737.0,False,False,5,0,5,1,4,0,0.0,1.0,0.0,0.0,1.0
+2008,University Of Akron,200800.0,110152177.0,False,False,7,0,7,1,5,1,0.0,-4.0,1.0,-4.0,-1.0
+2008,University Of California Berkeley,110635.0,95457486.0,False,False,3,0,3,1,2,0,,,,,
+2008,University Of Central Florida,132903.0,106165777.0,False,False,12,3,9,4,8,0,1.0,3.0,-1.0,4.0,1.0
+2008,University Of Chicago,144050.0,40347166.0,False,False,28,2,26,7,20,1,0.0,4.0,0.0,4.0,0.0
+2008,University Of Cincinnati,201885.0,63135867.0,True,False,7,1,6,1,3,3,0.0,-1.0,1.0,-1.0,-1.0
+2008,University Of Connecticut,129020.0,140172145.0,False,False,16,1,15,3,11,2,0.0,2.0,1.0,2.0,-1.0
+2008,University Of Dayton,202480.0,127591826.0,False,False,33,3,30,8,11,14,1.0,5.0,1.0,1.0,4.0
+2008,University Of Delaware,130943.0,86501945.0,False,False,15,1,14,3,10,2,0.0,-2.0,0.0,-1.0,-1.0
+2008,University Of Florida,134130.0,33213144.0,False,False,6,1,5,0,5,1,0.0,-2.0,0.0,-1.0,-1.0
+2008,University Of Hartford,129525.0,162281398.0,False,False,39,5,34,12,27,0,1.0,-7.0,-1.0,-5.0,0.0
+2008,University Of Kentucky,157085.0,143302722.0,False,False,16,0,16,5,8,3,0.0,6.0,-1.0,4.0,3.0
+2008,University Of La Verne,117140.0,708430.0,False,False,16,2,14,3,11,2,-1.0,-3.0,-1.0,-4.0,1.0
+2008,University Of Louisville,157289.0,142740786.0,False,False,13,0,13,5,7,1,0.0,-1.0,-1.0,1.0,-1.0
+2008,University Of Miami,135726.0,145608581.0,True,False,37,6,31,8,26,3,-1.0,-3.0,-3.0,-2.0,1.0
+2008,University Of Michigan,170976.0,27837315.0,True,False,4,0,4,3,1,0,0.0,1.0,0.0,0.0,1.0
+2008,University Of Minnesota,174066.0,130238516.0,False,False,7,3,4,1,5,1,2.0,-5.0,0.0,-2.0,-1.0
+2008,University Of New Mexico,187985.0,169521973.0,False,False,4,0,4,1,3,0,-1.0,1.0,0.0,1.0,-1.0
+2008,University Of North Carolina At Charlotte,199139.0,102149020.0,False,False,7,0,7,1,5,1,0.0,-4.0,1.0,-5.0,0.0
+2008,University Of North Carolina At Greensboro,199148.0,169335092.0,True,False,4,0,4,2,1,1,,,,,
+2008,University Of North Carolina At Wilmington,199218.0,153901656.0,True,False,8,0,8,1,5,2,0.0,-1.0,1.0,-2.0,0.0
+2008,University Of North Florida,136172.0,11874761.0,False,False,7,2,5,2,4,1,-1.0,-2.0,0.0,-3.0,0.0
+2008,University Of Northern Colorado,127741.0,71966907.0,False,False,6,1,5,3,3,0,0.0,1.0,0.0,-2.0,3.0
+2008,University Of Notre Dame,152080.0,107639228.0,False,False,26,2,24,6,18,2,-3.0,-2.0,0.0,-7.0,2.0
+2008,University Of Oklahoma,207500.0,8692664.0,False,False,3,0,3,1,1,1,0.0,-1.0,0.0,-1.0,0.0
+2008,University Of Pacific,120883.0,119942576.0,False,False,19,2,17,4,14,1,1.0,-1.0,0.0,1.0,-1.0
+2008,University Of Pennsylvania,215062.0,79576946.0,True,False,30,2,28,8,21,1,0.0,-2.0,0.0,-2.0,0.0
+2008,University Of Pittsburgh,215293.0,170201317.0,False,False,30,0,30,3,23,4,-1.0,-2.0,-1.0,-2.0,0.0
+2008,University Of Rhode Island,217484.0,17626003.0,False,False,8,0,8,3,5,0,0.0,4.0,0.0,2.0,2.0
+2008,University Of San Diego,122436.0,160856358.0,True,False,26,3,23,8,13,5,1.0,-2.0,1.0,-2.0,0.0
+2008,University Of San Francisco,122612.0,76766440.0,False,False,35,4,31,6,14,15,-1.0,2.0,1.0,-2.0,2.0
+2008,University Of South Alabama,102094.0,83809506.0,False,False,12,0,12,2,8,2,0.0,3.0,1.0,1.0,1.0
+2008,University Of South Carolina,218663.0,155781252.0,False,False,15,2,13,0,12,3,2.0,0.0,1.0,3.0,-2.0
+2008,University Of South Florida,137351.0,2613432.0,True,False,10,3,7,4,4,2,-1.0,2.0,1.0,0.0,0.0
+2008,University Of Southern California,123961.0,1174212.0,False,False,35,5,30,7,27,1,0.0,5.0,1.0,2.0,2.0
+2008,University Of St Thomas Minnesota,174914.0,161515732.0,False,False,23,0,23,5,16,2,-2.0,4.0,0.0,2.0,0.0
+2008,University Of Toledo,206084.0,90871651.0,False,False,10,0,10,3,6,1,-1.0,5.0,-1.0,3.0,2.0
+2008,University Of Tulsa,207971.0,87208437.0,False,False,19,0,19,3,12,4,0.0,1.0,2.0,-1.0,0.0
+2008,University Of Utah,230764.0,223532165.0,False,False,16,1,15,7,8,1,0.0,1.0,0.0,-1.0,2.0
+2008,University Of Vermont,231174.0,111236770.0,False,False,16,1,15,5,10,1,-1.0,-1.0,-1.0,1.0,-2.0
+2008,University Of Virginia,234076.0,51556381.0,False,False,12,0,12,1,7,4,0.0,2.0,2.0,0.0,0.0
+2008,University Of Washington,236948.0,201448701.0,False,False,6,0,6,3,1,2,-1.0,-1.0,1.0,-2.0,-1.0
+2008,University Of Wyoming,240727.0,12834331.0,False,False,12,0,12,1,11,0,0.0,-1.0,-1.0,0.0,0.0
+2008,Utah State University,230728.0,121980950.0,False,False,2,1,1,1,0,1,0.0,0.0,0.0,0.0,0.0
+2008,Vanderbilt University,221999.0,200719446.0,False,False,32,1,31,7,20,5,0.0,-3.0,-1.0,-1.0,-1.0
+2008,Villanova University,216597.0,7863295.0,False,True,18,7,11,2,8,8,3.0,-6.0,0.0,-3.0,0.0
+2008,Virginia Commonwealth University,234030.0,184840846.0,False,False,6,1,5,1,4,1,0.0,-2.0,-2.0,0.0,0.0
+2008,Virginia Polytechnic Institute And State University,233921.0,859038795.0,False,False,7,0,7,2,5,0,-1.0,2.0,-2.0,1.0,2.0
+2008,Wake Forest University,199847.0,47251452.0,False,False,19,1,18,7,10,2,1.0,-1.0,0.0,1.0,-1.0
+2008,Washington State University,236939.0,72951846.0,False,False,6,1,5,2,3,1,0.0,0.0,1.0,-2.0,1.0
+2008,Washington University,179867.0,204465549.0,False,False,39,2,37,2,35,2,1.0,6.0,0.0,9.0,-2.0
+2008,Wayne State University,172644.0,185443292.0,False,False,7,1,6,4,3,0,1.0,0.0,0.0,-1.0,2.0
+2008,West Chester University Of Pennsylvania,216764.0,161171246.0,True,False,8,0,8,3,4,1,0.0,2.0,1.0,0.0,1.0
+2008,West Virginia University,238032.0,,False,False,12,0,12,2,10,0,-1.0,4.0,-1.0,4.0,0.0
+2008,Western Michigan University,172699.0,141649380.0,False,False,4,0,4,1,3,0,0.0,-1.0,0.0,0.0,-1.0
+2008,Widener University,216852.0,138659443.0,False,False,21,0,21,5,16,0,-1.0,6.0,0.0,2.0,3.0
+2008,Worcester Polytechnic Institute,168421.0,107077323.0,False,False,20,5,15,3,17,0,1.0,-7.0,-1.0,-5.0,0.0
+2008,Wright State University,206604.0,19648265.0,False,False,8,1,7,2,5,1,-2.0,4.0,0.0,1.0,1.0
+2008,Yale University,130794.0,32971472.0,False,False,9,3,6,4,4,1,0.0,1.0,0.0,0.0,1.0
+2008,Yeshiva University,197708.0,19772626.0,False,False,28,0,28,6,22,0,0.0,-2.0,0.0,0.0,-2.0
+2009,Adelphi University,188429.0,71965598.0,False,False,28,0,28,8,18,2,-1.0,2.0,0.0,-2.0,3.0
+2009,American University,131159.0,181401687.0,False,False,31,2,29,8,22,1,0.0,1.0,-2.0,2.0,1.0
+2009,Andrews University,168740.0,102298084.0,False,False,37,4,33,10,25,2,0.0,2.0,-1.0,0.0,3.0
+2009,Arizona State University,104151.0,55732556.0,False,False,12,2,10,3,9,0,-1.0,1.0,0.0,1.0,-1.0
+2009,Auburn University,100858.0,82497590.0,False,False,14,0,14,2,10,2,0.0,-9.0,0.0,-4.0,-5.0
+2009,Ball State University,150136.0,198089087.0,False,False,9,0,9,3,6,0,0.0,0.0,0.0,0.0,0.0
+2009,Baylor College Of Medicine,223223.0,181547552.0,False,False,45,7,38,4,33,8,2.0,-3.0,0.0,-1.0,0.0
+2009,Baylor University,223232.0,157394403.0,False,False,20,2,18,3,17,0,0.0,-9.0,-1.0,-7.0,-1.0
+2009,Biola University,110097.0,152479009.0,False,False,26,5,21,4,18,4,2.0,0.0,0.0,1.0,1.0
+2009,Boston College,164924.0,103531236.0,False,False,44,1,43,10,24,10,-1.0,3.0,-1.0,3.0,0.0
+2009,Boston University,164988.0,111088046.0,False,False,33,5,28,4,24,5,0.0,-1.0,2.0,-1.0,-2.0
+2009,Bowling Green State University,201441.0,157417397.0,True,False,6,0,6,1,4,1,0.0,-4.0,0.0,-3.0,-1.0
+2009,Brandeis University,165015.0,6902469.0,False,False,41,1,40,10,28,3,-1.0,-1.0,-1.0,-2.0,1.0
+2009,Brigham Young University,230038.0,100005738.0,False,False,8,0,8,2,5,1,0.0,1.0,1.0,0.0,0.0
+2009,Brown University,217156.0,27804330.0,True,False,42,4,38,16,24,2,1.0,6.0,0.0,5.0,2.0
+2009,California Institute Of Technology,110404.0,122411786.0,False,False,44,3,41,7,32,5,-1.0,-5.0,1.0,-6.0,-1.0
+2009,Carnegie Mellon University,211440.0,74973139.0,False,False,38,5,33,10,23,5,-1.0,-43.0,-2.0,-39.0,-3.0
+2009,Case Western Reserve University,201645.0,58956616.0,True,False,38,4,34,9,27,2,-1.0,4.0,0.0,2.0,1.0
+2009,Catholic University Of America,131283.0,84470341.0,False,False,46,6,40,3,36,7,1.0,-2.0,3.0,-3.0,-1.0
+2009,Central Michigan University,169248.0,1629065.0,False,True,10,3,7,4,6,0,0.0,0.0,0.0,0.0,0.0
+2009,Chapman University,111948.0,185071736.0,False,False,40,3,37,12,25,3,-1.0,1.0,-1.0,-2.0,3.0
+2009,Clark Atlanta University,138947.0,,False,False,24,3,21,7,15,2,0.0,1.0,0.0,0.0,1.0
+2009,Clark University,165334.0,130785548.0,False,False,31,1,30,7,20,4,0.0,3.0,0.0,2.0,1.0
+2009,Clarkson University,190044.0,16944753.0,False,False,24,0,24,4,18,2,0.0,4.0,0.0,4.0,0.0
+2009,Clemson University,217882.0,8078737.0,False,False,45,1,44,5,34,6,-1.0,2.0,-5.0,3.0,3.0
+2009,Cleveland State University,202134.0,102607778.0,False,False,9,0,9,3,6,0,-2.0,1.0,0.0,0.0,-1.0
+2009,College Of William And Mary,231624.0,16285277.0,False,False,17,1,16,7,10,0,0.0,1.0,-1.0,0.0,2.0
+2009,Colorado School Of Mines,126775.0,167576493.0,False,False,7,0,7,2,4,1,0.0,2.0,0.0,0.0,2.0
+2009,Columbia University,190150.0,78577930.0,False,False,47,7,40,15,28,4,0.0,-1.0,-1.0,0.0,0.0
+2009,Cornell University,190415.0,205783295.0,False,False,38,3,35,10,27,1,-1.0,-3.0,-1.0,-3.0,0.0
+2009,Creighton University,181002.0,114493937.0,False,False,30,2,28,5,20,5,0.0,0.0,-2.0,2.0,0.0
+2009,Dartmouth College,182670.0,107672454.0,False,False,16,2,14,3,11,2,0.0,6.0,1.0,4.0,1.0
+2009,Depaul University,144740.0,118353179.0,False,False,35,4,31,6,29,0,0.0,1.0,0.0,2.0,-1.0
+2009,Drexel University,212054.0,72816309.0,False,False,30,3,27,5,22,3,-1.0,-5.0,2.0,-8.0,0.0
+2009,Duke University,198419.0,170897317.0,False,False,30,2,28,9,16,5,2.0,-2.0,1.0,0.0,-1.0
+2009,Duquesne University,212106.0,165102784.0,False,False,24,0,24,5,14,5,0.0,6.0,0.0,5.0,1.0
+2009,East Tennessee State University,220075.0,119443389.0,False,False,14,1,13,3,10,1,0.0,2.0,0.0,2.0,0.0
+2009,Eastern Michigan University,169798.0,138216421.0,True,False,6,0,6,0,6,0,0.0,1.0,0.0,1.0,0.0
+2009,Emory University,139658.0,150468666.0,False,False,26,1,25,6,16,4,0.0,-2.0,-2.0,-2.0,2.0
+2009,Florida Agricultural And Mechanical University,133650.0,8248082.0,False,False,8,2,6,3,4,1,0.0,0.0,0.0,0.0,0.0
+2009,Florida Atlantic University,133669.0,63772739.0,False,False,11,1,10,3,8,0,1.0,0.0,0.0,1.0,0.0
+2009,Florida Institute Of Technology,133881.0,106959904.0,False,False,25,2,23,1,23,1,0.0,-2.0,0.0,-1.0,-1.0
+2009,Florida International University,133951.0,19700959.0,False,False,11,4,7,5,5,1,0.0,2.0,0.0,0.0,2.0
+2009,Florida State University,134097.0,103163165.0,False,False,11,1,10,4,6,1,-1.0,2.0,-1.0,2.0,0.0
+2009,Fordham University,191241.0,164389053.0,False,False,37,0,37,6,24,7,-1.0,2.0,-1.0,3.0,-1.0
+2009,Gallaudet University,131450.0,66108857.0,False,True,17,1,16,6,10,1,0.0,-1.0,0.0,-1.0,0.0
+2009,George Mason University,232186.0,162714631.0,False,False,14,4,10,5,6,3,2.0,-1.0,2.0,-1.0,0.0
+2009,George Washington University,131469.0,193531525.0,False,False,23,1,22,10,10,3,0.0,-1.0,1.0,-2.0,0.0
+2009,Georgetown University,131496.0,184565670.0,False,False,33,2,31,5,19,9,0.0,4.0,2.0,3.0,-1.0
+2009,Harvard University,166027.0,136199984.0,False,False,22,1,21,13,8,1,0.0,1.0,0.0,0.0,1.0
+2009,Hofstra University,191649.0,139290212.0,False,False,24,1,23,7,16,1,0.0,4.0,0.0,3.0,1.0
+2009,Howard University,131520.0,137853757.0,False,False,23,0,23,10,11,2,0.0,-1.0,-2.0,0.0,1.0
+2009,Idaho State University,142276.0,106969075.0,False,False,6,1,5,1,5,0,1.0,0.0,0.0,2.0,-1.0
+2009,Illinois Institute Of Technology,145725.0,180949307.0,False,False,34,3,31,4,28,2,-1.0,-3.0,-1.0,-3.0,0.0
+2009,Illinois State University,145813.0,47301684.0,False,False,6,0,6,2,3,1,0.0,-1.0,0.0,-1.0,0.0
+2009,Indiana State University,151324.0,86420138.0,False,False,9,0,9,2,6,1,0.0,2.0,0.0,1.0,1.0
+2009,Indiana University Of Pennsylvania,213020.0,200885203.0,False,False,5,0,5,1,3,1,0.0,-1.0,0.0,0.0,-1.0
+2009,Iowa State University,153603.0,173911158.0,False,False,6,1,5,1,4,1,0.0,-1.0,1.0,0.0,-2.0
+2009,James Madison University,232423.0,11883440.0,False,False,11,1,10,4,6,1,0.0,0.0,0.0,0.0,0.0
+2009,Johns Hopkins University,162928.0,145311948.0,False,False,46,5,41,12,26,8,2.0,0.0,0.0,2.0,0.0
+2009,Kansas State University,155399.0,189590672.0,False,False,9,0,9,4,5,0,0.0,0.0,0.0,0.0,0.0
+2009,Kent State University,203517.0,149910238.0,False,False,7,0,7,3,4,0,0.0,0.0,-1.0,1.0,0.0
+2009,Lehigh University,213543.0,186143895.0,True,False,32,1,31,9,22,1,-1.0,1.0,-1.0,3.0,-2.0
+2009,Loma Linda University,117636.0,26347476.0,False,False,9,3,6,3,6,0,1.0,-1.0,-1.0,0.0,1.0
+2009,Long Island University,192448.0,138873065.0,False,False,34,0,34,2,32,0,0.0,1.0,0.0,1.0,0.0
+2009,Loyola Marymount University,117946.0,35566140.0,False,True,40,6,34,14,22,4,0.0,-2.0,0.0,-2.0,0.0
+2009,Loyola University Chicago,146719.0,1925986.0,False,False,35,4,31,7,21,7,1.0,2.0,-3.0,5.0,1.0
+2009,Marquette University,239105.0,102461120.0,False,False,24,0,24,6,10,8,0.0,-6.0,-1.0,-4.0,-1.0
+2009,Marshall University,237525.0,88694374.0,False,False,10,1,9,3,6,1,0.0,0.0,-1.0,1.0,0.0
+2009,Massachusetts Institute Of Technology,166683.0,63966007.0,True,False,34,5,29,5,23,6,-1.0,-2.0,0.0,-1.0,-2.0
+2009,Mercer University,140447.0,150149174.0,False,False,23,1,22,4,12,7,1.0,-5.0,2.0,-5.0,-1.0
+2009,Miami University,204024.0,83328450.0,False,False,11,0,11,2,8,1,0.0,1.0,0.0,2.0,-1.0
+2009,Michigan State University,171100.0,87216513.0,False,False,6,1,5,2,2,2,0.0,0.0,0.0,0.0,0.0
+2009,Michigan Technological University,171128.0,11957088.0,False,False,8,0,8,2,6,0,0.0,1.0,0.0,0.0,1.0
+2009,Mississippi State University,176080.0,99041443.0,False,False,6,0,6,1,5,0,0.0,0.0,-1.0,1.0,0.0
+2009,Montana State University,180461.0,23732399.0,False,False,1,0,1,1,0,0,0.0,0.0,0.0,0.0,0.0
+2009,Montclair State University,185590.0,166088655.0,True,False,13,1,12,5,8,0,0.0,1.0,0.0,0.0,1.0
+2009,New Jersey Institute Of Technology,185828.0,118118575.0,False,False,27,2,25,4,21,2,-1.0,-1.0,0.0,-3.0,1.0
+2009,New Mexico State University,188030.0,10052268.0,False,True,6,1,5,1,5,0,0.0,2.0,0.0,3.0,-1.0
+2009,New School,193654.0,102179633.0,False,False,42,1,41,12,29,1,-1.0,-2.0,-1.0,-2.0,0.0
+2009,New York University,193900.0,57206974.0,False,False,34,2,32,7,24,3,0.0,3.0,0.0,1.0,2.0
+2009,North Dakota State University,200332.0,57328836.0,False,False,4,0,4,3,1,0,,,,,
+2009,Northeastern University,167358.0,12912129.0,False,False,22,0,22,6,15,1,0.0,0.0,0.0,0.0,0.0
+2009,Northern Illinois University,147703.0,102502594.0,False,False,5,0,5,2,3,0,0.0,-3.0,-1.0,-2.0,0.0
+2009,Northwestern University,147767.0,111979921.0,False,False,46,2,44,8,34,4,0.0,0.0,0.0,2.0,-2.0
+2009,Nova Southeastern University,136215.0,203088144.0,False,False,15,1,14,1,11,3,0.0,-2.0,1.0,-2.0,-1.0
+2009,Oakland University,171571.0,177721651.0,False,False,6,1,5,3,3,0,0.0,1.0,0.0,0.0,1.0
+2009,Ohio State University,204796.0,52357470.0,False,False,14,1,13,3,7,4,0.0,0.0,0.0,1.0,-1.0
+2009,Ohio University,204857.0,4210106879.0,False,False,10,0,10,1,7,2,0.0,3.0,0.0,3.0,0.0
+2009,Oklahoma State University,207388.0,115475287.0,False,False,9,0,9,1,8,0,0.0,-1.0,-1.0,0.0,0.0
+2009,Old Dominion University,232982.0,81365321.0,False,False,15,0,15,4,10,1,-1.0,2.0,-1.0,1.0,1.0
+2009,Oregon Health & Science University,209490.0,165690674.0,False,False,5,0,5,0,5,0,0.0,0.0,0.0,0.0,0.0
+2009,Pace University,194310.0,126863827.0,False,False,18,1,17,3,14,1,0.0,-1.0,0.0,-1.0,0.0
+2009,Pennsylvania State University,495767.0,130769515.0,False,False,23,0,23,4,18,1,0.0,-2.0,0.0,-1.0,-1.0
+2009,Pepperdine University,121150.0,100191712.0,False,False,25,3,22,5,18,2,-1.0,1.0,0.0,-1.0,1.0
+2009,Princeton University,186131.0,20089843.0,True,False,25,5,20,10,15,0,1.0,-1.0,-3.0,0.0,3.0
+2009,Purdue University,243780.0,219193219.0,True,True,7,0,7,2,4,1,0.0,0.0,0.0,0.0,0.0
+2009,Rensselaer Polytechnic Institute,194824.0,165799507.0,True,True,28,3,25,5,22,1,0.0,1.0,0.0,1.0,0.0
+2009,Rice University,227757.0,74775410.0,False,False,17,1,16,4,10,3,0.0,0.0,-1.0,0.0,1.0
+2009,Rochester Institute Of Technology,195003.0,155173764.0,False,False,39,4,35,12,24,3,3.0,-1.0,0.0,-1.0,3.0
+2009,Rockefeller University,195049.0,83399316.0,False,False,25,0,25,5,19,1,0.0,3.0,0.0,3.0,0.0
+2009,Rowan University,184782.0,44265643.0,False,False,14,2,12,7,6,1,2.0,0.0,1.0,0.0,1.0
+2009,Rutgers State University Of New Jersey,186380.0,102322142.0,False,False,51,2,49,18,32,1,0.0,-1.0,-2.0,1.0,0.0
+2009,Saint Louis University,179159.0,47838141.0,False,False,39,2,37,4,23,12,1.0,6.0,1.0,5.0,1.0
+2009,Seton Hall University,186584.0,12524447.0,False,False,16,4,12,2,13,1,-1.0,-12.0,0.0,-14.0,1.0
+2009,South Dakota State University,219356.0,177156846.0,False,False,8,1,7,2,6,0,0.0,0.0,-1.0,0.0,1.0
+2009,Southern Illinois University,149222.0,2801502357.0,False,False,6,0,6,2,4,0,0.0,-1.0,-1.0,0.0,0.0
+2009,Southern Methodist University,228246.0,178169726.0,False,False,24,1,23,6,17,1,0.0,-3.0,-1.0,-3.0,1.0
+2009,St Johns University,195809.0,142823887.0,False,False,17,0,17,6,10,1,0.0,2.0,1.0,-1.0,2.0
+2009,Stanford University,243744.0,97018004.0,False,False,18,3,15,7,10,1,-1.0,-5.0,0.0,-4.0,-2.0
+2009,Stevens Institute Of Technology,186867.0,108468826.0,False,False,25,3,22,4,20,1,-1.0,0.0,0.0,-2.0,1.0
+2009,Syracuse University,196413.0,70983195.0,True,False,51,5,46,9,40,2,5.0,28.0,2.0,27.0,4.0
+2009,Temple University,216339.0,,False,False,20,4,16,3,17,0,0.0,-1.0,0.0,0.0,-1.0
+2009,Texas Christian University,228875.0,128956969.0,False,False,20,0,20,5,12,3,0.0,0.0,1.0,-1.0,0.0
+2009,Texas State University San Marcos,228459.0,13511017.0,True,False,7,2,5,3,4,0,,,,,
+2009,Texas Womans University,229179.0,150913223.0,True,False,8,1,7,3,3,2,0.0,-1.0,0.0,0.0,-1.0
+2009,Thomas Jefferson University,216366.0,149251103.0,False,False,18,0,18,2,16,0,0.0,-5.0,-1.0,-5.0,1.0
+2009,Tufts University,168148.0,121934306.0,False,False,30,1,29,10,19,1,1.0,0.0,0.0,2.0,-1.0
+2009,Union Institute & University,206279.0,204669301.0,False,False,11,1,10,5,5,1,0.0,1.0,0.0,1.0,0.0
+2009,University Of Akron,200800.0,110152177.0,False,False,6,0,6,1,5,0,0.0,-1.0,-1.0,0.0,0.0
+2009,University Of Central Florida,132903.0,106165777.0,False,False,12,3,9,4,8,0,0.0,0.0,0.0,0.0,0.0
+2009,University Of Chicago,144050.0,40347166.0,False,False,27,2,25,6,20,1,0.0,-1.0,0.0,0.0,-1.0
+2009,University Of Cincinnati,201885.0,63135867.0,True,False,8,3,5,2,3,3,2.0,-1.0,0.0,0.0,1.0
+2009,University Of Connecticut,129020.0,140172145.0,False,False,17,2,15,3,11,3,1.0,0.0,1.0,0.0,0.0
+2009,University Of Dayton,202480.0,127591826.0,False,False,32,2,30,7,10,15,-1.0,0.0,1.0,-1.0,-1.0
+2009,University Of Delaware,130943.0,86501945.0,False,False,17,1,16,3,10,4,0.0,2.0,2.0,0.0,0.0
+2009,University Of Florida,134130.0,33213144.0,False,False,7,2,5,0,4,3,1.0,0.0,2.0,-1.0,0.0
+2009,University Of Hartford,129525.0,162281398.0,False,False,38,5,33,15,23,0,0.0,-1.0,0.0,-4.0,3.0
+2009,University Of Idaho,142285.0,155093810.0,False,False,1,0,1,0,1,0,,,,,
+2009,University Of Kentucky,157085.0,143302722.0,False,False,15,0,15,3,9,3,0.0,-1.0,0.0,1.0,-2.0
+2009,University Of La Verne,117140.0,708430.0,False,False,16,2,14,3,11,2,0.0,0.0,0.0,0.0,0.0
+2009,University Of Louisville,157289.0,142740786.0,False,False,13,0,13,5,6,2,0.0,0.0,1.0,-1.0,0.0
+2009,University Of Miami,135726.0,145608581.0,True,False,42,8,34,11,27,4,2.0,3.0,1.0,1.0,3.0
+2009,University Of Michigan,170976.0,27837315.0,True,False,4,0,4,3,1,0,0.0,0.0,0.0,0.0,0.0
+2009,University Of Minnesota,174066.0,130238516.0,False,False,8,3,5,2,5,1,0.0,1.0,0.0,0.0,1.0
+2009,University Of New Mexico,187985.0,169521973.0,False,False,4,0,4,1,3,0,0.0,0.0,0.0,0.0,0.0
+2009,University Of North Florida,136172.0,11874761.0,False,False,6,2,4,1,4,1,0.0,-1.0,0.0,0.0,-1.0
+2009,University Of Northern Colorado,127741.0,71966907.0,False,False,8,2,6,3,5,0,1.0,1.0,0.0,2.0,0.0
+2009,University Of Notre Dame,152080.0,107639228.0,False,False,27,4,23,6,19,2,2.0,-1.0,0.0,1.0,0.0
+2009,University Of Oklahoma,207500.0,8692664.0,False,False,5,0,5,1,3,1,0.0,2.0,0.0,2.0,0.0
+2009,University Of Pacific,120883.0,119942576.0,False,False,16,2,14,2,11,3,0.0,-3.0,2.0,-3.0,-2.0
+2009,University Of Pennsylvania,215062.0,79576946.0,True,False,30,2,28,7,22,1,0.0,0.0,0.0,1.0,-1.0
+2009,University Of Pittsburgh,215293.0,170201317.0,False,False,28,0,28,5,19,4,0.0,-2.0,0.0,-4.0,2.0
+2009,University Of Rhode Island,217484.0,17626003.0,False,False,8,0,8,2,6,0,0.0,0.0,0.0,1.0,-1.0
+2009,University Of San Diego,122436.0,160856358.0,True,False,27,4,23,8,15,4,1.0,0.0,-1.0,2.0,0.0
+2009,University Of San Francisco,122612.0,76766440.0,False,False,35,3,32,6,14,15,-1.0,1.0,0.0,0.0,0.0
+2009,University Of South Alabama,102094.0,83809506.0,False,False,12,0,12,2,9,1,0.0,0.0,-1.0,1.0,0.0
+2009,University Of South Carolina,218663.0,155781252.0,False,True,13,0,13,0,11,2,-2.0,0.0,-1.0,-1.0,0.0
+2009,University Of South Florida,137351.0,2613432.0,True,False,10,3,7,4,4,2,0.0,0.0,0.0,0.0,0.0
+2009,University Of Southern California,123961.0,1174212.0,False,False,35,5,30,6,25,4,0.0,0.0,3.0,-2.0,-1.0
+2009,University Of Southern Mississippi,176372.0,44854399.0,True,False,5,0,5,2,2,1,,,,,
+2009,University Of St Thomas Minnesota,174914.0,161515732.0,False,False,26,0,26,7,17,2,0.0,3.0,0.0,1.0,2.0
+2009,University Of Texas At Brownsville/Texas Southmost College,227368.0,2802326326.0,True,True,6,3,3,2,4,0,1.0,0.0,0.0,1.0,0.0
+2009,University Of Toledo,206084.0,90871651.0,False,False,14,1,13,4,8,2,1.0,3.0,1.0,2.0,1.0
+2009,University Of Tulsa,207971.0,87208437.0,False,False,23,0,23,3,17,3,0.0,4.0,-1.0,5.0,0.0
+2009,University Of Utah,230764.0,223532165.0,False,False,12,2,10,5,6,1,1.0,-5.0,0.0,-2.0,-2.0
+2009,University Of Vermont,231174.0,111236770.0,False,False,16,1,15,5,10,1,0.0,0.0,0.0,0.0,0.0
+2009,University Of Virginia,234076.0,51556381.0,False,False,12,0,12,2,6,4,0.0,0.0,0.0,-1.0,1.0
+2009,University Of Washington,236948.0,201448701.0,False,False,6,0,6,2,3,1,0.0,0.0,-1.0,2.0,-1.0
+2009,University Of Wyoming,240727.0,12834331.0,False,False,13,0,13,3,10,0,0.0,1.0,0.0,-1.0,2.0
+2009,Vanderbilt University,221999.0,200719446.0,False,False,27,1,26,6,15,6,0.0,-5.0,1.0,-5.0,-1.0
+2009,Villanova University,216597.0,7863295.0,False,True,22,7,15,3,9,10,0.0,4.0,2.0,1.0,1.0
+2009,Virginia Commonwealth University,234030.0,184840846.0,False,False,8,1,7,1,6,1,0.0,2.0,0.0,2.0,0.0
+2009,Virginia Tech,233921.0,859038795.0,False,False,9,0,9,2,6,1,,,,,
+2009,Wake Forest University,199847.0,47251452.0,False,False,22,2,20,4,14,4,1.0,2.0,2.0,4.0,-3.0
+2009,Washington State University,236939.0,72951846.0,False,False,6,2,4,2,3,1,1.0,-1.0,0.0,0.0,0.0
+2009,Washington University,179867.0,204465549.0,False,False,41,2,39,3,35,3,0.0,2.0,1.0,0.0,1.0
+2009,Wayne State University,172644.0,185443292.0,False,False,7,1,6,4,3,0,0.0,0.0,0.0,0.0,0.0
+2009,West Chester University Of Pennsylvania,216764.0,161171246.0,True,False,8,0,8,3,4,1,0.0,0.0,0.0,0.0,0.0
+2009,West Virginia University,238032.0,12097938.0,False,False,8,0,8,1,7,0,0.0,0.0,0.0,0.0,0.0
+2009,Western Michigan University,172699.0,141649380.0,False,False,3,0,3,1,2,0,0.0,-1.0,0.0,-1.0,0.0
+2009,Widener University,216852.0,138659443.0,False,False,20,0,20,5,14,1,0.0,-1.0,1.0,-2.0,0.0
+2009,Worcester Polytechnic Institute,168421.0,107077323.0,False,False,19,4,15,5,14,0,-1.0,0.0,0.0,-3.0,2.0
+2009,Wright State University,206604.0,19648265.0,False,False,8,0,8,2,5,1,-1.0,1.0,0.0,0.0,0.0
+2009,Yale University,130794.0,32971472.0,False,False,7,1,6,3,3,1,-2.0,0.0,0.0,-1.0,-1.0
+2009,Yeshiva University,197708.0,19772626.0,False,False,27,0,27,3,21,3,0.0,-1.0,3.0,-1.0,-3.0
+2013,Adelphi University,188429.0,71965598.0,False,False,24,2,22,9,13,2,2.0,-6.0,0.0,-5.0,1.0
+2013,American University,131159.0,181401687.0,False,False,29,0,29,9,17,3,-2.0,0.0,2.0,-5.0,1.0
+2013,Andrews University,168740.0,102298084.0,False,False,39,4,35,11,25,3,0.0,2.0,1.0,0.0,1.0
+2013,Arizona State University,104151.0,55732556.0,False,False,5,1,4,2,3,0,-1.0,-6.0,0.0,-6.0,-1.0
+2013,Auburn University,100858.0,82497590.0,False,False,14,0,14,2,10,2,0.0,0.0,0.0,0.0,0.0
+2013,Ball State University,150136.0,198089087.0,False,False,8,1,7,1,6,1,1.0,-2.0,1.0,0.0,-2.0
+2013,Baylor College Of Medicine,223223.0,181547552.0,False,False,44,7,37,6,31,7,0.0,-1.0,-1.0,-2.0,2.0
+2013,Baylor University,223232.0,157394403.0,False,False,22,1,21,3,15,4,-1.0,3.0,4.0,-2.0,0.0
+2013,Biola University,110097.0,152479009.0,False,False,18,1,17,1,13,4,-4.0,-4.0,0.0,-5.0,-3.0
+2013,Boston College,164924.0,103531236.0,False,False,51,3,48,13,31,7,2.0,5.0,-3.0,7.0,3.0
+2013,Boston University,164988.0,111088046.0,False,False,39,3,36,6,26,7,-2.0,8.0,2.0,2.0,2.0
+2013,Brandeis University,165015.0,6902469.0,False,False,41,1,40,10,28,3,0.0,0.0,0.0,0.0,0.0
+2013,Brown University,217156.0,27804330.0,True,False,35,1,34,13,21,1,-3.0,-4.0,-1.0,-3.0,-3.0
+2013,Carnegie Mellon University,211440.0,74973139.0,False,False,44,4,40,7,28,9,-1.0,7.0,4.0,5.0,-3.0
+2013,Case Western Reserve University,201645.0,,False,False,66,9,57,22,43,1,5.0,23.0,-1.0,16.0,13.0
+2013,Catholic University Of America,131283.0,84470341.0,False,False,41,4,37,3,35,3,-2.0,-3.0,-4.0,-1.0,0.0
+2013,Central Michigan University,169248.0,1629065.0,False,False,8,1,7,3,5,0,-2.0,0.0,0.0,-1.0,-1.0
+2013,Chapman University,111948.0,185071736.0,False,False,42,4,38,9,28,5,1.0,1.0,2.0,3.0,-3.0
+2013,Clark Atlanta University,138947.0,,False,False,21,3,18,7,13,1,0.0,-3.0,-1.0,-2.0,0.0
+2013,Clark University,165334.0,130785548.0,False,True,27,1,26,7,17,3,0.0,-4.0,-1.0,-3.0,0.0
+2013,Clarkson University,190044.0,16944753.0,False,False,33,3,30,10,21,2,3.0,6.0,0.0,3.0,6.0
+2013,Clemson University,217882.0,8078737.0,False,False,49,2,47,12,30,7,1.0,3.0,1.0,-4.0,7.0
+2013,College Of William And Mary,231624.0,16285277.0,False,False,20,3,17,5,14,1,2.0,1.0,1.0,4.0,-2.0
+2013,Colorado School Of Mines,126775.0,167576493.0,False,False,9,1,8,3,5,1,1.0,1.0,0.0,1.0,1.0
+2013,Columbia University,190150.0,78577930.0,False,False,21,3,18,3,18,0,-4.0,-22.0,-4.0,-10.0,-12.0
+2013,Cornell University,190415.0,205783295.0,False,False,36,3,33,11,25,0,0.0,-2.0,-1.0,-2.0,1.0
+2013,Creighton University,181002.0,114493937.0,False,False,29,2,27,6,19,4,0.0,-1.0,-1.0,-1.0,1.0
+2013,Dartmouth College,182670.0,107672454.0,True,False,21,1,20,6,13,2,-1.0,6.0,0.0,2.0,3.0
+2013,Depaul University,144740.0,118353179.0,False,False,38,5,33,9,26,3,1.0,2.0,3.0,-3.0,3.0
+2013,Drexel University,212054.0,72816309.0,False,False,39,4,35,8,29,2,1.0,8.0,-1.0,7.0,3.0
+2013,Duke University,198419.0,170897317.0,False,False,36,2,34,11,21,4,0.0,6.0,-1.0,5.0,2.0
+2013,Duquesne University,212106.0,165102784.0,False,False,26,3,23,6,12,8,3.0,-1.0,3.0,-2.0,1.0
+2013,Eastern Michigan University,169798.0,138216421.0,True,False,6,0,6,0,5,1,0.0,0.0,1.0,-1.0,0.0
+2013,Emory University,139658.0,150468666.0,False,False,34,1,33,6,22,6,0.0,8.0,2.0,6.0,0.0
+2013,Florida Institute Of Technology,133881.0,106959904.0,False,False,31,2,29,3,27,1,0.0,6.0,0.0,4.0,2.0
+2013,Fordham University,191241.0,164389053.0,False,False,33,4,29,8,19,6,4.0,-8.0,-1.0,-5.0,2.0
+2013,George Mason University,232186.0,162714631.0,False,True,12,2,10,6,3,3,-2.0,0.0,0.0,-3.0,1.0
+2013,George Washington University,131469.0,193531525.0,False,False,32,3,29,9,18,5,2.0,7.0,2.0,8.0,-1.0
+2013,Georgetown University,131496.0,184565670.0,False,False,29,3,26,3,21,5,1.0,-5.0,-4.0,2.0,-2.0
+2013,Harvard University,166027.0,136199984.0,False,False,31,3,28,14,16,1,2.0,7.0,0.0,8.0,1.0
+2013,Hofstra University,191649.0,139290212.0,False,False,20,1,19,5,14,1,0.0,-4.0,0.0,-2.0,-2.0
+2013,Howard University,131520.0,137853757.0,False,False,23,0,23,7,12,4,0.0,0.0,2.0,1.0,-3.0
+2013,Illinois Institute Of Technology,145725.0,180949307.0,False,False,26,3,23,2,23,1,0.0,-8.0,-1.0,-5.0,-2.0
+2013,Illinois State University,145813.0,47301684.0,False,False,7,0,7,2,5,0,0.0,1.0,-1.0,2.0,0.0
+2013,Indiana State University,151324.0,86420138.0,False,False,6,0,6,1,5,0,0.0,-3.0,-1.0,-1.0,-1.0
+2013,James Madison University,232423.0,11883440.0,False,False,11,2,9,2,9,0,1.0,-1.0,-1.0,3.0,-2.0
+2013,Johns Hopkins University,162928.0,145311948.0,False,False,41,4,37,10,26,5,-1.0,-4.0,-3.0,0.0,-2.0
+2013,Lehigh University,213543.0,186143895.0,True,False,28,2,26,6,20,2,1.0,-5.0,1.0,-2.0,-3.0
+2013,Loma Linda University,117636.0,,False,False,11,1,10,3,8,0,-2.0,4.0,0.0,2.0,0.0
+2013,Long Island University,192448.0,138873065.0,False,False,33,2,31,5,27,1,2.0,-3.0,1.0,-5.0,3.0
+2013,Loyola Marymount University,117946.0,35566140.0,False,False,36,6,30,15,19,2,0.0,-4.0,-2.0,-3.0,1.0
+2013,Loyola University Chicago,146719.0,1925986.0,False,False,36,1,35,8,20,8,-3.0,4.0,1.0,-1.0,1.0
+2013,Marquette University,239105.0,102461120.0,False,False,24,1,23,6,11,7,1.0,-1.0,-1.0,1.0,0.0
+2013,Marshall University,237525.0,88694374.0,False,False,10,0,10,1,8,1,-1.0,1.0,0.0,2.0,-2.0
+2013,Massachusetts Institute Of Technology,166683.0,63966007.0,False,False,53,9,44,9,34,10,4.0,15.0,4.0,11.0,4.0
+2013,Mercer University,140447.0,150149174.0,False,False,25,1,24,5,16,4,0.0,2.0,-3.0,4.0,1.0
+2013,Michigan State University,171100.0,87216513.0,False,False,5,0,5,2,3,0,-1.0,0.0,-2.0,1.0,0.0
+2013,Michigan Technological University,171128.0,11957088.0,False,False,10,1,9,3,7,0,1.0,1.0,0.0,1.0,1.0
+2013,Mississippi State University,176080.0,99041443.0,False,False,7,0,7,2,5,0,0.0,1.0,0.0,0.0,1.0
+2013,Montclair State University,185590.0,166088655.0,True,False,13,0,13,3,9,1,-1.0,1.0,1.0,1.0,-2.0
+2013,New Jersey Institute Of Technology,185828.0,118118575.0,False,False,35,4,31,5,29,1,2.0,6.0,-1.0,8.0,1.0
+2013,New School,193654.0,102179633.0,False,False,33,1,32,9,24,0,0.0,-9.0,-1.0,-5.0,-3.0
+2013,New York University,193900.0,57206974.0,False,False,43,2,41,11,27,5,0.0,9.0,2.0,3.0,4.0
+2013,North Dakota State University,200332.0,57328836.0,False,False,3,0,3,2,1,0,0.0,-1.0,0.0,0.0,-1.0
+2013,Northeastern University,167358.0,12912129.0,False,False,19,0,19,5,13,1,0.0,-3.0,0.0,-2.0,-1.0
+2013,Northern Illinois University,147703.0,102502594.0,False,False,6,0,6,1,5,0,0.0,1.0,0.0,2.0,-1.0
+2013,Northwestern University,147767.0,111979921.0,False,False,46,2,44,9,35,2,0.0,0.0,-2.0,1.0,1.0
+2013,Nova Southeastern University,136215.0,203088144.0,False,False,14,1,13,0,9,5,0.0,-1.0,2.0,-2.0,-1.0
+2013,Oakland University,171571.0,177721651.0,False,False,6,0,6,1,5,0,-1.0,1.0,0.0,2.0,-2.0
+2013,Old Dominion University,232982.0,81365321.0,False,False,12,0,12,3,7,2,0.0,-3.0,1.0,-3.0,-1.0
+2013,Oregon Health & Science University,209490.0,165690674.0,False,True,5,1,4,0,2,3,1.0,-1.0,3.0,-3.0,0.0
+2013,Pace University,194310.0,126863827.0,False,False,19,1,18,5,13,1,0.0,1.0,0.0,-1.0,2.0
+2013,Pennsylvania State University,495767.0,130769515.0,False,False,20,0,20,4,15,1,0.0,-3.0,0.0,-3.0,0.0
+2013,Pepperdine University,121150.0,100191712.0,False,False,20,2,18,6,13,1,-1.0,-4.0,-1.0,-5.0,1.0
+2013,Polytechnic Institute Of New York University,193900.0,57206974.0,False,False,16,1,15,3,13,0,,,,,
+2013,Princeton University,186131.0,20089843.0,True,False,27,4,23,10,14,3,-1.0,3.0,3.0,-1.0,0.0
+2013,Purdue University,243780.0,219193219.0,False,False,9,1,8,2,6,1,1.0,1.0,0.0,2.0,0.0
+2013,Rensselaer Polytechnic Institute,194824.0,165799507.0,True,True,21,4,17,4,15,2,1.0,-8.0,1.0,-7.0,-1.0
+2013,Rice University,227757.0,74775410.0,False,False,13,0,13,1,10,2,-1.0,-3.0,-1.0,0.0,-3.0
+2013,Rochester Institute Of Technology,195003.0,155173764.0,False,False,42,2,40,13,28,1,-2.0,5.0,-2.0,4.0,1.0
+2013,Rockefeller University,195049.0,83399316.0,False,False,29,2,27,5,24,0,2.0,2.0,-1.0,5.0,0.0
+2013,Rowan University,184782.0,44265643.0,False,False,11,0,11,1,9,1,-2.0,-1.0,0.0,3.0,-6.0
+2013,Rutgers State University Of New Jersey,186380.0,102322142.0,False,False,50,6,44,16,31,3,4.0,-5.0,2.0,-1.0,-2.0
+2013,Saint Louis University,179159.0,47838141.0,False,False,43,4,39,6,24,13,2.0,2.0,1.0,1.0,2.0
+2013,Seton Hall University,186584.0,12524447.0,False,True,29,5,24,4,24,1,1.0,12.0,0.0,11.0,2.0
+2013,Southern Illinois University,149222.0,2801502357.0,False,False,4,0,4,1,3,0,0.0,-2.0,0.0,-1.0,-1.0
+2013,Southern Methodist University,228246.0,178169726.0,False,False,25,2,23,8,15,2,1.0,0.0,1.0,-2.0,2.0
+2013,St Johns University,195809.0,142823887.0,False,False,16,1,15,4,10,2,1.0,-2.0,1.0,0.0,-2.0
+2013,Stanford University,243744.0,97018004.0,False,False,22,6,16,6,14,2,3.0,1.0,1.0,4.0,-1.0
+2013,Stevens Institute Of Technology,186867.0,108468826.0,False,False,20,1,19,3,17,0,-2.0,-3.0,-1.0,-3.0,-1.0
+2013,Syracuse University,196413.0,70983195.0,True,False,60,4,56,13,44,3,-1.0,10.0,1.0,4.0,4.0
+2013,Temple University,216339.0,84392919.0,False,False,21,4,17,4,17,0,0.0,-1.0,0.0,-1.0,0.0
+2013,Texas Christian University,228875.0,128956969.0,False,False,23,0,23,5,14,4,0.0,3.0,1.0,2.0,0.0
+2013,Texas Womans University,229179.0,150913223.0,True,False,7,2,5,6,1,0,1.0,-2.0,-2.0,-2.0,3.0
+2013,Tufts University,168148.0,121934306.0,False,False,34,4,30,12,21,1,3.0,1.0,0.0,2.0,2.0
+2013,University Of Chicago,144050.0,40347166.0,False,False,30,4,26,5,24,1,2.0,1.0,0.0,4.0,-1.0
+2013,University Of Connecticut,129020.0,140172145.0,True,False,16,1,15,3,11,2,-1.0,0.0,-1.0,0.0,0.0
+2013,University Of Dayton,202480.0,127591826.0,False,False,32,3,29,7,10,15,1.0,-1.0,0.0,0.0,0.0
+2013,University Of Delaware,130943.0,86501945.0,False,False,18,1,17,1,13,4,0.0,1.0,0.0,3.0,-2.0
+2013,University Of Denver,127060.0,131651094.0,False,False,22,3,19,6,15,1,1.0,3.0,-1.0,3.0,2.0
+2013,University Of Hartford,129525.0,162281398.0,False,False,39,5,34,14,22,3,0.0,1.0,3.0,-1.0,-1.0
+2013,University Of Kentucky,157085.0,143302722.0,True,False,13,0,13,3,8,2,0.0,-2.0,-1.0,-1.0,0.0
+2013,University Of La Verne,117140.0,708430.0,True,False,18,4,14,6,12,0,2.0,0.0,-2.0,1.0,3.0
+2013,University Of Louisville,157289.0,142740786.0,False,False,9,0,9,3,6,0,0.0,-4.0,-2.0,0.0,-2.0
+2013,University Of Miami,135726.0,145608581.0,True,False,51,3,48,11,36,4,-5.0,14.0,0.0,9.0,0.0
+2013,University Of Michigan,170976.0,27837315.0,True,False,5,0,5,4,1,0,0.0,1.0,0.0,0.0,1.0
+2013,University Of New Mexico,187985.0,,False,False,6,1,5,1,5,0,-2.0,0.0,0.0,-1.0,-1.0
+2013,University Of Northern Colorado,127741.0,71966907.0,False,False,7,1,6,2,4,1,-1.0,0.0,1.0,-1.0,-1.0
+2013,University Of Notre Dame,152080.0,,False,False,21,1,20,5,16,0,-3.0,-3.0,-2.0,-3.0,-1.0
+2013,University Of Pacific,120883.0,119942576.0,True,False,19,2,17,3,14,2,0.0,3.0,-1.0,3.0,1.0
+2013,University Of Pennsylvania,215062.0,79576946.0,True,False,40,5,35,10,28,2,3.0,7.0,1.0,6.0,3.0
+2013,University Of Pittsburgh,215293.0,170201317.0,False,False,38,1,37,8,27,3,1.0,9.0,-1.0,8.0,3.0
+2013,University Of Rhode Island,217484.0,17626003.0,False,False,8,2,6,2,5,1,2.0,-2.0,1.0,-1.0,0.0
+2013,University Of Rochester,195030.0,5388228.0,False,False,33,1,32,7,24,2,1.0,-2.0,-4.0,0.0,3.0
+2013,University Of San Diego,122436.0,160856358.0,True,False,17,2,15,4,10,3,-2.0,-8.0,-1.0,-5.0,-4.0
+2013,University Of San Francisco,122612.0,76766440.0,False,False,28,3,25,4,8,16,0.0,-7.0,1.0,-6.0,-2.0
+2013,University Of South Alabama,102094.0,83809506.0,False,False,9,0,9,2,6,1,0.0,-3.0,0.0,-3.0,0.0
+2013,University Of South Carolina,218663.0,155781252.0,False,True,13,0,13,1,9,3,0.0,0.0,1.0,-2.0,1.0
+2013,University Of Southern California,123961.0,1174212.0,False,False,33,5,28,8,23,2,0.0,-2.0,-2.0,-2.0,2.0
+2013,University Of St Thomas Minnesota,174914.0,161515732.0,False,False,30,2,28,4,25,1,2.0,2.0,-1.0,8.0,-3.0
+2013,University Of Tulsa,207971.0,87208437.0,False,False,19,0,19,5,11,3,0.0,-4.0,0.0,-6.0,2.0
+2013,University Of Vermont,231174.0,111236770.0,False,False,16,0,16,7,9,0,-1.0,1.0,-1.0,-1.0,2.0
+2013,University Of Virginia,234076.0,51556381.0,True,False,7,0,7,2,4,1,0.0,-5.0,-3.0,-2.0,0.0
+2013,University Of Washington,236948.0,201448701.0,False,False,6,0,6,2,3,1,0.0,0.0,0.0,0.0,0.0
+2013,University Of Wyoming,240727.0,12834331.0,False,False,13,0,13,2,11,0,0.0,0.0,0.0,1.0,-1.0
+2013,Vanderbilt University,221999.0,200719446.0,False,False,29,1,28,5,19,5,0.0,2.0,-1.0,4.0,-1.0
+2013,Villanova University,216597.0,7863295.0,False,True,24,6,18,4,11,9,-1.0,3.0,-1.0,2.0,1.0
+2013,Virginia Commonwealth University,234030.0,184840846.0,False,True,11,1,10,1,7,3,0.0,3.0,2.0,1.0,0.0
+2013,Virginia Polytechnic Institute And State University,233921.0,859038795.0,False,False,15,1,14,6,6,3,1.0,7.0,3.0,1.0,4.0
+2013,Wake Forest University,199847.0,47251452.0,False,False,22,2,20,6,15,1,0.0,0.0,-3.0,1.0,2.0
+2013,Washington State University,236939.0,72951846.0,False,False,4,1,3,2,1,1,-1.0,-1.0,0.0,-2.0,0.0
+2013,Washington University,179867.0,204465549.0,False,False,34,3,31,2,30,2,1.0,-8.0,-1.0,-5.0,-1.0
+2013,West Virginia University,238032.0,12097938.0,False,False,9,1,8,2,6,1,1.0,0.0,1.0,-1.0,1.0
+2013,Western Michigan University,172699.0,141649380.0,False,False,5,0,5,2,3,0,0.0,2.0,0.0,1.0,1.0
+2013,Widener University,216852.0,138659443.0,False,False,23,2,21,4,18,1,2.0,1.0,0.0,4.0,-1.0
+2013,Worcester Polytechnic Institute,168421.0,107077323.0,False,False,19,4,15,5,14,0,0.0,0.0,0.0,0.0,0.0
+2013,Yale University,130794.0,32971472.0,False,False,10,2,8,3,7,0,1.0,2.0,-1.0,4.0,0.0
+2013,Yeshiva University,197708.0,19772626.0,False,False,27,0,27,4,22,1,0.0,0.0,-2.0,1.0,1.0
