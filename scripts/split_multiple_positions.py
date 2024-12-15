@@ -294,8 +294,9 @@ def main():
     fix NaNs, and save the cleaned result.
     """
     for year in YEARS:
+        print(f"Processing: {year}")
         path_read = f"{ABSOLUTE_PATH}{GPT_DATAFRAMES}{year}_gptDataframe.csv"
-        split_df_path = f"{ABSOLUTE_PATH}{ALTERED_DATAFRAMES}{year}_split_positions.csv"
+        split_df_path = f"{ABSOLUTE_PATH}{SPLIT_DATAFRAMES}{year}_split_positions.csv"
         full_dataframe = pd.read_csv(path_read)
 
         # Apply the splitting pipeline
