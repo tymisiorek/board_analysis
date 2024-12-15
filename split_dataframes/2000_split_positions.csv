@@ -5991,8 +5991,8 @@ Anne E. Dyson,Board Member,Cornell University,Joan and Sanford I. Weill Medical 
 Sanford B. Ehrenkranz,Board Member,Cornell University,Joan and Sanford I. Weill Medical College,,,226.0,,205783295.0,190415.0,True
 Eleanor T. Elliott,Board Member,Cornell University,Joan and Sanford I. Weill Medical College,,,226.0,,205783295.0,190415.0,True
 Barbara Benioff Friedman,Board Member,Cornell University,Joan and Sanford I. Weill Medical College,,,226.0,,205783295.0,190415.0,True
-"Antonio M. Gotto, Jr",Provost,Cornell University,Joan and Sanford I. Weill Medical College,"Cornell 1969 AB, 1972 MS; Boston U 1978 MBA",,226.0,,205783295.0,190415.0,True
-"Antonio M. Gotto, Jr","Medical Affairs, Dean, Medical College",Cornell University,Joan and Sanford I. Weill Medical College,"Cornell 1969 AB, 1972 MS; Boston U 1978 MBA",,226.0,,205783295.0,190415.0,True
+"Antonio M. Gotto, Jr","Provost, Medical Affairs",Cornell University,Joan and Sanford I. Weill Medical College,"Cornell 1969 AB, 1972 MS; Boston U 1978 MBA",,226.0,,205783295.0,190415.0,True
+"Antonio M. Gotto, Jr","Dean, Medical College",Cornell University,Joan and Sanford I. Weill Medical College,"Cornell 1969 AB, 1972 MS; Boston U 1978 MBA",,226.0,,205783295.0,190415.0,True
 "Antonio M. Gotto, Jr",Board Member,Cornell University,Joan and Sanford I. Weill Medical College,"Cornell 1969 AB, 1972 MS; Boston U 1978 MBA",,226.0,,205783295.0,190415.0,True
 David P. Hajiar,Board Member,Cornell University,Joan and Sanford I. Weill Medical College,,,226.0,,205783295.0,190415.0,True
 Thomas W. Jones,Board Member,Cornell University,Joan and Sanford I. Weill Medical College,,"Affiliation: Co-Chairman and Chief Executive Officer, SSBC Asset Management Group, Citigroup Inc388 Greenwich St., New York, NY 10013 Tel: (212) 816-8080",226.0,,205783295.0,190415.0,True
@@ -7373,7 +7373,8 @@ Noel C. Appel,"Director, Foundations Relations",Fairfield University,,,,255.0,,1
 Beverly L. Kahn,"Dean (Acting), College of Arts and Sciences",Fairfield University,,,,255.0,,126350171.0,129242.0,False
 "Walter G. Ryba, Jr","Dean, School of Business",Fairfield University,,,,255.0,,126350171.0,129242.0,False
 Cynthia S. Chegwidden,"Assistant Dean, Graduate Programs, School of Business",Fairfield University,,,,255.0,,126350171.0,129242.0,False
-Winston M. Tellis,"Assistant Dean, Undergraduate Students, Internships and Technologies, School of Business",Fairfield University,,,,255.0,,126350171.0,129242.0,False
+Winston M. Tellis,"Assistant Dean, Undergraduate Students",Fairfield University,,,,255.0,,126350171.0,129242.0,False
+Winston M. Tellis,"Internships And Technologies, School Of Business",Fairfield University,,,,255.0,,126350171.0,129242.0,False
 Evangelos Hadjimichael,"Dean, School of Engineering",Fairfield University,,,,255.0,,126350171.0,129242.0,False
 Anne P. Manton,"Dean (Acting), School of Nursing",Fairfield University,,,,255.0,,126350171.0,129242.0,False
 Kathleen Wheeler,"Director, Graduate Program, School of Nursing",Fairfield University,,,,255.0,,126350171.0,129242.0,False
@@ -14830,8 +14831,7 @@ Rodney Erickson,Provost,Pennsylvania State University,,,,408.0,,130769515.0,4957
 Rodney Erickson,Executive Vice President,Pennsylvania State University,,,,408.0,,130769515.0,495767.0,True
 Gary Charles Schultz,"Senior Vice President, Finance And Business",Pennsylvania State University,,"Penn State 1971 BS, 1975 MS",,408.0,,130769515.0,495767.0,True
 Gary Charles Schultz,Treasurer,Pennsylvania State University,,"Penn State 1971 BS, 1975 MS",,408.0,,130769515.0,495767.0,True
-C. McCollister Evarts,Senior Vice President,Pennsylvania State University,,,,408.0,,130769515.0,495767.0,True
-C. McCollister Evarts,Health Affairs,Pennsylvania State University,,,,408.0,,130769515.0,495767.0,True
+C. McCollister Evarts,"Senior Vice President, Health Affairs",Pennsylvania State University,,,,408.0,,130769515.0,495767.0,True
 C. McCollister Evarts,"Chief Executive Officer, The Milton S. Hershey Medical Center",Pennsylvania State University,,,,408.0,,130769515.0,495767.0,True
 C. McCollister Evarts,"Dean, College Of Medicine (Until June 30. 2000)",Pennsylvania State University,,,,408.0,,130769515.0,495767.0,True
 Janis Jacobs,"Vice President, Administration",Pennsylvania State University,,,,408.0,,130769515.0,495767.0,True
@@ -19742,8 +19742,7 @@ Corrine A. Caldwell,Provost,Temple University,,Pennsylvania PhD,,503.0,,84392919
 Martin S. Dorph,Chief Financial Officer,Temple University,,,,503.0,,84392919.0,216339.0,True
 Martin S. Dorph,Vice President,Temple University,,,,503.0,,84392919.0,216339.0,True
 Martin S. Dorph,Treasurer,Temple University,,,,503.0,,84392919.0,216339.0,True
-Leon S. Malmud,Senior Vice President,Temple University,,,,503.0,,84392919.0,216339.0,True
-Leon S. Malmud,Health Sciences Center,Temple University,,,,503.0,,84392919.0,216339.0,True
+Leon S. Malmud,"Senior Vice President, Health Sciences Center",Temple University,,,,503.0,,84392919.0,216339.0,True
 Leon S. Malmud,"Chief Executive Officer, Temple University Hospital",Temple University,,,,503.0,,84392919.0,216339.0,True
 Leon S. Malmud,"Dean, School Of Medicine",Temple University,,,,503.0,,84392919.0,216339.0,True
 Robert J. Reinstein,Vice President,Temple University,,,,503.0,,84392919.0,216339.0,True
@@ -19778,8 +19777,7 @@ Denise Berardi,Advising Coordinator,Temple University,Temple University Ambler,,
 Virginia M. Carter,Director,Temple University,Temple University Ambler,,,504.0,,84392919.0,216339.0,True
 William Schreiber,Associate Director,Temple University,Temple University Center City,,,504.0,,84392919.0,216339.0,True
 Cheryl Boyer,Dean (Acting),Temple University,Temple University Harrisburg,,,504.0,,84392919.0,216339.0,True
-Leon S. Malmud,Senior Vice President,Temple University,Temple University Health Sciences Center,,,504.0,,84392919.0,216339.0,True
-Leon S. Malmud,Health Sciences Center,Temple University,Temple University Health Sciences Center,,,504.0,,84392919.0,216339.0,True
+Leon S. Malmud,"Senior Vice President, Health Sciences Center",Temple University,Temple University Health Sciences Center,,,504.0,,84392919.0,216339.0,True
 Leon S. Malmud,"Chief Executive Officer, Temple University Hospital",Temple University,Temple University Health Sciences Center,,,504.0,,84392919.0,216339.0,True
 Leon S. Malmud,"Dean, School Of Medicine",Temple University,Temple University Health Sciences Center,,,504.0,,84392919.0,216339.0,True
 Peter H. Doukas,Dean (Acting),Temple University,College of Allied Health Professions,,,504.0,,84392919.0,216339.0,True
@@ -22070,8 +22068,8 @@ Frederick H. Siff,"Vice President, Information Technology",University Of Cincinn
 Howard E. Jackson,"Vice President, Research",University Of Cincinnati,,,,553.0,,63135867.0,201885.0,True
 Howard E. Jackson,"University Dean, Advanced Studies",University Of Cincinnati,,,,553.0,,63135867.0,201885.0,True
 Mitchel D. Livingston,"Vice President, Student Affairs and Human Resources",University Of Cincinnati,,,,553.0,,63135867.0,201885.0,True
-Andrea R. Lindell,Associate Senior Vice President,University Of Cincinnati,College of Nursing and Health,,,553.0,,63135867.0,201885.0,True
-Andrea R. Lindell,"Interdisciplinary Education, Dean, College Of Nursing And Health",University Of Cincinnati,College of Nursing and Health,,,553.0,,63135867.0,201885.0,True
+Andrea R. Lindell,"Associate Senior Vice President, Interdisciplinary Education",University Of Cincinnati,College of Nursing and Health,,,553.0,,63135867.0,201885.0,True
+Andrea R. Lindell,"Dean, College Of Nursing And Health",University Of Cincinnati,College of Nursing and Health,,,553.0,,63135867.0,201885.0,True
 Andrea R. Lindell,"Acting Dean, College Of Allied Health Sciences",University Of Cincinnati,College of Nursing and Health,,,553.0,,63135867.0,201885.0,True
 Virginia Steiner,Executive Secretary,University Of Cincinnati,,,,553.0,,63135867.0,201885.0,True
 Virginia Steiner,Clerk To The Board Of Trustees,University Of Cincinnati,,,,553.0,,63135867.0,201885.0,True
@@ -25351,7 +25349,8 @@ Joe L. Mayer,Regent,University Of Oklahoma,,,Member of the Board,624.0,,8692664.
 Robert L. McCormick,Regent,University Of Oklahoma,,,,624.0,,8692664.0,207500.0,True
 Carl R. Renfro,Regent,University Of Oklahoma,,,,624.0,,8692664.0,207500.0,True
 Judith Rodin,President,University Of Pennsylvania,,,,624.0,,79576946.0,215062.0,True
-"William N. Kelley, MD","Chief Executive Officer, University Of Pennsylvania Medical Center, Health System And Hospital,",University Of Pennsylvania,School of Medicine,,,624.0,,79576946.0,215062.0,True
+"William N. Kelley, MD","Chief Executive Officer, University Of Pennsylvania Medical Center",University Of Pennsylvania,School of Medicine,,,624.0,,79576946.0,215062.0,True
+"William N. Kelley, MD","Health System And Hospital,",University Of Pennsylvania,School of Medicine,,,624.0,,79576946.0,215062.0,True
 "William N. Kelley, MD","Dean, School Of Medicine",University Of Pennsylvania,School of Medicine,,,624.0,,79576946.0,215062.0,True
 Robert Barchi,Provost,University Of Pennsylvania,,,,624.0,,79576946.0,215062.0,True
 John A. Fry,Executive Vice President,University Of Pennsylvania,,,,624.0,,79576946.0,215062.0,True
@@ -25385,7 +25384,8 @@ Ira M. Schwartz,Dean,University Of Pennsylvania,School of Social Work,,,625.0,,7
 Alan M. Kelly,Dean,University Of Pennsylvania,School of Veterinary Medicine,,,625.0,,79576946.0,215062.0,True
 Susan H. Fuhrman,Dean,University Of Pennsylvania,Graduate School of Education,,,625.0,,79576946.0,215062.0,True
 Gary Hack,Dean,University Of Pennsylvania,Graduate School of Fine Arts,,,625.0,,79576946.0,215062.0,True
-"William N. Kelley, MD","Chief Executive Officer, University Of Pennsylvania Medical Center, Health System And Hospital,",University Of Pennsylvania,University of Pennsylvania Medical Center,,* Member of the Board,625.0,,79576946.0,215062.0,True
+"William N. Kelley, MD","Chief Executive Officer, University Of Pennsylvania Medical Center",University Of Pennsylvania,University of Pennsylvania Medical Center,,* Member of the Board,625.0,,79576946.0,215062.0,True
+"William N. Kelley, MD","Health System And Hospital,",University Of Pennsylvania,University of Pennsylvania Medical Center,,* Member of the Board,625.0,,79576946.0,215062.0,True
 "William N. Kelley, MD","Dean, School Of Medicine",University Of Pennsylvania,University of Pennsylvania Medical Center,,* Member of the Board,625.0,,79576946.0,215062.0,True
 "William N. Kelley, MD",Dean,University Of Pennsylvania,School of Medicine,,,625.0,,79576946.0,215062.0,True
 "William N. Kelley, MD","Chief Executive Officer, University Of Pennsylvania Medical Center, Health System And Hospital",University Of Pennsylvania,School of Medicine,,,625.0,,79576946.0,215062.0,True
@@ -25723,8 +25723,8 @@ Blair M. Lord,Vice Provost. Academic Programs and Services,University Of Rhode I
 Thomas J. Rockett,"Vice Provost. Graduate Studies, Research and Service",University Of Rhode Island,,,,630.0,,17626003.0,217484.0,True
 Paul B. Gandel,"Vice Provost, Information Services,",University Of Rhode Island,,,,630.0,,17626003.0,217484.0,True
 Paul B. Gandel,"Dean, University Libraries",University Of Rhode Island,,,,630.0,,17626003.0,217484.0,True
-Margaret S. Leinen,"Vice Provost, Marine Programs",University Of Rhode Island,,Illinois 1969 BS; Oregon State 1975 MS; Rhode Island 1980 PhD,,630.0,,17626003.0,217484.0,True
-Margaret S. Leinen,"Narragansett Bay Campus, Dean, College Of The Environment And Life Sciences",University Of Rhode Island,,Illinois 1969 BS; Oregon State 1975 MS; Rhode Island 1980 PhD,,630.0,,17626003.0,217484.0,True
+Margaret S. Leinen,"Vice Provost, Marine Programs, Narragansett Bay Campus",University Of Rhode Island,,Illinois 1969 BS; Oregon State 1975 MS; Rhode Island 1980 PhD,,630.0,,17626003.0,217484.0,True
+Margaret S. Leinen,"Dean, College Of The Environment And Life Sciences",University Of Rhode Island,,Illinois 1969 BS; Oregon State 1975 MS; Rhode Island 1980 PhD,,630.0,,17626003.0,217484.0,True
 Margaret S. Leinen,"Dean, Graduate School Of Oceanography",University Of Rhode Island,,Illinois 1969 BS; Oregon State 1975 MS; Rhode Island 1980 PhD,,630.0,,17626003.0,217484.0,True
 "Walter A. Crocker, Jr.","Dean, College of Continuing Education",University Of Rhode Island,,"Rhode Island Col 1969 BEd, 1969 MA; Wayne State 1972 EdD",,630.0,,17626003.0,217484.0,True
 David G. Taggart,"Dean, Undergraduate Admissions and Student Financial Aid",University Of Rhode Island,,,,630.0,,17626003.0,217484.0,True
@@ -26725,8 +26725,8 @@ Vacant,"Vice President, Development",University Of Texas At Arlington,,,,648.0,,
 Dale Anderson,"Vice President, Research",University Of Texas At Arlington,Graduate Studies,,,648.0,,189196454.0,228769.0,True
 Dale Anderson,"Dean, Graduate Studies",University Of Texas At Arlington,Graduate Studies,,,648.0,,189196454.0,228769.0,True
 Mary Ridgway,Vice President. Undergraduate Academic and Student Affairs,University Of Texas At Arlington,,,,648.0,,189196454.0,228769.0,True
-Dana Dunn,Vice Provost,University Of Texas At Arlington,,,,648.0,,189196454.0,228769.0,True
-Dana Dunn,"Academic Affairs, Associate Vice President, Undergraduate Academic And Student Affairs",University Of Texas At Arlington,,,,648.0,,189196454.0,228769.0,True
+Dana Dunn,"Vice Provost, Academic Affairs",University Of Texas At Arlington,,,,648.0,,189196454.0,228769.0,True
+Dana Dunn,"Associate Vice President, Undergraduate Academic And Student Affairs",University Of Texas At Arlington,,,,648.0,,189196454.0,228769.0,True
 Dana Dunn,"Associate Professor, Sociology",University Of Texas At Arlington,,,,648.0,,189196454.0,228769.0,True
 Jerry D. Smith,"Associate Vice President, Student Enrollment Services",University Of Texas At Arlington,,,"Career: Dean, Admissions and Records, Jacksonville State University",649.0,,189196454.0,228769.0,True
 Carol Stansell Nobels,"Director, Admissions, Recruiting and Orientation",University Of Texas At Arlington,,,"Career: Associate Director, Admissions for Operations, University of Georgia",649.0,,189196454.0,228769.0,True
@@ -27836,7 +27836,8 @@ Beth Sundin,"Director, University Relations",University Of Wisconsin Superior,,,
 Jack Miller,Chancellor,University Of Wisconsin Whitewater,,Ohio; Northern Illinois; Purdue,"Professor and Dean, College of Education, Florida State University",671.0,,183533211.0,240189.0,False
 Debby Runyon,Program Assistant,University Of Wisconsin Whitewater,,,,671.0,,183533211.0,240189.0,False
 David J. Prior,Provost,University Of Wisconsin Whitewater,,Olivet AB; Central Michigan MS; Virginia PhD,,671.0,,183533211.0,240189.0,False
-David J. Prior,"Vice Chancellor, Academic Affairs,",University Of Wisconsin Whitewater,,Olivet AB; Central Michigan MS; Virginia PhD,,671.0,,183533211.0,240189.0,False
+David J. Prior,Vice Chancellor,University Of Wisconsin Whitewater,,Olivet AB; Central Michigan MS; Virginia PhD,,671.0,,183533211.0,240189.0,False
+David J. Prior,"Academic Affairs,",University Of Wisconsin Whitewater,,Olivet AB; Central Michigan MS; Virginia PhD,,671.0,,183533211.0,240189.0,False
 David J. Prior,"Acting Assistant Vice Chancellor, Equal Opportunities",University Of Wisconsin Whitewater,,Olivet AB; Central Michigan MS; Virginia PhD,,671.0,,183533211.0,240189.0,False
 James W. Freer,"Assistant Chancellor, Administrative Services",University Of Wisconsin Whitewater,,"Wisconsin (Oshkosh) BBA, MBA",,671.0,,183533211.0,240189.0,False
 Roger B. Ludeman,"Assistant Chancellor, Student Affairs",University Of Wisconsin Whitewater,,"South Dakota MEd; Pittsburgh MEd, PhD",,671.0,,183533211.0,240189.0,False
@@ -28057,7 +28058,8 @@ Tom Lewis,"Vice President, External Affairs",Georgia State University,,,,676.0,,
 Bill Decatur,"Vice President, Finance and Administration",Georgia State University,,,,676.0,,181565077.0,139940.0,True
 Vacant,"Vice President, Research and Sponsored Programs",Georgia State University,,,,676.0,,181565077.0,139940.0,True
 Don Reitzes,"Associate Vice President, Research",Georgia State University,,,,676.0,,181565077.0,139940.0,True
-Steve Langston,"Assistant Vice President, Continuing Education, Public Services, A-V Services and Distance Learning",Georgia State University,,,,676.0,,181565077.0,139940.0,True
+Steve Langston,"Assistant Vice President, Continuing Education",Georgia State University,,,,676.0,,181565077.0,139940.0,True
+Steve Langston,"Public Services, A-V Services And Distance Learning",Georgia State University,,,,676.0,,181565077.0,139940.0,True
 Gary Key,"Assistant Vice President, Development",Georgia State University,,,,676.0,,181565077.0,139940.0,True
 Evelyn Babey,"Assistant Vice President, Enrollment Services",Georgia State University,,,,676.0,,181565077.0,139940.0,True
 Evelyn Babey,Registrar,Georgia State University,,,,676.0,,181565077.0,139940.0,True
