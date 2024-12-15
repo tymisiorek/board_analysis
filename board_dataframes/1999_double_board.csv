@@ -1,4 +1,6 @@
 Name,Position,Institution,SubInstitution,Education,Other Affiliation,Career,Notes,AffiliationId,carnegie_id,PrimarySample,FixedPosition
+The Hon. Riley Darnell,Ex Officio Member,Austin Peay State University,,Austin Pay State 1962 BS; Vanderbilt 1965 JD,"Secretary of State, State of Tennessee",,,184692499.0,219602.0,False,"Regent, Ex Officio"
+The Hon. Steve Adams,Ex Officio Member,Austin Peay State University,,Austin Pay State 1973 BS,"Treasurer, State of Tenneesee",,,184692499.0,219602.0,False,"Regent, Ex Officio"
 William Ransom Jones,Member,Austin Peay State University,,,,,,184692499.0,219602.0,False,Regent
 Debby Patterson Koch,Secretary,Austin Peay State University,,,,,,184692499.0,219602.0,False,Other Board Member
 Joe Lancaster,Member,Austin Peay State University,,,,,,184692499.0,219602.0,False,Regent
@@ -95,6 +97,7 @@ Thomas W. Noe,Regent,Cleveland State University,,,"President, Vintage Coins and 
 Stephen A. Perry,Regent,Cleveland State University,,,"Vice President, Human Resources and Logistics, The Timken Company",,,102607778.0,202134.0,True,Trustee
 J. Gilbert Reese,Regent,Cleveland State University,,,"Senior Partner, Reese, Pyle, Drake and Meyer",,,102607778.0,202134.0,True,Trustee
 Ralph E. Schey,Regent,Cleveland State University,,,"Chairmain and Chief Executive Officer, The Scott Fetzer Company",,,102607778.0,202134.0,True,Trustee
+The Hon. David M. Beasley,Ex Officio Trustee,College Of Charleston,,,"Governor, South Carolina",,,204593131.0,217819.0,False,"Member, Ex Officio"
 J. Phillip Bell,Trustee,College Of Charleston,,,,,,204593131.0,217819.0,False,Member
 Charlotte Berry,Trustee,College Of Charleston,,,,,,204593131.0,217819.0,False,Member
 John F. Clark III,Trustee at Large,College Of Charleston,,,,,,204593131.0,217819.0,False,Member
@@ -137,6 +140,7 @@ The Hon. John C. West,Board Member,College Of Charleston,,,,,,204593131.0,217819
 "William E. Winter, Jr",Board Member,College Of Charleston,,,,,,204593131.0,217819.0,False,Member
 Harold J. Faig,Trustee,College Of Charleston,,,"Chaplain, Good Samaritan Hospital",,,204593131.0,217819.0,False,Member
 Vacant,Trustee,College Of William And Mary,,,,,,16285277.0,231624.0,True,Member
+Rev. William H. Ameiss,President,Concordia University,Board of Regents (Concordia University),,"Northern Illinois District, The Lutheran Church-Missouri Synod",,,19406000.0,144351.0,False,Board President
 Ronald Dietrich,Regent,Concordia University,Board of Regents (Concordia University),,,,,19406000.0,144351.0,False,Member
 John L. Duda,Regent,Concordia University,Board of Regents (Concordia University),,,,,19406000.0,144351.0,False,Member
 Melba J. Hanssen,Vice Chairperson,Concordia University,Board of Regents (Concordia University),,,,,19406000.0,144351.0,False,Board Vice President
@@ -529,7 +533,6 @@ J. Stanley Rogers,Regent,Tennessee Board Of Regents,,,"Senior Partner, Rogers, R
 Debora J. Seivers,Regent,Tennessee Board Of Regents,,Mid Tennessee State,"Partner, Ben Smith Consulting Company",,,,,False,Regent
 Maxine A. Smith,Regent,Tennessee Board Of Regents,,,Educator and Civil Rights Leader,,,,,False,Regent
 The Hon. Jane Walters,Ex Officio Regent,Tennessee Board Of Regents,,Rhodes; U Memphis; Duke,"Commissioner, Education, State of Tennessee",,,,,False,"Regent, Ex Officio"
-The Hon. Riley C. Darnell,Ex Officio Member,Tennessee Board Of Regents,,Austin Peay State 1962 BS; Vanderbilt 1965 JD,"Secretary of State, State of Tennessee",,,,,False,"Regent, Ex Officio"
 Demetra Godsey Boyd,Regent,Tennessee Board Of Regents,,,"Publisher and Editor, The Citizen Tribune",,,,,False,Regent
 Robert Jack Fishman,Regent,Tennessee Board Of Regents,,,"Publisher and Editor, The Citizen Tribune",,,,,False,Regent
 Robert L. Gamble,Regent,Tennessee Board Of Regents,,U Memphis,"President, Gamble Construction Company, Inc",,,,,False,Regent
@@ -580,6 +583,7 @@ Norbert A. Simmons,Regent,University Of Louisville,,,,,,142740786.0,157289.0,Tru
 Pat A. Strong,Regent,University Of Louisville,,,,,,142740786.0,157289.0,True,Trustee
 Barbara Thorne-Thomsen,Regent,University Of Louisville,,,,,,142740786.0,157289.0,True,Trustee
 Roland M. Toups,Regent,University Of Louisville,,,,,,142740786.0,157289.0,True,Trustee
+Phillip R. Dixon,Vice Chairman,University Of North Carolina System,,,,,,4210158053.0,,False,Board Vice President
 Ronald E. Dowdy,Trustee,University Of North Carolina System,,,,,,4210158053.0,,False,Governor
 "Charles R. Franklin, Jr",Secretary,University Of North Carolina System,,,,,,4210158053.0,,False,Other Board Member
 Dan V. Kinlaw,Trustee,University Of North Carolina System,,,,,,4210158053.0,,False,Governor
@@ -614,6 +618,8 @@ Thomas L. Stepp,Trustee,University Of South Carolina,,,,,,155781252.0,218663.0,T
 John C. vonLehe,Trustee,University Of South Carolina,,,,,,155781252.0,218663.0,True,Member
 "Mack I. Whittle, Jr",Trustee,University Of South Carolina,,,,,,155781252.0,218663.0,True,Member
 "Othniel H. Wienges, Jr.",Trustee,University Of South Carolina,,,,,,155781252.0,218663.0,True,Member
+The Hon. Riley C. Darnell,Ex Officio Member,University Of Tennessee System,,,"Secretary of State, State of Tennessee",,,2799495847.0,,False,"Trustee, Ex Officio"
+The Hon. Steve Adams.,Ex Officio Member,University Of Tennessee System,,,"Treasurer, State of Tennessee",,,2799495847.0,,False,"Trustee, Ex Officio"
 William Ransom Jones,Member,University Of Tennessee System,,,,,,2799495847.0,,False,Trustee
 Angela Marie Neal,Ex Officio Member,University Of Tennessee System,,,,,,2799495847.0,,False,"Trustee, Ex Officio"
 John L. Parish,Member,University Of Tennessee System,,,,,,2799495847.0,,False,Trustee
@@ -661,6 +667,7 @@ Lowell S. Peterson,Trustee,Utah State University,,,,,,121980950.0,230728.0,True,
 Jed H. Pitcher,Chairman,Utah State University,,,,,,121980950.0,230728.0,True,Board President
 Melanie P. Raymond,Vice Chairman,Utah State University,,,,,,121980950.0,230728.0,True,Board Vice President
 Sara V. Sinclair,Trustee,Utah State University,,,,,,121980950.0,230728.0,True,Regent
+Philip Altheim,Vice Chairman,Yeshiva University,Albert Einstein College of Medicine,,,,,19772626.0,197708.0,True,Board Vice President
 Diane Belfer,Overseer,Yeshiva University,Albert Einstein College of Medicine,,,,,19772626.0,197708.0,True,Governor
 Renee Belfer,Overseer,Yeshiva University,Albert Einstein College of Medicine,,,,,19772626.0,197708.0,True,Governor
 Robert A. Belfer,Treasurer,Yeshiva University,Albert Einstein College of Medicine,,,,,19772626.0,197708.0,True,Other Board Member
@@ -710,4 +717,7 @@ Elliot K. Wolk,Overseer,Yeshiva University,Albert Einstein College of Medicine,,
 Zygfryd B. Wolloch,Overseer,Yeshiva University,Albert Einstein College of Medicine,,,,,19772626.0,197708.0,True,Governor
 Roy J. Zuckerberg,Overseer,Yeshiva University,Albert Einstein College of Medicine,,,,,19772626.0,197708.0,True,Governor
 John E. Zucotti,Overseer,Yeshiva University,Albert Einstein College of Medicine,,,,,19772626.0,197708.0,True,Governor
-Leonard E. James,"Vice Chancellor, Student Services",Indiana University South Bend,,,,,,4210134870.0,151342.0,False,Board Vice President
+Richard B. Stone.,Trustee,City University Of New York,,,"Wilbur H. Friedman Professor, Tax Law, Columbia UniversityCareer: Assistant to the Solicitor General, United States Department of Justice, 1969-73; Tax Counsel, Cleary, Gottlieb, Steen and Hamilton, 1982-84",,,174216632.0,,False,Trustee
+Bernard Sohmer,Ex Officio Trustee,City University Of New York,,,,,,174216632.0,,False,"Trustee, Ex Officio"
+Bernard Sohmer,"Chairman, University Faculty Senate",City University Of New York,,,,,,174216632.0,,False,Board President
+Patricia B. Spence,Vice Chairperson,University Of Minnesota,,Minnesota BS,"Mayor, Little Falls, MN; Economic Development Director, Morrison County, MN",,,130238516.0,174066.0,True,Board Vice President

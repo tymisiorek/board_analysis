@@ -1,11 +1,6 @@
 import pandas as pd
-import os
-import json
 import numpy as np
-import nltk
-from nltk.corpus import stopwords
 from collections import Counter
-import copy
 from nameparser import HumanName
 
 class Config:
