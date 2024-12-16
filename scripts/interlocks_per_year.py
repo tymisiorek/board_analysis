@@ -1,5 +1,6 @@
 import pandas as pd
 from collections import defaultdict
+import json
 import remove_non_sample as rns
 
 absolute_path = "C:\\Users\\tykun\\\OneDrive\\Documents\\SchoolDocs\VSCodeProjects\\connectedData\\board_analysis\\"
@@ -14,6 +15,18 @@ years = ["1999", "2000", "2005", "2008", "2009", "2013"]
 board_member_dict = defaultdict(set)
 edges_list = []
 nodes_dict = defaultdict(lambda: {'Interlock_Count': 0, 'AffiliationId': None})
+
+# Load base positions from JSON
+base_positions_path = f"{absolute_path}{board_dataframes}full_board_interlocking_positions.json"
+
+with open(base_positions_path, 'r') as json_file:
+    base_positions_data = json.load(json_file)
+
+# Create a dictionary mapping node IDs to positions
+base_positions_dict = {
+    node['id']: {'x': node['x'], 'y': node['y']}
+    for node in base_positions_data['nodes']
+}
 
 # Iterate through each year
 for year in years:
@@ -87,9 +100,18 @@ for year in years:
         return None
 
     nodes_df['female_president'] = nodes_df.apply(lookup_female_president, axis=1)
+    nodes_df['female_president'] = nodes_df['female_president'].fillna('unknown')
+
+    # Add x, y positions from base_positions_dict
+    def get_position(node_id):
+        if node_id in base_positions_dict:
+            return base_positions_dict[node_id]['x'], base_positions_dict[node_id]['y']
+        return None, None  # Default position for missing nodes
+    
+    nodes_df['x'], nodes_df['y'] = zip(*nodes_df['Id'].apply(get_position))
 
     # Ensure correct column order and uniqueness
-    nodes_df = nodes_df[['Id', 'Label', 'Interlock_Count', 'AffiliationId', 'female_president']]
+    nodes_df = nodes_df[['Id', 'Label', 'Interlock_Count', 'AffiliationId', 'female_president', 'x', 'y']]
 
     # Create a DataFrame for edges (interlocks between institutions)
     edges_df = pd.DataFrame(edges_list)
