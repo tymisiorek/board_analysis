@@ -1,0 +1,1259 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-12-15">
+    <creator>NetworkX 3.3</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="interlock_count" type="long" />
+      <attribute id="1" title="affiliation_id" type="string" />
+      <attribute id="2" title="female_president" type="boolean" />
+      <attribute id="3" title="x" type="double" />
+      <attribute id="4" title="y" type="double" />
+    </attributes>
+    <nodes>
+      <node id="Adelphi University" label="Adelphi University">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="71965598.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="117.99017333984375" />
+          <attvalue for="4" value="-253.2743377685547" />
+        </attvalues>
+      </node>
+      <node id="Andrews University" label="Andrews University">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="102298084.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Arizona State University" label="Arizona State University">
+        <attvalues>
+          <attvalue for="0" value="55" />
+          <attvalue for="1" value="55732556.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Auburn University" label="Auburn University">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="82497590.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="167.0890655517578" />
+          <attvalue for="4" value="-268.8982849121094" />
+        </attvalues>
+      </node>
+      <node id="Boston College" label="Boston College">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="103531236.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="202.73301696777344" />
+          <attvalue for="4" value="-62.42593765258789" />
+        </attvalues>
+      </node>
+      <node id="Boston University" label="Boston University">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="111088046.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="83.78654479980469" />
+          <attvalue for="4" value="-206.49639892578125" />
+        </attvalues>
+      </node>
+      <node id="Brandeis University" label="Brandeis University">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="6902469.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="167.50137329101562" />
+          <attvalue for="4" value="-171.27606201171875" />
+        </attvalues>
+      </node>
+      <node id="Brown University" label="Brown University">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="27804330.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="146.6714630126953" />
+          <attvalue for="4" value="-76.67908477783203" />
+        </attvalues>
+      </node>
+      <node id="California Institute Of Technology" label="California Institute Of Technology">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="122411786.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="117.06478118896484" />
+          <attvalue for="4" value="-187.3502655029297" />
+        </attvalues>
+      </node>
+      <node id="Carnegie Mellon University" label="Carnegie Mellon University">
+        <attvalues>
+          <attvalue for="0" value="21" />
+          <attvalue for="1" value="74973139.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="67.49029541015625" />
+          <attvalue for="4" value="-37.694549560546875" />
+        </attvalues>
+      </node>
+      <node id="Case Western Reserve University" label="Case Western Reserve University">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="58956616.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Catholic University Of America" label="Catholic University Of America">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="84470341.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="339.63287353515625" />
+          <attvalue for="4" value="-31.059621810913086" />
+        </attvalues>
+      </node>
+      <node id="Central Michigan University" label="Central Michigan University">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1629065.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="128.48037719726562" />
+          <attvalue for="4" value="-54.40983963012695" />
+        </attvalues>
+      </node>
+      <node id="Chapman University" label="Chapman University">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="185071736.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="197.34716796875" />
+          <attvalue for="4" value="-180.90298461914062" />
+        </attvalues>
+      </node>
+      <node id="Clark Atlanta University" label="Clark Atlanta University">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="52064589.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="-97.72950744628906" />
+          <attvalue for="4" value="-165.16233825683594" />
+        </attvalues>
+      </node>
+      <node id="Cleveland State University" label="Cleveland State University">
+        <attvalues>
+          <attvalue for="0" value="47" />
+          <attvalue for="1" value="102607778.0" />
+          <attvalue for="2" value="true" />
+          <attvalue for="3" value="-52.62959289550781" />
+          <attvalue for="4" value="-117.34696197509766" />
+        </attvalues>
+      </node>
+      <node id="Columbia University" label="Columbia University">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="78577930.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="140.511474609375" />
+          <attvalue for="4" value="-108.99671936035156" />
+        </attvalues>
+      </node>
+      <node id="Cornell University" label="Cornell University">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="205783295.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="75.1374740600586" />
+          <attvalue for="4" value="-110.52142333984375" />
+        </attvalues>
+      </node>
+      <node id="Creighton University" label="Creighton University">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="114493937.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="211.9726104736328" />
+          <attvalue for="4" value="-46.55067825317383" />
+        </attvalues>
+      </node>
+      <node id="Dartmouth College" label="Dartmouth College">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="107672454.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="32.65943145751953" />
+          <attvalue for="4" value="-190.41754150390625" />
+        </attvalues>
+      </node>
+      <node id="Depaul University" label="Depaul University">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="118353179.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="263.77813720703125" />
+          <attvalue for="4" value="-89.36273193359375" />
+        </attvalues>
+      </node>
+      <node id="Duquesne University" label="Duquesne University">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="165102784.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="36.878082275390625" />
+          <attvalue for="4" value="-24.319664001464844" />
+        </attvalues>
+      </node>
+      <node id="East Tennessee State University" label="East Tennessee State University">
+        <attvalues>
+          <attvalue for="0" value="72" />
+          <attvalue for="1" value="119443389.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Emory University" label="Emory University">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="150468666.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="-35.92783737182617" />
+          <attvalue for="4" value="-157.40716552734375" />
+        </attvalues>
+      </node>
+      <node id="Fordham University" label="Fordham University">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="164389053.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="312.2795104980469" />
+          <attvalue for="4" value="-112.62818908691406" />
+        </attvalues>
+      </node>
+      <node id="George Washington University" label="George Washington University">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="193531525.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="0.047279566526412964" />
+          <attvalue for="4" value="-165.3126678466797" />
+        </attvalues>
+      </node>
+      <node id="Georgetown University" label="Georgetown University">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="184565670.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="179.26951599121094" />
+          <attvalue for="4" value="-140.89370727539062" />
+        </attvalues>
+      </node>
+      <node id="Hampton University" label="Hampton University">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="151328261.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Harvard University" label="Harvard University">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="136199984.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="137.6350860595703" />
+          <attvalue for="4" value="-174.6230926513672" />
+        </attvalues>
+      </node>
+      <node id="Hofstra University" label="Hofstra University">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="139290212.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="100.53226470947266" />
+          <attvalue for="4" value="-62.19607162475586" />
+        </attvalues>
+      </node>
+      <node id="Howard University" label="Howard University">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="137853757.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="22.24569320678711" />
+          <attvalue for="4" value="-149.5066680908203" />
+        </attvalues>
+      </node>
+      <node id="Idaho State University" label="Idaho State University">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="106969075.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="8.63111686706543" />
+          <attvalue for="4" value="284.84844970703125" />
+        </attvalues>
+      </node>
+      <node id="Illinois Institute Of Technology" label="Illinois Institute Of Technology">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="180949307.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="248.69769287109375" />
+          <attvalue for="4" value="-120.55695343017578" />
+        </attvalues>
+      </node>
+      <node id="Indiana University Of Pennsylvania" label="Indiana University Of Pennsylvania">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="200885203.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="124.38195037841797" />
+          <attvalue for="4" value="166.14170837402344" />
+        </attvalues>
+      </node>
+      <node id="Iowa State University" label="Iowa State University">
+        <attvalues>
+          <attvalue for="0" value="22" />
+          <attvalue for="1" value="173911158.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Johns Hopkins University" label="Johns Hopkins University">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="145311948.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="87.32246398925781" />
+          <attvalue for="4" value="-124.94715881347656" />
+        </attvalues>
+      </node>
+      <node id="Kansas State University" label="Kansas State University">
+        <attvalues>
+          <attvalue for="0" value="36" />
+          <attvalue for="1" value="189590672.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Kent State University" label="Kent State University">
+        <attvalues>
+          <attvalue for="0" value="80" />
+          <attvalue for="1" value="149910238.0" />
+          <attvalue for="2" value="true" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Lehigh University" label="Lehigh University">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="186143895.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="222.6356658935547" />
+          <attvalue for="4" value="15.234125137329102" />
+        </attvalues>
+      </node>
+      <node id="Loma Linda University" label="Loma Linda University">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="26347476.0" />
+          <attvalue for="2" value="true" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Loyola Marymount University" label="Loyola Marymount University">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="35566140.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="56.27388000488281" />
+          <attvalue for="4" value="-78.02665710449219" />
+        </attvalues>
+      </node>
+      <node id="Loyola University Chicago" label="Loyola University Chicago">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="1925986.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="214.5330352783203" />
+          <attvalue for="4" value="-101.37923431396484" />
+        </attvalues>
+      </node>
+      <node id="Marquette University" label="Marquette University">
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="102461120.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="204.06640625" />
+          <attvalue for="4" value="-81.29647827148438" />
+        </attvalues>
+      </node>
+      <node id="Marshall University" label="Marshall University">
+        <attvalues>
+          <attvalue for="0" value="38" />
+          <attvalue for="1" value="88694374.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="179.17523193359375" />
+          <attvalue for="4" value="7.497568607330322" />
+        </attvalues>
+      </node>
+      <node id="Massachusetts Institute Of Technology" label="Massachusetts Institute Of Technology">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="63966007.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="124.9303970336914" />
+          <attvalue for="4" value="-156.8717041015625" />
+        </attvalues>
+      </node>
+      <node id="Middle Tennessee State University" label="Middle Tennessee State University">
+        <attvalues>
+          <attvalue for="0" value="74" />
+          <attvalue for="1" value="169615421.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Mississippi State University" label="Mississippi State University">
+        <attvalues>
+          <attvalue for="0" value="52" />
+          <attvalue for="1" value="99041443.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="New Jersey Institute Of Technology" label="New Jersey Institute Of Technology">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="118118575.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="167.19915771484375" />
+          <attvalue for="4" value="-16.02423858642578" />
+        </attvalues>
+      </node>
+      <node id="New Mexico State University" label="New Mexico State University">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="10052268.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="212.04757690429688" />
+          <attvalue for="4" value="-206.4840545654297" />
+        </attvalues>
+      </node>
+      <node id="New School University" label="New School University">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="102179633.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="54.37102127075195" />
+          <attvalue for="4" value="-177.890625" />
+        </attvalues>
+      </node>
+      <node id="New York University" label="New York University">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="57206974.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="224.37255859375" />
+          <attvalue for="4" value="-167.1367950439453" />
+        </attvalues>
+      </node>
+      <node id="Northern Arizona University" label="Northern Arizona University">
+        <attvalues>
+          <attvalue for="0" value="54" />
+          <attvalue for="1" value="203172682.0" />
+          <attvalue for="2" value="true" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Ohio State University" label="Ohio State University">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="52357470.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Ohio University" label="Ohio University">
+        <attvalues>
+          <attvalue for="0" value="54" />
+          <attvalue for="1" value="4210106879.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Oklahoma State University" label="Oklahoma State University">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="115475287.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="26.98450469970703" />
+          <attvalue for="4" value="-0.5239874124526978" />
+        </attvalues>
+      </node>
+      <node id="Old Dominion University" label="Old Dominion University">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="81365321.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Pennsylvania State University" label="Pennsylvania State University">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="130769515.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="141.3812255859375" />
+          <attvalue for="4" value="-8.295302391052246" />
+        </attvalues>
+      </node>
+      <node id="Pepperdine University" label="Pepperdine University">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="100191712.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="222.15103149414062" />
+          <attvalue for="4" value="-196.37281799316406" />
+        </attvalues>
+      </node>
+      <node id="Polytechnic University" label="Polytechnic University">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="57206974.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="343.0143127441406" />
+          <attvalue for="4" value="-122.52275085449219" />
+        </attvalues>
+      </node>
+      <node id="Princeton University" label="Princeton University">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="20089843.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="52.78184127807617" />
+          <attvalue for="4" value="-137.89425659179688" />
+        </attvalues>
+      </node>
+      <node id="Rensselaer Polytechnic Institute" label="Rensselaer Polytechnic Institute">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="165799507.0" />
+          <attvalue for="2" value="true" />
+          <attvalue for="3" value="319.3917541503906" />
+          <attvalue for="4" value="-97.13059997558594" />
+        </attvalues>
+      </node>
+      <node id="Rice University" label="Rice University">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="74775410.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="18.273927688598633" />
+          <attvalue for="4" value="-206.4549102783203" />
+        </attvalues>
+      </node>
+      <node id="Rochester Institute Of Technology" label="Rochester Institute Of Technology">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="155173764.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="-59.807395935058594" />
+          <attvalue for="4" value="-77.97698974609375" />
+        </attvalues>
+      </node>
+      <node id="Seton Hall University" label="Seton Hall University">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="12524447.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="234.88018798828125" />
+          <attvalue for="4" value="-8.027533531188965" />
+        </attvalues>
+      </node>
+      <node id="South Dakota State University" label="South Dakota State University">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="177156846.0" />
+          <attvalue for="2" value="true" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Southern Illinois University" label="Southern Illinois University">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="2801502357.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Stanford University" label="Stanford University">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="97018004.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="-21.034086227416992" />
+          <attvalue for="4" value="-181.87742614746094" />
+        </attvalues>
+      </node>
+      <node id="State University Of New York At Albany" label="State University Of New York At Albany">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="392282.0" />
+          <attvalue for="2" value="true" />
+          <attvalue for="3" value="112.31211853027344" />
+          <attvalue for="4" value="-286.9080810546875" />
+        </attvalues>
+      </node>
+      <node id="Temple University" label="Temple University">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="84392919.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="127.74050903320312" />
+          <attvalue for="4" value="-30.646129608154297" />
+        </attvalues>
+      </node>
+      <node id="Thomas Jefferson University" label="Thomas Jefferson University">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="149251103.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="135.27947998046875" />
+          <attvalue for="4" value="24.361589431762695" />
+        </attvalues>
+      </node>
+      <node id="Tufts University" label="Tufts University">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="121934306.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="167.9532012939453" />
+          <attvalue for="4" value="-128.52468872070312" />
+        </attvalues>
+      </node>
+      <node id="University Of Akron" label="University Of Akron">
+        <attvalues>
+          <attvalue for="0" value="80" />
+          <attvalue for="1" value="110152177.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="University Of Alabama" label="University Of Alabama">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="17301866.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="179.57354736328125" />
+          <attvalue for="4" value="-302.55322265625" />
+        </attvalues>
+      </node>
+      <node id="University Of Arizona" label="University Of Arizona">
+        <attvalues>
+          <attvalue for="0" value="51" />
+          <attvalue for="1" value="138006243.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="University Of Chicago" label="University Of Chicago">
+        <attvalues>
+          <attvalue for="0" value="15" />
+          <attvalue for="1" value="40347166.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="99.1562728881836" />
+          <attvalue for="4" value="-89.38878631591797" />
+        </attvalues>
+      </node>
+      <node id="University Of Cincinnati" label="University Of Cincinnati">
+        <attvalues>
+          <attvalue for="0" value="53" />
+          <attvalue for="1" value="63135867.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="University Of Connecticut" label="University Of Connecticut">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="140172145.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="256.28338623046875" />
+          <attvalue for="4" value="-159.10406494140625" />
+        </attvalues>
+      </node>
+      <node id="University Of Dayton" label="University Of Dayton">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="127591826.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="239.18032836914062" />
+          <attvalue for="4" value="-73.53849792480469" />
+        </attvalues>
+      </node>
+      <node id="University Of Delaware" label="University Of Delaware">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="86501945.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="137.11778259277344" />
+          <attvalue for="4" value="-142.55967712402344" />
+        </attvalues>
+      </node>
+      <node id="University Of Idaho" label="University Of Idaho">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="155093810.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="20.113008499145508" />
+          <attvalue for="4" value="303.44012451171875" />
+        </attvalues>
+      </node>
+      <node id="University Of Illinois At Urbana Champaign" label="University Of Illinois At Urbana Champaign">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="157725225.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="389.1515197753906" />
+          <attvalue for="4" value="-89.33480834960938" />
+        </attvalues>
+      </node>
+      <node id="University Of Iowa" label="University Of Iowa">
+        <attvalues>
+          <attvalue for="0" value="22" />
+          <attvalue for="1" value="126307644.0" />
+          <attvalue for="2" value="true" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="University Of Kansas" label="University Of Kansas">
+        <attvalues>
+          <attvalue for="0" value="37" />
+          <attvalue for="1" value="146416000.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="University Of Massachusetts Worcester" label="University Of Massachusetts Worcester">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="166722992.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="113.8287124633789" />
+          <attvalue for="4" value="-198.7240753173828" />
+        </attvalues>
+      </node>
+      <node id="University Of Michigan" label="University Of Michigan">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="27837315.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="182.83493041992188" />
+          <attvalue for="4" value="-93.5655288696289" />
+        </attvalues>
+      </node>
+      <node id="University Of Mississippi" label="University Of Mississippi">
+        <attvalues>
+          <attvalue for="0" value="52" />
+          <attvalue for="1" value="368840534.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="University Of New Mexico" label="University Of New Mexico">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="169521973.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="278.0610046386719" />
+          <attvalue for="4" value="-188.5745849609375" />
+        </attvalues>
+      </node>
+      <node id="University Of North Carolina At Greensboro" label="University Of North Carolina At Greensboro">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="169335092.0" />
+          <attvalue for="2" value="true" />
+          <attvalue for="3" value="270.01666259765625" />
+          <attvalue for="4" value="-173.03152465820312" />
+        </attvalues>
+      </node>
+      <node id="University Of North Texas" label="University Of North Texas">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="123534392.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="University Of Notre Dame" label="University Of Notre Dame">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="107639228.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="282.0759582519531" />
+          <attvalue for="4" value="-38.82631301879883" />
+        </attvalues>
+      </node>
+      <node id="University Of Oklahoma" label="University Of Oklahoma">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="8692664.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="35.08598709106445" />
+          <attvalue for="4" value="-8.335899353027344" />
+        </attvalues>
+      </node>
+      <node id="University Of Pittsburgh" label="University Of Pittsburgh">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="170201317.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="20.708473205566406" />
+          <attvalue for="4" value="-46.412872314453125" />
+        </attvalues>
+      </node>
+      <node id="University Of Rochester" label="University Of Rochester">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="5388228.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="-37.38568115234375" />
+          <attvalue for="4" value="-85.84461212158203" />
+        </attvalues>
+      </node>
+      <node id="University Of San Diego" label="University Of San Diego">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="160856358.0" />
+          <attvalue for="2" value="true" />
+          <attvalue for="3" value="275.5225524902344" />
+          <attvalue for="4" value="-143.970703125" />
+        </attvalues>
+      </node>
+      <node id="University Of South Alabama" label="University Of South Alabama">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="83809506.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="174.90805053710938" />
+          <attvalue for="4" value="-278.9024353027344" />
+        </attvalues>
+      </node>
+      <node id="University Of South Dakota" label="University Of South Dakota">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="189957204.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="University Of Southern California" label="University Of Southern California">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="1174212.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="51.73260498046875" />
+          <attvalue for="4" value="-93.63639068603516" />
+        </attvalues>
+      </node>
+      <node id="University Of Southern Mississippi" label="University Of Southern Mississippi">
+        <attvalues>
+          <attvalue for="0" value="54" />
+          <attvalue for="1" value="44854399.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="University Of St Thomas Minnesota" label="University Of St Thomas Minnesota">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="161515732.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="309.9584655761719" />
+          <attvalue for="4" value="-54.67094802856445" />
+        </attvalues>
+      </node>
+      <node id="University Of Texas At Brownsville/Texas Southmost College" label="University Of Texas At Brownsville/Texas Southmost College">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2802326326.0" />
+          <attvalue for="2" value="true" />
+          <attvalue for="3" value="184.2235870361328" />
+          <attvalue for="4" value="-245.3551025390625" />
+        </attvalues>
+      </node>
+      <node id="University Of Tulsa" label="University Of Tulsa">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="87208437.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="34.931522369384766" />
+          <attvalue for="4" value="-54.57850646972656" />
+        </attvalues>
+      </node>
+      <node id="University Of Utah" label="University Of Utah">
+        <attvalues>
+          <attvalue for="0" value="37" />
+          <attvalue for="1" value="223532165.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="200.78292846679688" />
+          <attvalue for="4" value="-261.125" />
+        </attvalues>
+      </node>
+      <node id="University Of Washington" label="University Of Washington">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="201448701.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="193.31027221679688" />
+          <attvalue for="4" value="-225.2105255126953" />
+        </attvalues>
+      </node>
+      <node id="Utah State University" label="Utah State University">
+        <attvalues>
+          <attvalue for="0" value="37" />
+          <attvalue for="1" value="121980950.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="191.8596954345703" />
+          <attvalue for="4" value="-253.19020080566406" />
+        </attvalues>
+      </node>
+      <node id="Villanova University" label="Villanova University">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="7863295.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="248.52542114257812" />
+          <attvalue for="4" value="-0.2667957544326782" />
+        </attvalues>
+      </node>
+      <node id="Wake Forest University" label="Wake Forest University">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="47251452.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="293.59161376953125" />
+          <attvalue for="4" value="-154.59988403320312" />
+        </attvalues>
+      </node>
+      <node id="West Chester University Of Pennsylvania" label="West Chester University Of Pennsylvania">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="161171246.0" />
+          <attvalue for="2" value="true" />
+          <attvalue for="3" value="121.54682922363281" />
+          <attvalue for="4" value="173.9683074951172" />
+        </attvalues>
+      </node>
+      <node id="West Virginia University" label="West Virginia University">
+        <attvalues>
+          <attvalue for="0" value="38" />
+          <attvalue for="1" value="12097938.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="155.36204528808594" />
+          <attvalue for="4" value="-0.4934988021850586" />
+        </attvalues>
+      </node>
+      <node id="Wichita State University" label="Wichita State University">
+        <attvalues>
+          <attvalue for="0" value="35" />
+          <attvalue for="1" value="39587148.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Widener University" label="Widener University">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="138659443.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="134.1648712158203" />
+          <attvalue for="4" value="36.70846939086914" />
+        </attvalues>
+      </node>
+      <node id="Worcester Polytechnic Institute" label="Worcester Polytechnic Institute">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="107077323.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="42.14924240112305" />
+          <attvalue for="4" value="-16.074928283691406" />
+        </attvalues>
+      </node>
+      <node id="Yale University" label="Yale University">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="32971472.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="146.2334747314453" />
+          <attvalue for="4" value="-211.68907165527344" />
+        </attvalues>
+      </node>
+      <node id="Yeshiva University" label="Yeshiva University">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="19772626.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="161.66741943359375" />
+          <attvalue for="4" value="-117.21226501464844" />
+        </attvalues>
+      </node>
+      <node id="Rockefeller University" label="Rockefeller University">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="83399316.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="116.73462677001953" />
+          <attvalue for="4" value="-132.13729858398438" />
+        </attvalues>
+      </node>
+      <node id="Saint Louis University" label="Saint Louis University">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="47838141.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="356.79107666015625" />
+          <attvalue for="4" value="-180.80630493164062" />
+        </attvalues>
+      </node>
+      <node id="Southern Illinois University System" label="Southern Illinois University System">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="2801502357.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Stevens Institute Of Technology" label="Stevens Institute Of Technology">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="108468826.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="86.56961822509766" />
+          <attvalue for="4" value="12.580126762390137" />
+        </attvalues>
+      </node>
+      <node id="Tennessee State University" label="Tennessee State University">
+        <attvalues>
+          <attvalue for="0" value="73" />
+          <attvalue for="1" value="75256744.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Tennessee Technological University" label="Tennessee Technological University">
+        <attvalues>
+          <attvalue for="0" value="58" />
+          <attvalue for="1" value="63920570.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="University At Albany Suny" label="University At Albany Suny">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="392282.0" />
+          <attvalue for="2" value="true" />
+          <attvalue for="3" value="100.6688232421875" />
+          <attvalue for="4" value="-294.64837646484375" />
+        </attvalues>
+      </node>
+      <node id="University Of Memphis" label="University Of Memphis">
+        <attvalues>
+          <attvalue for="0" value="73" />
+          <attvalue for="1" value="94658018.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="University Of Pennsylvania" label="University Of Pennsylvania">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="79576946.0" />
+          <attvalue for="2" value="true" />
+          <attvalue for="3" value="160.08399963378906" />
+          <attvalue for="4" value="-63.57707977294922" />
+        </attvalues>
+      </node>
+      <node id="University Of San Francisco" label="University Of San Francisco">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="76766440.0" />
+          <attvalue for="2" value="false" />
+          <attvalue for="3" value="176.1520538330078" />
+          <attvalue for="4" value="-38.633705139160156" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Adelphi University" target="State University Of New York At Albany" id="0" weight="1" type="Undirected" />
+      <edge source="Andrews University" target="Loma Linda University" id="1" weight="1" type="Undirected" />
+      <edge source="Arizona State University" target="Northern Arizona University" id="2" weight="1" type="Undirected" />
+      <edge source="Arizona State University" target="University Of Arizona" id="3" weight="1" type="Undirected" />
+      <edge source="Auburn University" target="University Of Alabama" id="4" weight="1" type="Undirected" />
+      <edge source="Auburn University" target="University Of South Alabama" id="5" weight="1" type="Undirected" />
+      <edge source="Auburn University" target="New School University" id="6" weight="1" type="Undirected" />
+      <edge source="Auburn University" target="University Of Texas At Brownsville/Texas Southmost College" id="7" weight="1" type="Undirected" />
+      <edge source="Boston College" target="Loyola University Chicago" id="8" weight="1" type="Undirected" />
+      <edge source="Boston University" target="Massachusetts Institute Of Technology" id="9" weight="1" type="Undirected" />
+      <edge source="Brandeis University" target="Fordham University" id="10" weight="1" type="Undirected" />
+      <edge source="Brandeis University" target="Tufts University" id="11" weight="1" type="Undirected" />
+      <edge source="Brandeis University" target="University Of Washington" id="12" weight="1" type="Undirected" />
+      <edge source="Brandeis University" target="University Of Massachusetts Worcester" id="13" weight="1" type="Undirected" />
+      <edge source="Brown University" target="Johns Hopkins University" id="14" weight="1" type="Undirected" />
+      <edge source="Brown University" target="Tufts University" id="15" weight="1" type="Undirected" />
+      <edge source="California Institute Of Technology" target="Harvard University" id="16" weight="1" type="Undirected" />
+      <edge source="California Institute Of Technology" target="Pepperdine University" id="17" weight="1" type="Undirected" />
+      <edge source="California Institute Of Technology" target="Chapman University" id="18" weight="1" type="Undirected" />
+      <edge source="Carnegie Mellon University" target="Duquesne University" id="19" weight="1" type="Undirected" />
+      <edge source="Carnegie Mellon University" target="University Of Oklahoma" id="20" weight="1" type="Undirected" />
+      <edge source="Carnegie Mellon University" target="University Of Pittsburgh" id="21" weight="1" type="Undirected" />
+      <edge source="Carnegie Mellon University" target="University Of Southern California" id="22" weight="1" type="Undirected" />
+      <edge source="Carnegie Mellon University" target="University Of Tulsa" id="23" weight="1" type="Undirected" />
+      <edge source="Carnegie Mellon University" target="Worcester Polytechnic Institute" id="24" weight="1" type="Undirected" />
+      <edge source="Case Western Reserve University" target="Columbia University" id="25" weight="1" type="Undirected" />
+      <edge source="Case Western Reserve University" target="Ohio State University" id="26" weight="1" type="Undirected" />
+      <edge source="Case Western Reserve University" target="University Of Pennsylvania" id="27" weight="1" type="Undirected" />
+      <edge source="Catholic University Of America" target="Seton Hall University" id="28" weight="1" type="Undirected" />
+      <edge source="Central Michigan University" target="University Of Michigan" id="29" weight="1" type="Undirected" />
+      <edge source="Clark Atlanta University" target="Emory University" id="30" weight="1" type="Undirected" />
+      <edge source="Cleveland State University" target="Ohio University" id="31" weight="1" type="Undirected" />
+      <edge source="Cleveland State University" target="Kent State University" id="32" weight="1" type="Undirected" />
+      <edge source="Cleveland State University" target="University Of Akron" id="33" weight="1" type="Undirected" />
+      <edge source="Cleveland State University" target="University Of Cincinnati" id="34" weight="1" type="Undirected" />
+      <edge source="Columbia University" target="Yeshiva University" id="35" weight="1" type="Undirected" />
+      <edge source="Cornell University" target="Stanford University" id="36" weight="1" type="Undirected" />
+      <edge source="Cornell University" target="University Of Tulsa" id="37" weight="1" type="Undirected" />
+      <edge source="Creighton University" target="Loyola University Chicago" id="38" weight="1" type="Undirected" />
+      <edge source="Dartmouth College" target="New School University" id="39" weight="1" type="Undirected" />
+      <edge source="Dartmouth College" target="Rockefeller University" id="40" weight="1" type="Undirected" />
+      <edge source="Depaul University" target="University Of Illinois At Urbana Champaign" id="41" weight="1" type="Undirected" />
+      <edge source="East Tennessee State University" target="Middle Tennessee State University" id="42" weight="1" type="Undirected" />
+      <edge source="East Tennessee State University" target="Tennessee State University" id="43" weight="1" type="Undirected" />
+      <edge source="East Tennessee State University" target="Tennessee Technological University" id="44" weight="1" type="Undirected" />
+      <edge source="East Tennessee State University" target="University Of Memphis" id="45" weight="1" type="Undirected" />
+      <edge source="Fordham University" target="Georgetown University" id="46" weight="1" type="Undirected" />
+      <edge source="George Washington University" target="Marquette University" id="47" weight="1" type="Undirected" />
+      <edge source="George Washington University" target="Massachusetts Institute Of Technology" id="48" weight="1" type="Undirected" />
+      <edge source="George Washington University" target="Pepperdine University" id="49" weight="1" type="Undirected" />
+      <edge source="Georgetown University" target="New York University" id="50" weight="1" type="Undirected" />
+      <edge source="Georgetown University" target="University Of Delaware" id="51" weight="1" type="Undirected" />
+      <edge source="Georgetown University" target="Rockefeller University" id="52" weight="1" type="Undirected" />
+      <edge source="Georgetown University" target="Saint Louis University" id="53" weight="1" type="Undirected" />
+      <edge source="Georgetown University" target="University Of Connecticut" id="54" weight="1" type="Undirected" />
+      <edge source="Hampton University" target="Old Dominion University" id="55" weight="1" type="Undirected" />
+      <edge source="Hofstra University" target="University Of Pittsburgh" id="56" weight="1" type="Undirected" />
+      <edge source="Hofstra University" target="Yeshiva University" id="57" weight="1" type="Undirected" />
+      <edge source="Howard University" target="Johns Hopkins University" id="58" weight="1" type="Undirected" />
+      <edge source="Idaho State University" target="University Of Idaho" id="59" weight="1" type="Undirected" />
+      <edge source="Illinois Institute Of Technology" target="Loyola University Chicago" id="60" weight="1" type="Undirected" />
+      <edge source="Illinois Institute Of Technology" target="University Of Chicago" id="61" weight="1" type="Undirected" />
+      <edge source="Indiana University Of Pennsylvania" target="West Chester University Of Pennsylvania" id="62" weight="1" type="Undirected" />
+      <edge source="Iowa State University" target="University Of Iowa" id="63" weight="1" type="Undirected" />
+      <edge source="Johns Hopkins University" target="University Of Rochester" id="64" weight="1" type="Undirected" />
+      <edge source="Johns Hopkins University" target="Massachusetts Institute Of Technology" id="65" weight="1" type="Undirected" />
+      <edge source="Kansas State University" target="University Of Kansas" id="66" weight="1" type="Undirected" />
+      <edge source="Kansas State University" target="Wichita State University" id="67" weight="1" type="Undirected" />
+      <edge source="Kent State University" target="Ohio University" id="68" weight="1" type="Undirected" />
+      <edge source="Kent State University" target="University Of Akron" id="69" weight="1" type="Undirected" />
+      <edge source="Kent State University" target="University Of Cincinnati" id="70" weight="1" type="Undirected" />
+      <edge source="Lehigh University" target="Seton Hall University" id="71" weight="1" type="Undirected" />
+      <edge source="Loyola Marymount University" target="University Of Southern California" id="72" weight="1" type="Undirected" />
+      <edge source="Loyola University Chicago" target="University Of San Diego" id="73" weight="1" type="Undirected" />
+      <edge source="Loyola University Chicago" target="University Of San Francisco" id="74" weight="1" type="Undirected" />
+      <edge source="Marquette University" target="University Of Chicago" id="75" weight="1" type="Undirected" />
+      <edge source="Marquette University" target="University Of St Thomas Minnesota" id="76" weight="1" type="Undirected" />
+      <edge source="Marquette University" target="University Of Dayton" id="77" weight="1" type="Undirected" />
+      <edge source="Marshall University" target="West Virginia University" id="78" weight="1" type="Undirected" />
+      <edge source="Massachusetts Institute Of Technology" target="Rockefeller University" id="79" weight="1" type="Undirected" />
+      <edge source="Massachusetts Institute Of Technology" target="University Of North Carolina At Greensboro" id="80" weight="1" type="Undirected" />
+      <edge source="Massachusetts Institute Of Technology" target="Yeshiva University" id="81" weight="1" type="Undirected" />
+      <edge source="Middle Tennessee State University" target="University Of North Texas" id="82" weight="1" type="Undirected" />
+      <edge source="Middle Tennessee State University" target="Tennessee State University" id="83" weight="1" type="Undirected" />
+      <edge source="Middle Tennessee State University" target="Tennessee Technological University" id="84" weight="1" type="Undirected" />
+      <edge source="Middle Tennessee State University" target="University Of Memphis" id="85" weight="1" type="Undirected" />
+      <edge source="Mississippi State University" target="University Of Mississippi" id="86" weight="1" type="Undirected" />
+      <edge source="Mississippi State University" target="University Of Southern Mississippi" id="87" weight="1" type="Undirected" />
+      <edge source="New Jersey Institute Of Technology" target="University Of Notre Dame" id="88" weight="1" type="Undirected" />
+      <edge source="New Jersey Institute Of Technology" target="University Of Pittsburgh" id="89" weight="1" type="Undirected" />
+      <edge source="New Mexico State University" target="University Of New Mexico" id="90" weight="1" type="Undirected" />
+      <edge source="New School University" target="University Of Chicago" id="91" weight="1" type="Undirected" />
+      <edge source="New School University" target="University Of Texas At Brownsville/Texas Southmost College" id="92" weight="1" type="Undirected" />
+      <edge source="New School University" target="Yale University" id="93" weight="1" type="Undirected" />
+      <edge source="New York University" target="University Of Notre Dame" id="94" weight="1" type="Undirected" />
+      <edge source="New York University" target="Rockefeller University" id="95" weight="1" type="Undirected" />
+      <edge source="New York University" target="University Of Connecticut" id="96" weight="1" type="Undirected" />
+      <edge source="New York University" target="University Of Pennsylvania" id="97" weight="1" type="Undirected" />
+      <edge source="New York University" target="Yeshiva University" id="98" weight="1" type="Undirected" />
+      <edge source="Northern Arizona University" target="University Of Arizona" id="99" weight="1" type="Undirected" />
+      <edge source="Ohio University" target="University Of Akron" id="100" weight="1" type="Undirected" />
+      <edge source="Ohio University" target="University Of Cincinnati" id="101" weight="1" type="Undirected" />
+      <edge source="Oklahoma State University" target="University Of Oklahoma" id="102" weight="1" type="Undirected" />
+      <edge source="Pennsylvania State University" target="Temple University" id="103" weight="1" type="Undirected" />
+      <edge source="Pennsylvania State University" target="University Of Pittsburgh" id="104" weight="1" type="Undirected" />
+      <edge source="Polytechnic University" target="Rensselaer Polytechnic Institute" id="105" weight="1" type="Undirected" />
+      <edge source="Princeton University" target="Rice University" id="106" weight="1" type="Undirected" />
+      <edge source="Princeton University" target="Rockefeller University" id="107" weight="1" type="Undirected" />
+      <edge source="Rice University" target="Stanford University" id="108" weight="1" type="Undirected" />
+      <edge source="Rochester Institute Of Technology" target="University Of Rochester" id="109" weight="1" type="Undirected" />
+      <edge source="Seton Hall University" target="Villanova University" id="110" weight="1" type="Undirected" />
+      <edge source="South Dakota State University" target="University Of South Dakota" id="111" weight="1" type="Undirected" />
+      <edge source="Southern Illinois University" target="Southern Illinois University System" id="112" weight="1" type="Undirected" />
+      <edge source="Stanford University" target="Rockefeller University" id="113" weight="1" type="Undirected" />
+      <edge source="State University Of New York At Albany" target="University At Albany Suny" id="114" weight="1" type="Undirected" />
+      <edge source="Thomas Jefferson University" target="Widener University" id="115" weight="1" type="Undirected" />
+      <edge source="Tufts University" target="University Of Chicago" id="116" weight="1" type="Undirected" />
+      <edge source="Tufts University" target="University Of Delaware" id="117" weight="1" type="Undirected" />
+      <edge source="University Of Akron" target="University Of Cincinnati" id="118" weight="1" type="Undirected" />
+      <edge source="University Of Alabama" target="University Of South Alabama" id="119" weight="1" type="Undirected" />
+      <edge source="University Of Chicago" target="University Of Rochester" id="120" weight="1" type="Undirected" />
+      <edge source="University Of Connecticut" target="Yale University" id="121" weight="1" type="Undirected" />
+      <edge source="University Of Kansas" target="Wichita State University" id="122" weight="1" type="Undirected" />
+      <edge source="University Of Mississippi" target="University Of Southern Mississippi" id="123" weight="1" type="Undirected" />
+      <edge source="University Of North Carolina At Greensboro" target="Wake Forest University" id="124" weight="1" type="Undirected" />
+      <edge source="University Of Notre Dame" target="University Of St Thomas Minnesota" id="125" weight="1" type="Undirected" />
+      <edge source="University Of Oklahoma" target="University Of Tulsa" id="126" weight="1" type="Undirected" />
+      <edge source="University Of Utah" target="Utah State University" id="127" weight="1" type="Undirected" />
+      <edge source="Worcester Polytechnic Institute" target="Stevens Institute Of Technology" id="128" weight="1" type="Undirected" />
+      <edge source="Rockefeller University" target="University Of Pennsylvania" id="129" weight="1" type="Undirected" />
+      <edge source="Tennessee State University" target="Tennessee Technological University" id="130" weight="1" type="Undirected" />
+      <edge source="Tennessee State University" target="University Of Memphis" id="131" weight="1" type="Undirected" />
+      <edge source="Tennessee Technological University" target="University Of Memphis" id="132" weight="1" type="Undirected" />
+    </edges>
+  </graph>
+</gexf>
