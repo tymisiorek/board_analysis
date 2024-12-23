@@ -55,7 +55,7 @@ class Config:
     TEMPORARY_PATH = f"{ABSOLUTE_PATH}{TEMPORARY}"
 
     # Valid Years
-    YEARS = ["1999", "2000", "2005", "2008", "2009", "2013"]
+    YEARS = ["1999", "2000", "2005", "2007", "2008", "2009", "2013", "2018"]
 
 
 # Additional global definitions reused by mark_members and others
@@ -721,7 +721,7 @@ def main():
         print(year)
         combined_single_boards, full_second_board, missing_institutions, university_boards = process_year_data(year, Config.SPLIT_PATH, state_systems)
         marked_boards_single_df = mark_members(combined_single_boards, university_boards).drop_duplicates(keep=False)
-        marked_boards_single_df.to_csv(f"{Config.BOARDS_PATH}{year}_single_board.csv", index=False)
+        marked_boards_single_df.to_csv(f"{Config.BOARDS_PATH}{year}_boards.csv", index=False)
 
         marked_boards_double_df = mark_members(full_second_board, university_boards).drop_duplicates(keep=False)
         marked_boards_double_df.to_csv(f"{Config.BOARDS_PATH}{year}_double_board.csv", index=False)
