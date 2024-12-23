@@ -55,7 +55,7 @@ class Config:
     TEMPORARY_PATH = f"{ABSOLUTE_PATH}{TEMPORARY}"
 
     # Valid Years
-    YEARS = ["1999", "2000", "2005", "2007", "2008", "2009", "2013", "2018"]
+    YEARS = ["1999", "2000", "2005", "2007", "2008", "2009", "2011", "2013", "2018"]
 
 
 # Additional global definitions reused by mark_members and others

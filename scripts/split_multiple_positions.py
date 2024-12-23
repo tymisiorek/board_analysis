@@ -23,7 +23,7 @@ SCRIPTS = "scripts\\"
 BOARD_DATAFRAMES = "board_dataframes\\"
 SPLIT_DATAFRAMES = "split_dataframes\\"
 TEMPORARY = "temporary_data\\"
-YEARS = ["1999", "2000", "2005", "2007", "2008", "2009", "2013", "2018"]
+YEARS = ["1999", "2000", "2005", "2007", "2008", "2009", "2011", "2013", "2018"]
 
 
 
