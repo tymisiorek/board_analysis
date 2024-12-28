@@ -1,891 +1,636 @@
-Source,Target,Type,Weight
-Case Western Reserve University,Columbia University,Undirected,1
-Carnegie Mellon University,Duquesne University,Undirected,1
-Carnegie Mellon University,Duquesne University,Undirected,1
-Carnegie Mellon University,Duquesne University,Undirected,1
-Clark Atlanta University,Emory University,Undirected,1
-Brandeis University,Fordham University,Undirected,1
-Fordham University,Georgetown University,Undirected,1
-California Institute Of Technology,Harvard University,Undirected,1
-Brown University,Johns Hopkins University,Undirected,1
-Howard University,Johns Hopkins University,Undirected,1
-Andrews University,Loma Linda University,Undirected,1
-Andrews University,Loma Linda University,Undirected,1
-Illinois Institute Of Technology,Loyola University Chicago,Undirected,1
-George Washington University,Marquette University,Undirected,1
-Boston University,Massachusetts Institute Of Technology,Undirected,1
-George Washington University,Massachusetts Institute Of Technology,Undirected,1
-Dartmouth College,New School University,Undirected,1
-Georgetown University,New York University,Undirected,1
-Arizona State University,Northern Arizona University,Undirected,1
-Arizona State University,Northern Arizona University,Undirected,1
-Arizona State University,Northern Arizona University,Undirected,1
-Arizona State University,Northern Arizona University,Undirected,1
-Arizona State University,Northern Arizona University,Undirected,1
-Arizona State University,Northern Arizona University,Undirected,1
-Arizona State University,Northern Arizona University,Undirected,1
-Arizona State University,Northern Arizona University,Undirected,1
-Arizona State University,Northern Arizona University,Undirected,1
-Arizona State University,Northern Arizona University,Undirected,1
-Case Western Reserve University,Ohio State University,Undirected,1
-Kent State University,Ohio University,Undirected,1
-Kent State University,Ohio University,Undirected,1
-Kent State University,Ohio University,Undirected,1
-Kent State University,Ohio University,Undirected,1
-Kent State University,Ohio University,Undirected,1
-Kent State University,Ohio University,Undirected,1
-Kent State University,Ohio University,Undirected,1
-Kent State University,Ohio University,Undirected,1
-Kent State University,Ohio University,Undirected,1
-Kent State University,Ohio University,Undirected,1
-Kent State University,Ohio University,Undirected,1
-Hampton University,Old Dominion University,Undirected,1
-George Washington University,Pepperdine University,Undirected,1
-California Institute Of Technology,Pepperdine University,Undirected,1
-Polytechnic University,Rensselaer Polytechnic Institute,Undirected,1
-Princeton University,Rice University,Undirected,1
-Lehigh University,Seton Hall University,Undirected,1
-Adelphi University,State University Of New York At Albany,Undirected,1
-Pennsylvania State University,Temple University,Undirected,1
-Pennsylvania State University,Temple University,Undirected,1
-Brandeis University,Tufts University,Undirected,1
-Ohio University,University Of Akron,Undirected,1
-Kent State University,University Of Akron,Undirected,1
-Ohio University,University Of Akron,Undirected,1
-Kent State University,University Of Akron,Undirected,1
-Ohio University,University Of Akron,Undirected,1
-Kent State University,University Of Akron,Undirected,1
-Ohio University,University Of Akron,Undirected,1
-Kent State University,University Of Akron,Undirected,1
-Ohio University,University Of Akron,Undirected,1
-Kent State University,University Of Akron,Undirected,1
-Ohio University,University Of Akron,Undirected,1
-Kent State University,University Of Akron,Undirected,1
-Ohio University,University Of Akron,Undirected,1
-Kent State University,University Of Akron,Undirected,1
-Ohio University,University Of Akron,Undirected,1
-Kent State University,University Of Akron,Undirected,1
-Ohio University,University Of Akron,Undirected,1
-Kent State University,University Of Akron,Undirected,1
-Ohio University,University Of Akron,Undirected,1
-Kent State University,University Of Akron,Undirected,1
-Ohio University,University Of Akron,Undirected,1
-Kent State University,University Of Akron,Undirected,1
-Auburn University,University Of Alabama,Undirected,1
-Arizona State University,University Of Arizona,Undirected,1
-Northern Arizona University,University Of Arizona,Undirected,1
-Arizona State University,University Of Arizona,Undirected,1
-Northern Arizona University,University Of Arizona,Undirected,1
-Arizona State University,University Of Arizona,Undirected,1
-Northern Arizona University,University Of Arizona,Undirected,1
-Arizona State University,University Of Arizona,Undirected,1
-Arizona State University,University Of Arizona,Undirected,1
-Northern Arizona University,University Of Arizona,Undirected,1
-Arizona State University,University Of Arizona,Undirected,1
-Arizona State University,University Of Arizona,Undirected,1
-Northern Arizona University,University Of Arizona,Undirected,1
-Arizona State University,University Of Arizona,Undirected,1
-Northern Arizona University,University Of Arizona,Undirected,1
-Arizona State University,University Of Arizona,Undirected,1
-Northern Arizona University,University Of Arizona,Undirected,1
-Tufts University,University Of Chicago,Undirected,1
-Illinois Institute Of Technology,University Of Chicago,Undirected,1
-Marquette University,University Of Chicago,Undirected,1
-New School University,University Of Chicago,Undirected,1
-Ohio University,University Of Cincinnati,Undirected,1
-Kent State University,University Of Cincinnati,Undirected,1
-University Of Akron,University Of Cincinnati,Undirected,1
-Ohio University,University Of Cincinnati,Undirected,1
-Kent State University,University Of Cincinnati,Undirected,1
-University Of Akron,University Of Cincinnati,Undirected,1
-Ohio University,University Of Cincinnati,Undirected,1
-Kent State University,University Of Cincinnati,Undirected,1
-University Of Akron,University Of Cincinnati,Undirected,1
-Ohio University,University Of Cincinnati,Undirected,1
-Kent State University,University Of Cincinnati,Undirected,1
-University Of Akron,University Of Cincinnati,Undirected,1
-Ohio University,University Of Cincinnati,Undirected,1
-Kent State University,University Of Cincinnati,Undirected,1
-University Of Akron,University Of Cincinnati,Undirected,1
-Ohio University,University Of Cincinnati,Undirected,1
-Kent State University,University Of Cincinnati,Undirected,1
-University Of Akron,University Of Cincinnati,Undirected,1
-Ohio University,University Of Cincinnati,Undirected,1
-Kent State University,University Of Cincinnati,Undirected,1
-University Of Akron,University Of Cincinnati,Undirected,1
-Ohio University,University Of Cincinnati,Undirected,1
-Kent State University,University Of Cincinnati,Undirected,1
-University Of Akron,University Of Cincinnati,Undirected,1
-Ohio University,University Of Cincinnati,Undirected,1
-Kent State University,University Of Cincinnati,Undirected,1
-University Of Akron,University Of Cincinnati,Undirected,1
-Ohio University,University Of Cincinnati,Undirected,1
-Kent State University,University Of Cincinnati,Undirected,1
-University Of Akron,University Of Cincinnati,Undirected,1
-Tufts University,University Of Delaware,Undirected,1
-Georgetown University,University Of Delaware,Undirected,1
-Idaho State University,University Of Idaho,Undirected,1
-Idaho State University,University Of Idaho,Undirected,1
-Idaho State University,University Of Idaho,Undirected,1
-Depaul University,University Of Illinois At Urbana Champaign,Undirected,1
-Iowa State University,University Of Iowa,Undirected,1
-Iowa State University,University Of Iowa,Undirected,1
-Iowa State University,University Of Iowa,Undirected,1
-Iowa State University,University Of Iowa,Undirected,1
-Iowa State University,University Of Iowa,Undirected,1
-Iowa State University,University Of Iowa,Undirected,1
-Iowa State University,University Of Iowa,Undirected,1
-Iowa State University,University Of Iowa,Undirected,1
-Iowa State University,University Of Iowa,Undirected,1
-Kansas State University,University Of Kansas,Undirected,1
-Kansas State University,University Of Kansas,Undirected,1
-Kansas State University,University Of Kansas,Undirected,1
-Kansas State University,University Of Kansas,Undirected,1
-Kansas State University,University Of Kansas,Undirected,1
-Kansas State University,University Of Kansas,Undirected,1
-Kansas State University,University Of Kansas,Undirected,1
-Kansas State University,University Of Kansas,Undirected,1
-Mississippi State University,University Of Mississippi,Undirected,1
-Mississippi State University,University Of Mississippi,Undirected,1
-Mississippi State University,University Of Mississippi,Undirected,1
-Mississippi State University,University Of Mississippi,Undirected,1
-Mississippi State University,University Of Mississippi,Undirected,1
-Mississippi State University,University Of Mississippi,Undirected,1
-Mississippi State University,University Of Mississippi,Undirected,1
-Mississippi State University,University Of Mississippi,Undirected,1
-Mississippi State University,University Of Mississippi,Undirected,1
-New Mexico State University,University Of New Mexico,Undirected,1
-Middle Tennessee State University,University Of North Texas,Undirected,1
-New York University,University Of Notre Dame,Undirected,1
-New Jersey Institute Of Technology,University Of Notre Dame,Undirected,1
-Oklahoma State University,University Of Oklahoma,Undirected,1
-Carnegie Mellon University,University Of Oklahoma,Undirected,1
-Oklahoma State University,University Of Oklahoma,Undirected,1
-Oklahoma State University,University Of Oklahoma,Undirected,1
-Hofstra University,University Of Pittsburgh,Undirected,1
-New Jersey Institute Of Technology,University Of Pittsburgh,Undirected,1
-Carnegie Mellon University,University Of Pittsburgh,Undirected,1
-University Of Chicago,University Of Rochester,Undirected,1
-Johns Hopkins University,University Of Rochester,Undirected,1
-Rochester Institute Of Technology,University Of Rochester,Undirected,1
-University Of Alabama,University Of South Alabama,Undirected,1
-Auburn University,University Of South Alabama,Undirected,1
-South Dakota State University,University Of South Dakota,Undirected,1
-South Dakota State University,University Of South Dakota,Undirected,1
-South Dakota State University,University Of South Dakota,Undirected,1
-South Dakota State University,University Of South Dakota,Undirected,1
-Loyola Marymount University,University Of Southern California,Undirected,1
-Carnegie Mellon University,University Of Southern California,Undirected,1
-University Of Mississippi,University Of Southern Mississippi,Undirected,1
-Mississippi State University,University Of Southern Mississippi,Undirected,1
-University Of Mississippi,University Of Southern Mississippi,Undirected,1
-Mississippi State University,University Of Southern Mississippi,Undirected,1
-University Of Mississippi,University Of Southern Mississippi,Undirected,1
-Mississippi State University,University Of Southern Mississippi,Undirected,1
-University Of Mississippi,University Of Southern Mississippi,Undirected,1
-Mississippi State University,University Of Southern Mississippi,Undirected,1
-University Of Mississippi,University Of Southern Mississippi,Undirected,1
-Mississippi State University,University Of Southern Mississippi,Undirected,1
-University Of Mississippi,University Of Southern Mississippi,Undirected,1
-University Of Mississippi,University Of Southern Mississippi,Undirected,1
-Mississippi State University,University Of Southern Mississippi,Undirected,1
-University Of Mississippi,University Of Southern Mississippi,Undirected,1
-Mississippi State University,University Of Southern Mississippi,Undirected,1
-University Of Mississippi,University Of Southern Mississippi,Undirected,1
-Mississippi State University,University Of Southern Mississippi,Undirected,1
-Mississippi State University,University Of Southern Mississippi,Undirected,1
-University Of Mississippi,University Of Southern Mississippi,Undirected,1
-Mississippi State University,University Of Southern Mississippi,Undirected,1
-University Of Notre Dame,University Of St Thomas Minnesota,Undirected,1
-Marquette University,University Of St Thomas Minnesota,Undirected,1
-University Of Oklahoma,University Of Tulsa,Undirected,1
-Carnegie Mellon University,University Of Tulsa,Undirected,1
-University Of Utah,Utah State University,Undirected,1
-University Of Utah,Utah State University,Undirected,1
-University Of Utah,Utah State University,Undirected,1
-University Of Utah,Utah State University,Undirected,1
-University Of Utah,Utah State University,Undirected,1
-University Of Utah,Utah State University,Undirected,1
-University Of Utah,Utah State University,Undirected,1
-University Of Utah,Utah State University,Undirected,1
-University Of Utah,Utah State University,Undirected,1
-University Of Utah,Utah State University,Undirected,1
-University Of Utah,Utah State University,Undirected,1
-University Of Utah,Utah State University,Undirected,1
-University Of Utah,Utah State University,Undirected,1
-University Of Utah,Utah State University,Undirected,1
-Seton Hall University,Villanova University,Undirected,1
-University Of North Carolina At Greensboro,Wake Forest University,Undirected,1
-Indiana University Of Pennsylvania,West Chester University Of Pennsylvania,Undirected,1
-Indiana University Of Pennsylvania,West Chester University Of Pennsylvania,Undirected,1
-Marshall University,West Virginia University,Undirected,1
-Marshall University,West Virginia University,Undirected,1
-Marshall University,West Virginia University,Undirected,1
-Marshall University,West Virginia University,Undirected,1
-Marshall University,West Virginia University,Undirected,1
-Marshall University,West Virginia University,Undirected,1
-Marshall University,West Virginia University,Undirected,1
-Marshall University,West Virginia University,Undirected,1
-Marshall University,West Virginia University,Undirected,1
-Marshall University,West Virginia University,Undirected,1
-Marshall University,West Virginia University,Undirected,1
-Marshall University,West Virginia University,Undirected,1
-Marshall University,West Virginia University,Undirected,1
-Marshall University,West Virginia University,Undirected,1
-Marshall University,West Virginia University,Undirected,1
-Marshall University,West Virginia University,Undirected,1
-University Of Kansas,Wichita State University,Undirected,1
-Kansas State University,Wichita State University,Undirected,1
-University Of Kansas,Wichita State University,Undirected,1
-Kansas State University,Wichita State University,Undirected,1
-University Of Kansas,Wichita State University,Undirected,1
-Kansas State University,Wichita State University,Undirected,1
-University Of Kansas,Wichita State University,Undirected,1
-Kansas State University,Wichita State University,Undirected,1
-University Of Kansas,Wichita State University,Undirected,1
-Kansas State University,Wichita State University,Undirected,1
-University Of Kansas,Wichita State University,Undirected,1
-Kansas State University,Wichita State University,Undirected,1
-University Of Kansas,Wichita State University,Undirected,1
-Kansas State University,Wichita State University,Undirected,1
-University Of Kansas,Wichita State University,Undirected,1
-Kansas State University,Wichita State University,Undirected,1
-University Of Kansas,Wichita State University,Undirected,1
-Thomas Jefferson University,Widener University,Undirected,1
-Carnegie Mellon University,Worcester Polytechnic Institute,Undirected,1
-University Of Connecticut,Yale University,Undirected,1
-Loma Linda University,Andrews University,Undirected,1
-Loma Linda University,Andrews University,Undirected,1
-Northern Arizona University,Arizona State University,Undirected,1
-Northern Arizona University,Arizona State University,Undirected,1
-University Of Arizona,Arizona State University,Undirected,1
-Northern Arizona University,Arizona State University,Undirected,1
-University Of Arizona,Arizona State University,Undirected,1
-Northern Arizona University,Arizona State University,Undirected,1
-University Of Arizona,Arizona State University,Undirected,1
-Northern Arizona University,Arizona State University,Undirected,1
-University Of Arizona,Arizona State University,Undirected,1
-University Of Arizona,Arizona State University,Undirected,1
-Northern Arizona University,Arizona State University,Undirected,1
-University Of Arizona,Arizona State University,Undirected,1
-Northern Arizona University,Arizona State University,Undirected,1
-University Of Arizona,Arizona State University,Undirected,1
-University Of South Alabama,Auburn University,Undirected,1
-University Of Alabama,Auburn University,Undirected,1
-Massachusetts Institute Of Technology,Boston University,Undirected,1
-University Of Washington,Brandeis University,Undirected,1
-Fordham University,Brandeis University,Undirected,1
-University Of Massachusetts Worcester,Brandeis University,Undirected,1
-Johns Hopkins University,Brown University,Undirected,1
-Chapman University,California Institute Of Technology,Undirected,1
-Pepperdine University,California Institute Of Technology,Undirected,1
-Harvard University,California Institute Of Technology,Undirected,1
-Duquesne University,Carnegie Mellon University,Undirected,1
-University Of Southern California,Carnegie Mellon University,Undirected,1
-University Of Pittsburgh,Carnegie Mellon University,Undirected,1
-Duquesne University,Carnegie Mellon University,Undirected,1
-Worcester Polytechnic Institute,Carnegie Mellon University,Undirected,1
-Duquesne University,Carnegie Mellon University,Undirected,1
-Ohio State University,Case Western Reserve University,Undirected,1
-California Institute Of Technology,Chapman University,Undirected,1
-Ohio University,Cleveland State University,Undirected,1
-University Of Cincinnati,Cleveland State University,Undirected,1
-Kent State University,Cleveland State University,Undirected,1
-University Of Akron,Cleveland State University,Undirected,1
-Ohio University,Cleveland State University,Undirected,1
-University Of Cincinnati,Cleveland State University,Undirected,1
-Kent State University,Cleveland State University,Undirected,1
-University Of Akron,Cleveland State University,Undirected,1
-Ohio University,Cleveland State University,Undirected,1
-University Of Cincinnati,Cleveland State University,Undirected,1
-Kent State University,Cleveland State University,Undirected,1
-University Of Akron,Cleveland State University,Undirected,1
-Ohio University,Cleveland State University,Undirected,1
-University Of Cincinnati,Cleveland State University,Undirected,1
-Kent State University,Cleveland State University,Undirected,1
-University Of Akron,Cleveland State University,Undirected,1
-Ohio University,Cleveland State University,Undirected,1
-University Of Cincinnati,Cleveland State University,Undirected,1
-Kent State University,Cleveland State University,Undirected,1
-University Of Akron,Cleveland State University,Undirected,1
-Ohio University,Cleveland State University,Undirected,1
-University Of Cincinnati,Cleveland State University,Undirected,1
-Kent State University,Cleveland State University,Undirected,1
-University Of Akron,Cleveland State University,Undirected,1
-Ohio University,Cleveland State University,Undirected,1
-Kent State University,Cleveland State University,Undirected,1
-University Of Akron,Cleveland State University,Undirected,1
-Ohio University,Cleveland State University,Undirected,1
-University Of Cincinnati,Cleveland State University,Undirected,1
-Kent State University,Cleveland State University,Undirected,1
-University Of Akron,Cleveland State University,Undirected,1
-Case Western Reserve University,Columbia University,Undirected,1
-Stanford University,Cornell University,Undirected,1
-New School University,Dartmouth College,Undirected,1
-Carnegie Mellon University,Duquesne University,Undirected,1
-Carnegie Mellon University,Duquesne University,Undirected,1
-Carnegie Mellon University,Duquesne University,Undirected,1
-Clark Atlanta University,Emory University,Undirected,1
-Clark Atlanta University,Emory University,Undirected,1
-Brandeis University,Fordham University,Undirected,1
-Georgetown University,Fordham University,Undirected,1
-Pepperdine University,George Washington University,Undirected,1
-Marquette University,George Washington University,Undirected,1
-Massachusetts Institute Of Technology,George Washington University,Undirected,1
-New York University,Georgetown University,Undirected,1
-University Of Delaware,Georgetown University,Undirected,1
-Fordham University,Georgetown University,Undirected,1
-Old Dominion University,Hampton University,Undirected,1
-California Institute Of Technology,Harvard University,Undirected,1
-University Of Pittsburgh,Hofstra University,Undirected,1
-Johns Hopkins University,Howard University,Undirected,1
-University Of Idaho,Idaho State University,Undirected,1
-University Of Idaho,Idaho State University,Undirected,1
-University Of Chicago,Illinois Institute Of Technology,Undirected,1
-West Chester University Of Pennsylvania,Indiana University Of Pennsylvania,Undirected,1
-West Chester University Of Pennsylvania,Indiana University Of Pennsylvania,Undirected,1
-University Of Iowa,Iowa State University,Undirected,1
-University Of Iowa,Iowa State University,Undirected,1
-University Of Iowa,Iowa State University,Undirected,1
-University Of Iowa,Iowa State University,Undirected,1
-University Of Iowa,Iowa State University,Undirected,1
-University Of Iowa,Iowa State University,Undirected,1
-Brown University,Johns Hopkins University,Undirected,1
-Howard University,Johns Hopkins University,Undirected,1
-University Of Rochester,Johns Hopkins University,Undirected,1
-University Of Kansas,Kansas State University,Undirected,1
-Wichita State University,Kansas State University,Undirected,1
-University Of Kansas,Kansas State University,Undirected,1
-Wichita State University,Kansas State University,Undirected,1
-Ohio University,Kent State University,Undirected,1
-Cleveland State University,Kent State University,Undirected,1
-University Of Cincinnati,Kent State University,Undirected,1
-University Of Akron,Kent State University,Undirected,1
-Ohio University,Kent State University,Undirected,1
-Cleveland State University,Kent State University,Undirected,1
-University Of Cincinnati,Kent State University,Undirected,1
-University Of Akron,Kent State University,Undirected,1
-Ohio University,Kent State University,Undirected,1
-Cleveland State University,Kent State University,Undirected,1
-University Of Cincinnati,Kent State University,Undirected,1
-University Of Akron,Kent State University,Undirected,1
-Ohio University,Kent State University,Undirected,1
-Cleveland State University,Kent State University,Undirected,1
-University Of Cincinnati,Kent State University,Undirected,1
-University Of Akron,Kent State University,Undirected,1
-Ohio University,Kent State University,Undirected,1
-Cleveland State University,Kent State University,Undirected,1
-University Of Cincinnati,Kent State University,Undirected,1
-University Of Akron,Kent State University,Undirected,1
-Ohio University,Kent State University,Undirected,1
-Cleveland State University,Kent State University,Undirected,1
-University Of Cincinnati,Kent State University,Undirected,1
-University Of Akron,Kent State University,Undirected,1
-Cleveland State University,Kent State University,Undirected,1
-Ohio University,Kent State University,Undirected,1
-Cleveland State University,Kent State University,Undirected,1
-University Of Cincinnati,Kent State University,Undirected,1
-University Of Akron,Kent State University,Undirected,1
-University Of Cincinnati,Kent State University,Undirected,1
-Seton Hall University,Lehigh University,Undirected,1
-Andrews University,Loma Linda University,Undirected,1
-Andrews University,Loma Linda University,Undirected,1
-Illinois Institute Of Technology,Loyola University Chicago,Undirected,1
-Creighton University,Loyola University Chicago,Undirected,1
-Boston College,Loyola University Chicago,Undirected,1
-Illinois Institute Of Technology,Loyola University Chicago,Undirected,1
-University Of San Diego,Loyola University Chicago,Undirected,1
-University Of St Thomas Minnesota,Marquette University,Undirected,1
-George Washington University,Marquette University,Undirected,1
-University Of Dayton,Marquette University,Undirected,1
-University Of Chicago,Marquette University,Undirected,1
-West Virginia University,Marshall University,Undirected,1
-West Virginia University,Marshall University,Undirected,1
-West Virginia University,Marshall University,Undirected,1
-West Virginia University,Marshall University,Undirected,1
-West Virginia University,Marshall University,Undirected,1
-West Virginia University,Marshall University,Undirected,1
-West Virginia University,Marshall University,Undirected,1
-West Virginia University,Marshall University,Undirected,1
-West Virginia University,Marshall University,Undirected,1
-Johns Hopkins University,Massachusetts Institute Of Technology,Undirected,1
-Boston University,Massachusetts Institute Of Technology,Undirected,1
-East Tennessee State University,Middle Tennessee State University,Undirected,1
-East Tennessee State University,Middle Tennessee State University,Undirected,1
-East Tennessee State University,Middle Tennessee State University,Undirected,1
-East Tennessee State University,Middle Tennessee State University,Undirected,1
-East Tennessee State University,Middle Tennessee State University,Undirected,1
-East Tennessee State University,Middle Tennessee State University,Undirected,1
-East Tennessee State University,Middle Tennessee State University,Undirected,1
-East Tennessee State University,Middle Tennessee State University,Undirected,1
-East Tennessee State University,Middle Tennessee State University,Undirected,1
-East Tennessee State University,Middle Tennessee State University,Undirected,1
-East Tennessee State University,Middle Tennessee State University,Undirected,1
-East Tennessee State University,Middle Tennessee State University,Undirected,1
-East Tennessee State University,Middle Tennessee State University,Undirected,1
-East Tennessee State University,Middle Tennessee State University,Undirected,1
-East Tennessee State University,Middle Tennessee State University,Undirected,1
-East Tennessee State University,Middle Tennessee State University,Undirected,1
-East Tennessee State University,Middle Tennessee State University,Undirected,1
-East Tennessee State University,Middle Tennessee State University,Undirected,1
-East Tennessee State University,Middle Tennessee State University,Undirected,1
-East Tennessee State University,Middle Tennessee State University,Undirected,1
-University Of Mississippi,Mississippi State University,Undirected,1
-University Of Southern Mississippi,Mississippi State University,Undirected,1
-University Of Mississippi,Mississippi State University,Undirected,1
-University Of Southern Mississippi,Mississippi State University,Undirected,1
-University Of Mississippi,Mississippi State University,Undirected,1
-University Of Southern Mississippi,Mississippi State University,Undirected,1
-University Of Mississippi,Mississippi State University,Undirected,1
-University Of Southern Mississippi,Mississippi State University,Undirected,1
-University Of Mississippi,Mississippi State University,Undirected,1
-University Of Southern Mississippi,Mississippi State University,Undirected,1
-University Of Southern Mississippi,Mississippi State University,Undirected,1
-University Of Pittsburgh,New Jersey Institute Of Technology,Undirected,1
-University Of Notre Dame,New Jersey Institute Of Technology,Undirected,1
-University Of New Mexico,New Mexico State University,Undirected,1
-University Of New Mexico,New Mexico State University,Undirected,1
-Auburn University,New School University,Undirected,1
-Auburn University,New School University,Undirected,1
-University Of Chicago,New School University,Undirected,1
-Georgetown University,New York University,Undirected,1
-Arizona State University,Northern Arizona University,Undirected,1
-Arizona State University,Northern Arizona University,Undirected,1
-Arizona State University,Northern Arizona University,Undirected,1
-Arizona State University,Northern Arizona University,Undirected,1
-University Of Arizona,Northern Arizona University,Undirected,1
-Arizona State University,Northern Arizona University,Undirected,1
-Arizona State University,Northern Arizona University,Undirected,1
-University Of Arizona,Northern Arizona University,Undirected,1
-Arizona State University,Northern Arizona University,Undirected,1
-University Of Arizona,Northern Arizona University,Undirected,1
-Arizona State University,Northern Arizona University,Undirected,1
-University Of Arizona,Northern Arizona University,Undirected,1
-Arizona State University,Northern Arizona University,Undirected,1
-University Of Arizona,Northern Arizona University,Undirected,1
-Arizona State University,Northern Arizona University,Undirected,1
-University Of Arizona,Northern Arizona University,Undirected,1
-Arizona State University,Northern Arizona University,Undirected,1
-University Of Arizona,Northern Arizona University,Undirected,1
-Arizona State University,Northern Arizona University,Undirected,1
-University Of Arizona,Northern Arizona University,Undirected,1
-Case Western Reserve University,Ohio State University,Undirected,1
-University Of Oklahoma,Oklahoma State University,Undirected,1
-University Of Oklahoma,Oklahoma State University,Undirected,1
-Hampton University,Old Dominion University,Undirected,1
-University Of Pittsburgh,Pennsylvania State University,Undirected,1
-Rensselaer Polytechnic Institute,Polytechnic University,Undirected,1
-Polytechnic University,Rensselaer Polytechnic Institute,Undirected,1
-Polytechnic University,Rensselaer Polytechnic Institute,Undirected,1
-Princeton University,Rice University,Undirected,1
-University Of Rochester,Rochester Institute Of Technology,Undirected,1
-Massachusetts Institute Of Technology,Rockefeller University,Undirected,1
-Dartmouth College,Rockefeller University,Undirected,1
-Georgetown University,Rockefeller University,Undirected,1
-Stanford University,Rockefeller University,Undirected,1
-Princeton University,Rockefeller University,Undirected,1
-New York University,Rockefeller University,Undirected,1
-Georgetown University,Saint Louis University,Undirected,1
-Lehigh University,Seton Hall University,Undirected,1
-Villanova University,Seton Hall University,Undirected,1
-Catholic University Of America,Seton Hall University,Undirected,1
-University Of South Dakota,South Dakota State University,Undirected,1
-University Of South Dakota,South Dakota State University,Undirected,1
-University Of South Dakota,South Dakota State University,Undirected,1
-Southern Illinois University,Southern Illinois University System,Undirected,1
-Southern Illinois University,Southern Illinois University System,Undirected,1
-Southern Illinois University,Southern Illinois University System,Undirected,1
-Southern Illinois University,Southern Illinois University System,Undirected,1
-Southern Illinois University,Southern Illinois University System,Undirected,1
-Southern Illinois University,Southern Illinois University System,Undirected,1
-Rice University,Stanford University,Undirected,1
-Rockefeller University,Stanford University,Undirected,1
-Worcester Polytechnic Institute,Stevens Institute Of Technology,Undirected,1
-Pennsylvania State University,Temple University,Undirected,1
-Pennsylvania State University,Temple University,Undirected,1
-Middle Tennessee State University,Tennessee State University,Undirected,1
-East Tennessee State University,Tennessee State University,Undirected,1
-Middle Tennessee State University,Tennessee State University,Undirected,1
-East Tennessee State University,Tennessee State University,Undirected,1
-Middle Tennessee State University,Tennessee State University,Undirected,1
-East Tennessee State University,Tennessee State University,Undirected,1
-Middle Tennessee State University,Tennessee State University,Undirected,1
-East Tennessee State University,Tennessee State University,Undirected,1
-Middle Tennessee State University,Tennessee State University,Undirected,1
-East Tennessee State University,Tennessee State University,Undirected,1
-Middle Tennessee State University,Tennessee State University,Undirected,1
-East Tennessee State University,Tennessee State University,Undirected,1
-Middle Tennessee State University,Tennessee State University,Undirected,1
-East Tennessee State University,Tennessee State University,Undirected,1
-Middle Tennessee State University,Tennessee State University,Undirected,1
-East Tennessee State University,Tennessee State University,Undirected,1
-Middle Tennessee State University,Tennessee State University,Undirected,1
-East Tennessee State University,Tennessee State University,Undirected,1
-Middle Tennessee State University,Tennessee State University,Undirected,1
-East Tennessee State University,Tennessee State University,Undirected,1
-Middle Tennessee State University,Tennessee State University,Undirected,1
-East Tennessee State University,Tennessee State University,Undirected,1
-Middle Tennessee State University,Tennessee State University,Undirected,1
-East Tennessee State University,Tennessee State University,Undirected,1
-Middle Tennessee State University,Tennessee State University,Undirected,1
-East Tennessee State University,Tennessee State University,Undirected,1
-Middle Tennessee State University,Tennessee State University,Undirected,1
-East Tennessee State University,Tennessee State University,Undirected,1
-Middle Tennessee State University,Tennessee State University,Undirected,1
-East Tennessee State University,Tennessee State University,Undirected,1
-Middle Tennessee State University,Tennessee State University,Undirected,1
-East Tennessee State University,Tennessee State University,Undirected,1
-Middle Tennessee State University,Tennessee State University,Undirected,1
-East Tennessee State University,Tennessee State University,Undirected,1
-Middle Tennessee State University,Tennessee State University,Undirected,1
-East Tennessee State University,Tennessee State University,Undirected,1
-Middle Tennessee State University,Tennessee State University,Undirected,1
-East Tennessee State University,Tennessee State University,Undirected,1
-Tennessee State University,Tennessee Technological University,Undirected,1
-Middle Tennessee State University,Tennessee Technological University,Undirected,1
-East Tennessee State University,Tennessee Technological University,Undirected,1
-Tennessee State University,Tennessee Technological University,Undirected,1
-Middle Tennessee State University,Tennessee Technological University,Undirected,1
-East Tennessee State University,Tennessee Technological University,Undirected,1
-Tennessee State University,Tennessee Technological University,Undirected,1
-Middle Tennessee State University,Tennessee Technological University,Undirected,1
-East Tennessee State University,Tennessee Technological University,Undirected,1
-Tennessee State University,Tennessee Technological University,Undirected,1
-Middle Tennessee State University,Tennessee Technological University,Undirected,1
-East Tennessee State University,Tennessee Technological University,Undirected,1
-Tennessee State University,Tennessee Technological University,Undirected,1
-Middle Tennessee State University,Tennessee Technological University,Undirected,1
-East Tennessee State University,Tennessee Technological University,Undirected,1
-Tennessee State University,Tennessee Technological University,Undirected,1
-Tennessee State University,Tennessee Technological University,Undirected,1
-Middle Tennessee State University,Tennessee Technological University,Undirected,1
-East Tennessee State University,Tennessee Technological University,Undirected,1
-Tennessee State University,Tennessee Technological University,Undirected,1
-Middle Tennessee State University,Tennessee Technological University,Undirected,1
-East Tennessee State University,Tennessee Technological University,Undirected,1
-Tennessee State University,Tennessee Technological University,Undirected,1
-Middle Tennessee State University,Tennessee Technological University,Undirected,1
-East Tennessee State University,Tennessee Technological University,Undirected,1
-Tennessee State University,Tennessee Technological University,Undirected,1
-Middle Tennessee State University,Tennessee Technological University,Undirected,1
-East Tennessee State University,Tennessee Technological University,Undirected,1
-Tennessee State University,Tennessee Technological University,Undirected,1
-Middle Tennessee State University,Tennessee Technological University,Undirected,1
-East Tennessee State University,Tennessee Technological University,Undirected,1
-Tennessee State University,Tennessee Technological University,Undirected,1
-Middle Tennessee State University,Tennessee Technological University,Undirected,1
-East Tennessee State University,Tennessee Technological University,Undirected,1
-Tennessee State University,Tennessee Technological University,Undirected,1
-Middle Tennessee State University,Tennessee Technological University,Undirected,1
-East Tennessee State University,Tennessee Technological University,Undirected,1
-Tennessee State University,Tennessee Technological University,Undirected,1
-Middle Tennessee State University,Tennessee Technological University,Undirected,1
-East Tennessee State University,Tennessee Technological University,Undirected,1
-Tennessee State University,Tennessee Technological University,Undirected,1
-Middle Tennessee State University,Tennessee Technological University,Undirected,1
-East Tennessee State University,Tennessee Technological University,Undirected,1
-Widener University,Thomas Jefferson University,Undirected,1
-University Of Delaware,Tufts University,Undirected,1
-University Of Chicago,Tufts University,Undirected,1
-Brandeis University,Tufts University,Undirected,1
-Brown University,Tufts University,Undirected,1
-State University Of New York At Albany,University At Albany Suny,Undirected,1
-State University Of New York At Albany,University At Albany Suny,Undirected,1
-State University Of New York At Albany,University At Albany Suny,Undirected,1
-State University Of New York At Albany,University At Albany Suny,Undirected,1
-State University Of New York At Albany,University At Albany Suny,Undirected,1
-State University Of New York At Albany,University At Albany Suny,Undirected,1
-Ohio University,University Of Akron,Undirected,1
-Cleveland State University,University Of Akron,Undirected,1
-University Of Cincinnati,University Of Akron,Undirected,1
-Kent State University,University Of Akron,Undirected,1
-Ohio University,University Of Akron,Undirected,1
-Cleveland State University,University Of Akron,Undirected,1
-University Of Cincinnati,University Of Akron,Undirected,1
-Kent State University,University Of Akron,Undirected,1
-Ohio University,University Of Akron,Undirected,1
-Cleveland State University,University Of Akron,Undirected,1
-University Of Cincinnati,University Of Akron,Undirected,1
-Kent State University,University Of Akron,Undirected,1
-Ohio University,University Of Akron,Undirected,1
-Cleveland State University,University Of Akron,Undirected,1
-University Of Cincinnati,University Of Akron,Undirected,1
-Kent State University,University Of Akron,Undirected,1
-Ohio University,University Of Akron,Undirected,1
-Cleveland State University,University Of Akron,Undirected,1
-University Of Cincinnati,University Of Akron,Undirected,1
-Kent State University,University Of Akron,Undirected,1
-Kent State University,University Of Akron,Undirected,1
-Cleveland State University,University Of Akron,Undirected,1
-Kent State University,University Of Akron,Undirected,1
-Ohio University,University Of Akron,Undirected,1
-Cleveland State University,University Of Akron,Undirected,1
-University Of Cincinnati,University Of Akron,Undirected,1
-Kent State University,University Of Akron,Undirected,1
-University Of Cincinnati,University Of Akron,Undirected,1
-Kent State University,University Of Akron,Undirected,1
-Ohio University,University Of Akron,Undirected,1
-Cleveland State University,University Of Akron,Undirected,1
-University Of Cincinnati,University Of Akron,Undirected,1
-Kent State University,University Of Akron,Undirected,1
-Arizona State University,University Of Arizona,Undirected,1
-Northern Arizona University,University Of Arizona,Undirected,1
-Arizona State University,University Of Arizona,Undirected,1
-Northern Arizona University,University Of Arizona,Undirected,1
-Arizona State University,University Of Arizona,Undirected,1
-Northern Arizona University,University Of Arizona,Undirected,1
-Arizona State University,University Of Arizona,Undirected,1
-Northern Arizona University,University Of Arizona,Undirected,1
-Arizona State University,University Of Arizona,Undirected,1
-Northern Arizona University,University Of Arizona,Undirected,1
-Arizona State University,University Of Arizona,Undirected,1
-Northern Arizona University,University Of Arizona,Undirected,1
-Arizona State University,University Of Arizona,Undirected,1
-Northern Arizona University,University Of Arizona,Undirected,1
-Arizona State University,University Of Arizona,Undirected,1
-Northern Arizona University,University Of Arizona,Undirected,1
-Arizona State University,University Of Arizona,Undirected,1
-Northern Arizona University,University Of Arizona,Undirected,1
-Arizona State University,University Of Arizona,Undirected,1
-Northern Arizona University,University Of Arizona,Undirected,1
-Tufts University,University Of Chicago,Undirected,1
-University Of Rochester,University Of Chicago,Undirected,1
-University Of Rochester,University Of Chicago,Undirected,1
-Illinois Institute Of Technology,University Of Chicago,Undirected,1
-Marquette University,University Of Chicago,Undirected,1
-New School University,University Of Chicago,Undirected,1
-Yale University,University Of Connecticut,Undirected,1
-Georgetown University,University Of Connecticut,Undirected,1
-New York University,University Of Connecticut,Undirected,1
-Marquette University,University Of Dayton,Undirected,1
-Tufts University,University Of Delaware,Undirected,1
-Georgetown University,University Of Delaware,Undirected,1
-Idaho State University,University Of Idaho,Undirected,1
-Idaho State University,University Of Idaho,Undirected,1
-Iowa State University,University Of Iowa,Undirected,1
-Iowa State University,University Of Iowa,Undirected,1
-Iowa State University,University Of Iowa,Undirected,1
-Iowa State University,University Of Iowa,Undirected,1
-Iowa State University,University Of Iowa,Undirected,1
-Iowa State University,University Of Iowa,Undirected,1
-Iowa State University,University Of Iowa,Undirected,1
-Kansas State University,University Of Kansas,Undirected,1
-Kansas State University,University Of Kansas,Undirected,1
-Kansas State University,University Of Kansas,Undirected,1
-Kansas State University,University Of Kansas,Undirected,1
-Wichita State University,University Of Kansas,Undirected,1
-Kansas State University,University Of Kansas,Undirected,1
-Kansas State University,University Of Kansas,Undirected,1
-Wichita State University,University Of Kansas,Undirected,1
-Kansas State University,University Of Kansas,Undirected,1
-Kansas State University,University Of Kansas,Undirected,1
-Kansas State University,University Of Kansas,Undirected,1
-Tennessee Technological University,University Of Memphis,Undirected,1
-Tennessee State University,University Of Memphis,Undirected,1
-Middle Tennessee State University,University Of Memphis,Undirected,1
-East Tennessee State University,University Of Memphis,Undirected,1
-Tennessee State University,University Of Memphis,Undirected,1
-Middle Tennessee State University,University Of Memphis,Undirected,1
-East Tennessee State University,University Of Memphis,Undirected,1
-Tennessee Technological University,University Of Memphis,Undirected,1
-Tennessee State University,University Of Memphis,Undirected,1
-Middle Tennessee State University,University Of Memphis,Undirected,1
-East Tennessee State University,University Of Memphis,Undirected,1
-Tennessee Technological University,University Of Memphis,Undirected,1
-Tennessee State University,University Of Memphis,Undirected,1
-Tennessee Technological University,University Of Memphis,Undirected,1
-Tennessee State University,University Of Memphis,Undirected,1
-Middle Tennessee State University,University Of Memphis,Undirected,1
-East Tennessee State University,University Of Memphis,Undirected,1
-Tennessee Technological University,University Of Memphis,Undirected,1
-Tennessee State University,University Of Memphis,Undirected,1
-Middle Tennessee State University,University Of Memphis,Undirected,1
-East Tennessee State University,University Of Memphis,Undirected,1
-Tennessee Technological University,University Of Memphis,Undirected,1
-Tennessee State University,University Of Memphis,Undirected,1
-Middle Tennessee State University,University Of Memphis,Undirected,1
-East Tennessee State University,University Of Memphis,Undirected,1
-Tennessee Technological University,University Of Memphis,Undirected,1
-Tennessee State University,University Of Memphis,Undirected,1
-Middle Tennessee State University,University Of Memphis,Undirected,1
-East Tennessee State University,University Of Memphis,Undirected,1
-Tennessee Technological University,University Of Memphis,Undirected,1
-Tennessee State University,University Of Memphis,Undirected,1
-Middle Tennessee State University,University Of Memphis,Undirected,1
-East Tennessee State University,University Of Memphis,Undirected,1
-Tennessee Technological University,University Of Memphis,Undirected,1
-Tennessee State University,University Of Memphis,Undirected,1
-Middle Tennessee State University,University Of Memphis,Undirected,1
-East Tennessee State University,University Of Memphis,Undirected,1
-Tennessee State University,University Of Memphis,Undirected,1
-Middle Tennessee State University,University Of Memphis,Undirected,1
-East Tennessee State University,University Of Memphis,Undirected,1
-Tennessee Technological University,University Of Memphis,Undirected,1
-Tennessee State University,University Of Memphis,Undirected,1
-Middle Tennessee State University,University Of Memphis,Undirected,1
-East Tennessee State University,University Of Memphis,Undirected,1
-Tennessee Technological University,University Of Memphis,Undirected,1
-Tennessee State University,University Of Memphis,Undirected,1
-Middle Tennessee State University,University Of Memphis,Undirected,1
-East Tennessee State University,University Of Memphis,Undirected,1
-Tennessee Technological University,University Of Memphis,Undirected,1
-Tennessee State University,University Of Memphis,Undirected,1
-Middle Tennessee State University,University Of Memphis,Undirected,1
-East Tennessee State University,University Of Memphis,Undirected,1
-Tennessee State University,University Of Memphis,Undirected,1
-Middle Tennessee State University,University Of Memphis,Undirected,1
-East Tennessee State University,University Of Memphis,Undirected,1
-Tennessee State University,University Of Memphis,Undirected,1
-Middle Tennessee State University,University Of Memphis,Undirected,1
-East Tennessee State University,University Of Memphis,Undirected,1
-Tennessee Technological University,University Of Memphis,Undirected,1
-Tennessee State University,University Of Memphis,Undirected,1
-Middle Tennessee State University,University Of Memphis,Undirected,1
-East Tennessee State University,University Of Memphis,Undirected,1
-Tennessee Technological University,University Of Memphis,Undirected,1
-Tennessee State University,University Of Memphis,Undirected,1
-Middle Tennessee State University,University Of Memphis,Undirected,1
-East Tennessee State University,University Of Memphis,Undirected,1
-Tennessee Technological University,University Of Memphis,Undirected,1
-Tennessee State University,University Of Memphis,Undirected,1
-Middle Tennessee State University,University Of Memphis,Undirected,1
-East Tennessee State University,University Of Memphis,Undirected,1
-Tennessee State University,University Of Memphis,Undirected,1
-Middle Tennessee State University,University Of Memphis,Undirected,1
-East Tennessee State University,University Of Memphis,Undirected,1
-Central Michigan University,University Of Michigan,Undirected,1
-University Of Southern Mississippi,University Of Mississippi,Undirected,1
-Mississippi State University,University Of Mississippi,Undirected,1
-University Of Southern Mississippi,University Of Mississippi,Undirected,1
-Mississippi State University,University Of Mississippi,Undirected,1
-University Of Southern Mississippi,University Of Mississippi,Undirected,1
-Mississippi State University,University Of Mississippi,Undirected,1
-University Of Southern Mississippi,University Of Mississippi,Undirected,1
-Mississippi State University,University Of Mississippi,Undirected,1
-Mississippi State University,University Of Mississippi,Undirected,1
-University Of Southern Mississippi,University Of Mississippi,Undirected,1
-Mississippi State University,University Of Mississippi,Undirected,1
-Mississippi State University,University Of Mississippi,Undirected,1
-Mississippi State University,University Of Mississippi,Undirected,1
-Mississippi State University,University Of Mississippi,Undirected,1
-University Of Southern Mississippi,University Of Mississippi,Undirected,1
-Mississippi State University,University Of Mississippi,Undirected,1
-University Of Southern Mississippi,University Of Mississippi,Undirected,1
-Mississippi State University,University Of Mississippi,Undirected,1
-New Mexico State University,University Of New Mexico,Undirected,1
-Massachusetts Institute Of Technology,University Of North Carolina At Greensboro,Undirected,1
-Middle Tennessee State University,University Of North Texas,Undirected,1
-New York University,University Of Notre Dame,Undirected,1
-New Jersey Institute Of Technology,University Of Notre Dame,Undirected,1
-University Of Tulsa,University Of Oklahoma,Undirected,1
-Carnegie Mellon University,University Of Oklahoma,Undirected,1
-Oklahoma State University,University Of Oklahoma,Undirected,1
-Oklahoma State University,University Of Oklahoma,Undirected,1
-Oklahoma State University,University Of Oklahoma,Undirected,1
-Case Western Reserve University,University Of Pennsylvania,Undirected,1
-New York University,University Of Pennsylvania,Undirected,1
-Rockefeller University,University Of Pennsylvania,Undirected,1
-Pennsylvania State University,University Of Pittsburgh,Undirected,1
-Hofstra University,University Of Pittsburgh,Undirected,1
-New Jersey Institute Of Technology,University Of Pittsburgh,Undirected,1
-Carnegie Mellon University,University Of Pittsburgh,Undirected,1
-Carnegie Mellon University,University Of Pittsburgh,Undirected,1
-Loyola University Chicago,University Of San Diego,Undirected,1
-Loyola University Chicago,University Of San Diego,Undirected,1
-Loyola University Chicago,University Of San Francisco,Undirected,1
-Loyola University Chicago,University Of San Francisco,Undirected,1
-University Of Alabama,University Of South Alabama,Undirected,1
-Auburn University,University Of South Alabama,Undirected,1
-Auburn University,University Of South Alabama,Undirected,1
-South Dakota State University,University Of South Dakota,Undirected,1
-South Dakota State University,University Of South Dakota,Undirected,1
-Loyola Marymount University,University Of Southern California,Undirected,1
-University Of Mississippi,University Of Southern Mississippi,Undirected,1
-Mississippi State University,University Of Southern Mississippi,Undirected,1
-Mississippi State University,University Of Southern Mississippi,Undirected,1
-University Of Mississippi,University Of Southern Mississippi,Undirected,1
-Mississippi State University,University Of Southern Mississippi,Undirected,1
-University Of Mississippi,University Of Southern Mississippi,Undirected,1
-Mississippi State University,University Of Southern Mississippi,Undirected,1
-University Of Mississippi,University Of Southern Mississippi,Undirected,1
-Mississippi State University,University Of Southern Mississippi,Undirected,1
-University Of Mississippi,University Of Southern Mississippi,Undirected,1
-Mississippi State University,University Of Southern Mississippi,Undirected,1
-University Of Mississippi,University Of Southern Mississippi,Undirected,1
-Mississippi State University,University Of Southern Mississippi,Undirected,1
-University Of Mississippi,University Of Southern Mississippi,Undirected,1
-Mississippi State University,University Of Southern Mississippi,Undirected,1
-University Of Mississippi,University Of Southern Mississippi,Undirected,1
-Mississippi State University,University Of Southern Mississippi,Undirected,1
-University Of Mississippi,University Of Southern Mississippi,Undirected,1
-Mississippi State University,University Of Southern Mississippi,Undirected,1
-University Of Mississippi,University Of Southern Mississippi,Undirected,1
-Mississippi State University,University Of Southern Mississippi,Undirected,1
-University Of Notre Dame,University Of St Thomas Minnesota,Undirected,1
-Marquette University,University Of St Thomas Minnesota,Undirected,1
-New School University,University Of Texas At Brownsville/Texas Southmost College,Undirected,1
-Auburn University,University Of Texas At Brownsville/Texas Southmost College,Undirected,1
-Cornell University,University Of Tulsa,Undirected,1
-Utah State University,University Of Utah,Undirected,1
-Utah State University,University Of Utah,Undirected,1
-Utah State University,University Of Utah,Undirected,1
-Utah State University,University Of Utah,Undirected,1
-Utah State University,University Of Utah,Undirected,1
-Utah State University,University Of Utah,Undirected,1
-Utah State University,University Of Utah,Undirected,1
-Utah State University,University Of Utah,Undirected,1
-University Of Utah,Utah State University,Undirected,1
-University Of Utah,Utah State University,Undirected,1
-University Of Utah,Utah State University,Undirected,1
-University Of Utah,Utah State University,Undirected,1
-University Of Utah,Utah State University,Undirected,1
-University Of Utah,Utah State University,Undirected,1
-University Of Utah,Utah State University,Undirected,1
-University Of Utah,Utah State University,Undirected,1
-University Of Utah,Utah State University,Undirected,1
-University Of Utah,Utah State University,Undirected,1
-University Of Utah,Utah State University,Undirected,1
-University Of Utah,Utah State University,Undirected,1
-University Of Utah,Utah State University,Undirected,1
-University Of Utah,Utah State University,Undirected,1
-University Of Utah,Utah State University,Undirected,1
-Seton Hall University,Villanova University,Undirected,1
-University Of North Carolina At Greensboro,Wake Forest University,Undirected,1
-Indiana University Of Pennsylvania,West Chester University Of Pennsylvania,Undirected,1
-Indiana University Of Pennsylvania,West Chester University Of Pennsylvania,Undirected,1
-Marshall University,West Virginia University,Undirected,1
-Marshall University,West Virginia University,Undirected,1
-Marshall University,West Virginia University,Undirected,1
-Marshall University,West Virginia University,Undirected,1
-Marshall University,West Virginia University,Undirected,1
-Marshall University,West Virginia University,Undirected,1
-Marshall University,West Virginia University,Undirected,1
-Marshall University,West Virginia University,Undirected,1
-Marshall University,West Virginia University,Undirected,1
-Marshall University,West Virginia University,Undirected,1
-Marshall University,West Virginia University,Undirected,1
-Marshall University,West Virginia University,Undirected,1
-Marshall University,West Virginia University,Undirected,1
-Kansas State University,Wichita State University,Undirected,1
-University Of Kansas,Wichita State University,Undirected,1
-Kansas State University,Wichita State University,Undirected,1
-University Of Kansas,Wichita State University,Undirected,1
-Kansas State University,Wichita State University,Undirected,1
-University Of Kansas,Wichita State University,Undirected,1
-Kansas State University,Wichita State University,Undirected,1
-University Of Kansas,Wichita State University,Undirected,1
-Kansas State University,Wichita State University,Undirected,1
-University Of Kansas,Wichita State University,Undirected,1
-Kansas State University,Wichita State University,Undirected,1
-University Of Kansas,Wichita State University,Undirected,1
-Kansas State University,Wichita State University,Undirected,1
-University Of Kansas,Wichita State University,Undirected,1
-Thomas Jefferson University,Widener University,Undirected,1
-Carnegie Mellon University,Worcester Polytechnic Institute,Undirected,1
-Stevens Institute Of Technology,Worcester Polytechnic Institute,Undirected,1
-New School University,Yale University,Undirected,1
-University Of Connecticut,Yale University,Undirected,1
-Hofstra University,Yeshiva University,Undirected,1
-Massachusetts Institute Of Technology,Yeshiva University,Undirected,1
-New York University,Yeshiva University,Undirected,1
-Columbia University,Yeshiva University,Undirected,1
+Source,Target,Type,Weight,Year
+Loma Linda University,Andrews University,Undirected,1,2000
+Loma Linda University,Andrews University,Undirected,1,2000
+Northern Arizona University,Arizona State University,Undirected,1,2000
+Northern Arizona University,Arizona State University,Undirected,1,2000
+University Of Arizona,Arizona State University,Undirected,1,2000
+University Of Arizona,Arizona State University,Undirected,1,2000
+Northern Arizona University,Arizona State University,Undirected,1,2000
+University Of Arizona,Arizona State University,Undirected,1,2000
+Northern Arizona University,Arizona State University,Undirected,1,2000
+University Of Arizona,Arizona State University,Undirected,1,2000
+Northern Arizona University,Arizona State University,Undirected,1,2000
+University Of Arizona,Arizona State University,Undirected,1,2000
+Northern Arizona University,Arizona State University,Undirected,1,2000
+University Of Arizona,Arizona State University,Undirected,1,2000
+Northern Arizona University,Arizona State University,Undirected,1,2000
+University Of Arizona,Arizona State University,Undirected,1,2000
+University Of Alabama,Auburn University,Undirected,1,2000
+University Of South Alabama,Auburn University,Undirected,1,2000
+Massachusetts Institute Of Technology,Boston University,Undirected,1,2000
+University Of Washington,Brandeis University,Undirected,1,2000
+University Of Massachusetts Worcester,Brandeis University,Undirected,1,2000
+Fordham University,Brandeis University,Undirected,1,2000
+Johns Hopkins University,Brown University,Undirected,1,2000
+Harvard University,California Institute Of Technology,Undirected,1,2000
+Pepperdine University,California Institute Of Technology,Undirected,1,2000
+Chapman University,California Institute Of Technology,Undirected,1,2000
+Duquesne University,Carnegie Mellon University,Undirected,1,2000
+Duquesne University,Carnegie Mellon University,Undirected,1,2000
+Worcester Polytechnic Institute,Carnegie Mellon University,Undirected,1,2000
+University Of Southern California,Carnegie Mellon University,Undirected,1,2000
+University Of Pittsburgh,Carnegie Mellon University,Undirected,1,2000
+Duquesne University,Carnegie Mellon University,Undirected,1,2000
+Ohio State University,Case Western Reserve University,Undirected,1,2000
+California Institute Of Technology,Chapman University,Undirected,1,2000
+Ohio University,Cleveland State University,Undirected,1,2000
+University Of Akron,Cleveland State University,Undirected,1,2000
+University Of Cincinnati,Cleveland State University,Undirected,1,2000
+Kent State University,Cleveland State University,Undirected,1,2000
+Ohio University,Cleveland State University,Undirected,1,2000
+University Of Akron,Cleveland State University,Undirected,1,2000
+University Of Cincinnati,Cleveland State University,Undirected,1,2000
+Kent State University,Cleveland State University,Undirected,1,2000
+Ohio University,Cleveland State University,Undirected,1,2000
+University Of Akron,Cleveland State University,Undirected,1,2000
+University Of Cincinnati,Cleveland State University,Undirected,1,2000
+Kent State University,Cleveland State University,Undirected,1,2000
+Ohio University,Cleveland State University,Undirected,1,2000
+University Of Akron,Cleveland State University,Undirected,1,2000
+University Of Cincinnati,Cleveland State University,Undirected,1,2000
+Kent State University,Cleveland State University,Undirected,1,2000
+Ohio University,Cleveland State University,Undirected,1,2000
+University Of Akron,Cleveland State University,Undirected,1,2000
+Kent State University,Cleveland State University,Undirected,1,2000
+Ohio University,Cleveland State University,Undirected,1,2000
+University Of Akron,Cleveland State University,Undirected,1,2000
+University Of Cincinnati,Cleveland State University,Undirected,1,2000
+Kent State University,Cleveland State University,Undirected,1,2000
+Ohio University,Cleveland State University,Undirected,1,2000
+University Of Akron,Cleveland State University,Undirected,1,2000
+University Of Cincinnati,Cleveland State University,Undirected,1,2000
+Kent State University,Cleveland State University,Undirected,1,2000
+Ohio University,Cleveland State University,Undirected,1,2000
+University Of Akron,Cleveland State University,Undirected,1,2000
+University Of Cincinnati,Cleveland State University,Undirected,1,2000
+Kent State University,Cleveland State University,Undirected,1,2000
+Case Western Reserve University,Columbia University,Undirected,1,2000
+Stanford University,Cornell University,Undirected,1,2000
+New School University,Dartmouth College,Undirected,1,2000
+Carnegie Mellon University,Duquesne University,Undirected,1,2000
+Carnegie Mellon University,Duquesne University,Undirected,1,2000
+Carnegie Mellon University,Duquesne University,Undirected,1,2000
+Clark Atlanta University,Emory University,Undirected,1,2000
+Clark Atlanta University,Emory University,Undirected,1,2000
+Brandeis University,Fordham University,Undirected,1,2000
+Georgetown University,Fordham University,Undirected,1,2000
+Massachusetts Institute Of Technology,George Washington University,Undirected,1,2000
+Marquette University,George Washington University,Undirected,1,2000
+Pepperdine University,George Washington University,Undirected,1,2000
+New York University,Georgetown University,Undirected,1,2000
+University Of Delaware,Georgetown University,Undirected,1,2000
+Fordham University,Georgetown University,Undirected,1,2000
+Old Dominion University,Hampton University,Undirected,1,2000
+California Institute Of Technology,Harvard University,Undirected,1,2000
+University Of Pittsburgh,Hofstra University,Undirected,1,2000
+Johns Hopkins University,Howard University,Undirected,1,2000
+University Of Idaho,Idaho State University,Undirected,1,2000
+University Of Idaho,Idaho State University,Undirected,1,2000
+University Of Chicago,Illinois Institute Of Technology,Undirected,1,2000
+West Chester University Of Pennsylvania,Indiana University Of Pennsylvania,Undirected,1,2000
+West Chester University Of Pennsylvania,Indiana University Of Pennsylvania,Undirected,1,2000
+University Of Iowa,Iowa State University,Undirected,1,2000
+University Of Iowa,Iowa State University,Undirected,1,2000
+University Of Iowa,Iowa State University,Undirected,1,2000
+University Of Iowa,Iowa State University,Undirected,1,2000
+University Of Iowa,Iowa State University,Undirected,1,2000
+University Of Iowa,Iowa State University,Undirected,1,2000
+Howard University,Johns Hopkins University,Undirected,1,2000
+Brown University,Johns Hopkins University,Undirected,1,2000
+University Of Rochester,Johns Hopkins University,Undirected,1,2000
+University Of Kansas,Kansas State University,Undirected,1,2000
+Wichita State University,Kansas State University,Undirected,1,2000
+University Of Kansas,Kansas State University,Undirected,1,2000
+Wichita State University,Kansas State University,Undirected,1,2000
+University Of Akron,Kent State University,Undirected,1,2000
+University Of Cincinnati,Kent State University,Undirected,1,2000
+Cleveland State University,Kent State University,Undirected,1,2000
+Ohio University,Kent State University,Undirected,1,2000
+University Of Akron,Kent State University,Undirected,1,2000
+University Of Cincinnati,Kent State University,Undirected,1,2000
+Cleveland State University,Kent State University,Undirected,1,2000
+Ohio University,Kent State University,Undirected,1,2000
+University Of Akron,Kent State University,Undirected,1,2000
+University Of Cincinnati,Kent State University,Undirected,1,2000
+Cleveland State University,Kent State University,Undirected,1,2000
+Ohio University,Kent State University,Undirected,1,2000
+University Of Akron,Kent State University,Undirected,1,2000
+University Of Cincinnati,Kent State University,Undirected,1,2000
+Cleveland State University,Kent State University,Undirected,1,2000
+Ohio University,Kent State University,Undirected,1,2000
+Cleveland State University,Kent State University,Undirected,1,2000
+University Of Akron,Kent State University,Undirected,1,2000
+University Of Cincinnati,Kent State University,Undirected,1,2000
+Cleveland State University,Kent State University,Undirected,1,2000
+Ohio University,Kent State University,Undirected,1,2000
+University Of Akron,Kent State University,Undirected,1,2000
+University Of Cincinnati,Kent State University,Undirected,1,2000
+Cleveland State University,Kent State University,Undirected,1,2000
+Ohio University,Kent State University,Undirected,1,2000
+University Of Akron,Kent State University,Undirected,1,2000
+University Of Cincinnati,Kent State University,Undirected,1,2000
+Cleveland State University,Kent State University,Undirected,1,2000
+Ohio University,Kent State University,Undirected,1,2000
+University Of Cincinnati,Kent State University,Undirected,1,2000
+Seton Hall University,Lehigh University,Undirected,1,2000
+Andrews University,Loma Linda University,Undirected,1,2000
+Andrews University,Loma Linda University,Undirected,1,2000
+Boston College,Loyola University Chicago,Undirected,1,2000
+Illinois Institute Of Technology,Loyola University Chicago,Undirected,1,2000
+Creighton University,Loyola University Chicago,Undirected,1,2000
+Illinois Institute Of Technology,Loyola University Chicago,Undirected,1,2000
+University Of San Diego,Loyola University Chicago,Undirected,1,2000
+University Of St Thomas Minnesota,Marquette University,Undirected,1,2000
+George Washington University,Marquette University,Undirected,1,2000
+University Of Chicago,Marquette University,Undirected,1,2000
+University Of Dayton,Marquette University,Undirected,1,2000
+West Virginia University,Marshall University,Undirected,1,2000
+West Virginia University,Marshall University,Undirected,1,2000
+West Virginia University,Marshall University,Undirected,1,2000
+West Virginia University,Marshall University,Undirected,1,2000
+West Virginia University,Marshall University,Undirected,1,2000
+West Virginia University,Marshall University,Undirected,1,2000
+West Virginia University,Marshall University,Undirected,1,2000
+West Virginia University,Marshall University,Undirected,1,2000
+West Virginia University,Marshall University,Undirected,1,2000
+Johns Hopkins University,Massachusetts Institute Of Technology,Undirected,1,2000
+Boston University,Massachusetts Institute Of Technology,Undirected,1,2000
+East Tennessee State University,Middle Tennessee State University,Undirected,1,2000
+East Tennessee State University,Middle Tennessee State University,Undirected,1,2000
+East Tennessee State University,Middle Tennessee State University,Undirected,1,2000
+East Tennessee State University,Middle Tennessee State University,Undirected,1,2000
+East Tennessee State University,Middle Tennessee State University,Undirected,1,2000
+East Tennessee State University,Middle Tennessee State University,Undirected,1,2000
+East Tennessee State University,Middle Tennessee State University,Undirected,1,2000
+East Tennessee State University,Middle Tennessee State University,Undirected,1,2000
+East Tennessee State University,Middle Tennessee State University,Undirected,1,2000
+East Tennessee State University,Middle Tennessee State University,Undirected,1,2000
+East Tennessee State University,Middle Tennessee State University,Undirected,1,2000
+East Tennessee State University,Middle Tennessee State University,Undirected,1,2000
+East Tennessee State University,Middle Tennessee State University,Undirected,1,2000
+East Tennessee State University,Middle Tennessee State University,Undirected,1,2000
+East Tennessee State University,Middle Tennessee State University,Undirected,1,2000
+East Tennessee State University,Middle Tennessee State University,Undirected,1,2000
+East Tennessee State University,Middle Tennessee State University,Undirected,1,2000
+East Tennessee State University,Middle Tennessee State University,Undirected,1,2000
+East Tennessee State University,Middle Tennessee State University,Undirected,1,2000
+East Tennessee State University,Middle Tennessee State University,Undirected,1,2000
+University Of Southern Mississippi,Mississippi State University,Undirected,1,2000
+University Of Southern Mississippi,Mississippi State University,Undirected,1,2000
+University Of Mississippi,Mississippi State University,Undirected,1,2000
+University Of Southern Mississippi,Mississippi State University,Undirected,1,2000
+University Of Mississippi,Mississippi State University,Undirected,1,2000
+University Of Southern Mississippi,Mississippi State University,Undirected,1,2000
+University Of Mississippi,Mississippi State University,Undirected,1,2000
+University Of Southern Mississippi,Mississippi State University,Undirected,1,2000
+University Of Mississippi,Mississippi State University,Undirected,1,2000
+University Of Southern Mississippi,Mississippi State University,Undirected,1,2000
+University Of Mississippi,Mississippi State University,Undirected,1,2000
+University Of Pittsburgh,New Jersey Institute Of Technology,Undirected,1,2000
+University Of Notre Dame,New Jersey Institute Of Technology,Undirected,1,2000
+University Of New Mexico,New Mexico State University,Undirected,1,2000
+University Of New Mexico,New Mexico State University,Undirected,1,2000
+Auburn University,New School University,Undirected,1,2000
+University Of Chicago,New School University,Undirected,1,2000
+Auburn University,New School University,Undirected,1,2000
+Georgetown University,New York University,Undirected,1,2000
+Arizona State University,Northern Arizona University,Undirected,1,2000
+University Of Arizona,Northern Arizona University,Undirected,1,2000
+Arizona State University,Northern Arizona University,Undirected,1,2000
+University Of Arizona,Northern Arizona University,Undirected,1,2000
+Arizona State University,Northern Arizona University,Undirected,1,2000
+Arizona State University,Northern Arizona University,Undirected,1,2000
+University Of Arizona,Northern Arizona University,Undirected,1,2000
+Arizona State University,Northern Arizona University,Undirected,1,2000
+Arizona State University,Northern Arizona University,Undirected,1,2000
+University Of Arizona,Northern Arizona University,Undirected,1,2000
+Arizona State University,Northern Arizona University,Undirected,1,2000
+University Of Arizona,Northern Arizona University,Undirected,1,2000
+Arizona State University,Northern Arizona University,Undirected,1,2000
+University Of Arizona,Northern Arizona University,Undirected,1,2000
+Arizona State University,Northern Arizona University,Undirected,1,2000
+Arizona State University,Northern Arizona University,Undirected,1,2000
+University Of Arizona,Northern Arizona University,Undirected,1,2000
+Arizona State University,Northern Arizona University,Undirected,1,2000
+University Of Arizona,Northern Arizona University,Undirected,1,2000
+Arizona State University,Northern Arizona University,Undirected,1,2000
+Case Western Reserve University,Ohio State University,Undirected,1,2000
+University Of Oklahoma,Oklahoma State University,Undirected,1,2000
+University Of Oklahoma,Oklahoma State University,Undirected,1,2000
+Hampton University,Old Dominion University,Undirected,1,2000
+University Of Pittsburgh,Pennsylvania State University,Undirected,1,2000
+Rensselaer Polytechnic Institute,Polytechnic University,Undirected,1,2000
+Polytechnic University,Rensselaer Polytechnic Institute,Undirected,1,2000
+Polytechnic University,Rensselaer Polytechnic Institute,Undirected,1,2000
+Princeton University,Rice University,Undirected,1,2000
+University Of Rochester,Rochester Institute Of Technology,Undirected,1,2000
+Massachusetts Institute Of Technology,Rockefeller University,Undirected,1,2000
+Stanford University,Rockefeller University,Undirected,1,2000
+Dartmouth College,Rockefeller University,Undirected,1,2000
+Georgetown University,Rockefeller University,Undirected,1,2000
+Princeton University,Rockefeller University,Undirected,1,2000
+New York University,Rockefeller University,Undirected,1,2000
+Georgetown University,Saint Louis University,Undirected,1,2000
+Lehigh University,Seton Hall University,Undirected,1,2000
+Catholic University Of America,Seton Hall University,Undirected,1,2000
+Villanova University,Seton Hall University,Undirected,1,2000
+University Of South Dakota,South Dakota State University,Undirected,1,2000
+University Of South Dakota,South Dakota State University,Undirected,1,2000
+University Of South Dakota,South Dakota State University,Undirected,1,2000
+Southern Illinois University,Southern Illinois University System,Undirected,1,2000
+Southern Illinois University,Southern Illinois University System,Undirected,1,2000
+Southern Illinois University,Southern Illinois University System,Undirected,1,2000
+Southern Illinois University,Southern Illinois University System,Undirected,1,2000
+Southern Illinois University,Southern Illinois University System,Undirected,1,2000
+Southern Illinois University,Southern Illinois University System,Undirected,1,2000
+Rice University,Stanford University,Undirected,1,2000
+Rockefeller University,Stanford University,Undirected,1,2000
+Worcester Polytechnic Institute,Stevens Institute Of Technology,Undirected,1,2000
+Pennsylvania State University,Temple University,Undirected,1,2000
+Pennsylvania State University,Temple University,Undirected,1,2000
+Middle Tennessee State University,Tennessee State University,Undirected,1,2000
+East Tennessee State University,Tennessee State University,Undirected,1,2000
+Middle Tennessee State University,Tennessee State University,Undirected,1,2000
+East Tennessee State University,Tennessee State University,Undirected,1,2000
+Middle Tennessee State University,Tennessee State University,Undirected,1,2000
+East Tennessee State University,Tennessee State University,Undirected,1,2000
+Middle Tennessee State University,Tennessee State University,Undirected,1,2000
+East Tennessee State University,Tennessee State University,Undirected,1,2000
+Middle Tennessee State University,Tennessee State University,Undirected,1,2000
+East Tennessee State University,Tennessee State University,Undirected,1,2000
+Middle Tennessee State University,Tennessee State University,Undirected,1,2000
+East Tennessee State University,Tennessee State University,Undirected,1,2000
+Middle Tennessee State University,Tennessee State University,Undirected,1,2000
+East Tennessee State University,Tennessee State University,Undirected,1,2000
+Middle Tennessee State University,Tennessee State University,Undirected,1,2000
+East Tennessee State University,Tennessee State University,Undirected,1,2000
+Middle Tennessee State University,Tennessee State University,Undirected,1,2000
+East Tennessee State University,Tennessee State University,Undirected,1,2000
+Middle Tennessee State University,Tennessee State University,Undirected,1,2000
+East Tennessee State University,Tennessee State University,Undirected,1,2000
+Middle Tennessee State University,Tennessee State University,Undirected,1,2000
+East Tennessee State University,Tennessee State University,Undirected,1,2000
+Middle Tennessee State University,Tennessee State University,Undirected,1,2000
+East Tennessee State University,Tennessee State University,Undirected,1,2000
+Middle Tennessee State University,Tennessee State University,Undirected,1,2000
+East Tennessee State University,Tennessee State University,Undirected,1,2000
+Middle Tennessee State University,Tennessee State University,Undirected,1,2000
+East Tennessee State University,Tennessee State University,Undirected,1,2000
+Middle Tennessee State University,Tennessee State University,Undirected,1,2000
+East Tennessee State University,Tennessee State University,Undirected,1,2000
+Middle Tennessee State University,Tennessee State University,Undirected,1,2000
+East Tennessee State University,Tennessee State University,Undirected,1,2000
+Middle Tennessee State University,Tennessee State University,Undirected,1,2000
+East Tennessee State University,Tennessee State University,Undirected,1,2000
+Middle Tennessee State University,Tennessee State University,Undirected,1,2000
+East Tennessee State University,Tennessee State University,Undirected,1,2000
+Middle Tennessee State University,Tennessee State University,Undirected,1,2000
+East Tennessee State University,Tennessee State University,Undirected,1,2000
+Middle Tennessee State University,Tennessee Technological University,Undirected,1,2000
+Tennessee State University,Tennessee Technological University,Undirected,1,2000
+East Tennessee State University,Tennessee Technological University,Undirected,1,2000
+Middle Tennessee State University,Tennessee Technological University,Undirected,1,2000
+Tennessee State University,Tennessee Technological University,Undirected,1,2000
+East Tennessee State University,Tennessee Technological University,Undirected,1,2000
+Middle Tennessee State University,Tennessee Technological University,Undirected,1,2000
+Tennessee State University,Tennessee Technological University,Undirected,1,2000
+East Tennessee State University,Tennessee Technological University,Undirected,1,2000
+Middle Tennessee State University,Tennessee Technological University,Undirected,1,2000
+Tennessee State University,Tennessee Technological University,Undirected,1,2000
+East Tennessee State University,Tennessee Technological University,Undirected,1,2000
+Middle Tennessee State University,Tennessee Technological University,Undirected,1,2000
+Tennessee State University,Tennessee Technological University,Undirected,1,2000
+East Tennessee State University,Tennessee Technological University,Undirected,1,2000
+Tennessee State University,Tennessee Technological University,Undirected,1,2000
+Middle Tennessee State University,Tennessee Technological University,Undirected,1,2000
+Tennessee State University,Tennessee Technological University,Undirected,1,2000
+East Tennessee State University,Tennessee Technological University,Undirected,1,2000
+Middle Tennessee State University,Tennessee Technological University,Undirected,1,2000
+Tennessee State University,Tennessee Technological University,Undirected,1,2000
+East Tennessee State University,Tennessee Technological University,Undirected,1,2000
+Middle Tennessee State University,Tennessee Technological University,Undirected,1,2000
+Tennessee State University,Tennessee Technological University,Undirected,1,2000
+East Tennessee State University,Tennessee Technological University,Undirected,1,2000
+Middle Tennessee State University,Tennessee Technological University,Undirected,1,2000
+Tennessee State University,Tennessee Technological University,Undirected,1,2000
+East Tennessee State University,Tennessee Technological University,Undirected,1,2000
+Middle Tennessee State University,Tennessee Technological University,Undirected,1,2000
+Tennessee State University,Tennessee Technological University,Undirected,1,2000
+East Tennessee State University,Tennessee Technological University,Undirected,1,2000
+Middle Tennessee State University,Tennessee Technological University,Undirected,1,2000
+Tennessee State University,Tennessee Technological University,Undirected,1,2000
+East Tennessee State University,Tennessee Technological University,Undirected,1,2000
+Middle Tennessee State University,Tennessee Technological University,Undirected,1,2000
+Tennessee State University,Tennessee Technological University,Undirected,1,2000
+East Tennessee State University,Tennessee Technological University,Undirected,1,2000
+Middle Tennessee State University,Tennessee Technological University,Undirected,1,2000
+Tennessee State University,Tennessee Technological University,Undirected,1,2000
+East Tennessee State University,Tennessee Technological University,Undirected,1,2000
+Middle Tennessee State University,Tennessee Technological University,Undirected,1,2000
+Tennessee State University,Tennessee Technological University,Undirected,1,2000
+East Tennessee State University,Tennessee Technological University,Undirected,1,2000
+Widener University,Thomas Jefferson University,Undirected,1,2000
+University Of Delaware,Tufts University,Undirected,1,2000
+University Of Chicago,Tufts University,Undirected,1,2000
+Brandeis University,Tufts University,Undirected,1,2000
+Brown University,Tufts University,Undirected,1,2000
+State University Of New York At Albany,University At Albany Suny,Undirected,1,2000
+State University Of New York At Albany,University At Albany Suny,Undirected,1,2000
+State University Of New York At Albany,University At Albany Suny,Undirected,1,2000
+State University Of New York At Albany,University At Albany Suny,Undirected,1,2000
+State University Of New York At Albany,University At Albany Suny,Undirected,1,2000
+State University Of New York At Albany,University At Albany Suny,Undirected,1,2000
+Cleveland State University,University Of Akron,Undirected,1,2000
+Kent State University,University Of Akron,Undirected,1,2000
+University Of Cincinnati,University Of Akron,Undirected,1,2000
+Cleveland State University,University Of Akron,Undirected,1,2000
+Kent State University,University Of Akron,Undirected,1,2000
+Ohio University,University Of Akron,Undirected,1,2000
+Kent State University,University Of Akron,Undirected,1,2000
+University Of Cincinnati,University Of Akron,Undirected,1,2000
+University Of Cincinnati,University Of Akron,Undirected,1,2000
+Cleveland State University,University Of Akron,Undirected,1,2000
+Kent State University,University Of Akron,Undirected,1,2000
+Ohio University,University Of Akron,Undirected,1,2000
+Kent State University,University Of Akron,Undirected,1,2000
+University Of Cincinnati,University Of Akron,Undirected,1,2000
+Cleveland State University,University Of Akron,Undirected,1,2000
+Kent State University,University Of Akron,Undirected,1,2000
+Ohio University,University Of Akron,Undirected,1,2000
+University Of Cincinnati,University Of Akron,Undirected,1,2000
+Cleveland State University,University Of Akron,Undirected,1,2000
+Kent State University,University Of Akron,Undirected,1,2000
+Ohio University,University Of Akron,Undirected,1,2000
+University Of Cincinnati,University Of Akron,Undirected,1,2000
+Cleveland State University,University Of Akron,Undirected,1,2000
+Kent State University,University Of Akron,Undirected,1,2000
+Ohio University,University Of Akron,Undirected,1,2000
+University Of Cincinnati,University Of Akron,Undirected,1,2000
+Cleveland State University,University Of Akron,Undirected,1,2000
+Kent State University,University Of Akron,Undirected,1,2000
+Ohio University,University Of Akron,Undirected,1,2000
+University Of Cincinnati,University Of Akron,Undirected,1,2000
+Cleveland State University,University Of Akron,Undirected,1,2000
+Kent State University,University Of Akron,Undirected,1,2000
+Ohio University,University Of Akron,Undirected,1,2000
+Northern Arizona University,University Of Arizona,Undirected,1,2000
+Arizona State University,University Of Arizona,Undirected,1,2000
+Northern Arizona University,University Of Arizona,Undirected,1,2000
+Arizona State University,University Of Arizona,Undirected,1,2000
+Northern Arizona University,University Of Arizona,Undirected,1,2000
+Arizona State University,University Of Arizona,Undirected,1,2000
+Northern Arizona University,University Of Arizona,Undirected,1,2000
+Arizona State University,University Of Arizona,Undirected,1,2000
+Northern Arizona University,University Of Arizona,Undirected,1,2000
+Arizona State University,University Of Arizona,Undirected,1,2000
+Northern Arizona University,University Of Arizona,Undirected,1,2000
+Arizona State University,University Of Arizona,Undirected,1,2000
+Northern Arizona University,University Of Arizona,Undirected,1,2000
+Arizona State University,University Of Arizona,Undirected,1,2000
+Northern Arizona University,University Of Arizona,Undirected,1,2000
+Arizona State University,University Of Arizona,Undirected,1,2000
+Northern Arizona University,University Of Arizona,Undirected,1,2000
+Arizona State University,University Of Arizona,Undirected,1,2000
+Northern Arizona University,University Of Arizona,Undirected,1,2000
+Arizona State University,University Of Arizona,Undirected,1,2000
+Tufts University,University Of Chicago,Undirected,1,2000
+University Of Rochester,University Of Chicago,Undirected,1,2000
+University Of Rochester,University Of Chicago,Undirected,1,2000
+Illinois Institute Of Technology,University Of Chicago,Undirected,1,2000
+Marquette University,University Of Chicago,Undirected,1,2000
+New School University,University Of Chicago,Undirected,1,2000
+Yale University,University Of Connecticut,Undirected,1,2000
+New York University,University Of Connecticut,Undirected,1,2000
+Georgetown University,University Of Connecticut,Undirected,1,2000
+Marquette University,University Of Dayton,Undirected,1,2000
+Tufts University,University Of Delaware,Undirected,1,2000
+Georgetown University,University Of Delaware,Undirected,1,2000
+Idaho State University,University Of Idaho,Undirected,1,2000
+Idaho State University,University Of Idaho,Undirected,1,2000
+Iowa State University,University Of Iowa,Undirected,1,2000
+Iowa State University,University Of Iowa,Undirected,1,2000
+Iowa State University,University Of Iowa,Undirected,1,2000
+Iowa State University,University Of Iowa,Undirected,1,2000
+Iowa State University,University Of Iowa,Undirected,1,2000
+Iowa State University,University Of Iowa,Undirected,1,2000
+Iowa State University,University Of Iowa,Undirected,1,2000
+Kansas State University,University Of Kansas,Undirected,1,2000
+Kansas State University,University Of Kansas,Undirected,1,2000
+Kansas State University,University Of Kansas,Undirected,1,2000
+Wichita State University,University Of Kansas,Undirected,1,2000
+Kansas State University,University Of Kansas,Undirected,1,2000
+Wichita State University,University Of Kansas,Undirected,1,2000
+Kansas State University,University Of Kansas,Undirected,1,2000
+Kansas State University,University Of Kansas,Undirected,1,2000
+Kansas State University,University Of Kansas,Undirected,1,2000
+Kansas State University,University Of Kansas,Undirected,1,2000
+Kansas State University,University Of Kansas,Undirected,1,2000
+Middle Tennessee State University,University Of Memphis,Undirected,1,2000
+Tennessee State University,University Of Memphis,Undirected,1,2000
+East Tennessee State University,University Of Memphis,Undirected,1,2000
+Middle Tennessee State University,University Of Memphis,Undirected,1,2000
+Tennessee State University,University Of Memphis,Undirected,1,2000
+East Tennessee State University,University Of Memphis,Undirected,1,2000
+Tennessee Technological University,University Of Memphis,Undirected,1,2000
+Middle Tennessee State University,University Of Memphis,Undirected,1,2000
+Tennessee State University,University Of Memphis,Undirected,1,2000
+East Tennessee State University,University Of Memphis,Undirected,1,2000
+Tennessee Technological University,University Of Memphis,Undirected,1,2000
+Tennessee State University,University Of Memphis,Undirected,1,2000
+Tennessee Technological University,University Of Memphis,Undirected,1,2000
+Middle Tennessee State University,University Of Memphis,Undirected,1,2000
+Tennessee State University,University Of Memphis,Undirected,1,2000
+East Tennessee State University,University Of Memphis,Undirected,1,2000
+Tennessee Technological University,University Of Memphis,Undirected,1,2000
+Middle Tennessee State University,University Of Memphis,Undirected,1,2000
+Tennessee State University,University Of Memphis,Undirected,1,2000
+East Tennessee State University,University Of Memphis,Undirected,1,2000
+Tennessee Technological University,University Of Memphis,Undirected,1,2000
+Middle Tennessee State University,University Of Memphis,Undirected,1,2000
+Tennessee State University,University Of Memphis,Undirected,1,2000
+East Tennessee State University,University Of Memphis,Undirected,1,2000
+Tennessee Technological University,University Of Memphis,Undirected,1,2000
+Tennessee Technological University,University Of Memphis,Undirected,1,2000
+Tennessee State University,University Of Memphis,Undirected,1,2000
+East Tennessee State University,University Of Memphis,Undirected,1,2000
+Middle Tennessee State University,University Of Memphis,Undirected,1,2000
+Middle Tennessee State University,University Of Memphis,Undirected,1,2000
+Tennessee State University,University Of Memphis,Undirected,1,2000
+East Tennessee State University,University Of Memphis,Undirected,1,2000
+Tennessee Technological University,University Of Memphis,Undirected,1,2000
+Middle Tennessee State University,University Of Memphis,Undirected,1,2000
+Tennessee State University,University Of Memphis,Undirected,1,2000
+East Tennessee State University,University Of Memphis,Undirected,1,2000
+Tennessee Technological University,University Of Memphis,Undirected,1,2000
+Middle Tennessee State University,University Of Memphis,Undirected,1,2000
+Tennessee State University,University Of Memphis,Undirected,1,2000
+East Tennessee State University,University Of Memphis,Undirected,1,2000
+Middle Tennessee State University,University Of Memphis,Undirected,1,2000
+Tennessee State University,University Of Memphis,Undirected,1,2000
+East Tennessee State University,University Of Memphis,Undirected,1,2000
+Tennessee Technological University,University Of Memphis,Undirected,1,2000
+Middle Tennessee State University,University Of Memphis,Undirected,1,2000
+Tennessee State University,University Of Memphis,Undirected,1,2000
+East Tennessee State University,University Of Memphis,Undirected,1,2000
+Tennessee Technological University,University Of Memphis,Undirected,1,2000
+Middle Tennessee State University,University Of Memphis,Undirected,1,2000
+Tennessee State University,University Of Memphis,Undirected,1,2000
+East Tennessee State University,University Of Memphis,Undirected,1,2000
+Tennessee Technological University,University Of Memphis,Undirected,1,2000
+Middle Tennessee State University,University Of Memphis,Undirected,1,2000
+Tennessee State University,University Of Memphis,Undirected,1,2000
+East Tennessee State University,University Of Memphis,Undirected,1,2000
+Middle Tennessee State University,University Of Memphis,Undirected,1,2000
+Tennessee State University,University Of Memphis,Undirected,1,2000
+East Tennessee State University,University Of Memphis,Undirected,1,2000
+Tennessee Technological University,University Of Memphis,Undirected,1,2000
+Middle Tennessee State University,University Of Memphis,Undirected,1,2000
+Tennessee State University,University Of Memphis,Undirected,1,2000
+East Tennessee State University,University Of Memphis,Undirected,1,2000
+Tennessee Technological University,University Of Memphis,Undirected,1,2000
+Middle Tennessee State University,University Of Memphis,Undirected,1,2000
+Tennessee State University,University Of Memphis,Undirected,1,2000
+East Tennessee State University,University Of Memphis,Undirected,1,2000
+Tennessee Technological University,University Of Memphis,Undirected,1,2000
+Middle Tennessee State University,University Of Memphis,Undirected,1,2000
+Tennessee State University,University Of Memphis,Undirected,1,2000
+East Tennessee State University,University Of Memphis,Undirected,1,2000
+Middle Tennessee State University,University Of Memphis,Undirected,1,2000
+Tennessee State University,University Of Memphis,Undirected,1,2000
+East Tennessee State University,University Of Memphis,Undirected,1,2000
+Central Michigan University,University Of Michigan,Undirected,1,2000
+University Of Southern Mississippi,University Of Mississippi,Undirected,1,2000
+Mississippi State University,University Of Mississippi,Undirected,1,2000
+University Of Southern Mississippi,University Of Mississippi,Undirected,1,2000
+Mississippi State University,University Of Mississippi,Undirected,1,2000
+University Of Southern Mississippi,University Of Mississippi,Undirected,1,2000
+Mississippi State University,University Of Mississippi,Undirected,1,2000
+Mississippi State University,University Of Mississippi,Undirected,1,2000
+University Of Southern Mississippi,University Of Mississippi,Undirected,1,2000
+Mississippi State University,University Of Mississippi,Undirected,1,2000
+Mississippi State University,University Of Mississippi,Undirected,1,2000
+University Of Southern Mississippi,University Of Mississippi,Undirected,1,2000
+Mississippi State University,University Of Mississippi,Undirected,1,2000
+Mississippi State University,University Of Mississippi,Undirected,1,2000
+Mississippi State University,University Of Mississippi,Undirected,1,2000
+University Of Southern Mississippi,University Of Mississippi,Undirected,1,2000
+Mississippi State University,University Of Mississippi,Undirected,1,2000
+University Of Southern Mississippi,University Of Mississippi,Undirected,1,2000
+Mississippi State University,University Of Mississippi,Undirected,1,2000
+New Mexico State University,University Of New Mexico,Undirected,1,2000
+Massachusetts Institute Of Technology,University Of North Carolina At Greensboro,Undirected,1,2000
+Middle Tennessee State University,University Of North Texas,Undirected,1,2000
+New York University,University Of Notre Dame,Undirected,1,2000
+New Jersey Institute Of Technology,University Of Notre Dame,Undirected,1,2000
+University Of Tulsa,University Of Oklahoma,Undirected,1,2000
+Carnegie Mellon University,University Of Oklahoma,Undirected,1,2000
+Oklahoma State University,University Of Oklahoma,Undirected,1,2000
+Oklahoma State University,University Of Oklahoma,Undirected,1,2000
+Oklahoma State University,University Of Oklahoma,Undirected,1,2000
+New York University,University Of Pennsylvania,Undirected,1,2000
+Case Western Reserve University,University Of Pennsylvania,Undirected,1,2000
+Rockefeller University,University Of Pennsylvania,Undirected,1,2000
+Pennsylvania State University,University Of Pittsburgh,Undirected,1,2000
+Hofstra University,University Of Pittsburgh,Undirected,1,2000
+New Jersey Institute Of Technology,University Of Pittsburgh,Undirected,1,2000
+Carnegie Mellon University,University Of Pittsburgh,Undirected,1,2000
+Carnegie Mellon University,University Of Pittsburgh,Undirected,1,2000
+Loyola University Chicago,University Of San Diego,Undirected,1,2000
+Loyola University Chicago,University Of San Diego,Undirected,1,2000
+Loyola University Chicago,University Of San Francisco,Undirected,1,2000
+Loyola University Chicago,University Of San Francisco,Undirected,1,2000
+University Of Alabama,University Of South Alabama,Undirected,1,2000
+Auburn University,University Of South Alabama,Undirected,1,2000
+Auburn University,University Of South Alabama,Undirected,1,2000
+South Dakota State University,University Of South Dakota,Undirected,1,2000
+South Dakota State University,University Of South Dakota,Undirected,1,2000
+Loyola Marymount University,University Of Southern California,Undirected,1,2000
+University Of Mississippi,University Of Southern Mississippi,Undirected,1,2000
+Mississippi State University,University Of Southern Mississippi,Undirected,1,2000
+University Of Mississippi,University Of Southern Mississippi,Undirected,1,2000
+Mississippi State University,University Of Southern Mississippi,Undirected,1,2000
+Mississippi State University,University Of Southern Mississippi,Undirected,1,2000
+University Of Mississippi,University Of Southern Mississippi,Undirected,1,2000
+Mississippi State University,University Of Southern Mississippi,Undirected,1,2000
+University Of Mississippi,University Of Southern Mississippi,Undirected,1,2000
+Mississippi State University,University Of Southern Mississippi,Undirected,1,2000
+University Of Mississippi,University Of Southern Mississippi,Undirected,1,2000
+Mississippi State University,University Of Southern Mississippi,Undirected,1,2000
+University Of Mississippi,University Of Southern Mississippi,Undirected,1,2000
+Mississippi State University,University Of Southern Mississippi,Undirected,1,2000
+University Of Mississippi,University Of Southern Mississippi,Undirected,1,2000
+Mississippi State University,University Of Southern Mississippi,Undirected,1,2000
+University Of Mississippi,University Of Southern Mississippi,Undirected,1,2000
+Mississippi State University,University Of Southern Mississippi,Undirected,1,2000
+University Of Mississippi,University Of Southern Mississippi,Undirected,1,2000
+Mississippi State University,University Of Southern Mississippi,Undirected,1,2000
+University Of Mississippi,University Of Southern Mississippi,Undirected,1,2000
+Mississippi State University,University Of Southern Mississippi,Undirected,1,2000
+Marquette University,University Of St Thomas Minnesota,Undirected,1,2000
+University Of Notre Dame,University Of St Thomas Minnesota,Undirected,1,2000
+New School University,University Of Texas At Brownsville/Texas Southmost College,Undirected,1,2000
+Auburn University,University Of Texas At Brownsville/Texas Southmost College,Undirected,1,2000
+Cornell University,University Of Tulsa,Undirected,1,2000
+Utah State University,University Of Utah,Undirected,1,2000
+Utah State University,University Of Utah,Undirected,1,2000
+Utah State University,University Of Utah,Undirected,1,2000
+Utah State University,University Of Utah,Undirected,1,2000
+Utah State University,University Of Utah,Undirected,1,2000
+Utah State University,University Of Utah,Undirected,1,2000
+Utah State University,University Of Utah,Undirected,1,2000
+Utah State University,University Of Utah,Undirected,1,2000
+University Of Utah,Utah State University,Undirected,1,2000
+University Of Utah,Utah State University,Undirected,1,2000
+University Of Utah,Utah State University,Undirected,1,2000
+University Of Utah,Utah State University,Undirected,1,2000
+University Of Utah,Utah State University,Undirected,1,2000
+University Of Utah,Utah State University,Undirected,1,2000
+University Of Utah,Utah State University,Undirected,1,2000
+University Of Utah,Utah State University,Undirected,1,2000
+University Of Utah,Utah State University,Undirected,1,2000
+University Of Utah,Utah State University,Undirected,1,2000
+University Of Utah,Utah State University,Undirected,1,2000
+University Of Utah,Utah State University,Undirected,1,2000
+University Of Utah,Utah State University,Undirected,1,2000
+University Of Utah,Utah State University,Undirected,1,2000
+University Of Utah,Utah State University,Undirected,1,2000
+Seton Hall University,Villanova University,Undirected,1,2000
+University Of North Carolina At Greensboro,Wake Forest University,Undirected,1,2000
+Indiana University Of Pennsylvania,West Chester University Of Pennsylvania,Undirected,1,2000
+Indiana University Of Pennsylvania,West Chester University Of Pennsylvania,Undirected,1,2000
+Marshall University,West Virginia University,Undirected,1,2000
+Marshall University,West Virginia University,Undirected,1,2000
+Marshall University,West Virginia University,Undirected,1,2000
+Marshall University,West Virginia University,Undirected,1,2000
+Marshall University,West Virginia University,Undirected,1,2000
+Marshall University,West Virginia University,Undirected,1,2000
+Marshall University,West Virginia University,Undirected,1,2000
+Marshall University,West Virginia University,Undirected,1,2000
+Marshall University,West Virginia University,Undirected,1,2000
+Marshall University,West Virginia University,Undirected,1,2000
+Marshall University,West Virginia University,Undirected,1,2000
+Marshall University,West Virginia University,Undirected,1,2000
+Marshall University,West Virginia University,Undirected,1,2000
+Kansas State University,Wichita State University,Undirected,1,2000
+University Of Kansas,Wichita State University,Undirected,1,2000
+Kansas State University,Wichita State University,Undirected,1,2000
+University Of Kansas,Wichita State University,Undirected,1,2000
+Kansas State University,Wichita State University,Undirected,1,2000
+University Of Kansas,Wichita State University,Undirected,1,2000
+Kansas State University,Wichita State University,Undirected,1,2000
+University Of Kansas,Wichita State University,Undirected,1,2000
+Kansas State University,Wichita State University,Undirected,1,2000
+University Of Kansas,Wichita State University,Undirected,1,2000
+Kansas State University,Wichita State University,Undirected,1,2000
+University Of Kansas,Wichita State University,Undirected,1,2000
+Kansas State University,Wichita State University,Undirected,1,2000
+University Of Kansas,Wichita State University,Undirected,1,2000
+Thomas Jefferson University,Widener University,Undirected,1,2000
+Carnegie Mellon University,Worcester Polytechnic Institute,Undirected,1,2000
+Stevens Institute Of Technology,Worcester Polytechnic Institute,Undirected,1,2000
+New School University,Yale University,Undirected,1,2000
+University Of Connecticut,Yale University,Undirected,1,2000
+Hofstra University,Yeshiva University,Undirected,1,2000
+Massachusetts Institute Of Technology,Yeshiva University,Undirected,1,2000
+Columbia University,Yeshiva University,Undirected,1,2000
+New York University,Yeshiva University,Undirected,1,2000

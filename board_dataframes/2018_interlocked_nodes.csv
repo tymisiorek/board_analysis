@@ -1,0 +1,184 @@
+Id,Label,Year,Interlock_Count,AffiliationId,female_president
+Adelphi University,Adelphi University,2018,39,71965598.0,True
+Andrews University,Andrews University,2018,80,102298084.0,True
+Arizona State University,Arizona State University,2018,168,55732556.0,False
+Auburn University,Auburn University,2018,46,82497590.0,False
+Ball State University,Ball State University,2018,7,198089087.0,False
+Baylor University,Baylor University,2018,17,157394403.0,True
+Boston College,Boston College,2018,91,103531236.0,False
+Boston University,Boston University,2018,54,111088046.0,False
+Brandeis University,Brandeis University,2018,70,6902469.0,False
+Brown University,Brown University,2018,57,27804330.0,True
+California Institute Of Technology,California Institute Of Technology,2018,73,122411786.0,unknown
+Carnegie Mellon University,Carnegie Mellon University,2018,92,74973139.0,False
+Case Western Reserve University,Case Western Reserve University,2018,15,58956616.0,True
+Catholic University Of America,Catholic University Of America,2018,28,84470341.0,False
+Central Michigan University,Central Michigan University,2018,3,1629065.0,False
+Chapman University,Chapman University,2018,23,185071736.0,True
+Clark Atlanta University,Clark Atlanta University,2018,14,52064589.0,False
+Clark University,Clark University,2018,5,130785548.0,False
+Clarkson University,Clarkson University,2018,7,16944753.0,False
+Clemson University,Clemson University,2018,5,8078737.0,False
+Cleveland State University,Cleveland State University,2018,50,102607778.0,unknown
+College Of William And Mary,College Of William And Mary,2018,2,16285277.0,False
+Columbia University,Columbia University,2018,52,78577930.0,False
+Cornell University,Cornell University,2018,124,205783295.0,True
+Creighton University,Creighton University,2018,20,114493937.0,False
+Dartmouth College,Dartmouth College,2018,25,107672454.0,False
+Depaul University,Depaul University,2018,17,118353179.0,unknown
+Drexel University,Drexel University,2018,34,72816309.0,False
+Duke University,Duke University,2018,33,170897317.0,False
+Duquesne University,Duquesne University,2018,52,165102784.0,False
+East Tennessee State University,East Tennessee State University,2018,469,119443389.0,unknown
+Emory University,Emory University,2018,28,150468666.0,True
+Florida Institute Of Technology,Florida Institute Of Technology,2018,2,106959904.0,False
+Fordham University,Fordham University,2018,59,164389053.0,False
+Gallaudet University,Gallaudet University,2018,2,66108857.0,unknown
+George Mason University,George Mason University,2018,1,162714631.0,False
+George Washington University,George Washington University,2018,33,193531525.0,False
+Georgetown University,Georgetown University,2018,105,184565670.0,False
+Hampton University,Hampton University,2018,3,151328261.0,unknown
+Harvard University,Harvard University,2018,42,136199984.0,False
+Hofstra University,Hofstra University,2018,20,139290212.0,False
+Howard University,Howard University,2018,35,137853757.0,False
+Idaho State University,Idaho State University,2018,55,106969075.0,unknown
+Illinois Institute Of Technology,Illinois Institute Of Technology,2018,40,180949307.0,False
+Indiana University Of Pennsylvania,Indiana University Of Pennsylvania,2018,17,200885203.0,unknown
+Iowa State University,Iowa State University,2018,69,173911158.0,unknown
+James Madison University,James Madison University,2018,5,11883440.0,False
+Johns Hopkins University,Johns Hopkins University,2018,66,145311948.0,False
+Kansas State University,Kansas State University,2018,149,189590672.0,unknown
+Kent State University,Kent State University,2018,80,149910238.0,unknown
+Lehigh University,Lehigh University,2018,10,186143895.0,False
+Loma Linda University,Loma Linda University,2018,80,26347476.0,False
+Long Island University,Long Island University,2018,6,138873065.0,True
+Loyola Marymount University,Loyola Marymount University,2018,30,35566140.0,False
+Loyola University Chicago,Loyola University Chicago,2018,63,1925986.0,False
+Marquette University,Marquette University,2018,60,102461120.0,False
+Marshall University,Marshall University,2018,53,88694374.0,False
+Massachusetts Institute Of Technology,Massachusetts Institute Of Technology,2018,125,63966007.0,False
+Mercer University,Mercer University,2018,28,150149174.0,False
+Miami University,Miami University,2018,20,83328450.0,unknown
+Michigan State University,Michigan State University,2018,3,87216513.0,False
+Middle Tennessee State University,Middle Tennessee State University,2018,472,169615421.0,unknown
+Mississippi State University,Mississippi State University,2018,52,99041443.0,unknown
+Montclair State University,Montclair State University,2018,2,166088655.0,True
+New Jersey Institute Of Technology,New Jersey Institute Of Technology,2018,17,118118575.0,False
+New Mexico State University,New Mexico State University,2018,5,10052268.0,False
+New School University,New School University,2018,250,102179633.0,False
+New York University,New York University,2018,113,57206974.0,False
+Northern Arizona University,Northern Arizona University,2018,179,203172682.0,unknown
+Nova Southeastern University,Nova Southeastern University,2018,5,203088144.0,False
+Ohio State University,Ohio State University,2018,8,52357470.0,unknown
+Ohio University,Ohio University,2018,54,4210106879.0,unknown
+Oklahoma State University,Oklahoma State University,2018,50,115475287.0,unknown
+Old Dominion University,Old Dominion University,2018,4,81365321.0,False
+Pace University,Pace University,2018,2,126863827.0,False
+Pennsylvania State University,Pennsylvania State University,2018,48,130769515.0,False
+Pepperdine University,Pepperdine University,2018,19,100191712.0,False
+Polytechnic University,Polytechnic University,2018,57,57206974.0,False
+Princeton University,Princeton University,2018,55,20089843.0,False
+Purdue University,Purdue University,2018,2,219193219.0,False
+Rensselaer Polytechnic Institute,Rensselaer Polytechnic Institute,2018,35,165799507.0,True
+Rice University,Rice University,2018,39,74775410.0,False
+Rochester Institute Of Technology,Rochester Institute Of Technology,2018,34,155173764.0,False
+Rowan University,Rowan University,2018,2,44265643.0,False
+Rutgers State University Of New Jersey,Rutgers State University Of New Jersey,2018,1,102322142.0,False
+Seton Hall University,Seton Hall University,2018,23,12524447.0,True
+South Dakota State University,South Dakota State University,2018,67,177156846.0,unknown
+Southern Illinois University,Southern Illinois University,2018,23,2801502357.0,False
+St Johns University,St Johns University,2018,29,142823887.0,False
+Stanford University,Stanford University,2018,53,97018004.0,False
+State University Of New York At Albany,State University Of New York At Albany,2018,18,392282.0,unknown
+State University Of New York At Buffalo,State University Of New York At Buffalo,2018,3,63190737.0,unknown
+State University Of New York At Stony Brook,State University Of New York At Stony Brook,2018,8,59553526.0,unknown
+Syracuse University,Syracuse University,2018,21,70983195.0,False
+Temple University,Temple University,2018,33,84392919.0,False
+Texas Christian University,Texas Christian University,2018,3,128956969.0,False
+Thomas Jefferson University,Thomas Jefferson University,2018,28,149251103.0,unknown
+Tufts University,Tufts University,2018,43,121934306.0,False
+Union Institute,Union Institute,2018,15,204669301.0,unknown
+University Of Akron,University Of Akron,2018,83,110152177.0,unknown
+University Of Alabama,University Of Alabama,2018,4,17301866.0,unknown
+University Of Arizona,University Of Arizona,2018,175,138006243.0,unknown
+University Of Chicago,University Of Chicago,2018,101,40347166.0,False
+University Of Cincinnati,University Of Cincinnati,2018,53,63135867.0,unknown
+University Of Connecticut,University Of Connecticut,2018,37,140172145.0,True
+University Of Dayton,University Of Dayton,2018,4,127591826.0,False
+University Of Delaware,University Of Delaware,2018,15,86501945.0,False
+University Of Denver,University Of Denver,2018,28,131651094.0,True
+University Of Hartford,University Of Hartford,2018,1,162281398.0,False
+University Of Idaho,University Of Idaho,2018,50,155093810.0,unknown
+University Of Illinois At Urbana Champaign,University Of Illinois At Urbana Champaign,2018,1,157725225.0,unknown
+University Of Iowa,University Of Iowa,2018,69,126307644.0,unknown
+University Of Kansas,University Of Kansas,2018,152,146416000.0,unknown
+University Of La Verne,University Of La Verne,2018,1,708430.0,True
+University Of Louisville,University Of Louisville,2018,1,142740786.0,False
+University Of Massachusetts Worcester,University Of Massachusetts Worcester,2018,9,166722992.0,unknown
+University Of Miami,University Of Miami,2018,5,145608581.0,False
+University Of Michigan,University Of Michigan,2018,16,27837315.0,False
+University Of Mississippi,University Of Mississippi,2018,52,368840534.0,unknown
+University Of New Mexico,University Of New Mexico,2018,11,169521973.0,False
+University Of North Carolina At Charlotte,University Of North Carolina At Charlotte,2018,5,102149020.0,unknown
+University Of North Carolina At Greensboro,University Of North Carolina At Greensboro,2018,14,169335092.0,unknown
+University Of North Texas,University Of North Texas,2018,2,123534392.0,unknown
+University Of Notre Dame,University Of Notre Dame,2018,43,107639228.0,False
+University Of Oklahoma,University Of Oklahoma,2018,54,8692664.0,unknown
+University Of Pacific,University Of Pacific,2018,5,119942576.0,True
+University Of Pittsburgh,University Of Pittsburgh,2018,85,170201317.0,False
+University Of Rochester,University Of Rochester,2018,35,5388228.0,False
+University Of San Diego,University Of San Diego,2018,23,160856358.0,False
+University Of South Alabama,University Of South Alabama,2018,15,83809506.0,False
+University Of South Carolina,University Of South Carolina,2018,14,155781252.0,False
+University Of South Dakota,University Of South Dakota,2018,67,189957204.0,unknown
+University Of Southern California,University Of Southern California,2018,43,1174212.0,False
+University Of Southern Mississippi,University Of Southern Mississippi,2018,54,44854399.0,unknown
+University Of St Thomas Minnesota,University Of St Thomas Minnesota,2018,55,161515732.0,True
+University Of Texas At Brownsville/Texas Southmost College,University Of Texas At Brownsville/Texas Southmost College,2018,21,2802326326.0,unknown
+University Of Tulsa,University Of Tulsa,2018,15,87208437.0,False
+University Of Utah,University Of Utah,2018,150,223532165.0,unknown
+University Of Virginia,University Of Virginia,2018,35,51556381.0,False
+University Of Washington,University Of Washington,2018,1,201448701.0,True
+Utah State University,Utah State University,2018,164,121980950.0,unknown
+Vanderbilt University,Vanderbilt University,2018,27,200719446.0,False
+Villanova University,Villanova University,2018,14,7863295.0,False
+Virginia Commonwealth University,Virginia Commonwealth University,2018,9,184840846.0,False
+Virginia Polytechnic Institute And State University,Virginia Polytechnic Institute And State University,2018,36,859038795.0,False
+Wake Forest University,Wake Forest University,2018,9,47251452.0,False
+Washington State University,Washington State University,2018,7,72951846.0,False
+Washington University,Washington University,2018,12,204465549.0,False
+West Chester University Of Pennsylvania,West Chester University Of Pennsylvania,2018,12,161171246.0,unknown
+West Virginia University,West Virginia University,2018,63,12097938.0,False
+Wichita State University,Wichita State University,2018,147,39587148.0,unknown
+Widener University,Widener University,2018,17,138659443.0,True
+Worcester Polytechnic Institute,Worcester Polytechnic Institute,2018,20,107077323.0,True
+Yale University,Yale University,2018,51,32971472.0,False
+Yeshiva University,Yeshiva University,2018,60,19772626.0,False
+Rockefeller University,Rockefeller University,2018,139,83399316.0,False
+Saint Louis University,Saint Louis University,2018,9,47838141.0,False
+Southern Illinois University System,Southern Illinois University System,2018,23,2801502357.0,False
+Southern Methodist University,Southern Methodist University,2018,5,178169726.0,False
+Stevens Institute Of Technology,Stevens Institute Of Technology,2018,8,108468826.0,False
+Tennessee State University,Tennessee State University,2018,473,75256744.0,unknown
+Tennessee Technological University,Tennessee Technological University,2018,464,63920570.0,unknown
+University At Albany Suny,University At Albany Suny,2018,12,392282.0,unknown
+University Of Memphis,University Of Memphis,2018,460,94658018.0,unknown
+University Of Pennsylvania,University Of Pennsylvania,2018,64,79576946.0,True
+University Of San Francisco,University Of San Francisco,2018,17,76766440.0,False
+Florida Agricultural And Mechanical University,Florida Agricultural And Mechanical University,2018,2,8248082.0,unknown
+Florida State University,Florida State University,2018,4,103163165.0,unknown
+Montana State University Bozeman,Montana State University Bozeman,2018,10,23732399.0,unknown
+Oregon Health & Science University,Oregon Health & Science University,2018,13,165690674.0,False
+State University Of New York Stony Brook,State University Of New York Stony Brook,2018,8,59553526.0,unknown
+Union Institute & University,Union Institute & University,2018,15,204669301.0,unknown
+University At Buffalo State University Of New York,University At Buffalo State University Of New York,2018,3,63190737.0,unknown
+New School,New School,2018,249,102179633.0,False
+University Of California Los Angeles,University Of California Los Angeles,2018,14,161318765.0,unknown
+Baylor College Of Medicine,Baylor College Of Medicine,2018,45,181547552.0,False
+Boise State University,Boise State University,2018,27,120156002.0,unknown
+Montana State University,Montana State University,2018,10,23732399.0,unknown
+Northeastern University,Northeastern University,2018,6,12912129.0,False
+Northwestern University,Northwestern University,2018,27,111979921.0,False
+North Dakota State University,North Dakota State University,2018,3,57328836.0,unknown
+Virginia Tech,Virginia Tech,2018,25,859038795.0,False
+Polytechnic Institute Of New York University,Polytechnic Institute Of New York University,2018,48,57206974.0,False

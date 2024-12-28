@@ -1,0 +1,154 @@
+Id,Label,Year,Interlock_Count,AffiliationId,female_president
+Adelphi University,Adelphi University,2007,13,71965598.0,False
+Andrews University,Andrews University,2007,27,102298084.0,False
+Arizona State University,Arizona State University,2007,88,55732556.0,False
+Auburn University,Auburn University,2007,32,82497590.0,False
+Ball State University,Ball State University,2007,2,198089087.0,False
+Boston College,Boston College,2007,19,103531236.0,False
+Boston University,Boston University,2007,5,111088046.0,False
+Brandeis University,Brandeis University,2007,27,6902469.0,False
+Brown University,Brown University,2007,11,27804330.0,True
+California Institute Of Technology,California Institute Of Technology,2007,29,122411786.0,False
+Carnegie Mellon University,Carnegie Mellon University,2007,41,74973139.0,False
+Case Western Reserve University,Case Western Reserve University,2007,9,58956616.0,False
+Catholic University Of America,Catholic University Of America,2007,3,84470341.0,False
+Central Michigan University,Central Michigan University,2007,3,1629065.0,False
+Chapman University,Chapman University,2007,8,185071736.0,False
+Clark Atlanta University,Clark Atlanta University,2007,5,52064589.0,False
+Clark University,Clark University,2007,1,130785548.0,False
+Clarkson University,Clarkson University,2007,3,16944753.0,False
+Clemson University,Clemson University,2007,1,8078737.0,False
+Cleveland State University,Cleveland State University,2007,48,102607778.0,False
+Columbia University,Columbia University,2007,23,78577930.0,False
+Cornell University,Cornell University,2007,46,205783295.0,False
+Creighton University,Creighton University,2007,8,114493937.0,unknown
+Dartmouth College,Dartmouth College,2007,10,107672454.0,False
+Depaul University,Depaul University,2007,1,118353179.0,unknown
+Drexel University,Drexel University,2007,3,72816309.0,False
+Duke University,Duke University,2007,6,170897317.0,False
+Duquesne University,Duquesne University,2007,42,165102784.0,False
+East Tennessee State University,East Tennessee State University,2007,268,119443389.0,False
+Emory University,Emory University,2007,7,150468666.0,False
+Florida Institute Of Technology,Florida Institute Of Technology,2007,2,106959904.0,False
+Fordham University,Fordham University,2007,22,164389053.0,False
+George Washington University,George Washington University,2007,10,193531525.0,False
+Georgetown University,Georgetown University,2007,49,184565670.0,False
+Hampton University,Hampton University,2007,3,151328261.0,unknown
+Harvard University,Harvard University,2007,18,136199984.0,False
+Hofstra University,Hofstra University,2007,10,139290212.0,False
+Howard University,Howard University,2007,10,137853757.0,False
+Idaho State University,Idaho State University,2007,23,106969075.0,False
+Illinois Institute Of Technology,Illinois Institute Of Technology,2007,11,180949307.0,False
+Indiana University Of Pennsylvania,Indiana University Of Pennsylvania,2007,10,200885203.0,False
+Iowa State University,Iowa State University,2007,40,173911158.0,False
+James Madison University,James Madison University,2007,2,11883440.0,False
+Johns Hopkins University,Johns Hopkins University,2007,27,145311948.0,False
+Kansas State University,Kansas State University,2007,82,189590672.0,False
+Kent State University,Kent State University,2007,80,149910238.0,False
+Lehigh University,Lehigh University,2007,8,186143895.0,True
+Loma Linda University,Loma Linda University,2007,27,26347476.0,False
+Long Island University,Long Island University,2007,2,138873065.0,False
+Loyola Marymount University,Loyola Marymount University,2007,12,35566140.0,False
+Loyola University Chicago,Loyola University Chicago,2007,26,1925986.0,False
+Marquette University,Marquette University,2007,17,102461120.0,False
+Marshall University,Marshall University,2007,43,88694374.0,False
+Massachusetts Institute Of Technology,Massachusetts Institute Of Technology,2007,48,63966007.0,True
+Mercer University,Mercer University,2007,12,150149174.0,False
+Miami University,Miami University,2007,11,83328450.0,False
+Michigan State University,Michigan State University,2007,1,87216513.0,False
+Middle Tennessee State University,Middle Tennessee State University,2007,272,169615421.0,False
+Mississippi State University,Mississippi State University,2007,52,99041443.0,False
+New Jersey Institute Of Technology,New Jersey Institute Of Technology,2007,10,118118575.0,False
+New Mexico State University,New Mexico State University,2007,5,10052268.0,False
+New School University,New School University,2007,82,102179633.0,False
+New York University,New York University,2007,43,57206974.0,False
+Northern Arizona University,Northern Arizona University,2007,98,203172682.0,False
+Nova Southeastern University,Nova Southeastern University,2007,1,203088144.0,False
+Ohio State University,Ohio State University,2007,3,52357470.0,True
+Ohio University,Ohio University,2007,54,4210106879.0,False
+Oklahoma State University,Oklahoma State University,2007,28,115475287.0,False
+Old Dominion University,Old Dominion University,2007,3,81365321.0,True
+Pennsylvania State University,Pennsylvania State University,2007,15,130769515.0,False
+Pepperdine University,Pepperdine University,2007,9,100191712.0,unknown
+Polytechnic University,Polytechnic University,2007,10,57206974.0,False
+Princeton University,Princeton University,2007,21,20089843.0,True
+Rensselaer Polytechnic Institute,Rensselaer Polytechnic Institute,2007,13,165799507.0,True
+Rice University,Rice University,2007,6,74775410.0,False
+Rochester Institute Of Technology,Rochester Institute Of Technology,2007,8,155173764.0,False
+Seton Hall University,Seton Hall University,2007,9,12524447.0,False
+South Dakota State University,South Dakota State University,2007,34,177156846.0,False
+Southern Illinois University,Southern Illinois University,2007,8,2801502357.0,False
+St Johns University,St Johns University,2007,3,142823887.0,False
+Stanford University,Stanford University,2007,21,97018004.0,False
+State University Of New York At Albany,State University Of New York At Albany,2007,13,392282.0,False
+State University Of New York At Buffalo,State University Of New York At Buffalo,2007,2,63190737.0,False
+State University Of New York At Stony Brook,State University Of New York At Stony Brook,2007,6,59553526.0,True
+Temple University,Temple University,2007,11,84392919.0,True
+Thomas Jefferson University,Thomas Jefferson University,2007,6,149251103.0,False
+Tufts University,Tufts University,2007,21,121934306.0,False
+Union Institute,Union Institute,2007,10,204669301.0,False
+University Of Akron,University Of Akron,2007,82,110152177.0,False
+University Of Alabama,University Of Alabama,2007,4,17301866.0,unknown
+University Of Arizona,University Of Arizona,2007,96,138006243.0,False
+University Of Chicago,University Of Chicago,2007,37,40347166.0,False
+University Of Cincinnati,University Of Cincinnati,2007,53,63135867.0,True
+University Of Connecticut,University Of Connecticut,2007,14,140172145.0,False
+University Of Dayton,University Of Dayton,2007,3,127591826.0,False
+University Of Delaware,University Of Delaware,2007,10,86501945.0,False
+University Of Idaho,University Of Idaho,2007,23,155093810.0,False
+University Of Illinois At Urbana Champaign,University Of Illinois At Urbana Champaign,2007,1,157725225.0,unknown
+University Of Iowa,University Of Iowa,2007,40,126307644.0,False
+University Of Kansas,University Of Kansas,2007,85,146416000.0,False
+University Of Massachusetts Worcester,University Of Massachusetts Worcester,2007,4,166722992.0,unknown
+University Of Miami,University Of Miami,2007,1,145608581.0,True
+University Of Michigan,University Of Michigan,2007,9,27837315.0,True
+University Of Mississippi,University Of Mississippi,2007,52,368840534.0,unknown
+University Of New Mexico,University Of New Mexico,2007,7,169521973.0,False
+University Of North Carolina At Greensboro,University Of North Carolina At Greensboro,2007,7,169335092.0,True
+University Of North Texas,University Of North Texas,2007,2,123534392.0,unknown
+University Of Notre Dame,University Of Notre Dame,2007,18,107639228.0,False
+University Of Oklahoma,University Of Oklahoma,2007,32,8692664.0,False
+University Of Pittsburgh,University Of Pittsburgh,2007,32,170201317.0,False
+University Of Rochester,University Of Rochester,2007,10,5388228.0,unknown
+University Of San Diego,University Of San Diego,2007,10,160856358.0,True
+University Of South Alabama,University Of South Alabama,2007,9,83809506.0,False
+University Of South Carolina,University Of South Carolina,2007,1,155781252.0,False
+University Of South Dakota,University Of South Dakota,2007,34,189957204.0,False
+University Of Southern California,University Of Southern California,2007,11,1174212.0,False
+University Of Southern Mississippi,University Of Southern Mississippi,2007,54,44854399.0,unknown
+University Of St Thomas Minnesota,University Of St Thomas Minnesota,2007,12,161515732.0,False
+University Of Texas At Brownsville/Texas Southmost College,University Of Texas At Brownsville/Texas Southmost College,2007,13,2802326326.0,True
+University Of Tulsa,University Of Tulsa,2007,9,87208437.0,False
+University Of Utah,University Of Utah,2007,88,223532165.0,False
+University Of Virginia,University Of Virginia,2007,6,51556381.0,False
+University Of Washington,University Of Washington,2007,1,201448701.0,False
+Utah State University,Utah State University,2007,88,121980950.0,False
+Vanderbilt University,Vanderbilt University,2007,4,200719446.0,False
+Villanova University,Villanova University,2007,7,7863295.0,False
+Virginia Commonwealth University,Virginia Commonwealth University,2007,1,184840846.0,False
+Virginia Polytechnic Institute And State University,Virginia Polytechnic Institute And State University,2007,3,859038795.0,False
+Wake Forest University,Wake Forest University,2007,5,47251452.0,False
+Washington State University,Washington State University,2007,3,72951846.0,False
+Washington University,Washington University,2007,1,204465549.0,False
+West Chester University Of Pennsylvania,West Chester University Of Pennsylvania,2007,10,161171246.0,True
+West Virginia University,West Virginia University,2007,45,12097938.0,False
+Wichita State University,Wichita State University,2007,83,39587148.0,False
+Widener University,Widener University,2007,7,138659443.0,False
+Worcester Polytechnic Institute,Worcester Polytechnic Institute,2007,8,107077323.0,False
+Yale University,Yale University,2007,26,32971472.0,False
+Yeshiva University,Yeshiva University,2007,28,19772626.0,False
+Rockefeller University,Rockefeller University,2007,54,83399316.0,False
+Saint Louis University,Saint Louis University,2007,2,47838141.0,False
+Southern Illinois University System,Southern Illinois University System,2007,8,2801502357.0,False
+Stevens Institute Of Technology,Stevens Institute Of Technology,2007,2,108468826.0,unknown
+Tennessee State University,Tennessee State University,2007,270,75256744.0,False
+Tennessee Technological University,Tennessee Technological University,2007,259,63920570.0,False
+University At Albany Suny,University At Albany Suny,2007,10,392282.0,False
+University Of Memphis,University Of Memphis,2007,275,94658018.0,True
+University Of Pennsylvania,University Of Pennsylvania,2007,28,79576946.0,True
+University Of San Francisco,University Of San Francisco,2007,6,76766440.0,False
+State University Of New York Stony Brook,State University Of New York Stony Brook,2007,6,59553526.0,True
+Union Institute & University,Union Institute & University,2007,10,204669301.0,False
+University At Buffalo State University Of New York,University At Buffalo State University Of New York,2007,2,63190737.0,False
+New School,New School,2007,53,102179633.0,False
+University Of California Los Angeles,University Of California Los Angeles,2007,6,161318765.0,False

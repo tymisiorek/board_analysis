@@ -1,176 +1,178 @@
-Id,Label,Interlock_Count
-Case Western Reserve University,Case Western Reserve University,10
-Columbia University,Columbia University,32
-Carnegie Mellon University,Carnegie Mellon University,58
-Duquesne University,Duquesne University,16
-Clark Atlanta University,Clark Atlanta University,7
-Emory University,Emory University,15
-Brandeis University,Brandeis University,43
-Fordham University,Fordham University,36
-Georgetown University,Georgetown University,63
-California Institute Of Technology,California Institute Of Technology,44
-Harvard University,Harvard University,25
-Brown University,Brown University,33
-Johns Hopkins University,Johns Hopkins University,43
-Howard University,Howard University,18
-Andrews University,Andrews University,44
-Loma Linda University,Loma Linda University,44
-Illinois Institute Of Technology,Illinois Institute Of Technology,25
-Loyola University Chicago,Loyola University Chicago,39
-George Washington University,George Washington University,18
-Marquette University,Marquette University,28
-Boston University,Boston University,8
-Massachusetts Institute Of Technology,Massachusetts Institute Of Technology,80
-Dartmouth College,Dartmouth College,16
-New School University,New School University,130
-New York University,New York University,68
-Arizona State University,Arizona State University,152
-Northern Arizona University,Northern Arizona University,151
-Ohio State University,Ohio State University,7
-Kent State University,Kent State University,80
-Ohio University,Ohio University,54
-Hampton University,Hampton University,3
-Old Dominion University,Old Dominion University,3
-Pepperdine University,Pepperdine University,13
-Polytechnic University,Polytechnic University,32
-Rensselaer Polytechnic Institute,Rensselaer Polytechnic Institute,23
-Princeton University,Princeton University,34
-Rice University,Rice University,21
-Lehigh University,Lehigh University,6
-Seton Hall University,Seton Hall University,19
-Adelphi University,Adelphi University,7
-State University Of New York At Albany,State University Of New York At Albany,14
-Pennsylvania State University,Pennsylvania State University,28
-Temple University,Temple University,20
-Tufts University,Tufts University,30
-University Of Akron,University Of Akron,82
-Auburn University,Auburn University,17
-University Of Alabama,University Of Alabama,4
-University Of Arizona,University Of Arizona,147
-University Of Chicago,University Of Chicago,67
-University Of Cincinnati,University Of Cincinnati,53
-University Of Delaware,University Of Delaware,10
-Idaho State University,Idaho State University,53
-University Of Idaho,University Of Idaho,47
-Depaul University,Depaul University,10
-University Of Illinois At Urbana Champaign,University Of Illinois At Urbana Champaign,1
-Iowa State University,Iowa State University,55
-University Of Iowa,University Of Iowa,55
-Kansas State University,Kansas State University,112
-University Of Kansas,University Of Kansas,115
-Mississippi State University,Mississippi State University,52
-University Of Mississippi,University Of Mississippi,52
-New Mexico State University,New Mexico State University,5
-University Of New Mexico,University Of New Mexico,8
-Middle Tennessee State University,Middle Tennessee State University,347
-University Of North Texas,University Of North Texas,2
-University Of Notre Dame,University Of Notre Dame,27
-New Jersey Institute Of Technology,New Jersey Institute Of Technology,12
-Oklahoma State University,Oklahoma State University,36
-University Of Oklahoma,University Of Oklahoma,40
-Hofstra University,Hofstra University,15
-University Of Pittsburgh,University Of Pittsburgh,54
-University Of Rochester,University Of Rochester,18
-Rochester Institute Of Technology,Rochester Institute Of Technology,17
-University Of South Alabama,University Of South Alabama,11
-South Dakota State University,South Dakota State University,50
-University Of South Dakota,University Of South Dakota,50
-Loyola Marymount University,Loyola Marymount University,17
-University Of Southern California,University Of Southern California,23
-University Of Southern Mississippi,University Of Southern Mississippi,54
-University Of St Thomas Minnesota,University Of St Thomas Minnesota,34
-University Of Tulsa,University Of Tulsa,10
-University Of Utah,University Of Utah,116
-Utah State University,Utah State University,121
-Villanova University,Villanova University,10
-University Of North Carolina At Greensboro,University Of North Carolina At Greensboro,9
-Wake Forest University,Wake Forest University,7
-Indiana University Of Pennsylvania,Indiana University Of Pennsylvania,12
-West Chester University Of Pennsylvania,West Chester University Of Pennsylvania,9
-Marshall University,Marshall University,49
-West Virginia University,West Virginia University,55
-Wichita State University,Wichita State University,109
-Thomas Jefferson University,Thomas Jefferson University,17
-Widener University,Widener University,7
-Worcester Polytechnic Institute,Worcester Polytechnic Institute,14
-University Of Connecticut,University Of Connecticut,26
-Yale University,Yale University,22
-University Of Washington,University Of Washington,1
-University Of Massachusetts Worcester,University Of Massachusetts Worcester,7
-Chapman University,Chapman University,14
-Cleveland State University,Cleveland State University,50
-Stanford University,Stanford University,34
-Cornell University,Cornell University,44
-Creighton University,Creighton University,14
-Boston College,Boston College,34
-University Of San Diego,University Of San Diego,13
-University Of Dayton,University Of Dayton,3
-East Tennessee State University,East Tennessee State University,348
-Rockefeller University,Rockefeller University,87
-Saint Louis University,Saint Louis University,3
-Catholic University Of America,Catholic University Of America,18
-Southern Illinois University,Southern Illinois University,18
-Southern Illinois University System,Southern Illinois University System,18
-Stevens Institute Of Technology,Stevens Institute Of Technology,5
-Tennessee State University,Tennessee State University,352
-Tennessee Technological University,Tennessee Technological University,338
-University At Albany Suny,University At Albany Suny,10
-University Of Memphis,University Of Memphis,337
-Central Michigan University,Central Michigan University,2
-University Of Michigan,University Of Michigan,9
-University Of Pennsylvania,University Of Pennsylvania,34
-University Of San Francisco,University Of San Francisco,9
-University Of Texas At Brownsville/Texas Southmost College,University Of Texas At Brownsville/Texas Southmost College,5
-Yeshiva University,Yeshiva University,34
-James Madison University,James Madison University,3
-Duke University,Duke University,16
-Florida Institute Of Technology,Florida Institute Of Technology,1
-Miami University,Miami University,12
-Mercer University,Mercer University,16
-Clarkson University,Clarkson University,4
-St Johns University,St Johns University,12
-State University Of New York At Stony Brook,State University Of New York At Stony Brook,5
-State University Of New York Stony Brook,State University Of New York Stony Brook,5
-Union Institute,Union Institute,10
-Union Institute & University,Union Institute & University,10
-State University Of New York At Buffalo,State University Of New York At Buffalo,2
-University At Buffalo State University Of New York,University At Buffalo State University Of New York,2
-Ball State University,Ball State University,4
-University Of South Carolina,University Of South Carolina,1
-University Of Virginia,University Of Virginia,11
-Virginia Polytechnic Institute And State University,Virginia Polytechnic Institute And State University,24
-Vanderbilt University,Vanderbilt University,14
-Drexel University,Drexel University,18
-Washington State University,Washington State University,4
-Washington University,Washington University,5
-Baylor College Of Medicine,Baylor College Of Medicine,24
-Baylor University,Baylor University,10
-Southern Methodist University,Southern Methodist University,3
-Boise State University,Boise State University,32
-Clark University,Clark University,2
-Florida Agricultural And Mechanical University,Florida Agricultural And Mechanical University,2
-Gallaudet University,Gallaudet University,2
-Clemson University,Clemson University,2
-Montana State University Bozeman,Montana State University Bozeman,6
-Montana State University,Montana State University,6
-New School,New School,125
-Northeastern University,Northeastern University,3
-Northwestern University,Northwestern University,13
-University Of Miami,University Of Miami,3
-Nova Southeastern University,Nova Southeastern University,3
-Syracuse University,Syracuse University,11
-University Of North Carolina At Charlotte,University Of North Carolina At Charlotte,5
-Virginia Commonwealth University,Virginia Commonwealth University,4
-Florida State University,Florida State University,3
-North Dakota State University,North Dakota State University,2
-Virginia Tech,Virginia Tech,18
-College Of William And Mary,College Of William And Mary,1
-Long Island University,Long Island University,1
-Polytechnic Institute Of New York University,Polytechnic Institute Of New York University,21
-Rutgers State University Of New Jersey,Rutgers State University Of New Jersey,1
-Texas Christian University,Texas Christian University,1
-Purdue University,Purdue University,1
-Montclair State University,Montclair State University,1
-George Mason University,George Mason University,1
-University Of Denver,University Of Denver,1
-University Of Pacific,University Of Pacific,1
+Id,Label,Year,Interlock_Count,AffiliationId,female_president
+Adelphi University,Adelphi University,2013,37,71965598.0,False
+Andrews University,Andrews University,2013,66,102298084.0,False
+Arizona State University,Arizona State University,2013,168,55732556.0,False
+Auburn University,Auburn University,2013,38,82497590.0,False
+Ball State University,Ball State University,2013,6,198089087.0,False
+Baylor University,Baylor University,2013,12,157394403.0,False
+Boston College,Boston College,2013,75,103531236.0,False
+Boston University,Boston University,2013,40,111088046.0,False
+Brandeis University,Brandeis University,2013,67,6902469.0,False
+Brown University,Brown University,2013,49,27804330.0,True
+California Institute Of Technology,California Institute Of Technology,2013,73,122411786.0,unknown
+Carnegie Mellon University,Carnegie Mellon University,2013,78,74973139.0,False
+Case Western Reserve University,Case Western Reserve University,2013,12,58956616.0,False
+Catholic University Of America,Catholic University Of America,2013,26,84470341.0,False
+Central Michigan University,Central Michigan University,2013,3,1629065.0,False
+Chapman University,Chapman University,2013,21,185071736.0,False
+Clark Atlanta University,Clark Atlanta University,2013,12,52064589.0,False
+Clark University,Clark University,2013,4,130785548.0,False
+Clarkson University,Clarkson University,2013,7,16944753.0,False
+Clemson University,Clemson University,2013,5,8078737.0,False
+Cleveland State University,Cleveland State University,2013,50,102607778.0,unknown
+College Of William And Mary,College Of William And Mary,2013,2,16285277.0,False
+Columbia University,Columbia University,2013,50,78577930.0,False
+Cornell University,Cornell University,2013,114,205783295.0,False
+Creighton University,Creighton University,2013,17,114493937.0,False
+Dartmouth College,Dartmouth College,2013,22,107672454.0,True
+Depaul University,Depaul University,2013,14,118353179.0,False
+Drexel University,Drexel University,2013,29,72816309.0,False
+Duke University,Duke University,2013,27,170897317.0,False
+Duquesne University,Duquesne University,2013,45,165102784.0,False
+East Tennessee State University,East Tennessee State University,2013,469,119443389.0,unknown
+Emory University,Emory University,2013,24,150468666.0,False
+Florida Institute Of Technology,Florida Institute Of Technology,2013,2,106959904.0,False
+Fordham University,Fordham University,2013,55,164389053.0,False
+Gallaudet University,Gallaudet University,2013,2,66108857.0,unknown
+George Mason University,George Mason University,2013,1,162714631.0,False
+George Washington University,George Washington University,2013,28,193531525.0,False
+Georgetown University,Georgetown University,2013,91,184565670.0,False
+Hampton University,Hampton University,2013,3,151328261.0,unknown
+Harvard University,Harvard University,2013,38,136199984.0,False
+Hofstra University,Hofstra University,2013,19,139290212.0,False
+Howard University,Howard University,2013,32,137853757.0,False
+Idaho State University,Idaho State University,2013,55,106969075.0,unknown
+Illinois Institute Of Technology,Illinois Institute Of Technology,2013,34,180949307.0,False
+Indiana University Of Pennsylvania,Indiana University Of Pennsylvania,2013,16,200885203.0,unknown
+Iowa State University,Iowa State University,2013,69,173911158.0,unknown
+James Madison University,James Madison University,2013,4,11883440.0,False
+Johns Hopkins University,Johns Hopkins University,2013,62,145311948.0,False
+Kansas State University,Kansas State University,2013,149,189590672.0,unknown
+Kent State University,Kent State University,2013,80,149910238.0,unknown
+Lehigh University,Lehigh University,2013,9,186143895.0,True
+Loma Linda University,Loma Linda University,2013,66,26347476.0,False
+Long Island University,Long Island University,2013,4,138873065.0,False
+Loyola Marymount University,Loyola Marymount University,2013,24,35566140.0,False
+Loyola University Chicago,Loyola University Chicago,2013,52,1925986.0,False
+Marquette University,Marquette University,2013,36,102461120.0,False
+Marshall University,Marshall University,2013,52,88694374.0,False
+Massachusetts Institute Of Technology,Massachusetts Institute Of Technology,2013,115,63966007.0,False
+Mercer University,Mercer University,2013,28,150149174.0,False
+Miami University,Miami University,2013,20,83328450.0,unknown
+Michigan State University,Michigan State University,2013,3,87216513.0,False
+Middle Tennessee State University,Middle Tennessee State University,2013,472,169615421.0,unknown
+Mississippi State University,Mississippi State University,2013,52,99041443.0,False
+Montclair State University,Montclair State University,2013,1,166088655.0,True
+New Jersey Institute Of Technology,New Jersey Institute Of Technology,2013,15,118118575.0,False
+New Mexico State University,New Mexico State University,2013,5,10052268.0,unknown
+New School University,New School University,2013,225,102179633.0,False
+New York University,New York University,2013,105,57206974.0,False
+Northern Arizona University,Northern Arizona University,2013,179,203172682.0,unknown
+Nova Southeastern University,Nova Southeastern University,2013,5,203088144.0,False
+Ohio State University,Ohio State University,2013,8,52357470.0,unknown
+Ohio University,Ohio University,2013,54,4210106879.0,unknown
+Oklahoma State University,Oklahoma State University,2013,50,115475287.0,unknown
+Old Dominion University,Old Dominion University,2013,4,81365321.0,False
+Pennsylvania State University,Pennsylvania State University,2013,40,130769515.0,False
+Pepperdine University,Pepperdine University,2013,18,100191712.0,False
+Polytechnic University,Polytechnic University,2013,57,57206974.0,False
+Princeton University,Princeton University,2013,51,20089843.0,True
+Purdue University,Purdue University,2013,1,219193219.0,False
+Rensselaer Polytechnic Institute,Rensselaer Polytechnic Institute,2013,31,165799507.0,True
+Rice University,Rice University,2013,32,74775410.0,False
+Rochester Institute Of Technology,Rochester Institute Of Technology,2013,25,155173764.0,False
+Rutgers State University Of New Jersey,Rutgers State University Of New Jersey,2013,1,102322142.0,False
+Seton Hall University,Seton Hall University,2013,22,12524447.0,False
+South Dakota State University,South Dakota State University,2013,67,177156846.0,unknown
+Southern Illinois University,Southern Illinois University,2013,23,2801502357.0,False
+St Johns University,St Johns University,2013,22,142823887.0,False
+Stanford University,Stanford University,2013,49,97018004.0,False
+State University Of New York At Albany,State University Of New York At Albany,2013,18,392282.0,unknown
+State University Of New York At Buffalo,State University Of New York At Buffalo,2013,3,63190737.0,unknown
+State University Of New York At Stony Brook,State University Of New York At Stony Brook,2013,8,59553526.0,unknown
+Syracuse University,Syracuse University,2013,16,70983195.0,True
+Temple University,Temple University,2013,24,84392919.0,False
+Texas Christian University,Texas Christian University,2013,3,128956969.0,False
+Thomas Jefferson University,Thomas Jefferson University,2013,25,149251103.0,unknown
+Tufts University,Tufts University,2013,41,121934306.0,False
+Union Institute,Union Institute,2013,15,204669301.0,unknown
+University Of Akron,University Of Akron,2013,83,110152177.0,unknown
+University Of Alabama,University Of Alabama,2013,4,17301866.0,unknown
+University Of Arizona,University Of Arizona,2013,175,138006243.0,unknown
+University Of Chicago,University Of Chicago,2013,92,40347166.0,False
+University Of Cincinnati,University Of Cincinnati,2013,53,63135867.0,unknown
+University Of Connecticut,University Of Connecticut,2013,34,140172145.0,True
+University Of Dayton,University Of Dayton,2013,4,127591826.0,False
+University Of Delaware,University Of Delaware,2013,14,86501945.0,False
+University Of Denver,University Of Denver,2013,2,131651094.0,False
+University Of Idaho,University Of Idaho,2013,50,155093810.0,unknown
+University Of Illinois At Urbana Champaign,University Of Illinois At Urbana Champaign,2013,1,157725225.0,unknown
+University Of Iowa,University Of Iowa,2013,69,126307644.0,unknown
+University Of Kansas,University Of Kansas,2013,152,146416000.0,unknown
+University Of Massachusetts Worcester,University Of Massachusetts Worcester,2013,9,166722992.0,unknown
+University Of Miami,University Of Miami,2013,5,145608581.0,True
+University Of Michigan,University Of Michigan,2013,14,27837315.0,True
+University Of Mississippi,University Of Mississippi,2013,52,368840534.0,unknown
+University Of New Mexico,University Of New Mexico,2013,11,169521973.0,False
+University Of North Carolina At Charlotte,University Of North Carolina At Charlotte,2013,5,102149020.0,unknown
+University Of North Carolina At Greensboro,University Of North Carolina At Greensboro,2013,12,169335092.0,unknown
+University Of North Texas,University Of North Texas,2013,2,123534392.0,unknown
+University Of Notre Dame,University Of Notre Dame,2013,39,107639228.0,False
+University Of Oklahoma,University Of Oklahoma,2013,54,8692664.0,unknown
+University Of Pacific,University Of Pacific,2013,4,119942576.0,True
+University Of Pittsburgh,University Of Pittsburgh,2013,76,170201317.0,False
+University Of Rochester,University Of Rochester,2013,21,5388228.0,False
+University Of San Diego,University Of San Diego,2013,22,160856358.0,True
+University Of South Alabama,University Of South Alabama,2013,14,83809506.0,False
+University Of South Carolina,University Of South Carolina,2013,1,155781252.0,False
+University Of South Dakota,University Of South Dakota,2013,67,189957204.0,unknown
+University Of Southern California,University Of Southern California,2013,36,1174212.0,False
+University Of Southern Mississippi,University Of Southern Mississippi,2013,54,44854399.0,unknown
+University Of St Thomas Minnesota,University Of St Thomas Minnesota,2013,48,161515732.0,False
+University Of Texas At Brownsville/Texas Southmost College,University Of Texas At Brownsville/Texas Southmost College,2013,14,2802326326.0,unknown
+University Of Tulsa,University Of Tulsa,2013,14,87208437.0,False
+University Of Utah,University Of Utah,2013,150,223532165.0,unknown
+University Of Virginia,University Of Virginia,2013,20,51556381.0,True
+University Of Washington,University Of Washington,2013,1,201448701.0,False
+Utah State University,Utah State University,2013,157,121980950.0,unknown
+Vanderbilt University,Vanderbilt University,2013,22,200719446.0,False
+Villanova University,Villanova University,2013,13,7863295.0,False
+Virginia Commonwealth University,Virginia Commonwealth University,2013,7,184840846.0,False
+Virginia Polytechnic Institute And State University,Virginia Polytechnic Institute And State University,2013,35,859038795.0,False
+Wake Forest University,Wake Forest University,2013,9,47251452.0,False
+Washington State University,Washington State University,2013,7,72951846.0,False
+Washington University,Washington University,2013,7,204465549.0,False
+West Chester University Of Pennsylvania,West Chester University Of Pennsylvania,2013,12,161171246.0,unknown
+West Virginia University,West Virginia University,2013,61,12097938.0,False
+Wichita State University,Wichita State University,2013,147,39587148.0,unknown
+Widener University,Widener University,2013,14,138659443.0,False
+Worcester Polytechnic Institute,Worcester Polytechnic Institute,2013,19,107077323.0,False
+Yale University,Yale University,2013,42,32971472.0,False
+Yeshiva University,Yeshiva University,2013,57,19772626.0,False
+Rockefeller University,Rockefeller University,2013,125,83399316.0,False
+Saint Louis University,Saint Louis University,2013,3,47838141.0,False
+Southern Illinois University System,Southern Illinois University System,2013,23,2801502357.0,False
+Southern Methodist University,Southern Methodist University,2013,5,178169726.0,False
+Stevens Institute Of Technology,Stevens Institute Of Technology,2013,6,108468826.0,False
+Tennessee State University,Tennessee State University,2013,473,75256744.0,unknown
+Tennessee Technological University,Tennessee Technological University,2013,464,63920570.0,unknown
+University At Albany Suny,University At Albany Suny,2013,12,392282.0,unknown
+University Of Memphis,University Of Memphis,2013,460,94658018.0,unknown
+University Of Pennsylvania,University Of Pennsylvania,2013,57,79576946.0,True
+University Of San Francisco,University Of San Francisco,2013,9,76766440.0,False
+Florida Agricultural And Mechanical University,Florida Agricultural And Mechanical University,2013,2,8248082.0,unknown
+Florida State University,Florida State University,2013,4,103163165.0,unknown
+Montana State University Bozeman,Montana State University Bozeman,2013,10,23732399.0,unknown
+State University Of New York Stony Brook,State University Of New York Stony Brook,2013,8,59553526.0,unknown
+Union Institute & University,Union Institute & University,2013,15,204669301.0,unknown
+University At Buffalo State University Of New York,University At Buffalo State University Of New York,2013,3,63190737.0,unknown
+New School,New School,2013,226,102179633.0,False
+University Of California Los Angeles,University Of California Los Angeles,2013,7,161318765.0,unknown
+Baylor College Of Medicine,Baylor College Of Medicine,2013,35,181547552.0,False
+Boise State University,Boise State University,2013,27,120156002.0,unknown
+Montana State University,Montana State University,2013,10,23732399.0,unknown
+Northeastern University,Northeastern University,2013,5,12912129.0,False
+Northwestern University,Northwestern University,2013,18,111979921.0,False
+North Dakota State University,North Dakota State University,2013,3,57328836.0,False
+Virginia Tech,Virginia Tech,2013,25,859038795.0,False
+Polytechnic Institute Of New York University,Polytechnic Institute Of New York University,2013,46,57206974.0,False

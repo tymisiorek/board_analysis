@@ -25,7 +25,7 @@ nodes_dict = defaultdict(lambda: {
 })
 
 # Path to board statistics (needed to look up female_president info)
-board_statistics_path = f"{absolute_path}{altered_dataframes}university_board_statistics.csv"
+board_statistics_path = f"{absolute_path}{altered_dataframes}sample_board_statistics.csv"
 board_statistics_df = pd.read_csv(board_statistics_path)
 
 # ------------------------------------------------------------------------------
@@ -105,24 +105,44 @@ def lookup_female_president(row):
 nodes_df['female_president'] = nodes_df.apply(lookup_female_president, axis=1)
 nodes_df['female_president'] = nodes_df['female_president'].fillna('unknown')
 
-# Ensure correct column order
-nodes_df = nodes_df[['Id', 'Label', 'Interlock_Count', 'AffiliationId', 'female_president']]
+# Add "control" and "region" columns to nodes_df
+def lookup_column(row, column_name):
+    # Find all matching rows by AffiliationId
+    matching_rows = board_statistics_df[
+        (board_statistics_df['AffiliationId'] == row['AffiliationId'])
+    ]
+    if not matching_rows.empty:
+        # If multiple matches, return the most common value
+        return matching_rows[column_name].mode()[0]
+    # Fallback: Match by Institution name
+    matching_rows = board_statistics_df[
+        (board_statistics_df['Institution'] == row['Id'])
+    ]
+    if not matching_rows.empty:
+        return matching_rows[column_name].mode()[0]
+    # Default: No match
+    return 'unknown'
 
-# ------------------------------------------------------------------------------
+# Add control and region columns
+nodes_df['control'] = nodes_df.apply(lambda row: lookup_column(row, 'control'), axis=1)
+nodes_df['region'] = nodes_df.apply(lambda row: lookup_column(row, 'region'), axis=1)
+
+# Ensure correct column order
+nodes_df = nodes_df[['Id', 'Label', 'Interlock_Count', 'AffiliationId', 'female_president', 'control', 'region']]
+
+# ------------------------------------------------------------------------------ 
 # Build the aggregated edges DataFrame
-# ------------------------------------------------------------------------------
+# ------------------------------------------------------------------------------ 
 edges_df = pd.DataFrame(edges_list)
 
 # Ensure the edges_df has the columns in the desired order
 edges_df = edges_df[['Source', 'Target', 'Type', 'Weight', 'Year']]
 
-# ------------------------------------------------------------------------------
+# ------------------------------------------------------------------------------ 
 # Save the aggregated nodes and edges DataFrames to CSV files
-# ------------------------------------------------------------------------------
+# ------------------------------------------------------------------------------ 
 aggregated_nodes_path = f"{absolute_path}{board_dataframes}aggregated_nodes.csv"
 aggregated_edges_path = f"{absolute_path}{board_dataframes}aggregated_edges.csv"
 
 nodes_df.to_csv(aggregated_nodes_path, index=False)
 edges_df.to_csv(aggregated_edges_path, index=False)
-
-print(f"Saved aggregated nodes and edges to {aggregated_nodes_path} and {aggregated_edges_path} respectively.")
