@@ -1,7 +1,5 @@
 import pandas as pd
 from collections import defaultdict
-import json
-import remove_non_sample as rns
 
 absolute_path = "C:\\Users\\tykun\\OneDrive\\Documents\\SchoolDocs\\VSCodeProjects\\connectedData\\board_analysis\\"
 altered_dataframes = "altered_dataframes\\"
@@ -11,6 +9,10 @@ scripts = "scripts\\"
 board_dataframes = "board_dataframes\\"
 
 years = ["1999", "2000", "2005", "2007", "2008", "2009", "2011", "2013", "2018"]
+
+def remove_non_samples(df):
+    df = df[df['PrimarySample'] == True]
+    return df
 
 # This dictionary maps board members (by name) to a set of institutions they've appeared in
 board_member_dict = defaultdict(set)
@@ -39,7 +41,7 @@ for year in years:
     boards_df = pd.read_csv(boards_path)
 
     # Remove non-sample schools
-    boards_df = rns.remove_non_samples(boards_df)
+    boards_df = remove_non_samples(boards_df)
 
     # Iterate over each board member
     for index, row in boards_df.iterrows():
@@ -85,6 +87,12 @@ nodes_df = pd.DataFrame([
 nodes_df['Label'] = nodes_df['Id']
 
 # Function to look up whether the institution had a female president in any year
+'''
+Checking to see if the school had a female president in any year because it wouldn't make much sense to have separate
+nodes for each year, but I'm a bit worried that since we're doing this, looking at network statistics based off female president
+would not make much sense since we are just indicating that the school had a female president in this timeframe instead
+of picking out specific years
+'''
 def lookup_female_president(row):
     # Find all matching rows by AffiliationId
     matching_rows = board_statistics_df[
