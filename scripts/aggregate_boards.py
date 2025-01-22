@@ -17,6 +17,9 @@ def remove_non_samples(df):
 # This list holds all edge information (interlocks) across all years
 edges_list = []
 
+# Dictionary to store edges per year
+year_to_edges = defaultdict(list)
+
 # A dictionary tracking each institution's cumulative data (including interlock count)
 nodes_dict = defaultdict(lambda: {
     'Interlock_Count': 0,
@@ -69,7 +72,7 @@ def group_institutions_by_membership(institution_to_members, threshold):
     
     for inst in institutions:
         if inst not in visited:
-            #DFS to get all institutions connected to 'inst'
+            # DFS to get all institutions connected to 'inst'
             stack = [inst]
             group = []
             while stack:
@@ -94,7 +97,7 @@ year_to_identical_groups = dict()
 # Process each year and accumulate edges and nodes
 # ------------------------------------------------------------------------------
 for year in years:
-    print(f"Processing interlocks for: {year}")
+    print(f"\nProcessing interlocks for: {year}")
 
     # Read the boards for this year
     boards_path = f"{absolute_path}{board_dataframes}{year}_boards.csv"
@@ -106,6 +109,16 @@ for year in years:
     # Remove non-sample schools
     boards_df = remove_non_samples(boards_df)
     double_boards_df = remove_non_samples(double_boards_df)
+    
+    # Count the number of unique institutions for this year
+    unique_institutions = set(boards_df['Institution'].unique()).union(set(double_boards_df['Institution'].unique()))
+    num_institutions = len(unique_institutions)
+    
+    # Initialize interlock counter for the year
+    interlock_count = 0
+
+    # Initialize interlock within groups counter
+    interlocks_in_same_group = 0
 
     # Create a fresh dictionary for this year only
     # Maps board members (by name) -> set of institutions they've served on this year
@@ -123,13 +136,17 @@ for year in years:
         # For the network logic (unchanged)
         for previous_institution in board_member_dict_year[name]:
             if previous_institution != institution:
-                edges_list.append({
+                edge = {
                     'Source': previous_institution,
                     'Target': institution,
                     'Type': 'Undirected',
                     'Weight': 1,
                     'Year': year
-                })
+                }
+                edges_list.append(edge)
+                year_to_edges[year].append(edge)
+                interlock_count += 1  # Increment interlock count
+
                 nodes_dict[previous_institution]['Interlock_Count'] += 1
                 nodes_dict[institution]['Interlock_Count'] += 1
 
@@ -149,13 +166,17 @@ for year in years:
 
         for previous_institution in board_member_dict_year[name]:
             if previous_institution != institution:
-                edges_list.append({
+                edge = {
                     'Source': previous_institution,
                     'Target': institution,
                     'Type': 'Undirected',
                     'Weight': 1,
                     'Year': year
-                })
+                }
+                edges_list.append(edge)
+                year_to_edges[year].append(edge)
+                interlock_count += 1  # Increment interlock count
+
                 nodes_dict[previous_institution]['Interlock_Count'] += 1
                 nodes_dict[institution]['Interlock_Count'] += 1
 
@@ -170,10 +191,42 @@ for year in years:
     # --------------------------------------------------------------------------
     # Identify institutions that share >= threshold% of the same board
     # --------------------------------------------------------------------------
-    identical_board_groups = group_institutions_by_membership(institution_to_members_year, threshold=0.7)
+    identical_board_groups = group_institutions_by_membership(institution_to_members_year, threshold=0.25)
     year_to_identical_groups[year] = identical_board_groups
 
+    # Mapping institutions to their group index
+    institution_to_group = {}
+    for group_index, group in enumerate(identical_board_groups):
+        for institution in group:
+            institution_to_group[institution] = group_index
 
+    # --------------------------------------------------------------------------
+    # Calculate interlocks within identical board groups
+    # --------------------------------------------------------------------------
+    if identical_board_groups:
+        # Iterate through all edges of the current year
+        for edge in year_to_edges[year]:
+            source = edge['Source']
+            target = edge['Target']
+            # Check if both institutions are in the same group
+            if (source in institution_to_group) and (target in institution_to_group):
+                if institution_to_group[source] == institution_to_group[target]:
+                    interlocks_in_same_group += 1
+    else:
+        interlocks_in_same_group = 0  # No groups, so no interlocks within groups
+
+    # Calculate proportion
+    if interlock_count > 0:
+        proportion = (interlocks_in_same_group / interlock_count) * 100
+    else:
+        proportion = 0.0
+
+    # Print the number of institutions, interlocks, and proportion of interlocks within groups for the year
+    print(f"Year {year}: Number of institutions = {num_institutions}, Number of interlocks = {interlock_count}, "
+          f"Interlocks within identical board groups = {interlocks_in_same_group} "
+          f"({proportion:.2f}%)")
+
+# After processing all years, proceed with the rest of the script
 
 filtered_nodes_dict = {key: value for key, value in nodes_dict.items() if value['Interlock_Count'] > 0}
 nodes_df = pd.DataFrame([
@@ -221,7 +274,7 @@ nodes_df = nodes_df[['Id', 'Label', 'Interlock_Count', 'AffiliationId',
 edges_df = pd.DataFrame(edges_list)
 edges_df = edges_df[['Source', 'Target', 'Type', 'Weight', 'Year']]
 
-#institutions with identical board (state schools)
+# Institutions with identical board (state schools)
 print("\nINSTITUTION GROUPS WITH ≥ threshold% BOARD OVERLAP (BY YEAR)")
 for year in sorted(year_to_identical_groups.keys()):
     groups = year_to_identical_groups[year]
