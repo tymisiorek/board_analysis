@@ -450,15 +450,45 @@ def assemble_board_dict(board_df):
 def clean_false_members(expanded_boards, university_boards, original_boards):
     """
     Removes false members (Dean or Director) from the expanded board dataframe.
+    Exception: If a Dean or Director is surrounded by two positions that do not contain "Dean" or "Director",
+    the row is retained.
     """
-    indices_to_drop = []
-    for index, row in expanded_boards.iterrows():
-        pos = row["Position"]
-        pos = str(pos) if pd.notna(pos) else ""
-        if "Dean" in pos or "Director" in pos:
-            indices_to_drop.append(index)
-    cleaned__df = expanded_boards.drop(index=indices_to_drop).reset_index(drop=True)
-    return cleaned__df
+    indices_to_drop = set()
+    grouped = expanded_boards.groupby("Institution")
+    
+    for institution, group in grouped:
+        group = group.reset_index()  # Reset index to access previous and next rows easily
+        for i, row in group.iterrows():
+            pos = row["Position"].title() if pd.notna(row["Position"]) else ""
+            if "Dean" in pos or "Director" in pos:
+                # Initialize flags for surrounding positions
+                surrounded = True
+                
+                # Check the previous row
+                if i > 0:
+                    prev_pos = group.at[i - 1, "Position"].title()
+                    if "Dean" in prev_pos or "Director" in prev_pos:
+                        surrounded = False
+                else:
+                    # If there is no previous row, consider it as not surrounded
+                    surrounded = False
+                
+                # Check the next row
+                if i < len(group) - 1:
+                    next_pos = group.at[i + 1, "Position"].title()
+                    if "Dean" in next_pos or "Director" in next_pos:
+                        surrounded = False
+                else:
+                    # If there is no next row, consider it as not surrounded
+                    surrounded = False
+                
+                # If not surrounded by non-Dean/Director positions, mark for removal
+                if not surrounded:
+                    indices_to_drop.add(row["index"])
+    
+    # Drop the identified indices and reset the dataframe index
+    cleaned_df = expanded_boards.drop(index=list(indices_to_drop)).reset_index(drop=True)
+    return cleaned_df
 
 
 def delete_overlap(primary_boards, secondary_boards):
