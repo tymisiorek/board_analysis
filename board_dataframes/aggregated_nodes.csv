@@ -1,184 +1,152 @@
 Id,Label,Interlock_Count,AffiliationId,female_president,control,region
-Adelphi University,Adelphi University,39,71965598.0,False,Private,Northeast
-Andrews University,Andrews University,80,102298084.0,False,Private,Midwest
-Arizona State University,Arizona State University,168,55732556.0,False,Public,West
-Auburn University,Auburn University,46,82497590.0,False,Public,South
-Ball State University,Ball State University,7,198089087.0,False,Public,Midwest
-Baylor University,Baylor University,17,157394403.0,False,Private,South
-Boston College,Boston College,91,103531236.0,False,Private,Northeast
-Boston University,Boston University,54,111088046.0,False,Private,Northeast
-Brandeis University,Brandeis University,70,6902469.0,False,Private,Northeast
-Brown University,Brown University,57,27804330.0,True,Private,Northeast
-California Institute Of Technology,California Institute Of Technology,73,122411786.0,False,Private,West
-Carnegie Mellon University,Carnegie Mellon University,92,74973139.0,False,Private,Northeast
-Case Western Reserve University,Case Western Reserve University,15,58956616.0,False,Private,Midwest
-Catholic University Of America,Catholic University Of America,28,84470341.0,False,Private,Northeast
-Central Michigan University,Central Michigan University,3,1629065.0,False,Public,Midwest
-Chapman University,Chapman University,23,185071736.0,False,Private,West
-Clark Atlanta University,Clark Atlanta University,14,52064589.0,False,Private,South
-Clark University,Clark University,5,130785548.0,False,Private,Northeast
-Clarkson University,Clarkson University,7,16944753.0,False,Private,Northeast
-Clemson University,Clemson University,5,8078737.0,False,Public,South
-Cleveland State University,Cleveland State University,50,102607778.0,False,Public,Midwest
-College Of William And Mary,College Of William And Mary,2,16285277.0,False,Public,South
-Columbia University,Columbia University,52,78577930.0,False,Private,Northeast
-Cornell University,Cornell University,124,205783295.0,False,Private,Northeast
-Creighton University,Creighton University,20,114493937.0,False,Private,Midwest
-Dartmouth College,Dartmouth College,25,107672454.0,False,Private,Northeast
-Depaul University,Depaul University,17,118353179.0,False,Private,Midwest
-Drexel University,Drexel University,34,72816309.0,False,Private,Northeast
-Duke University,Duke University,33,170897317.0,False,Private,South
-Duquesne University,Duquesne University,52,165102784.0,False,Private,Northeast
-East Tennessee State University,East Tennessee State University,469,119443389.0,False,Public,South
-Emory University,Emory University,28,150468666.0,False,Private,South
-Florida Institute Of Technology,Florida Institute Of Technology,2,106959904.0,False,Private,South
-Fordham University,Fordham University,59,164389053.0,False,Private,Northeast
-Gallaudet University,Gallaudet University,2,66108857.0,False,Private,Northeast
-George Mason University,George Mason University,1,162714631.0,False,Public,South
-George Washington University,George Washington University,33,193531525.0,False,Private,Northeast
-Georgetown University,Georgetown University,105,184565670.0,False,Private,Northeast
-Hampton University,Hampton University,3,151328261.0,False,Private,South
-Harvard University,Harvard University,42,136199984.0,False,Private,Northeast
-Hofstra University,Hofstra University,20,139290212.0,False,Private,Northeast
-Howard University,Howard University,35,137853757.0,False,Private,Northeast
-Idaho State University,Idaho State University,55,106969075.0,False,Public,West
-Illinois Institute Of Technology,Illinois Institute Of Technology,40,180949307.0,False,Private,Midwest
-Indiana University Of Pennsylvania,Indiana University Of Pennsylvania,17,200885203.0,False,Public,Northeast
-Iowa State University,Iowa State University,69,173911158.0,False,Public,Midwest
-James Madison University,James Madison University,5,11883440.0,False,Public,South
-Johns Hopkins University,Johns Hopkins University,66,145311948.0,False,Private,South
-Kansas State University,Kansas State University,149,189590672.0,False,Public,Midwest
-Kent State University,Kent State University,80,149910238.0,False,Public,Midwest
-Lehigh University,Lehigh University,10,186143895.0,True,Private,Northeast
-Loma Linda University,Loma Linda University,80,26347476.0,False,Private,West
-Long Island University,Long Island University,6,138873065.0,False,Private,Northeast
-Loyola Marymount University,Loyola Marymount University,30,35566140.0,False,Private,West
-Loyola University Chicago,Loyola University Chicago,63,1925986.0,False,Private,Midwest
-Marquette University,Marquette University,60,102461120.0,False,Private,Midwest
-Marshall University,Marshall University,53,88694374.0,False,Public,South
-Massachusetts Institute Of Technology,Massachusetts Institute Of Technology,125,63966007.0,True,Private,Northeast
-Mercer University,Mercer University,28,150149174.0,False,Private,South
-Miami University,Miami University,20,83328450.0,False,Public,Midwest
-Michigan State University,Michigan State University,3,87216513.0,False,Public,Midwest
-Middle Tennessee State University,Middle Tennessee State University,472,169615421.0,False,Public,South
-Mississippi State University,Mississippi State University,52,99041443.0,False,Public,South
-Montclair State University,Montclair State University,2,166088655.0,True,Public,Northeast
-New Jersey Institute Of Technology,New Jersey Institute Of Technology,17,118118575.0,False,Public,Northeast
-New Mexico State University,New Mexico State University,5,10052268.0,False,Public,West
-New School University,New School University,250,102179633.0,False,Private,Northeast
-New York University,New York University,113,57206974.0,False,Private,Northeast
-Northern Arizona University,Northern Arizona University,179,203172682.0,False,Public,West
-Nova Southeastern University,Nova Southeastern University,5,203088144.0,False,Private,South
-Ohio State University,Ohio State University,8,52357470.0,False,Public,Midwest
-Ohio University,Ohio University,54,4210106879.0,False,Public,Midwest
-Oklahoma State University,Oklahoma State University,50,115475287.0,False,Public,South
-Old Dominion University,Old Dominion University,4,81365321.0,False,Public,South
-Pace University,Pace University,2,126863827.0,False,Private,Northeast
-Pennsylvania State University,Pennsylvania State University,48,130769515.0,False,Public,Northeast
-Pepperdine University,Pepperdine University,19,100191712.0,False,Private,West
-Polytechnic University,Polytechnic University,57,57206974.0,False,Private,Northeast
-Princeton University,Princeton University,55,20089843.0,True,Private,Northeast
-Purdue University,Purdue University,2,219193219.0,False,Public,Midwest
-Rensselaer Polytechnic Institute,Rensselaer Polytechnic Institute,35,165799507.0,True,Private,Northeast
-Rice University,Rice University,39,74775410.0,False,Private,South
-Rochester Institute Of Technology,Rochester Institute Of Technology,34,155173764.0,False,Private,Northeast
-Rowan University,Rowan University,2,44265643.0,False,Public,Northeast
+Adelphi University,Adelphi University,2,71965598.0,False,Private,Northeast
+Andrews University,Andrews University,34,102298084.0,False,Private,Midwest
+Arizona State University,Arizona State University,59,55732556.0,False,Public,West
+Auburn University,Auburn University,20,82497590.0,False,Public,South
+Baylor University,Baylor University,5,157394403.0,False,Private,South
+Boston College,Boston College,23,103531236.0,False,Private,Northeast
+Boston University,Boston University,3,111088046.0,False,Private,Northeast
+Brandeis University,Brandeis University,16,6902469.0,False,Private,Northeast
+Brown University,Brown University,19,27804330.0,True,Private,Northeast
+California Institute Of Technology,California Institute Of Technology,30,122411786.0,False,Private,West
+Carnegie Mellon University,Carnegie Mellon University,34,74973139.0,False,Private,Northeast
+Case Western Reserve University,Case Western Reserve University,4,58956616.0,False,Private,Midwest
+Catholic University Of America,Catholic University Of America,18,84470341.0,False,Private,Northeast
+Chapman University,Chapman University,9,185071736.0,False,Private,West
+Clark Atlanta University,Clark Atlanta University,4,52064589.0,False,Private,South
+Clarkson University,Clarkson University,3,16944753.0,False,Private,Northeast
+Clemson University,Clemson University,6,8078737.0,False,Public,South
+Cleveland State University,Cleveland State University,102,102607778.0,False,Public,Midwest
+Columbia University,Columbia University,13,78577930.0,False,Private,Northeast
+Cornell University,Cornell University,34,205783295.0,False,Private,Northeast
+Creighton University,Creighton University,9,114493937.0,False,Private,Midwest
+Dartmouth College,Dartmouth College,10,107672454.0,False,Private,Northeast
+Depaul University,Depaul University,3,118353179.0,False,Private,Midwest
+Drexel University,Drexel University,6,72816309.0,False,Private,Northeast
+Duke University,Duke University,13,170897317.0,False,Private,South
+Duquesne University,Duquesne University,14,165102784.0,False,Private,Northeast
+East Tennessee State University,East Tennessee State University,253,119443389.0,False,Public,South
+Emory University,Emory University,8,150468666.0,False,Private,South
+Fordham University,Fordham University,29,164389053.0,False,Private,Northeast
+Gallaudet University,Gallaudet University,1,66108857.0,False,Private,Northeast
+George Washington University,George Washington University,8,193531525.0,False,Private,Northeast
+Georgetown University,Georgetown University,35,184565670.0,False,Private,Northeast
+Hampton University,Hampton University,2,151328261.0,False,Private,South
+Harvard University,Harvard University,19,136199984.0,False,Private,Northeast
+Hofstra University,Hofstra University,8,139290212.0,False,Private,Northeast
+Howard University,Howard University,13,137853757.0,False,Private,Northeast
+Idaho State University,Idaho State University,4,106969075.0,False,Public,West
+Illinois Institute Of Technology,Illinois Institute Of Technology,17,180949307.0,False,Private,Midwest
+Indiana University Of Pennsylvania,Indiana University Of Pennsylvania,12,200885203.0,False,Public,Northeast
+Iowa State University,Iowa State University,14,173911158.0,False,Public,Midwest
+Johns Hopkins University,Johns Hopkins University,27,145311948.0,False,Private,South
+Kansas State University,Kansas State University,46,189590672.0,False,Public,Midwest
+Kent State University,Kent State University,114,149910238.0,False,Public,Midwest
+Lehigh University,Lehigh University,4,186143895.0,True,Private,Northeast
+Loma Linda University,Loma Linda University,34,26347476.0,False,Private,West
+Long Island University,Long Island University,3,138873065.0,False,Private,Northeast
+Loyola Marymount University,Loyola Marymount University,38,35566140.0,False,Private,West
+Loyola University Chicago,Loyola University Chicago,29,1925986.0,False,Private,Midwest
+Marquette University,Marquette University,17,102461120.0,False,Private,Midwest
+Marshall University,Marshall University,28,88694374.0,False,Public,South
+Massachusetts Institute Of Technology,Massachusetts Institute Of Technology,43,63966007.0,True,Private,Northeast
+Mercer University,Mercer University,4,150149174.0,False,Private,South
+Middle Tennessee State University,Middle Tennessee State University,252,169615421.0,False,Public,South
+Mississippi State University,Mississippi State University,29,99041443.0,False,Public,South
+New Jersey Institute Of Technology,New Jersey Institute Of Technology,19,118118575.0,False,Public,Northeast
+New Mexico State University,New Mexico State University,2,10052268.0,False,Public,West
+New School University,New School University,15,102179633.0,False,Private,Northeast
+New York University,New York University,39,57206974.0,False,Private,Northeast
+Northern Arizona University,Northern Arizona University,67,203172682.0,False,Public,West
+Ohio State University,Ohio State University,78,52357470.0,False,Public,Midwest
+Ohio University,Ohio University,114,4210106879.0,False,Public,Midwest
+Oklahoma State University,Oklahoma State University,31,115475287.0,False,Public,South
+Old Dominion University,Old Dominion University,2,81365321.0,False,Public,South
+Pennsylvania State University,Pennsylvania State University,27,130769515.0,False,Public,Northeast
+Pepperdine University,Pepperdine University,4,100191712.0,False,Private,West
+Polytechnic University,Polytechnic University,5,57206974.0,False,Private,Northeast
+Princeton University,Princeton University,24,20089843.0,True,Private,Northeast
+Rensselaer Polytechnic Institute,Rensselaer Polytechnic Institute,11,165799507.0,True,Private,Northeast
+Rice University,Rice University,13,74775410.0,False,Private,South
+Rochester Institute Of Technology,Rochester Institute Of Technology,10,155173764.0,False,Private,Northeast
+Rowan University,Rowan University,1,44265643.0,False,Public,Northeast
 Rutgers State University Of New Jersey,Rutgers State University Of New Jersey,1,102322142.0,False,Public,Northeast
-Seton Hall University,Seton Hall University,23,12524447.0,False,Private,Northeast
-South Dakota State University,South Dakota State University,67,177156846.0,False,Public,Midwest
-Southern Illinois University,Southern Illinois University,23,2801502357.0,False,Public,Midwest
-St Johns University,St Johns University,29,142823887.0,False,Private,Northeast
-Stanford University,Stanford University,53,97018004.0,False,Private,West
-State University Of New York At Albany,State University Of New York At Albany,18,392282.0,False,Public,Northeast
-State University Of New York At Buffalo,State University Of New York At Buffalo,3,63190737.0,False,Public,Northeast
-State University Of New York At Stony Brook,State University Of New York At Stony Brook,8,59553526.0,True,Public,Northeast
-Syracuse University,Syracuse University,21,70983195.0,True,Private,Northeast
-Temple University,Temple University,33,84392919.0,False,Public,Northeast
-Texas Christian University,Texas Christian University,3,128956969.0,False,Private,South
-Thomas Jefferson University,Thomas Jefferson University,28,149251103.0,False,Private,Northeast
-Tufts University,Tufts University,43,121934306.0,False,Private,Northeast
-Union Institute,Union Institute,15,204669301.0,False,Private,Midwest
-University Of Akron,University Of Akron,83,110152177.0,False,Public,Midwest
-University Of Alabama,University Of Alabama,4,17301866.0,False,Public,South
-University Of Arizona,University Of Arizona,175,138006243.0,False,Public,West
-University Of Chicago,University Of Chicago,101,40347166.0,False,Private,Midwest
-University Of Cincinnati,University Of Cincinnati,53,63135867.0,True,Public,Midwest
-University Of Connecticut,University Of Connecticut,37,140172145.0,False,Public,Northeast
-University Of Dayton,University Of Dayton,4,127591826.0,False,Private,Midwest
-University Of Delaware,University Of Delaware,15,86501945.0,False,Public,South
-University Of Denver,University Of Denver,28,131651094.0,False,Private,West
-University Of Hartford,University Of Hartford,1,162281398.0,False,Private,Northeast
-University Of Idaho,University Of Idaho,50,155093810.0,False,Public,West
+Seton Hall University,Seton Hall University,20,12524447.0,False,Private,Northeast
+South Dakota State University,South Dakota State University,30,177156846.0,False,Public,Midwest
+St Johns University,St Johns University,12,142823887.0,False,Private,Northeast
+Stanford University,Stanford University,11,97018004.0,False,Private,West
+State University Of New York At Albany,State University Of New York At Albany,1,392282.0,False,Public,Northeast
+Syracuse University,Syracuse University,7,70983195.0,True,Private,Northeast
+Temple University,Temple University,14,84392919.0,False,Public,Northeast
+Texas Christian University,Texas Christian University,2,128956969.0,False,Private,South
+Thomas Jefferson University,Thomas Jefferson University,8,149251103.0,False,Private,Northeast
+Tufts University,Tufts University,17,121934306.0,False,Private,Northeast
+University Of Akron,University Of Akron,114,110152177.0,False,Public,Midwest
+University Of Alabama,University Of Alabama,2,17301866.0,False,Public,South
+University Of Arizona,University Of Arizona,66,138006243.0,False,Public,West
+University Of Chicago,University Of Chicago,41,40347166.0,False,Private,Midwest
+University Of Cincinnati,University Of Cincinnati,110,63135867.0,True,Public,Midwest
+University Of Connecticut,University Of Connecticut,13,140172145.0,False,Public,Northeast
+University Of Dayton,University Of Dayton,1,127591826.0,False,Private,Midwest
+University Of Delaware,University Of Delaware,5,86501945.0,False,Public,South
+University Of Denver,University Of Denver,8,131651094.0,False,Private,West
+University Of Idaho,University Of Idaho,4,155093810.0,False,Public,West
 University Of Illinois At Urbana Champaign,University Of Illinois At Urbana Champaign,1,157725225.0,False,Public,Midwest
-University Of Iowa,University Of Iowa,69,126307644.0,True,Public,Midwest
-University Of Kansas,University Of Kansas,152,146416000.0,False,Public,Midwest
-University Of La Verne,University Of La Verne,1,708430.0,False,Private,West
+University Of Iowa,University Of Iowa,14,126307644.0,True,Public,Midwest
+University Of Kansas,University Of Kansas,31,146416000.0,False,Public,Midwest
 University Of Louisville,University Of Louisville,1,142740786.0,False,Public,South
-University Of Massachusetts Worcester,University Of Massachusetts Worcester,9,166722992.0,False,Public,Northeast
-University Of Miami,University Of Miami,5,145608581.0,True,Private,South
-University Of Michigan,University Of Michigan,16,27837315.0,True,Public,Midwest
-University Of Mississippi,University Of Mississippi,52,368840534.0,False,Public,South
-University Of New Mexico,University Of New Mexico,11,169521973.0,False,Public,West
-University Of North Carolina At Charlotte,University Of North Carolina At Charlotte,5,102149020.0,False,Public,South
-University Of North Carolina At Greensboro,University Of North Carolina At Greensboro,14,169335092.0,True,Public,South
-University Of North Texas,University Of North Texas,2,123534392.0,False,Public,South
-University Of Notre Dame,University Of Notre Dame,43,107639228.0,False,Private,Midwest
-University Of Oklahoma,University Of Oklahoma,54,8692664.0,False,Public,South
-University Of Pacific,University Of Pacific,5,119942576.0,False,Private,West
-University Of Pittsburgh,University Of Pittsburgh,85,170201317.0,False,Public,Northeast
-University Of Rochester,University Of Rochester,35,5388228.0,False,Private,Northeast
-University Of San Diego,University Of San Diego,23,160856358.0,True,Private,West
-University Of South Alabama,University Of South Alabama,15,83809506.0,False,Public,South
-University Of South Carolina,University Of South Carolina,14,155781252.0,False,Public,South
-University Of South Dakota,University Of South Dakota,67,189957204.0,False,Public,Midwest
-University Of Southern California,University Of Southern California,43,1174212.0,False,Private,West
-University Of Southern Mississippi,University Of Southern Mississippi,54,44854399.0,False,Public,South
-University Of St Thomas Minnesota,University Of St Thomas Minnesota,55,161515732.0,False,Private,Midwest
-University Of Texas At Brownsville/Texas Southmost College,University Of Texas At Brownsville/Texas Southmost College,21,2802326326.0,True,Public,South
-University Of Tulsa,University Of Tulsa,15,87208437.0,False,Private,South
-University Of Utah,University Of Utah,150,223532165.0,False,Public,West
-University Of Virginia,University Of Virginia,35,51556381.0,False,Public,South
-University Of Washington,University Of Washington,1,201448701.0,False,Public,West
-Utah State University,Utah State University,164,121980950.0,False,Public,West
-Vanderbilt University,Vanderbilt University,27,200719446.0,False,Private,South
-Villanova University,Villanova University,14,7863295.0,False,Private,Northeast
-Virginia Commonwealth University,Virginia Commonwealth University,9,184840846.0,False,Public,South
-Virginia Polytechnic Institute And State University,Virginia Polytechnic Institute And State University,36,859038795.0,False,Public,South
-Wake Forest University,Wake Forest University,9,47251452.0,False,Private,South
-Washington State University,Washington State University,7,72951846.0,False,Public,West
-Washington University,Washington University,12,204465549.0,False,Private,Midwest
-West Chester University Of Pennsylvania,West Chester University Of Pennsylvania,12,161171246.0,True,Public,Northeast
-West Virginia University,West Virginia University,63,12097938.0,False,Public,South
-Wichita State University,Wichita State University,147,39587148.0,False,Public,Midwest
-Widener University,Widener University,17,138659443.0,False,Private,Northeast
-Worcester Polytechnic Institute,Worcester Polytechnic Institute,20,107077323.0,False,Private,Northeast
-Yale University,Yale University,51,32971472.0,False,Private,Northeast
-Yeshiva University,Yeshiva University,60,19772626.0,False,Private,Northeast
-Rockefeller University,Rockefeller University,139,83399316.0,False,Private,Northeast
-Saint Louis University,Saint Louis University,9,47838141.0,False,Private,Midwest
-Southern Illinois University System,Southern Illinois University System,23,2801502357.0,False,Public,Midwest
-Southern Methodist University,Southern Methodist University,5,178169726.0,False,Private,South
-Stevens Institute Of Technology,Stevens Institute Of Technology,8,108468826.0,False,Private,Northeast
-Tennessee State University,Tennessee State University,473,75256744.0,False,Public,South
-Tennessee Technological University,Tennessee Technological University,464,63920570.0,False,Public,South
-University At Albany Suny,University At Albany Suny,12,392282.0,False,Public,Northeast
-University Of Memphis,University Of Memphis,460,94658018.0,True,Public,South
-University Of Pennsylvania,University Of Pennsylvania,64,79576946.0,True,Private,Northeast
-University Of San Francisco,University Of San Francisco,17,76766440.0,False,Private,West
-Florida Agricultural And Mechanical University,Florida Agricultural And Mechanical University,2,8248082.0,False,Public,South
-Florida State University,Florida State University,4,103163165.0,False,Public,South
-Montana State University Bozeman,Montana State University Bozeman,10,23732399.0,False,Public,West
-Oregon Health & Science University,Oregon Health & Science University,13,165690674.0,False,Public,West
-State University Of New York Stony Brook,State University Of New York Stony Brook,8,59553526.0,True,Public,Northeast
-Union Institute & University,Union Institute & University,15,204669301.0,False,Private,Midwest
-University At Buffalo State University Of New York,University At Buffalo State University Of New York,3,63190737.0,False,Public,Northeast
-New School,New School,249,102179633.0,False,Private,Northeast
-University Of California Los Angeles,University Of California Los Angeles,14,161318765.0,False,Public,West
-Baylor College Of Medicine,Baylor College Of Medicine,45,181547552.0,False,Private,South
-Boise State University,Boise State University,27,120156002.0,False,Public,West
-Montana State University,Montana State University,10,23732399.0,False,Public,West
-Northeastern University,Northeastern University,6,12912129.0,False,Private,Northeast
-Northwestern University,Northwestern University,27,111979921.0,False,Private,Midwest
-North Dakota State University,North Dakota State University,3,57328836.0,False,Public,Midwest
-Virginia Tech,Virginia Tech,25,859038795.0,False,Public,South
-Polytechnic Institute Of New York University,Polytechnic Institute Of New York University,48,57206974.0,False,Private,Northeast
+University Of Mississippi,University Of Mississippi,39,368840534.0,False,Public,South
+University Of New Mexico,University Of New Mexico,6,169521973.0,False,Public,West
+University Of North Carolina At Charlotte,University Of North Carolina At Charlotte,1,102149020.0,False,Public,South
+University Of North Carolina At Greensboro,University Of North Carolina At Greensboro,4,169335092.0,True,Public,South
+University Of North Texas,University Of North Texas,1,123534392.0,False,Public,South
+University Of Notre Dame,University Of Notre Dame,16,107639228.0,False,Private,Midwest
+University Of Oklahoma,University Of Oklahoma,33,8692664.0,False,Public,South
+University Of Pacific,University Of Pacific,3,119942576.0,False,Private,West
+University Of Pittsburgh,University Of Pittsburgh,41,170201317.0,False,Public,Northeast
+University Of Rhode Island,University Of Rhode Island,2,17626003.0,False,Public,Northeast
+University Of Rochester,University Of Rochester,10,5388228.0,False,Private,Northeast
+University Of San Diego,University Of San Diego,14,160856358.0,True,Private,West
+University Of South Alabama,University Of South Alabama,9,83809506.0,False,Public,South
+University Of South Carolina,University Of South Carolina,4,155781252.0,False,Public,South
+University Of South Dakota,University Of South Dakota,30,189957204.0,False,Public,Midwest
+University Of Southern California,University Of Southern California,24,1174212.0,False,Private,West
+University Of Southern Mississippi,University Of Southern Mississippi,30,44854399.0,False,Public,South
+University Of St Thomas Minnesota,University Of St Thomas Minnesota,23,161515732.0,False,Private,Midwest
+University Of Texas At Brownsville/Texas Southmost College,University Of Texas At Brownsville/Texas Southmost College,4,2802326326.0,True,Public,South
+University Of Toledo,University Of Toledo,114,90871651.0,False,Public,Midwest
+University Of Tulsa,University Of Tulsa,5,87208437.0,False,Private,South
+University Of Utah,University Of Utah,98,223532165.0,False,Public,West
+University Of Virginia,University Of Virginia,8,51556381.0,False,Public,South
+Utah State University,Utah State University,98,121980950.0,False,Public,West
+Vanderbilt University,Vanderbilt University,11,200719446.0,False,Private,South
+Villanova University,Villanova University,3,7863295.0,False,Private,Northeast
+Virginia Commonwealth University,Virginia Commonwealth University,1,184840846.0,False,Public,South
+Wake Forest University,Wake Forest University,3,47251452.0,False,Private,South
+Washington State University,Washington State University,2,72951846.0,False,Public,West
+Washington University,Washington University,7,204465549.0,False,Private,Midwest
+West Chester University Of Pennsylvania,West Chester University Of Pennsylvania,11,161171246.0,True,Public,Northeast
+West Virginia University,West Virginia University,32,12097938.0,False,Public,South
+Wichita State University,Wichita State University,47,39587148.0,False,Public,Midwest
+Widener University,Widener University,4,138659443.0,False,Private,Northeast
+Worcester Polytechnic Institute,Worcester Polytechnic Institute,4,107077323.0,False,Private,Northeast
+Yale University,Yale University,14,32971472.0,False,Private,Northeast
+Yeshiva University,Yeshiva University,25,19772626.0,False,Private,Northeast
+Rockefeller University,Rockefeller University,52,83399316.0,False,Private,Northeast
+Saint Louis University,Saint Louis University,5,47838141.0,False,Private,Midwest
+Southern Methodist University,Southern Methodist University,2,178169726.0,False,Private,South
+Stevens Institute Of Technology,Stevens Institute Of Technology,1,108468826.0,False,Private,Northeast
+Tennessee State University,Tennessee State University,315,75256744.0,False,Public,South
+Tennessee Technological University,Tennessee Technological University,317,63920570.0,False,Public,South
+University Of Memphis,University Of Memphis,300,94658018.0,True,Public,South
+University Of Pennsylvania,University Of Pennsylvania,26,79576946.0,True,Private,Northeast
+University Of San Francisco,University Of San Francisco,3,76766440.0,False,Private,West
+Florida State University,Florida State University,2,103163165.0,False,Public,South
+Oregon Health & Science University,Oregon Health & Science University,5,165690674.0,False,Public,West
+New School,New School,22,102179633.0,False,Private,Northeast
+University Of California Los Angeles,University Of California Los Angeles,2,161318765.0,False,Public,West
+Baylor College Of Medicine,Baylor College Of Medicine,14,181547552.0,False,Private,South
+Northeastern University,Northeastern University,1,12912129.0,False,Private,Northeast
+Northwestern University,Northwestern University,11,111979921.0,False,Private,Midwest
+North Dakota State University,North Dakota State University,1,57328836.0,False,Public,Midwest
+Polytechnic Institute Of New York University,Polytechnic Institute Of New York University,6,57206974.0,False,Private,Northeast
