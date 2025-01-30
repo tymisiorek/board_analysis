@@ -9,7 +9,7 @@ graphs = "graphs\\"
 scripts = "scripts\\"
 board_dataframes = "board_dataframes\\"
 
-# List of years to process
+# List of years to process (ensure they are in chronological order)
 years = ["1999", "2000", "2005", "2007", "2008", "2009", "2011", "2013", "2018"]
 
 def remove_non_samples(df):
@@ -19,8 +19,8 @@ def remove_non_samples(df):
     return df[df['PrimarySample'] == True]
 
 # Initialize lists and dictionaries
-all_edges = []  # List to hold all edges across all years
-filtered_edges = []  # List to hold edges excluding identical board interlocks
+all_edges = []          # List to hold all edges across all years
+filtered_edges = []     # List to hold edges excluding identical board interlocks
 
 # Path to board statistics (needed to look up female_president info)
 board_statistics_path = f"{absolute_path}{altered_dataframes}sample_board_statistics.csv"
@@ -118,13 +118,11 @@ for year in years:
         name = row['Name']
         institution_to_members_year[institution].add(name)
     
-    # Identify identical board groups with threshold=0.25
-    '''
-    important line stop missing
-    '''
+    # Identify identical board groups with threshold=0.75
+    # Adjust the threshold here as per your analysis requirements
     identical_board_groups = group_institutions_by_membership(institution_to_members_year, threshold=1)
     year_to_identical_groups[year] = identical_board_groups
-    
+
     # Print the identified groups
     if identical_board_groups:
         print(f"Identical board groups for {year}: {len(identical_board_groups)} group(s)")
@@ -141,6 +139,9 @@ nodes_dict = defaultdict(lambda: {
     'Interlock_Count': 0,
     'AffiliationId': None,
 })
+
+# Initialize a set to track institutions that have already been involved in interlocks
+seen_institutions = set()
 
 for year in years:
     print(f"\nProcessing interlocks for: {year}")
@@ -162,8 +163,7 @@ for year in years:
     
     # Initialize interlock counters for the year
     total_interlocks = 0
-    unique_interlocks = set()
-    unique_interlocks_in_same_group = set()
+    excluded_interlocks_count = 0  # Count of interlocks within identical board groups
     
     # Get identical board groups for the current year
     identical_board_groups = year_to_identical_groups.get(year, [])
@@ -194,11 +194,11 @@ for year in years:
             if prev_institution != institution:
                 # Check if both institutions are in the same identical board group
                 if is_same_group(prev_institution, institution):
-                    continue  # Skip interlocks within identical board groups
+                    excluded_interlocks_count += 1  # Increment excluded interlock count
+                    continue  # Skip recording this interlock
                 
                 # Create an unordered pair for uniqueness
                 pair = tuple(sorted([prev_institution, institution]))
-                unique_interlocks.add(pair)
                 
                 # Record the edge
                 edge = {
@@ -234,11 +234,11 @@ for year in years:
             if prev_institution != institution:
                 # Check if both institutions are in the same identical board group
                 if is_same_group(prev_institution, institution):
-                    continue  # Skip interlocks within identical board groups
+                    excluded_interlocks_count += 1  # Increment excluded interlock count
+                    continue  # Skip recording this interlock
                 
                 # Create an unordered pair for uniqueness
                 pair = tuple(sorted([prev_institution, institution]))
-                unique_interlocks.add(pair)
                 
                 # Record the edge
                 edge = {
@@ -263,20 +263,39 @@ for year in years:
         if nodes_dict[institution]['AffiliationId'] is None:
             nodes_dict[institution]['AffiliationId'] = affiliation_id
     
-    # Calculate unique interlocks
-    unique_interlock_count = len(unique_interlocks)
+    # ------------------------------------------------------------------------------
+    # Tracking and Printing New Institutions Per Year
+    # ------------------------------------------------------------------------------
+    # Collect institutions involved in interlocks this year from filtered_edges
+    institutions_this_year = set()
+    for edge in filtered_edges:
+        if edge['Year'] == year:
+            institutions_this_year.add(edge['Source'])
+            institutions_this_year.add(edge['Target'])
     
-    # Calculate unique interlocks within identical board groups (none, since we excluded them)
-    unique_interlocks_in_same_group_count = 0  # Since we've already excluded them
+    # Determine new institutions (those not seen in previous years)
+    new_institutions = institutions_this_year - seen_institutions
     
-    # Calculate proportion (0% because we've excluded interlocks within groups)
-    proportion = 0.0
+    # Print new institutions if it's not the first year and there are new institutions
+    if year != years[0] and new_institutions:
+        print(f"New institutions added in {year}: {sorted(new_institutions)}")
     
-    # Print the number of institutions and interlocks for the year
-    print(f"Year {year}: Number of institutions = {num_institutions}, Total interlocks = {total_interlocks}, "
-          f"Unique interlocks = {unique_interlock_count}, "
-          f"Unique interlocks within identical board groups = {unique_interlocks_in_same_group_count} "
-          f"({proportion:.2f}%)")
+    # Update seen_institutions with institutions from this year
+    seen_institutions.update(institutions_this_year)
+    
+    # ------------------------------------------------------------------------------
+    # Calculate Proportion of Excluded Interlocks
+    # ------------------------------------------------------------------------------
+    if total_interlocks + excluded_interlocks_count > 0:
+        proportion_excluded = (excluded_interlocks_count / (total_interlocks + excluded_interlocks_count)) * 100
+    else:
+        proportion_excluded = 0.0
+    
+    # Print the number of institutions, interlocks, excluded interlocks, and proportion for the year
+    print(f"Year {year}: Number of institutions = {num_institutions}, "
+          f"Total interlocks = {total_interlocks}, "
+          f"Excluded interlocks (identical board groups) = {excluded_interlocks_count} "
+          f"({proportion_excluded:.2f}%)")
 
 # ------------------------------------------------------------------------------
 # Building the Nodes DataFrame
@@ -289,19 +308,26 @@ nodes_df = pd.DataFrame([
 
 nodes_df['Label'] = nodes_df['Id']
 
-def lookup_female_president(row):
+def lookup_female_president(row, year):
+    """
+    Checks if the institution had a female president in the specific year being processed.
+    """
     matching_rows = board_statistics_df[
-        (board_statistics_df['AffiliationId'] == row['AffiliationId'])
+        (board_statistics_df['AffiliationId'] == row['AffiliationId']) &
+        (board_statistics_df['Year'] == year) 
     ]
     if not matching_rows.empty:
         return matching_rows['female_president'].mode()[0]
-    # Fallback: match by institution name
+
     matching_rows = board_statistics_df[
-        (board_statistics_df['Institution'] == row['Id'])
+        (board_statistics_df['Institution'] == row['Id']) &
+        (board_statistics_df['Year'] == year) 
     ]
     if not matching_rows.empty:
         return matching_rows['female_president'].mode()[0]
+
     return 'unknown'
+
 
 def lookup_column(row, column_name):
     matching_rows = board_statistics_df[
@@ -317,7 +343,9 @@ def lookup_column(row, column_name):
         return matching_rows[column_name].mode()[0]
     return 'unknown'
 
-nodes_df['female_president'] = nodes_df.apply(lookup_female_president, axis=1).fillna('unknown')
+nodes_df['female_president'] = nodes_df.apply(
+    lambda row: lookup_female_president(row, year), axis=1
+).fillna('unknown')
 nodes_df['control'] = nodes_df.apply(lambda row: lookup_column(row, 'control'), axis=1)
 nodes_df['region'] = nodes_df.apply(lambda row: lookup_column(row, 'region'), axis=1)
 
