@@ -282,20 +282,7 @@ for year in years:
     
     # Update seen_institutions with institutions from this year
     seen_institutions.update(institutions_this_year)
-    
-    # ------------------------------------------------------------------------------
-    # Calculate Proportion of Excluded Interlocks
-    # ------------------------------------------------------------------------------
-    if total_interlocks + excluded_interlocks_count > 0:
-        proportion_excluded = (excluded_interlocks_count / (total_interlocks + excluded_interlocks_count)) * 100
-    else:
-        proportion_excluded = 0.0
-    
-    # Print the number of institutions, interlocks, excluded interlocks, and proportion for the year
-    print(f"Year {year}: Number of institutions = {num_institutions}, "
-          f"Total interlocks = {total_interlocks}, "
-          f"Excluded interlocks (identical board groups) = {excluded_interlocks_count} "
-          f"({proportion_excluded:.2f}%)")
+
 
 # ------------------------------------------------------------------------------
 # Building the Nodes DataFrame
