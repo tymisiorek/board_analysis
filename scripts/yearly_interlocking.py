@@ -327,6 +327,18 @@ for year in years:
 merged_df = board_statistics_df.merge(
     all_nodes_df[["Year", "AffiliationId", "betweenness", "closeness", "eigenvector", "degree", "clustering"]],
     on = ["Year", "AffiliationId"],
-    how="left"
+    how="left",
+    suffixes=("", "_new")
 )
+
+for col in ["betweenness", "closeness", "eigenvector", "degree", "clustering", "Board_Size"]:
+    if f"{col}_new" in merged_df.columns:
+        merged_df[col] = merged_df[f"{col}_new"]
+        merged_df.drop(columns=[f"{col}_new"], inplace=True)
+
+# Fill missing values with zero for centrality measures
+centrality_columns = ["betweenness", "closeness", "eigenvector", "degree", "clustering"]
+merged_df[centrality_columns] = merged_df[centrality_columns].fillna(0)
+
+
 merged_df.to_csv(f'{absolute_path}{altered_dataframes}sample_board_statistics.csv', index = False)
