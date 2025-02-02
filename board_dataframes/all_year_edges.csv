@@ -1,0 +1,823 @@
+Id,Source,Target,Type,Weight,Year
+e1,Case Western Reserve University,Columbia University,Undirected,1,1999
+e2,Carnegie Mellon University,Duquesne University,Undirected,1,1999
+e3,Carnegie Mellon University,Duquesne University,Undirected,1,1999
+e4,Carnegie Mellon University,Duquesne University,Undirected,1,1999
+e5,Clark Atlanta University,Emory University,Undirected,1,1999
+e6,Brandeis University,Fordham University,Undirected,1,1999
+e7,Fordham University,Georgetown University,Undirected,1,1999
+e8,California Institute Of Technology,Harvard University,Undirected,1,1999
+e9,Brown University,Johns Hopkins University,Undirected,1,1999
+e10,Howard University,Johns Hopkins University,Undirected,1,1999
+e11,Andrews University,Loma Linda University,Undirected,1,1999
+e12,Andrews University,Loma Linda University,Undirected,1,1999
+e13,Illinois Institute Of Technology,Loyola University Chicago,Undirected,1,1999
+e14,George Washington University,Marquette University,Undirected,1,1999
+e15,Boston University,Massachusetts Institute Of Technology,Undirected,1,1999
+e16,George Washington University,Massachusetts Institute Of Technology,Undirected,1,1999
+e17,Dartmouth College,New School University,Undirected,1,1999
+e18,Georgetown University,New York University,Undirected,1,1999
+e19,Case Western Reserve University,Ohio State University,Undirected,1,1999
+e20,Hampton University,Old Dominion University,Undirected,1,1999
+e21,California Institute Of Technology,Pepperdine University,Undirected,1,1999
+e22,George Washington University,Pepperdine University,Undirected,1,1999
+e23,Polytechnic University,Rensselaer Polytechnic Institute,Undirected,1,1999
+e24,Princeton University,Rice University,Undirected,1,1999
+e25,Lehigh University,Seton Hall University,Undirected,1,1999
+e26,Adelphi University,State University Of New York At Albany,Undirected,1,1999
+e27,Pennsylvania State University,Temple University,Undirected,1,1999
+e28,Pennsylvania State University,Temple University,Undirected,1,1999
+e29,Brandeis University,Tufts University,Undirected,1,1999
+e30,Auburn University,University Of Alabama,Undirected,1,1999
+e31,Tufts University,University Of Chicago,Undirected,1,1999
+e32,Illinois Institute Of Technology,University Of Chicago,Undirected,1,1999
+e33,Marquette University,University Of Chicago,Undirected,1,1999
+e34,New School University,University Of Chicago,Undirected,1,1999
+e35,Tufts University,University Of Delaware,Undirected,1,1999
+e36,Georgetown University,University Of Delaware,Undirected,1,1999
+e37,Depaul University,University Of Illinois At Urbana Champaign,Undirected,1,1999
+e38,New Mexico State University,University Of New Mexico,Undirected,1,1999
+e39,Middle Tennessee State University,University Of North Texas,Undirected,1,1999
+e40,New York University,University Of Notre Dame,Undirected,1,1999
+e41,New Jersey Institute Of Technology,University Of Notre Dame,Undirected,1,1999
+e42,Carnegie Mellon University,University Of Oklahoma,Undirected,1,1999
+e43,Oklahoma State University,University Of Oklahoma,Undirected,1,1999
+e44,Oklahoma State University,University Of Oklahoma,Undirected,1,1999
+e45,Oklahoma State University,University Of Oklahoma,Undirected,1,1999
+e46,Hofstra University,University Of Pittsburgh,Undirected,1,1999
+e47,Carnegie Mellon University,University Of Pittsburgh,Undirected,1,1999
+e48,New Jersey Institute Of Technology,University Of Pittsburgh,Undirected,1,1999
+e49,Rochester Institute Of Technology,University Of Rochester,Undirected,1,1999
+e50,Johns Hopkins University,University Of Rochester,Undirected,1,1999
+e51,University Of Chicago,University Of Rochester,Undirected,1,1999
+e52,University Of Alabama,University Of South Alabama,Undirected,1,1999
+e53,Auburn University,University Of South Alabama,Undirected,1,1999
+e54,Carnegie Mellon University,University Of Southern California,Undirected,1,1999
+e55,Loyola Marymount University,University Of Southern California,Undirected,1,1999
+e56,Marquette University,University Of St Thomas Minnesota,Undirected,1,1999
+e57,University Of Notre Dame,University Of St Thomas Minnesota,Undirected,1,1999
+e58,University Of Oklahoma,University Of Tulsa,Undirected,1,1999
+e59,Carnegie Mellon University,University Of Tulsa,Undirected,1,1999
+e60,Seton Hall University,Villanova University,Undirected,1,1999
+e61,University Of North Carolina At Greensboro,Wake Forest University,Undirected,1,1999
+e62,Indiana University Of Pennsylvania,West Chester University Of Pennsylvania,Undirected,1,1999
+e63,Indiana University Of Pennsylvania,West Chester University Of Pennsylvania,Undirected,1,1999
+e64,Thomas Jefferson University,Widener University,Undirected,1,1999
+e65,Carnegie Mellon University,Worcester Polytechnic Institute,Undirected,1,1999
+e66,University Of Connecticut,Yale University,Undirected,1,1999
+e67,Brown University,University Of Rhode Island,Undirected,1,1999
+e68,New Jersey Institute Of Technology,Princeton University,Undirected,1,1999
+e69,Kent State University,Ohio State University,Undirected,1,1999
+e70,Ohio State University,University Of Cincinnati,Undirected,1,1999
+e71,Ohio State University,Ohio University,Undirected,1,1999
+e72,Ohio State University,University Of Akron,Undirected,1,1999
+e73,Ohio State University,University Of Cincinnati,Undirected,1,1999
+e74,Ohio State University,Ohio University,Undirected,1,1999
+e75,Ohio State University,University Of Akron,Undirected,1,1999
+e76,Cleveland State University,Ohio State University,Undirected,1,1999
+e77,Kent State University,Ohio State University,Undirected,1,1999
+e78,Ohio State University,University Of Cincinnati,Undirected,1,1999
+e79,Ohio State University,Ohio University,Undirected,1,1999
+e80,Ohio State University,University Of Akron,Undirected,1,1999
+e81,Cleveland State University,Ohio State University,Undirected,1,1999
+e82,Kent State University,Ohio State University,Undirected,1,1999
+e83,Ohio State University,University Of Cincinnati,Undirected,1,1999
+e84,Ohio State University,Ohio University,Undirected,1,1999
+e85,Ohio State University,University Of Akron,Undirected,1,1999
+e86,Cleveland State University,Ohio State University,Undirected,1,1999
+e87,Kent State University,Ohio State University,Undirected,1,1999
+e88,Catholic University Of America,Seton Hall University,Undirected,1,1999
+e89,Lehigh University,Seton Hall University,Undirected,1,1999
+e90,Ohio State University,University Of Toledo,Undirected,1,1999
+e91,Ohio State University,University Of Toledo,Undirected,1,1999
+e92,Ohio State University,University Of Toledo,Undirected,1,1999
+e93,Ohio State University,University Of Toledo,Undirected,1,1999
+e94,New York University,Yeshiva University,Undirected,1,1999
+e95,Hofstra University,Yeshiva University,Undirected,1,1999
+e96,Massachusetts Institute Of Technology,Yeshiva University,Undirected,1,1999
+e97,California Institute Of Technology,Chapman University,Undirected,1,2000
+e98,Carnegie Mellon University,Duquesne University,Undirected,1,2000
+e99,Carnegie Mellon University,Duquesne University,Undirected,1,2000
+e100,Carnegie Mellon University,Duquesne University,Undirected,1,2000
+e101,Brandeis University,Fordham University,Undirected,1,2000
+e102,Fordham University,Georgetown University,Undirected,1,2000
+e103,California Institute Of Technology,Harvard University,Undirected,1,2000
+e104,Howard University,Johns Hopkins University,Undirected,1,2000
+e105,Brown University,Johns Hopkins University,Undirected,1,2000
+e106,Cleveland State University,Kent State University,Undirected,1,2000
+e107,Cleveland State University,Kent State University,Undirected,1,2000
+e108,Cleveland State University,Kent State University,Undirected,1,2000
+e109,Cleveland State University,Kent State University,Undirected,1,2000
+e110,Cleveland State University,Kent State University,Undirected,1,2000
+e111,Cleveland State University,Kent State University,Undirected,1,2000
+e112,Cleveland State University,Kent State University,Undirected,1,2000
+e113,Cleveland State University,Kent State University,Undirected,1,2000
+e114,Andrews University,Loma Linda University,Undirected,1,2000
+e115,Andrews University,Loma Linda University,Undirected,1,2000
+e116,Boston College,Loyola University Chicago,Undirected,1,2000
+e117,Illinois Institute Of Technology,Loyola University Chicago,Undirected,1,2000
+e118,Creighton University,Loyola University Chicago,Undirected,1,2000
+e119,George Washington University,Marquette University,Undirected,1,2000
+e120,Johns Hopkins University,Massachusetts Institute Of Technology,Undirected,1,2000
+e121,Boston University,Massachusetts Institute Of Technology,Undirected,1,2000
+e122,Auburn University,New School University,Undirected,1,2000
+e123,Auburn University,New School University,Undirected,1,2000
+e124,Georgetown University,New York University,Undirected,1,2000
+e125,Case Western Reserve University,Ohio State University,Undirected,1,2000
+e126,Hampton University,Old Dominion University,Undirected,1,2000
+e127,Polytechnic University,Rensselaer Polytechnic Institute,Undirected,1,2000
+e128,Dartmouth College,Rockefeller University,Undirected,1,2000
+e129,Georgetown University,Rockefeller University,Undirected,1,2000
+e130,Princeton University,Rockefeller University,Undirected,1,2000
+e131,New York University,Rockefeller University,Undirected,1,2000
+e132,Georgetown University,Saint Louis University,Undirected,1,2000
+e133,Lehigh University,Seton Hall University,Undirected,1,2000
+e134,Catholic University Of America,Seton Hall University,Undirected,1,2000
+e135,Rice University,Stanford University,Undirected,1,2000
+e136,Rockefeller University,Stanford University,Undirected,1,2000
+e137,Brown University,Tufts University,Undirected,1,2000
+e138,Cleveland State University,University Of Akron,Undirected,1,2000
+e139,Cleveland State University,University Of Akron,Undirected,1,2000
+e140,Cleveland State University,University Of Akron,Undirected,1,2000
+e141,Cleveland State University,University Of Akron,Undirected,1,2000
+e142,Cleveland State University,University Of Akron,Undirected,1,2000
+e143,Cleveland State University,University Of Akron,Undirected,1,2000
+e144,Cleveland State University,University Of Akron,Undirected,1,2000
+e145,Cleveland State University,University Of Akron,Undirected,1,2000
+e146,Tufts University,University Of Chicago,Undirected,1,2000
+e147,Illinois Institute Of Technology,University Of Chicago,Undirected,1,2000
+e148,Marquette University,University Of Chicago,Undirected,1,2000
+e149,New School University,University Of Chicago,Undirected,1,2000
+e150,Georgetown University,University Of Connecticut,Undirected,1,2000
+e151,New York University,University Of Connecticut,Undirected,1,2000
+e152,Marquette University,University Of Dayton,Undirected,1,2000
+e153,Tufts University,University Of Delaware,Undirected,1,2000
+e154,Georgetown University,University Of Delaware,Undirected,1,2000
+e155,New Mexico State University,University Of New Mexico,Undirected,1,2000
+e156,Massachusetts Institute Of Technology,University Of North Carolina At Greensboro,Undirected,1,2000
+e157,New Jersey Institute Of Technology,University Of Notre Dame,Undirected,1,2000
+e158,Oklahoma State University,University Of Oklahoma,Undirected,1,2000
+e159,Oklahoma State University,University Of Oklahoma,Undirected,1,2000
+e160,New York University,University Of Pennsylvania,Undirected,1,2000
+e161,Rockefeller University,University Of Pennsylvania,Undirected,1,2000
+e162,Pennsylvania State University,University Of Pittsburgh,Undirected,1,2000
+e163,Hofstra University,University Of Pittsburgh,Undirected,1,2000
+e164,New Jersey Institute Of Technology,University Of Pittsburgh,Undirected,1,2000
+e165,Carnegie Mellon University,University Of Pittsburgh,Undirected,1,2000
+e166,Loyola University Chicago,University Of San Diego,Undirected,1,2000
+e167,Loyola University Chicago,University Of San Diego,Undirected,1,2000
+e168,Loyola University Chicago,University Of San Francisco,Undirected,1,2000
+e169,Loyola University Chicago,University Of San Francisco,Undirected,1,2000
+e170,Auburn University,University Of South Alabama,Undirected,1,2000
+e171,Auburn University,University Of South Alabama,Undirected,1,2000
+e172,South Dakota State University,University Of South Dakota,Undirected,1,2000
+e173,South Dakota State University,University Of South Dakota,Undirected,1,2000
+e174,South Dakota State University,University Of South Dakota,Undirected,1,2000
+e175,Marquette University,University Of St Thomas Minnesota,Undirected,1,2000
+e176,University Of Notre Dame,University Of St Thomas Minnesota,Undirected,1,2000
+e177,Auburn University,University Of Texas At Brownsville/Texas Southmost College,Undirected,1,2000
+e178,New School University,University Of Texas At Brownsville/Texas Southmost College,Undirected,1,2000
+e179,Cornell University,University Of Tulsa,Undirected,1,2000
+e180,Seton Hall University,Villanova University,Undirected,1,2000
+e181,Indiana University Of Pennsylvania,West Chester University Of Pennsylvania,Undirected,1,2000
+e182,Indiana University Of Pennsylvania,West Chester University Of Pennsylvania,Undirected,1,2000
+e183,Thomas Jefferson University,Widener University,Undirected,1,2000
+e184,Carnegie Mellon University,Worcester Polytechnic Institute,Undirected,1,2000
+e185,Stevens Institute Of Technology,Worcester Polytechnic Institute,Undirected,1,2000
+e186,New School University,Yale University,Undirected,1,2000
+e187,University Of Connecticut,Yale University,Undirected,1,2000
+e188,Hofstra University,Yeshiva University,Undirected,1,2000
+e189,Massachusetts Institute Of Technology,Yeshiva University,Undirected,1,2000
+e190,Columbia University,Yeshiva University,Undirected,1,2000
+e191,New York University,Yeshiva University,Undirected,1,2000
+e192,Brown University,University Of Rhode Island,Undirected,1,2000
+e193,Harvard University,Rockefeller University,Undirected,1,2000
+e194,Harvard University,Rockefeller University,Undirected,1,2000
+e195,Loyola Marymount University,University Of Notre Dame,Undirected,1,2000
+e196,Loyola Marymount University,University Of Southern California,Undirected,1,2000
+e197,Loyola Marymount University,Loyola University Chicago,Undirected,1,2000
+e198,Cleveland State University,Ohio State University,Undirected,1,2000
+e199,Cleveland State University,Ohio State University,Undirected,1,2000
+e200,Cleveland State University,Ohio State University,Undirected,1,2000
+e201,Cleveland State University,Ohio State University,Undirected,1,2000
+e202,Cleveland State University,Ohio State University,Undirected,1,2000
+e203,Cleveland State University,Ohio State University,Undirected,1,2000
+e204,Cleveland State University,Ohio State University,Undirected,1,2000
+e205,Cleveland State University,Ohio University,Undirected,1,2000
+e206,Cleveland State University,Ohio University,Undirected,1,2000
+e207,Cleveland State University,Ohio University,Undirected,1,2000
+e208,Cleveland State University,Ohio University,Undirected,1,2000
+e209,Cleveland State University,Ohio University,Undirected,1,2000
+e210,Cleveland State University,Ohio University,Undirected,1,2000
+e211,Cleveland State University,Ohio University,Undirected,1,2000
+e212,Cleveland State University,Ohio University,Undirected,1,2000
+e213,Catholic University Of America,Seton Hall University,Undirected,1,2000
+e214,Tennessee State University,University Of Texas At Brownsville/Texas Southmost College,Undirected,1,2000
+e215,Auburn University,Tennessee State University,Undirected,1,2000
+e216,New School University,Tennessee State University,Undirected,1,2000
+e217,Tennessee Technological University,University Of Texas At Brownsville/Texas Southmost College,Undirected,1,2000
+e218,Auburn University,Tennessee Technological University,Undirected,1,2000
+e219,New School University,Tennessee Technological University,Undirected,1,2000
+e220,Cleveland State University,University Of Cincinnati,Undirected,1,2000
+e221,Cleveland State University,University Of Cincinnati,Undirected,1,2000
+e222,Cleveland State University,University Of Cincinnati,Undirected,1,2000
+e223,Cleveland State University,University Of Cincinnati,Undirected,1,2000
+e224,Cleveland State University,University Of Cincinnati,Undirected,1,2000
+e225,Cleveland State University,University Of Cincinnati,Undirected,1,2000
+e226,Cleveland State University,University Of Cincinnati,Undirected,1,2000
+e227,Cleveland State University,University Of Cincinnati,Undirected,1,2000
+e228,Cleveland State University,University Of Toledo,Undirected,1,2000
+e229,Cleveland State University,University Of Toledo,Undirected,1,2000
+e230,Cleveland State University,University Of Toledo,Undirected,1,2000
+e231,Cleveland State University,University Of Toledo,Undirected,1,2000
+e232,Cleveland State University,University Of Toledo,Undirected,1,2000
+e233,Cleveland State University,University Of Toledo,Undirected,1,2000
+e234,Cleveland State University,University Of Toledo,Undirected,1,2000
+e235,Cleveland State University,University Of Toledo,Undirected,1,2000
+e236,California Institute Of Technology,Chapman University,Undirected,1,2005
+e237,Carnegie Mellon University,Duquesne University,Undirected,1,2005
+e238,Carnegie Mellon University,Duquesne University,Undirected,1,2005
+e239,Duke University,Emory University,Undirected,1,2005
+e240,Creighton University,Georgetown University,Undirected,1,2005
+e241,Fordham University,Georgetown University,Undirected,1,2005
+e242,California Institute Of Technology,Harvard University,Undirected,1,2005
+e243,California Institute Of Technology,Harvard University,Undirected,1,2005
+e244,Andrews University,Loma Linda University,Undirected,1,2005
+e245,Andrews University,Loma Linda University,Undirected,1,2005
+e246,Andrews University,Loma Linda University,Undirected,1,2005
+e247,Andrews University,Loma Linda University,Undirected,1,2005
+e248,Boston College,Loyola Marymount University,Undirected,1,2005
+e249,Boston College,Loyola Marymount University,Undirected,1,2005
+e250,Fordham University,Loyola University Chicago,Undirected,1,2005
+e251,Boston College,Loyola University Chicago,Undirected,1,2005
+e252,Boston College,Loyola University Chicago,Undirected,1,2005
+e253,Loyola University Chicago,Marquette University,Undirected,1,2005
+e254,Howard University,Massachusetts Institute Of Technology,Undirected,1,2005
+e255,Cornell University,Massachusetts Institute Of Technology,Undirected,1,2005
+e256,California Institute Of Technology,Massachusetts Institute Of Technology,Undirected,1,2005
+e257,California Institute Of Technology,Massachusetts Institute Of Technology,Undirected,1,2005
+e258,Harvard University,Massachusetts Institute Of Technology,Undirected,1,2005
+e259,Dartmouth College,New School University,Undirected,1,2005
+e260,Massachusetts Institute Of Technology,New School University,Undirected,1,2005
+e261,Cornell University,New School University,Undirected,1,2005
+e262,Cornell University,New School University,Undirected,1,2005
+e263,New School University,New York University,Undirected,1,2005
+e264,Georgetown University,New York University,Undirected,1,2005
+e265,Hofstra University,New York University,Undirected,1,2005
+e266,Clarkson University,Polytechnic University,Undirected,1,2005
+e267,Carnegie Mellon University,Princeton University,Undirected,1,2005
+e268,Georgetown University,Rensselaer Polytechnic Institute,Undirected,1,2005
+e269,Cornell University,Rochester Institute Of Technology,Undirected,1,2005
+e270,Johns Hopkins University,Rockefeller University,Undirected,1,2005
+e271,Brown University,Rockefeller University,Undirected,1,2005
+e272,Massachusetts Institute Of Technology,Rockefeller University,Undirected,1,2005
+e273,Georgetown University,Rockefeller University,Undirected,1,2005
+e274,Princeton University,Rockefeller University,Undirected,1,2005
+e275,Dartmouth College,Rockefeller University,Undirected,1,2005
+e276,Brandeis University,Rockefeller University,Undirected,1,2005
+e277,Rockefeller University,Stanford University,Undirected,1,2005
+e278,Pennsylvania State University,Temple University,Undirected,1,2005
+e279,Brown University,Tufts University,Undirected,1,2005
+e280,Tufts University,University Of Chicago,Undirected,1,2005
+e281,Princeton University,University Of Chicago,Undirected,1,2005
+e282,New School University,University Of Chicago,Undirected,1,2005
+e283,Illinois Institute Of Technology,University Of Chicago,Undirected,1,2005
+e284,Georgetown University,University Of Connecticut,Undirected,1,2005
+e285,New York University,University Of Connecticut,Undirected,1,2005
+e286,Tufts University,University Of New Mexico,Undirected,1,2005
+e287,Massachusetts Institute Of Technology,University Of North Carolina At Greensboro,Undirected,1,2005
+e288,New Jersey Institute Of Technology,University Of Notre Dame,Undirected,1,2005
+e289,Oklahoma State University,University Of Oklahoma,Undirected,1,2005
+e290,Oklahoma State University,University Of Oklahoma,Undirected,1,2005
+e291,Oklahoma State University,University Of Oklahoma,Undirected,1,2005
+e292,Oklahoma State University,University Of Oklahoma,Undirected,1,2005
+e293,Oklahoma State University,University Of Oklahoma,Undirected,1,2005
+e294,Oklahoma State University,University Of Oklahoma,Undirected,1,2005
+e295,Oklahoma State University,University Of Oklahoma,Undirected,1,2005
+e296,Rockefeller University,University Of Pennsylvania,Undirected,1,2005
+e297,Rockefeller University,University Of Pennsylvania,Undirected,1,2005
+e298,New York University,University Of Pennsylvania,Undirected,1,2005
+e299,Temple University,University Of Pennsylvania,Undirected,1,2005
+e300,Pennsylvania State University,University Of Pennsylvania,Undirected,1,2005
+e301,Temple University,University Of Pittsburgh,Undirected,1,2005
+e302,Carnegie Mellon University,University Of Pittsburgh,Undirected,1,2005
+e303,University Of Pennsylvania,University Of Pittsburgh,Undirected,1,2005
+e304,Temple University,University Of Pittsburgh,Undirected,1,2005
+e305,Pennsylvania State University,University Of Pittsburgh,Undirected,1,2005
+e306,Auburn University,University Of South Alabama,Undirected,1,2005
+e307,University Of Notre Dame,University Of St Thomas Minnesota,Undirected,1,2005
+e308,Princeton University,University Of Virginia,Undirected,1,2005
+e309,Harvard University,Vanderbilt University,Undirected,1,2005
+e310,Drexel University,Villanova University,Undirected,1,2005
+e311,University Of San Diego,Wake Forest University,Undirected,1,2005
+e312,George Washington University,Washington State University,Undirected,1,2005
+e313,Indiana University Of Pennsylvania,West Chester University Of Pennsylvania,Undirected,1,2005
+e314,Indiana University Of Pennsylvania,West Chester University Of Pennsylvania,Undirected,1,2005
+e315,Lehigh University,West Virginia University,Undirected,1,2005
+e316,Massachusetts Institute Of Technology,Yale University,Undirected,1,2005
+e317,Georgetown University,Yale University,Undirected,1,2005
+e318,Fordham University,Yeshiva University,Undirected,1,2005
+e319,Hofstra University,Yeshiva University,Undirected,1,2005
+e320,New York University,Yeshiva University,Undirected,1,2005
+e321,Columbia University,Yeshiva University,Undirected,1,2005
+e322,Johns Hopkins University,Loyola Marymount University,Undirected,1,2005
+e323,Loyola Marymount University,University Of San Francisco,Undirected,1,2005
+e324,Loyola Marymount University,Loyola University Chicago,Undirected,1,2005
+e325,Fordham University,Loyola Marymount University,Undirected,1,2005
+e326,Loyola Marymount University,University Of Southern California,Undirected,1,2005
+e327,Boston College,Loyola Marymount University,Undirected,1,2005
+e328,Boston College,Loyola Marymount University,Undirected,1,2005
+e329,Loyola Marymount University,University Of San Diego,Undirected,1,2005
+e330,Loyola Marymount University,University Of Southern California,Undirected,1,2005
+e331,Loyola Marymount University,University Of Southern California,Undirected,1,2005
+e332,Boston College,Loyola Marymount University,Undirected,1,2005
+e333,New Jersey Institute Of Technology,Princeton University,Undirected,1,2005
+e334,Indiana University Of Pennsylvania,West Chester University Of Pennsylvania,Undirected,1,2005
+e335,Indiana University Of Pennsylvania,West Chester University Of Pennsylvania,Undirected,1,2005
+e336,California Institute Of Technology,Chapman University,Undirected,1,2007
+e337,Brown University,Cornell University,Undirected,1,2007
+e338,Columbia University,Cornell University,Undirected,1,2007
+e339,Cornell University,Duke University,Undirected,1,2007
+e340,Auburn University,Duquesne University,Undirected,1,2007
+e341,Auburn University,Duquesne University,Undirected,1,2007
+e342,Auburn University,Duquesne University,Undirected,1,2007
+e343,Auburn University,Duquesne University,Undirected,1,2007
+e344,Auburn University,Duquesne University,Undirected,1,2007
+e345,Fordham University,Georgetown University,Undirected,1,2007
+e346,Fordham University,Georgetown University,Undirected,1,2007
+e347,Duke University,Johns Hopkins University,Undirected,1,2007
+e348,Andrews University,Loma Linda University,Undirected,1,2007
+e349,Andrews University,Loma Linda University,Undirected,1,2007
+e350,Andrews University,Loma Linda University,Undirected,1,2007
+e351,Andrews University,Loma Linda University,Undirected,1,2007
+e352,Andrews University,Loma Linda University,Undirected,1,2007
+e353,Andrews University,Loma Linda University,Undirected,1,2007
+e354,Cornell University,Long Island University,Undirected,1,2007
+e355,Boston College,Loyola Marymount University,Undirected,1,2007
+e356,Boston College,Loyola Marymount University,Undirected,1,2007
+e357,Fordham University,Loyola University Chicago,Undirected,1,2007
+e358,Fordham University,Loyola University Chicago,Undirected,1,2007
+e359,Cornell University,Massachusetts Institute Of Technology,Undirected,1,2007
+e360,Cornell University,Massachusetts Institute Of Technology,Undirected,1,2007
+e361,Howard University,Massachusetts Institute Of Technology,Undirected,1,2007
+e362,California Institute Of Technology,Massachusetts Institute Of Technology,Undirected,1,2007
+e363,California Institute Of Technology,Massachusetts Institute Of Technology,Undirected,1,2007
+e364,Clemson University,Mercer University,Undirected,1,2007
+e365,Massachusetts Institute Of Technology,New School,Undirected,1,2007
+e366,Cornell University,New School,Undirected,1,2007
+e367,Cornell University,New School,Undirected,1,2007
+e368,Cornell University,New York University,Undirected,1,2007
+e369,New School,New York University,Undirected,1,2007
+e370,Columbia University,New York University,Undirected,1,2007
+e371,Clarkson University,Polytechnic University,Undirected,1,2007
+e372,New School,Princeton University,Undirected,1,2007
+e373,Cornell University,Rochester Institute Of Technology,Undirected,1,2007
+e374,Johns Hopkins University,Rockefeller University,Undirected,1,2007
+e375,Brandeis University,Rockefeller University,Undirected,1,2007
+e376,Massachusetts Institute Of Technology,Rockefeller University,Undirected,1,2007
+e377,Cornell University,Rockefeller University,Undirected,1,2007
+e378,Dartmouth College,Rockefeller University,Undirected,1,2007
+e379,Princeton University,Rockefeller University,Undirected,1,2007
+e380,Brandeis University,Rockefeller University,Undirected,1,2007
+e381,Rensselaer Polytechnic Institute,St Johns University,Undirected,1,2007
+e382,Rice University,Stanford University,Undirected,1,2007
+e383,Rockefeller University,Stanford University,Undirected,1,2007
+e384,Drexel University,Thomas Jefferson University,Undirected,1,2007
+e385,Duquesne University,University Of California Los Angeles,Undirected,1,2007
+e386,Auburn University,University Of California Los Angeles,Undirected,1,2007
+e387,Tufts University,University Of Chicago,Undirected,1,2007
+e388,Princeton University,University Of Chicago,Undirected,1,2007
+e389,Illinois Institute Of Technology,University Of Chicago,Undirected,1,2007
+e390,New School,University Of Chicago,Undirected,1,2007
+e391,Princeton University,University Of Chicago,Undirected,1,2007
+e392,Tufts University,University Of New Mexico,Undirected,1,2007
+e393,Massachusetts Institute Of Technology,University Of North Carolina At Greensboro,Undirected,1,2007
+e394,New Jersey Institute Of Technology,University Of Notre Dame,Undirected,1,2007
+e395,New York University,University Of Pennsylvania,Undirected,1,2007
+e396,Pennsylvania State University,University Of Pennsylvania,Undirected,1,2007
+e397,California Institute Of Technology,University Of Pennsylvania,Undirected,1,2007
+e398,Pennsylvania State University,University Of Pittsburgh,Undirected,1,2007
+e399,University Of Pennsylvania,University Of Pittsburgh,Undirected,1,2007
+e400,Pennsylvania State University,University Of Pittsburgh,Undirected,1,2007
+e401,Carnegie Mellon University,University Of Pittsburgh,Undirected,1,2007
+e402,Carnegie Mellon University,University Of Pittsburgh,Undirected,1,2007
+e403,Chapman University,University Of San Diego,Undirected,1,2007
+e404,Auburn University,University Of South Alabama,Undirected,1,2007
+e405,Cornell University,University Of Southern California,Undirected,1,2007
+e406,Cornell University,University Of Tulsa,Undirected,1,2007
+e407,Princeton University,University Of Virginia,Undirected,1,2007
+e408,New York University,Vanderbilt University,Undirected,1,2007
+e409,University Of St Thomas Minnesota,Vanderbilt University,Undirected,1,2007
+e410,New York University,Virginia Commonwealth University,Undirected,1,2007
+e411,University Of San Diego,Wake Forest University,Undirected,1,2007
+e412,George Washington University,Washington State University,Undirected,1,2007
+e413,Indiana University Of Pennsylvania,West Chester University Of Pennsylvania,Undirected,1,2007
+e414,Indiana University Of Pennsylvania,West Chester University Of Pennsylvania,Undirected,1,2007
+e415,University Of Pennsylvania,Widener University,Undirected,1,2007
+e416,University Of Connecticut,Yale University,Undirected,1,2007
+e417,Massachusetts Institute Of Technology,Yale University,Undirected,1,2007
+e418,Fordham University,Yeshiva University,Undirected,1,2007
+e419,Johns Hopkins University,Yeshiva University,Undirected,1,2007
+e420,Johns Hopkins University,Yeshiva University,Undirected,1,2007
+e421,Cornell University,Yeshiva University,Undirected,1,2007
+e422,Columbia University,Yeshiva University,Undirected,1,2007
+e423,Rockefeller University,Yeshiva University,Undirected,1,2007
+e424,Clemson University,Mercer University,Undirected,1,2007
+e425,Clemson University,Cleveland State University,Undirected,1,2007
+e426,Clemson University,Cleveland State University,Undirected,1,2007
+e427,Clemson University,Cleveland State University,Undirected,1,2007
+e428,California Institute Of Technology,Harvard University,Undirected,1,2007
+e429,California Institute Of Technology,Harvard University,Undirected,1,2007
+e430,Johns Hopkins University,Loyola Marymount University,Undirected,1,2007
+e431,Loyola Marymount University,University Of Southern California,Undirected,1,2007
+e432,Loyola Marymount University,University Of San Diego,Undirected,1,2007
+e433,Loyola Marymount University,University Of Southern California,Undirected,1,2007
+e434,Columbia University,New Jersey Institute Of Technology,Undirected,1,2007
+e435,New Jersey Institute Of Technology,University Of Chicago,Undirected,1,2007
+e436,New Jersey Institute Of Technology,Princeton University,Undirected,1,2007
+e437,Baylor College Of Medicine,Baylor University,Undirected,1,2008
+e438,California Institute Of Technology,Chapman University,Undirected,1,2008
+e439,Brandeis University,Columbia University,Undirected,1,2008
+e440,Fordham University,Georgetown University,Undirected,1,2008
+e441,Fordham University,Georgetown University,Undirected,1,2008
+e442,Duke University,Johns Hopkins University,Undirected,1,2008
+e443,Andrews University,Loma Linda University,Undirected,1,2008
+e444,Andrews University,Loma Linda University,Undirected,1,2008
+e445,Andrews University,Loma Linda University,Undirected,1,2008
+e446,Andrews University,Loma Linda University,Undirected,1,2008
+e447,Andrews University,Loma Linda University,Undirected,1,2008
+e448,Boston College,Loyola University Chicago,Undirected,1,2008
+e449,Fordham University,Loyola University Chicago,Undirected,1,2008
+e450,California Institute Of Technology,Massachusetts Institute Of Technology,Undirected,1,2008
+e451,Howard University,Massachusetts Institute Of Technology,Undirected,1,2008
+e452,Cornell University,Massachusetts Institute Of Technology,Undirected,1,2008
+e453,Clemson University,Mercer University,Undirected,1,2008
+e454,Massachusetts Institute Of Technology,New School,Undirected,1,2008
+e455,Cornell University,New School,Undirected,1,2008
+e456,Georgetown University,New York University,Undirected,1,2008
+e457,Georgetown University,New York University,Undirected,1,2008
+e458,New School,New York University,Undirected,1,2008
+e459,Loyola University Chicago,Northwestern University,Undirected,1,2008
+e460,Georgetown University,Pepperdine University,Undirected,1,2008
+e461,Clarkson University,Polytechnic University,Undirected,1,2008
+e462,New School,Princeton University,Undirected,1,2008
+e463,Baylor College Of Medicine,Rice University,Undirected,1,2008
+e464,Gallaudet University,Rochester Institute Of Technology,Undirected,1,2008
+e465,Brandeis University,Rockefeller University,Undirected,1,2008
+e466,Brown University,Rockefeller University,Undirected,1,2008
+e467,Massachusetts Institute Of Technology,Rockefeller University,Undirected,1,2008
+e468,Johns Hopkins University,Rockefeller University,Undirected,1,2008
+e469,Dartmouth College,Rockefeller University,Undirected,1,2008
+e470,Georgetown University,Saint Louis University,Undirected,1,2008
+e471,Catholic University Of America,Seton Hall University,Undirected,1,2008
+e472,Baylor College Of Medicine,Southern Methodist University,Undirected,1,2008
+e473,Rensselaer Polytechnic Institute,St Johns University,Undirected,1,2008
+e474,Rice University,Stanford University,Undirected,1,2008
+e475,Syracuse University,Temple University,Undirected,1,2008
+e476,Pennsylvania State University,Thomas Jefferson University,Undirected,1,2008
+e477,Drexel University,Thomas Jefferson University,Undirected,1,2008
+e478,Brown University,Tufts University,Undirected,1,2008
+e479,Tufts University,University Of Chicago,Undirected,1,2008
+e480,Illinois Institute Of Technology,University Of Chicago,Undirected,1,2008
+e481,Princeton University,University Of Chicago,Undirected,1,2008
+e482,Duke University,University Of Chicago,Undirected,1,2008
+e483,Johns Hopkins University,University Of Chicago,Undirected,1,2008
+e484,Illinois Institute Of Technology,University Of Connecticut,Undirected,1,2008
+e485,Tufts University,University Of New Mexico,Undirected,1,2008
+e486,Depaul University,University Of North Carolina At Charlotte,Undirected,1,2008
+e487,Creighton University,University Of Notre Dame,Undirected,1,2008
+e488,New Jersey Institute Of Technology,University Of Notre Dame,Undirected,1,2008
+e489,Oklahoma State University,University Of Oklahoma,Undirected,1,2008
+e490,Oklahoma State University,University Of Oklahoma,Undirected,1,2008
+e491,Oklahoma State University,University Of Oklahoma,Undirected,1,2008
+e492,Oklahoma State University,University Of Oklahoma,Undirected,1,2008
+e493,Oklahoma State University,University Of Oklahoma,Undirected,1,2008
+e494,Pennsylvania State University,University Of Pennsylvania,Undirected,1,2008
+e495,University Of Pennsylvania,University Of Pittsburgh,Undirected,1,2008
+e496,Pennsylvania State University,University Of Pittsburgh,Undirected,1,2008
+e497,Carnegie Mellon University,University Of Pittsburgh,Undirected,1,2008
+e498,Pennsylvania State University,University Of Pittsburgh,Undirected,1,2008
+e499,Carnegie Mellon University,University Of Pittsburgh,Undirected,1,2008
+e500,Chapman University,University Of San Diego,Undirected,1,2008
+e501,Auburn University,University Of South Alabama,Undirected,1,2008
+e502,California Institute Of Technology,University Of Southern California,Undirected,1,2008
+e503,Cornell University,University Of Southern California,Undirected,1,2008
+e504,Catholic University Of America,University Of St Thomas Minnesota,Undirected,1,2008
+e505,Seton Hall University,University Of St Thomas Minnesota,Undirected,1,2008
+e506,Georgetown University,University Of St Thomas Minnesota,Undirected,1,2008
+e507,Cornell University,University Of Tulsa,Undirected,1,2008
+e508,New York University,Vanderbilt University,Undirected,1,2008
+e509,University Of St Thomas Minnesota,Vanderbilt University,Undirected,1,2008
+e510,Indiana University Of Pennsylvania,West Chester University Of Pennsylvania,Undirected,1,2008
+e511,Boston College,Worcester Polytechnic Institute,Undirected,1,2008
+e512,Massachusetts Institute Of Technology,Yale University,Undirected,1,2008
+e513,University Of Connecticut,Yale University,Undirected,1,2008
+e514,Johns Hopkins University,Yeshiva University,Undirected,1,2008
+e515,Fordham University,Yeshiva University,Undirected,1,2008
+e516,Rockefeller University,Yeshiva University,Undirected,1,2008
+e517,Columbia University,Yeshiva University,Undirected,1,2008
+e518,California Institute Of Technology,Harvard University,Undirected,1,2008
+e519,California Institute Of Technology,Harvard University,Undirected,1,2008
+e520,Johns Hopkins University,Loyola Marymount University,Undirected,1,2008
+e521,Boston College,Loyola Marymount University,Undirected,1,2008
+e522,Loyola Marymount University,University Of Southern California,Undirected,1,2008
+e523,Loyola Marymount University,University Of San Diego,Undirected,1,2008
+e524,Columbia University,New Jersey Institute Of Technology,Undirected,1,2008
+e525,New Jersey Institute Of Technology,Princeton University,Undirected,1,2008
+e526,Catholic University Of America,Seton Hall University,Undirected,1,2008
+e527,Hofstra University,Yeshiva University,Undirected,1,2008
+e528,California Institute Of Technology,Chapman University,Undirected,1,2009
+e529,Brandeis University,Columbia University,Undirected,1,2009
+e530,Fordham University,Georgetown University,Undirected,1,2009
+e531,Fordham University,Georgetown University,Undirected,1,2009
+e532,Duke University,Johns Hopkins University,Undirected,1,2009
+e533,Andrews University,Loma Linda University,Undirected,1,2009
+e534,Andrews University,Loma Linda University,Undirected,1,2009
+e535,Andrews University,Loma Linda University,Undirected,1,2009
+e536,Andrews University,Loma Linda University,Undirected,1,2009
+e537,Andrews University,Loma Linda University,Undirected,1,2009
+e538,Boston College,Loyola Marymount University,Undirected,1,2009
+e539,Georgetown University,Loyola University Chicago,Undirected,1,2009
+e540,Loyola University Chicago,Marquette University,Undirected,1,2009
+e541,California Institute Of Technology,Massachusetts Institute Of Technology,Undirected,1,2009
+e542,Howard University,Massachusetts Institute Of Technology,Undirected,1,2009
+e543,Cornell University,Massachusetts Institute Of Technology,Undirected,1,2009
+e544,Florida State University,Mercer University,Undirected,1,2009
+e545,Massachusetts Institute Of Technology,New School,Undirected,1,2009
+e546,Cornell University,New School,Undirected,1,2009
+e547,Florida State University,New School,Undirected,1,2009
+e548,Brandeis University,New York University,Undirected,1,2009
+e549,Georgetown University,New York University,Undirected,1,2009
+e550,New School,New York University,Undirected,1,2009
+e551,Indiana University Of Pennsylvania,North Dakota State University,Undirected,1,2009
+e552,Brandeis University,Ohio State University,Undirected,1,2009
+e553,California Institute Of Technology,Princeton University,Undirected,1,2009
+e554,Baylor College Of Medicine,Rice University,Undirected,1,2009
+e555,Brandeis University,Rockefeller University,Undirected,1,2009
+e556,Brown University,Rockefeller University,Undirected,1,2009
+e557,Massachusetts Institute Of Technology,Rockefeller University,Undirected,1,2009
+e558,Johns Hopkins University,Rockefeller University,Undirected,1,2009
+e559,Catholic University Of America,Seton Hall University,Undirected,1,2009
+e560,Rensselaer Polytechnic Institute,St Johns University,Undirected,1,2009
+e561,Catholic University Of America,St Johns University,Undirected,1,2009
+e562,Rockefeller University,Stanford University,Undirected,1,2009
+e563,Rice University,Stanford University,Undirected,1,2009
+e564,Rochester Institute Of Technology,Syracuse University,Undirected,1,2009
+e565,Syracuse University,Temple University,Undirected,1,2009
+e566,Pennsylvania State University,Thomas Jefferson University,Undirected,1,2009
+e567,Drexel University,Thomas Jefferson University,Undirected,1,2009
+e568,Brown University,Tufts University,Undirected,1,2009
+e569,Tufts University,University Of Chicago,Undirected,1,2009
+e570,Duke University,University Of Chicago,Undirected,1,2009
+e571,Johns Hopkins University,University Of Chicago,Undirected,1,2009
+e572,Illinois Institute Of Technology,University Of Chicago,Undirected,1,2009
+e573,Princeton University,University Of Chicago,Undirected,1,2009
+e574,Illinois Institute Of Technology,University Of Connecticut,Undirected,1,2009
+e575,Tufts University,University Of New Mexico,Undirected,1,2009
+e576,Creighton University,University Of Notre Dame,Undirected,1,2009
+e577,Oklahoma State University,University Of Oklahoma,Undirected,1,2009
+e578,Oklahoma State University,University Of Oklahoma,Undirected,1,2009
+e579,Oklahoma State University,University Of Oklahoma,Undirected,1,2009
+e580,Oklahoma State University,University Of Oklahoma,Undirected,1,2009
+e581,Oklahoma State University,University Of Oklahoma,Undirected,1,2009
+e582,Oklahoma State University,University Of Oklahoma,Undirected,1,2009
+e583,Pennsylvania State University,University Of Pennsylvania,Undirected,1,2009
+e584,Rockefeller University,University Of Pennsylvania,Undirected,1,2009
+e585,Carnegie Mellon University,University Of Pittsburgh,Undirected,1,2009
+e586,University Of Pennsylvania,University Of Pittsburgh,Undirected,1,2009
+e587,Pennsylvania State University,University Of Pittsburgh,Undirected,1,2009
+e588,Pennsylvania State University,University Of Pittsburgh,Undirected,1,2009
+e589,Carnegie Mellon University,University Of Pittsburgh,Undirected,1,2009
+e590,Cornell University,University Of Southern California,Undirected,1,2009
+e591,California Institute Of Technology,University Of Southern California,Undirected,1,2009
+e592,Georgetown University,University Of St Thomas Minnesota,Undirected,1,2009
+e593,Catholic University Of America,University Of St Thomas Minnesota,Undirected,1,2009
+e594,Seton Hall University,University Of St Thomas Minnesota,Undirected,1,2009
+e595,New York University,Vanderbilt University,Undirected,1,2009
+e596,University Of St Thomas Minnesota,Vanderbilt University,Undirected,1,2009
+e597,University Of Connecticut,Yale University,Undirected,1,2009
+e598,Massachusetts Institute Of Technology,Yale University,Undirected,1,2009
+e599,Columbia University,Yeshiva University,Undirected,1,2009
+e600,Hofstra University,Yeshiva University,Undirected,1,2009
+e601,Brown University,Howard University,Undirected,1,2009
+e602,California Institute Of Technology,Harvard University,Undirected,1,2009
+e603,California Institute Of Technology,Harvard University,Undirected,1,2009
+e604,Johns Hopkins University,Loyola Marymount University,Undirected,1,2009
+e605,Loyola Marymount University,University Of Notre Dame,Undirected,1,2009
+e606,Boston College,Loyola Marymount University,Undirected,1,2009
+e607,Loyola Marymount University,University Of Southern California,Undirected,1,2009
+e608,Loyola Marymount University,University Of San Diego,Undirected,1,2009
+e609,Loyola Marymount University,University Of Southern California,Undirected,1,2009
+e610,Loyola Marymount University,University Of Southern California,Undirected,1,2009
+e611,Columbia University,New Jersey Institute Of Technology,Undirected,1,2009
+e612,New Jersey Institute Of Technology,Princeton University,Undirected,1,2009
+e613,Catholic University Of America,Seton Hall University,Undirected,1,2009
+e614,Catholic University Of America,Seton Hall University,Undirected,1,2009
+e615,Brandeis University,Cornell University,Undirected,1,2011
+e616,Clark Atlanta University,Emory University,Undirected,1,2011
+e617,Catholic University Of America,Fordham University,Undirected,1,2011
+e618,Boston College,Fordham University,Undirected,1,2011
+e619,California Institute Of Technology,Harvard University,Undirected,1,2011
+e620,Duke University,Johns Hopkins University,Undirected,1,2011
+e621,Andrews University,Loma Linda University,Undirected,1,2011
+e622,Fordham University,New School,Undirected,1,2011
+e623,Cornell University,New School,Undirected,1,2011
+e624,Howard University,New School,Undirected,1,2011
+e625,Brandeis University,New York University,Undirected,1,2011
+e626,New School,New York University,Undirected,1,2011
+e627,George Washington University,Northeastern University,Undirected,1,2011
+e628,Illinois Institute Of Technology,Northwestern University,Undirected,1,2011
+e629,Fordham University,Northwestern University,Undirected,1,2011
+e630,New York University,Polytechnic Institute Of New York University,Undirected,1,2011
+e631,New York University,Polytechnic Institute Of New York University,Undirected,1,2011
+e632,New York University,Polytechnic Institute Of New York University,Undirected,1,2011
+e633,Baylor College Of Medicine,Rice University,Undirected,1,2011
+e634,Baylor College Of Medicine,Rice University,Undirected,1,2011
+e635,Brown University,Rockefeller University,Undirected,1,2011
+e636,Catholic University Of America,Seton Hall University,Undirected,1,2011
+e637,Baylor College Of Medicine,Southern Methodist University,Undirected,1,2011
+e638,Rensselaer Polytechnic Institute,St Johns University,Undirected,1,2011
+e639,Catholic University Of America,St Johns University,Undirected,1,2011
+e640,Rockefeller University,Stanford University,Undirected,1,2011
+e641,Rochester Institute Of Technology,Syracuse University,Undirected,1,2011
+e642,Dartmouth College,Texas Christian University,Undirected,1,2011
+e643,Pennsylvania State University,Thomas Jefferson University,Undirected,1,2011
+e644,Georgetown University,University Of Chicago,Undirected,1,2011
+e645,Loyola University Chicago,University Of Chicago,Undirected,1,2011
+e646,Duke University,University Of Chicago,Undirected,1,2011
+e647,Johns Hopkins University,University Of Chicago,Undirected,1,2011
+e648,Illinois Institute Of Technology,University Of Chicago,Undirected,1,2011
+e649,Howard University,University Of Delaware,Undirected,1,2011
+e650,Pepperdine University,University Of Pacific,Undirected,1,2011
+e651,Pennsylvania State University,University Of Pennsylvania,Undirected,1,2011
+e652,University Of Pennsylvania,University Of Pittsburgh,Undirected,1,2011
+e653,Pennsylvania State University,University Of Pittsburgh,Undirected,1,2011
+e654,Carnegie Mellon University,University Of Pittsburgh,Undirected,1,2011
+e655,Chapman University,University Of San Diego,Undirected,1,2011
+e656,Auburn University,University Of South Alabama,Undirected,1,2011
+e657,Cornell University,University Of Southern California,Undirected,1,2011
+e658,California Institute Of Technology,University Of Southern California,Undirected,1,2011
+e659,St Johns University,University Of St Thomas Minnesota,Undirected,1,2011
+e660,Georgetown University,University Of St Thomas Minnesota,Undirected,1,2011
+e661,University Of San Diego,University Of St Thomas Minnesota,Undirected,1,2011
+e662,Howard University,University Of Virginia,Undirected,1,2011
+e663,New School,University Of Virginia,Undirected,1,2011
+e664,University Of St Thomas Minnesota,Vanderbilt University,Undirected,1,2011
+e665,University Of Pacific,Washington University,Undirected,1,2011
+e666,Carnegie Mellon University,West Virginia University,Undirected,1,2011
+e667,University Of Connecticut,Yale University,Undirected,1,2011
+e668,Massachusetts Institute Of Technology,Yale University,Undirected,1,2011
+e669,Brown University,Howard University,Undirected,1,2011
+e670,California Institute Of Technology,Harvard University,Undirected,1,2011
+e671,California Institute Of Technology,Harvard University,Undirected,1,2011
+e672,Loyola Marymount University,University Of Southern California,Undirected,1,2011
+e673,Loyola Marymount University,University Of Southern California,Undirected,1,2011
+e674,Catholic University Of America,Seton Hall University,Undirected,1,2011
+e675,Baylor College Of Medicine,Baylor University,Undirected,1,2013
+e676,Brown University,Carnegie Mellon University,Undirected,1,2013
+e677,Brandeis University,Cornell University,Undirected,1,2013
+e678,Boston College,Creighton University,Undirected,1,2013
+e679,Boston College,Creighton University,Undirected,1,2013
+e680,Clark Atlanta University,Emory University,Undirected,1,2013
+e681,Catholic University Of America,Fordham University,Undirected,1,2013
+e682,Boston College,Fordham University,Undirected,1,2013
+e683,Brandeis University,George Washington University,Undirected,1,2013
+e684,Duke University,Johns Hopkins University,Undirected,1,2013
+e685,Andrews University,Loma Linda University,Undirected,1,2013
+e686,Andrews University,Loma Linda University,Undirected,1,2013
+e687,Andrews University,Loma Linda University,Undirected,1,2013
+e688,Andrews University,Loma Linda University,Undirected,1,2013
+e689,Boston College,Loyola University Chicago,Undirected,1,2013
+e690,Fordham University,Loyola University Chicago,Undirected,1,2013
+e691,Boston College,Marquette University,Undirected,1,2013
+e692,Creighton University,Marquette University,Undirected,1,2013
+e693,Harvard University,Massachusetts Institute Of Technology,Undirected,1,2013
+e694,Fordham University,New School,Undirected,1,2013
+e695,Cornell University,New School,Undirected,1,2013
+e696,Long Island University,New York University,Undirected,1,2013
+e697,Georgetown University,New York University,Undirected,1,2013
+e698,Illinois Institute Of Technology,Northwestern University,Undirected,1,2013
+e699,Fordham University,Northwestern University,Undirected,1,2013
+e700,New York University,Polytechnic Institute Of New York University,Undirected,1,2013
+e701,New York University,Polytechnic Institute Of New York University,Undirected,1,2013
+e702,New York University,Polytechnic Institute Of New York University,Undirected,1,2013
+e703,Howard University,Princeton University,Undirected,1,2013
+e704,Carnegie Mellon University,Rensselaer Polytechnic Institute,Undirected,1,2013
+e705,Baylor College Of Medicine,Rice University,Undirected,1,2013
+e706,Baylor College Of Medicine,Rice University,Undirected,1,2013
+e707,New School,Rockefeller University,Undirected,1,2013
+e708,Massachusetts Institute Of Technology,Rockefeller University,Undirected,1,2013
+e709,Seton Hall University,St Johns University,Undirected,1,2013
+e710,Rensselaer Polytechnic Institute,St Johns University,Undirected,1,2013
+e711,Depaul University,St Johns University,Undirected,1,2013
+e712,Rockefeller University,Stanford University,Undirected,1,2013
+e713,Rensselaer Polytechnic Institute,Syracuse University,Undirected,1,2013
+e714,Syracuse University,Temple University,Undirected,1,2013
+e715,Dartmouth College,Texas Christian University,Undirected,1,2013
+e716,Duke University,University Of Chicago,Undirected,1,2013
+e717,Johns Hopkins University,University Of Chicago,Undirected,1,2013
+e718,Loyola University Chicago,University Of Chicago,Undirected,1,2013
+e719,Illinois Institute Of Technology,University Of Chicago,Undirected,1,2013
+e720,Carnegie Mellon University,University Of Notre Dame,Undirected,1,2013
+e721,Dartmouth College,University Of Notre Dame,Undirected,1,2013
+e722,Pennsylvania State University,University Of Pennsylvania,Undirected,1,2013
+e723,Carnegie Mellon University,University Of Pittsburgh,Undirected,1,2013
+e724,University Of Pennsylvania,University Of Pittsburgh,Undirected,1,2013
+e725,Pennsylvania State University,University Of Pittsburgh,Undirected,1,2013
+e726,Rochester Institute Of Technology,University Of Rochester,Undirected,1,2013
+e727,Rochester Institute Of Technology,University Of Rochester,Undirected,1,2013
+e728,Syracuse University,University Of Rochester,Undirected,1,2013
+e729,Massachusetts Institute Of Technology,University Of Rochester,Undirected,1,2013
+e730,Chapman University,University Of San Diego,Undirected,1,2013
+e731,Cornell University,University Of Southern California,Undirected,1,2013
+e732,University Of San Diego,University Of St Thomas Minnesota,Undirected,1,2013
+e733,St Johns University,University Of St Thomas Minnesota,Undirected,1,2013
+e734,University Of St Thomas Minnesota,Vanderbilt University,Undirected,1,2013
+e735,University Of Pacific,Washington University,Undirected,1,2013
+e736,Emory University,Washington University,Undirected,1,2013
+e737,University Of Denver,Washington University,Undirected,1,2013
+e738,Massachusetts Institute Of Technology,West Virginia University,Undirected,1,2013
+e739,Carnegie Mellon University,West Virginia University,Undirected,1,2013
+e740,Brown University,Howard University,Undirected,1,2013
+e741,Brown University,Princeton University,Undirected,1,2013
+e742,Dartmouth College,Rockefeller University,Undirected,1,2013
+e743,New Jersey Institute Of Technology,Princeton University,Undirected,1,2013
+e744,Baylor College Of Medicine,Baylor University,Undirected,1,2018
+e745,Baylor College Of Medicine,Baylor University,Undirected,1,2018
+e746,Baylor College Of Medicine,Baylor University,Undirected,1,2018
+e747,Boston College,Creighton University,Undirected,1,2018
+e748,Boston College,Creighton University,Undirected,1,2018
+e749,Clark Atlanta University,Emory University,Undirected,1,2018
+e750,Case Western Reserve University,Emory University,Undirected,1,2018
+e751,Drexel University,Fordham University,Undirected,1,2018
+e752,Andrews University,Loma Linda University,Undirected,1,2018
+e753,Andrews University,Loma Linda University,Undirected,1,2018
+e754,Andrews University,Loma Linda University,Undirected,1,2018
+e755,Andrews University,Loma Linda University,Undirected,1,2018
+e756,Andrews University,Loma Linda University,Undirected,1,2018
+e757,Illinois Institute Of Technology,Loyola University Chicago,Undirected,1,2018
+e758,Loyola Marymount University,Marquette University,Undirected,1,2018
+e759,Drexel University,New Jersey Institute Of Technology,Undirected,1,2018
+e760,Long Island University,New York University,Undirected,1,2018
+e761,Illinois Institute Of Technology,Northwestern University,Undirected,1,2018
+e762,Duke University,Northwestern University,Undirected,1,2018
+e763,Duke University,Northwestern University,Undirected,1,2018
+e764,Marquette University,Oregon Health & Science University,Undirected,1,2018
+e765,Massachusetts Institute Of Technology,Rensselaer Polytechnic Institute,Undirected,1,2018
+e766,Baylor College Of Medicine,Rice University,Undirected,1,2018
+e767,Cornell University,Rockefeller University,Undirected,1,2018
+e768,Rice University,Rockefeller University,Undirected,1,2018
+e769,Johns Hopkins University,Rockefeller University,Undirected,1,2018
+e770,Loyola University Chicago,Saint Louis University,Undirected,1,2018
+e771,Catholic University Of America,Seton Hall University,Undirected,1,2018
+e772,Georgetown University,St Johns University,Undirected,1,2018
+e773,Rockefeller University,Stanford University,Undirected,1,2018
+e774,Pennsylvania State University,Temple University,Undirected,1,2018
+e775,Pennsylvania State University,Temple University,Undirected,1,2018
+e776,Loyola University Chicago,University Of Chicago,Undirected,1,2018
+e777,Illinois Institute Of Technology,University Of Chicago,Undirected,1,2018
+e778,Marquette University,University Of Denver,Undirected,1,2018
+e779,Oregon Health & Science University,University Of Denver,Undirected,1,2018
+e780,Marquette University,University Of Denver,Undirected,1,2018
+e781,Oregon Health & Science University,University Of Denver,Undirected,1,2018
+e782,Northwestern University,University Of Denver,Undirected,1,2018
+e783,Boston University,University Of Louisville,Undirected,1,2018
+e784,Carnegie Mellon University,University Of Notre Dame,Undirected,1,2018
+e785,Rockefeller University,University Of Pennsylvania,Undirected,1,2018
+e786,Temple University,University Of Pennsylvania,Undirected,1,2018
+e787,Pennsylvania State University,University Of Pennsylvania,Undirected,1,2018
+e788,Temple University,University Of Pittsburgh,Undirected,1,2018
+e789,Pennsylvania State University,University Of Pittsburgh,Undirected,1,2018
+e790,University Of Pennsylvania,University Of Pittsburgh,Undirected,1,2018
+e791,Temple University,University Of Pittsburgh,Undirected,1,2018
+e792,Pennsylvania State University,University Of Pittsburgh,Undirected,1,2018
+e793,Carnegie Mellon University,University Of Pittsburgh,Undirected,1,2018
+e794,Carnegie Mellon University,University Of Pittsburgh,Undirected,1,2018
+e795,Carnegie Mellon University,University Of Pittsburgh,Undirected,1,2018
+e796,Rochester Institute Of Technology,University Of Rochester,Undirected,1,2018
+e797,Rochester Institute Of Technology,University Of Rochester,Undirected,1,2018
+e798,Adelphi University,University Of Rochester,Undirected,1,2018
+e799,Auburn University,University Of South Alabama,Undirected,1,2018
+e800,Marquette University,University Of South Carolina,Undirected,1,2018
+e801,University Of Denver,University Of South Carolina,Undirected,1,2018
+e802,Oregon Health & Science University,University Of South Carolina,Undirected,1,2018
+e803,Cornell University,University Of Southern California,Undirected,1,2018
+e804,Rockefeller University,University Of Southern California,Undirected,1,2018
+e805,Loyola University Chicago,University Of St Thomas Minnesota,Undirected,1,2018
+e806,Georgetown University,University Of St Thomas Minnesota,Undirected,1,2018
+e807,Marquette University,University Of Virginia,Undirected,1,2018
+e808,University Of Denver,University Of Virginia,Undirected,1,2018
+e809,University Of South Carolina,University Of Virginia,Undirected,1,2018
+e810,Oregon Health & Science University,University Of Virginia,Undirected,1,2018
+e811,Northwestern University,Vanderbilt University,Undirected,1,2018
+e812,Emory University,Washington University,Undirected,1,2018
+e813,Saint Louis University,Washington University,Undirected,1,2018
+e814,Saint Louis University,Washington University,Undirected,1,2018
+e815,Rowan University,Widener University,Undirected,1,2018
+e816,University Of Connecticut,Yale University,Undirected,1,2018
+e817,Vanderbilt University,Yeshiva University,Undirected,1,2018
+e818,Brown University,Rockefeller University,Undirected,1,2018
+e819,Harvard University,University Of Chicago,Undirected,1,2018
+e820,New Jersey Institute Of Technology,Princeton University,Undirected,1,2018
+e821,Northwestern University,Rutgers State University Of New Jersey,Undirected,1,2018
+e822,Catholic University Of America,Seton Hall University,Undirected,1,2018

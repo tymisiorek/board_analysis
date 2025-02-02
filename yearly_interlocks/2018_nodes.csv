@@ -1,0 +1,140 @@
+Id,Label,Interlock_Count,AffiliationId,female_president,control,region,betweenness,closeness,eigenvector,degree,clustering
+Adelphi University,Adelphi University,0.037037037037037035,71965598.0,False,Private,Northeast,0.0,0.00966183574879227,2.566036839233784e-19,1,0.0
+American University,American University,0.0,181401687.0,False,Private,Northeast,0.0,0.0,1.5341757947131848e-32,0,0.0
+Andrews University,Andrews University,0.14285714285714285,102298084.0,False,Private,Midwest,0.0,0.007246376811594203,0.707095667492295,1,0.0
+Arizona State University,Arizona State University,0.0,55732556.0,False,Public,West,0.0,0.0,1.5341757947131848e-32,0,0.0
+Auburn University,Auburn University,0.0625,82497590.0,False,Public,South,0.0,0.007246376811594203,3.643138389669676e-18,1,0.0
+Ball State University,Ball State University,0.0,198089087.0,False,Public,Midwest,0.0,0.0,1.5341757947131848e-32,0,0.0
+Baylor College Of Medicine,Baylor College Of Medicine,0.12333333333333332,181547552.0,False,Private,South,0.0013752247963609435,0.031561996779388084,6.774378607383447e-05,2,0.0
+Baylor University,Baylor University,0.08333333333333333,157394403.0,False,Private,South,0.0,0.024487756121939035,4.30937352415657e-05,1,0.0
+Biola University,Biola University,0.0,152479009.0,False,Private,West,0.0,0.0,1.5341757947131848e-32,0,0.0
+Boston College,Boston College,0.05263157894736842,103531236.0,False,Private,Northeast,0.0,0.007246376811594203,2.2324751773835434e-20,1,0.0
+Boston University,Boston University,0.08333333333333333,111088046.0,False,Private,Northeast,0.0,0.007246376811594203,1.4654977093882162e-13,1,0.0
+Brandeis University,Brandeis University,0.0,6902469.0,False,Private,Northeast,0.0,0.0,1.5341757947131848e-32,0,0.0
+Brown University,Brown University,0.02040816326530612,27804330.0,True,Private,Northeast,0.0,0.03737604881769641,5.683609510244336e-05,1,0.0
+Carnegie Mellon University,Carnegie Mellon University,0.08040816326530613,74973139.0,False,Private,Northeast,0.0013752247963609435,0.030875866414618782,0.001511209506186493,2,0.0
+Case Western Reserve University,Case Western Reserve University,0.02564102564102564,58956616.0,False,Private,Midwest,0.0,0.023797760210803688,2.42698175874471e-13,1,0.0
+Catholic University Of America,Catholic University Of America,0.022222222222222223,84470341.0,False,Private,Northeast,0.0,0.007246376811594203,2.4981511012385755e-27,1,0.0
+Central Michigan University,Central Michigan University,0.0,1629065.0,False,Public,Midwest,0.0,0.0,1.5341757947131848e-32,0,0.0
+Chapman University,Chapman University,0.0,185071736.0,False,Private,West,0.0,0.0,1.5341757947131848e-32,0,0.0
+Clark Atlanta University,Clark Atlanta University,0.03333333333333333,52064589.0,False,Private,South,0.0,0.023797760210803688,3.1550762863681233e-13,1,0.0
+Clark University,Clark University,0.0,130785548.0,False,Private,Northeast,0.0,0.0,1.5341757947131848e-32,0,0.0
+Clarkson University,Clarkson University,0.0,16944753.0,False,Private,Northeast,0.0,0.0,1.5341757947131848e-32,0,0.0
+Clemson University,Clemson University,0.0,8078737.0,False,Public,South,0.0,0.0,1.5341757947131848e-32,0,0.0
+College Of William And Mary,College Of William And Mary,0.0,16285277.0,False,Public,South,0.0,0.0,1.5341757947131848e-32,0,0.0
+Colorado School Of Mines,Colorado School Of Mines,0.0,167576493.0,False,Public,West,0.0,0.0,1.5341757947131848e-32,0,0.0
+Columbia University,Columbia University,0.0,78577930.0,False,Private,Northeast,0.0,0.0,1.5341757947131848e-32,0,0.0
+Cornell University,Cornell University,0.03795202291442892,205783295.0,False,Private,Northeast,0.0,0.03838621229925578,6.562465891529286e-05,2,0.1358341704322889
+Creighton University,Creighton University,0.05263157894736842,114493937.0,False,Private,Midwest,0.0,0.007246376811594203,2.2324751773835434e-20,1,0.0
+Dartmouth College,Dartmouth College,0.0,107672454.0,False,Private,Northeast,0.0,0.0,1.5341757947131848e-32,0,0.0
+Drexel University,Drexel University,0.045408163265306126,72816309.0,False,Private,Northeast,0.0002115730455939913,0.016304347826086956,2.1767810678405595e-24,2,0.0
+Duke University,Duke University,0.05263157894736842,170897317.0,False,Private,South,0.0,0.031730346947738255,1.0795586617084597e-11,1,0.0
+Duquesne University,Duquesne University,0.0,165102784.0,False,Private,Northeast,0.0,0.0,1.5341757947131848e-32,0,0.0
+Eastern Michigan University,Eastern Michigan University,0.0,138216421.0,False,Public,Midwest,0.0,0.0,1.5341757947131848e-32,0,0.0
+Emory University,Emory University,0.08461538461538462,150468666.0,False,Private,South,0.003279382206706865,0.029086151368760065,8.683945436174055e-13,3,0.0
+Florida Institute Of Technology,Florida Institute Of Technology,0.0,106959904.0,False,Private,South,0.0,0.0,1.5341757947131848e-32,0,0.0
+Fordham University,Fordham University,0.025,164389053.0,False,Private,Northeast,0.0,0.010869565217391304,1.5753155531183129e-24,1,0.0
+George Mason University,George Mason University,0.0,162714631.0,False,Public,South,0.0,0.0,1.5341757947131848e-32,0,0.0
+George Washington University,George Washington University,0.0,193531525.0,False,Private,Northeast,0.0,0.0,1.5341757947131848e-32,0,0.0
+Georgetown University,Georgetown University,0.06203007518796992,184565670.0,False,Private,Northeast,0.0016925843647519305,0.030797101449275364,1.264054726158021e-12,2,0.0
+Harvard University,Harvard University,0.023255813953488372,136199984.0,False,Private,Northeast,0.0,0.03221850613154961,1.8895785251028144e-12,1,0.0
+Hofstra University,Hofstra University,0.0,139290212.0,False,Private,Northeast,0.0,0.0,1.5341757947131848e-32,0,0.0
+Howard University,Howard University,0.0,137853757.0,False,Private,Northeast,0.0,0.0,1.5341757947131848e-32,0,0.0
+Illinois Institute Of Technology,Illinois Institute Of Technology,0.08940092165898617,180949307.0,False,Private,Midwest,0.006981910504601714,0.047595520421607376,1.155876086754117e-11,3,0.07228468752146565
+Illinois State University,Illinois State University,0.0,47301684.0,False,Public,Midwest,0.0,0.0,1.5341757947131848e-32,0,0.0
+Indiana State University,Indiana State University,0.0,86420138.0,False,Public,Midwest,0.0,0.0,1.5341757947131848e-32,0,0.0
+James Madison University,James Madison University,0.0,11883440.0,False,Public,South,0.0,0.0,1.5341757947131848e-32,0,0.0
+Johns Hopkins University,Johns Hopkins University,0.027777777777777776,145311948.0,False,Private,South,0.0,0.03737604881769641,7.736024055610344e-05,1,0.0
+Lehigh University,Lehigh University,0.0,186143895.0,True,Private,Northeast,0.0,0.0,1.5341757947131848e-32,0,0.0
+Loma Linda University,Loma Linda University,0.14285714285714285,26347476.0,False,Private,West,0.0,0.007246376811594203,0.707095667492295,1,0.0
+Long Island University,Long Island University,0.03225806451612903,138873065.0,False,Private,Northeast,0.0,0.007246376811594203,5.179388111401597e-25,1,0.0
+Loyola Marymount University,Loyola Marymount University,0.018867924528301886,35566140.0,False,Private,West,0.0,0.007246376811594203,4.151864655621446e-28,1,0.0
+Loyola University Chicago,Loyola University Chicago,0.12903225806451613,1925986.0,False,Private,Midwest,0.009203427483338623,0.049861973775017256,9.604714270951333e-12,4,0.036142343760732824
+Marquette University,Marquette University,0.018867924528301886,102461120.0,False,Private,Midwest,0.0,0.007246376811594203,4.151864655621446e-28,1,0.0
+Marshall University,Marshall University,0.0,88694374.0,False,Public,South,0.0,0.0,1.5341757947131848e-32,0,0.0
+Massachusetts Institute Of Technology,Massachusetts Institute Of Technology,0.04,63966007.0,True,Private,Northeast,0.0,0.007246376811594203,3.0625161215135195e-23,1,0.0
+Mercer University,Mercer University,0.0,150149174.0,False,Private,South,0.0,0.0,1.5341757947131848e-32,0,0.0
+Michigan State University,Michigan State University,0.0,87216513.0,False,Public,Midwest,0.0,0.0,1.5341757947131848e-32,0,0.0
+Michigan Technological University,Michigan Technological University,0.0,11957088.0,False,Public,Midwest,0.0,0.0,1.5341757947131848e-32,0,0.0
+Montclair State University,Montclair State University,0.0,166088655.0,True,Public,Northeast,0.0,0.0,1.5341757947131848e-32,0,0.0
+New Jersey Institute Of Technology,New Jersey Institute Of Technology,0.03826530612244898,118118575.0,False,Public,Northeast,0.0002115730455939913,0.016304347826086956,1.7549009536663963e-24,2,0.0
+New Mexico State University,New Mexico State University,0.0,10052268.0,False,Public,West,0.0,0.0,1.5341757947131848e-32,0,0.0
+New School,New School,0.0,102179633.0,False,Private,Northeast,0.0,0.0,1.5341757947131848e-32,0,0.0
+New York University,New York University,0.03225806451612903,57206974.0,False,Private,Northeast,0.0,0.007246376811594203,5.179388111401597e-25,1,0.0
+Northeastern University,Northeastern University,0.0,12912129.0,False,Private,Northeast,0.0,0.0,1.5341757947131848e-32,0,0.0
+Northern Illinois University,Northern Illinois University,0.0,102502594.0,False,Public,Midwest,0.0,0.0,1.5341757947131848e-32,0,0.0
+Northwestern University,Northwestern University,0.1787426900584795,111979921.0,False,Private,Midwest,0.0072992700729927005,0.0418840579710145,1.8820702503426312e-11,5,0.0
+Nova Southeastern University,Nova Southeastern University,0.0,203088144.0,False,Private,South,0.0,0.0,1.5341757947131848e-32,0,0.0
+Oakland University,Oakland University,0.0,177721651.0,False,Public,Midwest,0.0,0.0,1.5341757947131848e-32,0,0.0
+Old Dominion University,Old Dominion University,0.0,81365321.0,False,Public,South,0.0,0.0,1.5341757947131848e-32,0,0.0
+Oregon Health & Science University,Oregon Health & Science University,0.0,165690674.0,False,Public,West,0.0,0.0,1.5341757947131848e-32,0,0.0
+Pace University,Pace University,0.0,126863827.0,False,Private,Northeast,0.0,0.0,1.5341757947131848e-32,0,0.0
+Pennsylvania State University,Pennsylvania State University,0.13300142247510668,130769515.0,False,Public,Northeast,0.0,0.03838621229925578,0.002793150072814661,3,0.27300366448492713
+Pepperdine University,Pepperdine University,0.0,100191712.0,False,Private,West,0.0,0.0,1.5341757947131848e-32,0,0.0
+Princeton University,Princeton University,0.017857142857142856,20089843.0,True,Private,Northeast,0.0,0.010869565217391304,9.071497295191113e-25,1,0.0
+Purdue University,Purdue University,0.0,219193219.0,False,Public,Midwest,0.0,0.0,1.5341757947131848e-32,0,0.0
+Rensselaer Polytechnic Institute,Rensselaer Polytechnic Institute,0.04,165799507.0,True,Private,Northeast,0.0,0.007246376811594203,3.0625161215135195e-23,1,0.0
+Rice University,Rice University,0.08,74775410.0,False,Private,South,0.0025388765471278957,0.041773231031543054,0.0001320837393167405,2,0.0
+Rochester Institute Of Technology,Rochester Institute Of Technology,0.044444444444444446,155173764.0,False,Private,Northeast,0.0,0.00966183574879227,3.0792442070805103e-19,1,0.0
+Rockefeller University,Rockefeller University,0.17971346114203257,83399316.0,False,Private,Northeast,0.007616629641383687,0.05681159420289856,0.000364833418873844,7,0.006468293830108995
+Rowan University,Rowan University,0.05555555555555555,44265643.0,False,Public,Northeast,0.0,0.007246376811594203,1.0152043273087936e-19,1,0.0
+Rutgers State University Of New Jersey,Rutgers State University Of New Jersey,0.015873015873015872,102322142.0,False,Public,Northeast,0.0,0.031730346947738255,3.25581183689853e-12,1,0.0
+Saint Louis University,Saint Louis University,0.07670250896057348,47838141.0,False,Private,Midwest,0.005500899185443774,0.0418840579710145,4.565763041659712e-12,2,0.0
+Seton Hall University,Seton Hall University,0.022222222222222223,12524447.0,False,Private,Northeast,0.0,0.007246376811594203,2.4981511012385755e-27,1,0.0
+Southern Illinois University,Southern Illinois University,0.0,2801502357.0,False,Public,Midwest,0.0,0.0,1.5341757947131848e-32,0,0.0
+Southern Methodist University,Southern Methodist University,0.0,178169726.0,False,Private,South,0.0,0.0,1.5341757947131848e-32,0,0.0
+St Johns University,St Johns University,0.03571428571428571,142823887.0,False,Private,Northeast,0.0,0.024930986887508628,4.920443913173064e-13,1,0.0
+Stanford University,Stanford University,0.030303030303030304,97018004.0,False,Private,West,0.0,0.03737604881769641,8.43929896975674e-05,1,0.0
+Stevens Institute Of Technology,Stevens Institute Of Technology,0.0,108468826.0,False,Private,Northeast,0.0,0.0,1.5341757947131848e-32,0,0.0
+Syracuse University,Syracuse University,0.0,70983195.0,True,Private,Northeast,0.0,0.0,1.5341757947131848e-32,0,0.0
+Temple University,Temple University,0.13513513513513514,84392919.0,False,Public,Northeast,0.0,0.03838621229925578,0.002824293586347148,3,0.2742457227945461
+Texas Christian University,Texas Christian University,0.0,128956969.0,False,Private,South,0.0,0.0,1.5341757947131848e-32,0,0.0
+Texas Womans University,Texas Womans University,0.0,150913223.0,True,Public,South,0.0,0.0,1.5341757947131848e-32,0,0.0
+Tufts University,Tufts University,0.0,121934306.0,False,Private,Northeast,0.0,0.0,1.5341757947131848e-32,0,0.0
+University Of Chicago,University Of Chicago,0.08408530704104597,40347166.0,False,Private,Midwest,0.0016925843647519305,0.04273883466430051,7.455057929668716e-12,3,0.07228468752146565
+University Of Connecticut,University Of Connecticut,0.05263157894736842,140172145.0,False,Public,Northeast,0.0,0.007246376811594203,2.2324751773835434e-20,1,0.0
+University Of Dayton,University Of Dayton,0.0,127591826.0,False,Private,Midwest,0.0,0.0,1.5341757947131848e-32,0,0.0
+University Of Delaware,University Of Delaware,0.0,86501945.0,False,Public,South,0.0,0.0,1.5341757947131848e-32,0,0.0
+University Of Denver,University Of Denver,0.04,131651094.0,False,Private,West,0.0,0.031730346947738255,8.204645828984294e-12,1,0.0
+University Of Hartford,University Of Hartford,0.0,162281398.0,False,Private,Northeast,0.0,0.0,1.5341757947131848e-32,0,0.0
+University Of Houston,University Of Houston,0.0,44461941.0,True,Public,South,0.0,0.0,1.5341757947131848e-32,0,0.0
+University Of Kentucky,University Of Kentucky,0.0,143302722.0,False,Public,South,0.0,0.0,1.5341757947131848e-32,0,0.0
+University Of La Verne,University Of La Verne,0.0,708430.0,False,Private,West,0.0,0.0,1.5341757947131848e-32,0,0.0
+University Of Louisville,University Of Louisville,0.08333333333333333,142740786.0,False,Public,South,0.0,0.007246376811594203,1.4654977093882162e-13,1,0.0
+University Of Miami,University Of Miami,0.0,145608581.0,True,Private,South,0.0,0.0,1.5341757947131848e-32,0,0.0
+University Of Michigan,University Of Michigan,0.0,27837315.0,True,Public,Midwest,0.0,0.0,1.5341757947131848e-32,0,0.0
+University Of Minnesota,University Of Minnesota,0.0,130238516.0,False,Public,Midwest,0.0,0.0,1.5341757947131848e-32,0,0.0
+University Of Missouri Columbia,University Of Missouri Columbia,0.0,76835614.0,False,Public,Midwest,0.0,0.0,1.5341757947131848e-32,0,0.0
+University Of New Mexico,University Of New Mexico,0.0,169521973.0,False,Public,West,0.0,0.0,1.5341757947131848e-32,0,0.0
+University Of Northern Colorado,University Of Northern Colorado,0.0,71966907.0,False,Public,West,0.0,0.0,1.5341757947131848e-32,0,0.0
+University Of Notre Dame,University Of Notre Dame,0.02040816326530612,107639228.0,False,Private,Midwest,0.0,0.02407270940800786,0.00023542592138549944,1,0.0
+University Of Pacific,University Of Pacific,0.0,119942576.0,False,Private,West,0.0,0.0,1.5341757947131848e-32,0,0.0
+University Of Pennsylvania,University Of Pennsylvania,0.09261890429431924,79576946.0,True,Private,Northeast,0.005500899185443774,0.050724637681159424,0.0016643057168004476,4,0.10923913308610562
+University Of Pittsburgh,University Of Pittsburgh,0.18555355752972433,170201317.0,False,Public,Northeast,0.0025388765471278957,0.04057971014492754,0.003219420205587309,4,0.13236843330048917
+University Of Rhode Island,University Of Rhode Island,0.0,17626003.0,False,Public,Northeast,0.0,0.0,1.5341757947131848e-32,0,0.0
+University Of Rochester,University Of Rochester,0.08148148148148149,5388228.0,False,Private,Northeast,0.00010578652279699566,0.014492753623188406,4.008277678398017e-19,2,0.0
+University Of San Diego,University Of San Diego,0.0,160856358.0,True,Private,West,0.0,0.0,1.5341757947131848e-32,0,0.0
+University Of San Francisco,University Of San Francisco,0.0,76766440.0,False,Private,West,0.0,0.0,1.5341757947131848e-32,0,0.0
+University Of South Alabama,University Of South Alabama,0.0625,83809506.0,False,Public,South,0.0,0.007246376811594203,3.643138389669676e-18,1,0.0
+University Of South Carolina,University Of South Carolina,0.0,155781252.0,False,Public,South,0.0,0.0,1.5341757947131848e-32,0,0.0
+University Of Southern California,University Of Southern California,0.03795202291442892,1174212.0,False,Private,West,0.0,0.03838621229925578,6.562465891529287e-05,2,0.1358341704322889
+University Of St Thomas Minnesota,University Of St Thomas Minnesota,0.05857385398981324,161515732.0,False,Private,Midwest,0.0031735956839098697,0.03878153515834676,3.739376398321535e-12,2,0.0
+University Of Tulsa,University Of Tulsa,0.0,87208437.0,False,Private,South,0.0,0.0,1.5341757947131848e-32,0,0.0
+University Of Vermont,University Of Vermont,0.0,111236770.0,False,Public,Northeast,0.0,0.0,1.5341757947131848e-32,0,0.0
+University Of Virginia,University Of Virginia,0.0,51556381.0,False,Public,South,0.0,0.0,1.5341757947131848e-32,0,0.0
+University Of Washington,University Of Washington,0.0,201448701.0,False,Public,West,0.0,0.0,1.5341757947131848e-32,0,0.0
+University Of Wyoming,University Of Wyoming,0.0,12834331.0,False,Public,West,0.0,0.0,1.5341757947131848e-32,0,0.0
+Vanderbilt University,Vanderbilt University,0.08333333333333333,200719446.0,False,Private,South,0.0016925843647519305,0.03272192028985507,1.0766646203748338e-11,2,0.0
+Villanova University,Villanova University,0.0,7863295.0,False,Private,Northeast,0.0,0.0,1.5341757947131848e-32,0,0.0
+Virginia Commonwealth University,Virginia Commonwealth University,0.0,184840846.0,False,Public,South,0.0,0.0,1.5341757947131848e-32,0,0.0
+Virginia Polytechnic Institute And State University,Virginia Polytechnic Institute And State University,0.0,859038795.0,False,Public,South,0.0,0.0,1.5341757947131848e-32,0,0.0
+Wake Forest University,Wake Forest University,0.0,47251452.0,False,Private,South,0.0,0.0,1.5341757947131848e-32,0,0.0
+Washington State University,Washington State University,0.0,72951846.0,False,Public,West,0.0,0.0,1.5341757947131848e-32,0,0.0
+Washington University,Washington University,0.07008547008547009,204465549.0,False,Private,Midwest,0.004443033957473818,0.034903381642512075,2.454388404812345e-12,2,0.0
+Wayne State University,Wayne State University,0.0,185443292.0,False,Public,Midwest,0.0,0.0,1.5341757947131848e-32,0,0.0
+West Virginia University,West Virginia University,0.0,12097938.0,False,Public,South,0.0,0.0,1.5341757947131848e-32,0,0.0
+Western Michigan University,Western Michigan University,0.0,141649380.0,False,Public,Midwest,0.0,0.0,1.5341757947131848e-32,0,0.0
+Widener University,Widener University,0.05555555555555555,138659443.0,False,Private,Northeast,0.0,0.007246376811594203,1.0152043273087936e-19,1,0.0
+Worcester Polytechnic Institute,Worcester Polytechnic Institute,0.0,107077323.0,False,Private,Northeast,0.0,0.0,1.5341757947131848e-32,0,0.0
+Yale University,Yale University,0.05263157894736842,32971472.0,False,Private,Northeast,0.0,0.007246376811594203,2.2324751773835434e-20,1,0.0
+Yeshiva University,Yeshiva University,0.041666666666666664,19772626.0,False,Private,Northeast,0.0,0.02617753623188406,4.8891256206531324e-12,1,0.0

@@ -1,0 +1,1278 @@
+Id,Source,Target,Type,Weight,Year,PersonName_Source,PersonName_Target
+e1,Case Western Reserve University,Columbia University,Undirected,1,1999,Alfred Lerner,Alfred Lerner
+e2,Carnegie Mellon University,Duquesne University,Undirected,1,1999,"John G. Rangos, Sr","John G. Rangos, Sr"
+e3,Carnegie Mellon University,Duquesne University,Undirected,1,1999,Stanley R. Gumberg,Stanley R. Gumberg
+e4,Carnegie Mellon University,Duquesne University,Undirected,1,1999,Carol R. Brown,Carol R. Brown
+e5,Clark Atlanta University,Emory University,Undirected,1,1999,"Marvin S. Arrington, Sr","Marvin S. Arrington, Sr."
+e6,Clark Atlanta University,Emory University,Undirected,1,1999,Cornelius L. Henderson,Cornelius L. Henderson
+e7,Brandeis University,Fordham University,Undirected,1,1999,Robert Shapiro,Robert Shapiro
+e8,Fordham University,Georgetown University,Undirected,1,1999,William P. Frank,William P. Frank
+e9,California Institute Of Technology,Harvard University,Undirected,1,1999,Mildred S. Dresselhaus,Mildred S. Dresselhaus
+e10,Brown University,Johns Hopkins University,Undirected,1,1999,Joanne Leedom-Ackerman,Joanne Leedom-Ackerman
+e11,Howard University,Johns Hopkins University,Undirected,1,1999,Frank Savage,Frank Savage
+e12,Andrews University,Loma Linda University,Undirected,1,1999,Alfred C. McClure,Alfred C. McClure
+e13,Andrews University,Loma Linda University,Undirected,1,1999,Robert S. Folkenberg,Robert S. Folkenberg
+e14,Illinois Institute Of Technology,Loyola University Chicago,Undirected,1,1999,Fidelis N. Umeh,Fidelis N. Umeh
+e15,George Washington University,Marquette University,Undirected,1,1999,John M. Kucharski,John M. Kucharski
+e16,Boston University,Massachusetts Institute Of Technology,Undirected,1,1999,Norman E. Gaut,Norman E. Gaut
+e17,George Washington University,Massachusetts Institute Of Technology,Undirected,1,1999,Lawrence A. Hough,Lawrence A. Hough
+e18,Dartmouth College,New School University,Undirected,1,1999,Jonathan Newcomb,Jonathan Newcomb
+e19,Georgetown University,New York University,Undirected,1,1999,William R. Berkley,William R. Berkley
+e20,Case Western Reserve University,Ohio State University,Undirected,1,1999,David L. Brennan,David L. Brennan
+e21,Kent State University,Ohio University,Undirected,1,1999,Elizabeth K. Lanier,Elizabeth K. Lanier
+e22,Kent State University,Ohio University,Undirected,1,1999,Ralph E. Schey,Ralph E. Schey
+e23,Kent State University,Ohio University,Undirected,1,1999,J. Gilbert Reese,J. Gilbert Reese
+e24,Kent State University,Ohio University,Undirected,1,1999,Stephen A. Perry,Stephen A. Perry
+e25,Kent State University,Ohio University,Undirected,1,1999,Thomas W. Noe,Thomas W. Noe
+e26,Kent State University,Ohio University,Undirected,1,1999,Gerald M. Miller,Gerald M. Miller
+e27,Kent State University,Ohio University,Undirected,1,1999,Gerald H. Gordon,Gerald H. Gordon
+e28,Kent State University,Ohio University,Undirected,1,1999,"Tahlman Krumm, Jr.","Tahlman Krumm, Jr."
+e29,Kent State University,Ohio University,Undirected,1,1999,Merle G. Kearns,Merle G. Kearns
+e30,Kent State University,Ohio University,Undirected,1,1999,Michael A. Fox,Michael A. Fox
+e31,Kent State University,Ohio University,Undirected,1,1999,Jeanette G. Grasselli Brown,Jeanette G. Grasselli Brown
+e32,Hampton University,Old Dominion University,Undirected,1,1999,"Edward L. Hamm, Jr","Edward L. Hamm, Jr"
+e33,California Institute Of Technology,Pepperdine University,Undirected,1,1999,Gordon M. Binder,Gordon M. Binder
+e34,George Washington University,Pepperdine University,Undirected,1,1999,J. McDonald Williams,J. McDonald Williams
+e35,Polytechnic University,Rensselaer Polytechnic Institute,Undirected,1,1999,"George Campbell, Jr","George Campbell, Jr"
+e36,Princeton University,Rice University,Undirected,1,1999,James A. Baker III,James A. Baker III
+e37,Lehigh University,Seton Hall University,Undirected,1,1999,"Frank E. Walsh, Jr","Frank E. Walsh, Jr"
+e38,Adelphi University,State University Of New York At Albany,Undirected,1,1999,Steven N. Fischer,Steven N. Fischer
+e39,Pennsylvania State University,Temple University,Undirected,1,1999,Tom Ridge,Tom Ridge
+e40,Pennsylvania State University,Temple University,Undirected,1,1999,"Eugene W. Hickok, Jr.","Eugene W. Hickok, Jr."
+e41,Brandeis University,Tufts University,Undirected,1,1999,Henry L. Foster,Henry L. Foster
+e42,Kent State University,University Of Akron,Undirected,1,1999,Elizabeth K. Lanier,Elizabeth K. Lanier
+e43,Ohio University,University Of Akron,Undirected,1,1999,Elizabeth K. Lanier,Elizabeth K. Lanier
+e44,Kent State University,University Of Akron,Undirected,1,1999,"Tahlman Krumm, Jr.","Tahlman Krumm, Jr."
+e45,Ohio University,University Of Akron,Undirected,1,1999,"Tahlman Krumm, Jr.","Tahlman Krumm, Jr."
+e46,Kent State University,University Of Akron,Undirected,1,1999,Thomas W. Noe,Thomas W. Noe
+e47,Ohio University,University Of Akron,Undirected,1,1999,Thomas W. Noe,Thomas W. Noe
+e48,Kent State University,University Of Akron,Undirected,1,1999,Stephen A. Perry,Stephen A. Perry
+e49,Ohio University,University Of Akron,Undirected,1,1999,Stephen A. Perry,Stephen A. Perry
+e50,Kent State University,University Of Akron,Undirected,1,1999,J. Gilbert Reese,J. Gilbert Reese
+e51,Ohio University,University Of Akron,Undirected,1,1999,J. Gilbert Reese,J. Gilbert Reese
+e52,Kent State University,University Of Akron,Undirected,1,1999,Ralph E. Schey,Ralph E. Schey
+e53,Ohio University,University Of Akron,Undirected,1,1999,Ralph E. Schey,Ralph E. Schey
+e54,Kent State University,University Of Akron,Undirected,1,1999,Merle G. Kearns,Merle G. Kearns
+e55,Ohio University,University Of Akron,Undirected,1,1999,Merle G. Kearns,Merle G. Kearns
+e56,Kent State University,University Of Akron,Undirected,1,1999,Gerald M. Miller,Gerald M. Miller
+e57,Ohio University,University Of Akron,Undirected,1,1999,Gerald M. Miller,Gerald M. Miller
+e58,Kent State University,University Of Akron,Undirected,1,1999,Michael A. Fox,Michael A. Fox
+e59,Ohio University,University Of Akron,Undirected,1,1999,Michael A. Fox,Michael A. Fox
+e60,Kent State University,University Of Akron,Undirected,1,1999,Jeanette G. Grasselli Brown,Jeanette G. Grasselli Brown
+e61,Ohio University,University Of Akron,Undirected,1,1999,Jeanette G. Grasselli Brown,Jeanette G. Grasselli Brown
+e62,Kent State University,University Of Akron,Undirected,1,1999,Gerald H. Gordon,Gerald H. Gordon
+e63,Ohio University,University Of Akron,Undirected,1,1999,Gerald H. Gordon,Gerald H. Gordon
+e64,Auburn University,University Of Alabama,Undirected,1,1999,Ed Richardson,Ed Richardson
+e65,Tufts University,University Of Chicago,Undirected,1,1999,Joseph Neubauer,Joseph Neubauer
+e66,Illinois Institute Of Technology,University Of Chicago,Undirected,1,1999,Casey Cowell,Casey Cowell
+e67,Marquette University,University Of Chicago,Undirected,1,1999,Willie D. Davis,Willie D. Davis
+e68,New School University,University Of Chicago,Undirected,1,1999,Strachan Donnelley,Strachan Donnelley
+e69,Kent State University,University Of Cincinnati,Undirected,1,1999,Thomas W. Noe,Thomas W. Noe
+e70,Ohio University,University Of Cincinnati,Undirected,1,1999,Thomas W. Noe,Thomas W. Noe
+e71,University Of Akron,University Of Cincinnati,Undirected,1,1999,Thomas W. Noe,Thomas W. Noe
+e72,Kent State University,University Of Cincinnati,Undirected,1,1999,Ralph E. Schey,Ralph E. Schey
+e73,Ohio University,University Of Cincinnati,Undirected,1,1999,Ralph E. Schey,Ralph E. Schey
+e74,University Of Akron,University Of Cincinnati,Undirected,1,1999,Ralph E. Schey,Ralph E. Schey
+e75,Kent State University,University Of Cincinnati,Undirected,1,1999,J. Gilbert Reese,J. Gilbert Reese
+e76,Ohio University,University Of Cincinnati,Undirected,1,1999,J. Gilbert Reese,J. Gilbert Reese
+e77,University Of Akron,University Of Cincinnati,Undirected,1,1999,J. Gilbert Reese,J. Gilbert Reese
+e78,Kent State University,University Of Cincinnati,Undirected,1,1999,Stephen A. Perry,Stephen A. Perry
+e79,Ohio University,University Of Cincinnati,Undirected,1,1999,Stephen A. Perry,Stephen A. Perry
+e80,University Of Akron,University Of Cincinnati,Undirected,1,1999,Stephen A. Perry,Stephen A. Perry
+e81,Kent State University,University Of Cincinnati,Undirected,1,1999,Gerald M. Miller,Gerald M. Miller
+e82,Ohio University,University Of Cincinnati,Undirected,1,1999,Gerald M. Miller,Gerald M. Miller
+e83,University Of Akron,University Of Cincinnati,Undirected,1,1999,Gerald M. Miller,Gerald M. Miller
+e84,Kent State University,University Of Cincinnati,Undirected,1,1999,Michael A. Fox,Michael A. Fox
+e85,Ohio University,University Of Cincinnati,Undirected,1,1999,Michael A. Fox,Michael A. Fox
+e86,University Of Akron,University Of Cincinnati,Undirected,1,1999,Michael A. Fox,Michael A. Fox
+e87,Kent State University,University Of Cincinnati,Undirected,1,1999,"Tahlman Krumm, Jr.","Tahlman Krumm, Jr"
+e88,Ohio University,University Of Cincinnati,Undirected,1,1999,"Tahlman Krumm, Jr.","Tahlman Krumm, Jr"
+e89,University Of Akron,University Of Cincinnati,Undirected,1,1999,"Tahlman Krumm, Jr.","Tahlman Krumm, Jr"
+e90,Kent State University,University Of Cincinnati,Undirected,1,1999,Merle G. Kearns,Merle G. Kearns
+e91,Ohio University,University Of Cincinnati,Undirected,1,1999,Merle G. Kearns,Merle G. Kearns
+e92,University Of Akron,University Of Cincinnati,Undirected,1,1999,Merle G. Kearns,Merle G. Kearns
+e93,Kent State University,University Of Cincinnati,Undirected,1,1999,Gerald H. Gordon,Gerald H. Gordon
+e94,Ohio University,University Of Cincinnati,Undirected,1,1999,Gerald H. Gordon,Gerald H. Gordon
+e95,University Of Akron,University Of Cincinnati,Undirected,1,1999,Gerald H. Gordon,Gerald H. Gordon
+e96,Kent State University,University Of Cincinnati,Undirected,1,1999,Jeanette G. Grasselli Brown,Jeanette G. Grasselli Brown
+e97,Ohio University,University Of Cincinnati,Undirected,1,1999,Jeanette G. Grasselli Brown,Jeanette G. Grasselli Brown
+e98,University Of Akron,University Of Cincinnati,Undirected,1,1999,Jeanette G. Grasselli Brown,Jeanette G. Grasselli Brown
+e99,Kent State University,University Of Cincinnati,Undirected,1,1999,Elizabeth K. Lanier,Elizabeth K. Lanier
+e100,Ohio University,University Of Cincinnati,Undirected,1,1999,Elizabeth K. Lanier,Elizabeth K. Lanier
+e101,University Of Akron,University Of Cincinnati,Undirected,1,1999,Elizabeth K. Lanier,Elizabeth K. Lanier
+e102,Tufts University,University Of Delaware,Undirected,1,1999,John A. Krol,John A. Krol
+e103,Georgetown University,University Of Delaware,Undirected,1,1999,Charles M. Cawley,Charles M. Cawley
+e104,Idaho State University,University Of Idaho,Undirected,1,1999,Anne C. Fox,Anne C. Fox
+e105,Idaho State University,University Of Idaho,Undirected,1,1999,Curtis H. Eaton,Curtis H. Eaton
+e106,Depaul University,University Of Illinois At Urbana Champaign,Undirected,1,1999,Roger L. Plummer,Roger L. Plummer
+e107,New Mexico State University,University Of New Mexico,Undirected,1,1999,Gary Johnson,Gary Johnson
+e108,Middle Tennessee State University,University Of North Texas,Undirected,1,1999,Martha Turner,Martha Turner
+e109,New York University,University Of Notre Dame,Undirected,1,1999,Thomas G. Labrecque,Thomas G. Labrecque
+e110,New Jersey Institute Of Technology,University Of Notre Dame,Undirected,1,1999,Raymond G. Chambers,Raymond G. Chambers
+e111,Carnegie Mellon University,University Of Oklahoma,Undirected,1,1999,Stephen J. Jatras,Stephen J. Jatras
+e112,Oklahoma State University,University Of Oklahoma,Undirected,1,1999,Marlin Glass,Marlin Glass
+e113,Oklahoma State University,University Of Oklahoma,Undirected,1,1999,"Leonard J. Eaton, Jr","Leonard J. Eaton, Jr"
+e114,Oklahoma State University,University Of Oklahoma,Undirected,1,1999,Hans Brisch,Hans Brisch
+e115,Oklahoma State University,University Of Oklahoma,Undirected,1,1999,Bill W. Burgess,"Bill W. Burgess, Jr"
+e116,Hofstra University,University Of Pittsburgh,Undirected,1,1999,Thomas H. O'Brien,Thomas H. O'Brien
+e117,Carnegie Mellon University,University Of Pittsburgh,Undirected,1,1999,Frank V. Cahouet,Frank V. Cahouet
+e118,Pennsylvania State University,University Of Pittsburgh,Undirected,1,1999,"Eugene W. Hickok, Jr.","Eugene W. Hickok, Jr"
+e119,Temple University,University Of Pittsburgh,Undirected,1,1999,"Eugene W. Hickok, Jr.","Eugene W. Hickok, Jr"
+e120,New Jersey Institute Of Technology,University Of Pittsburgh,Undirected,1,1999,Paul E. Lego,Paul E. Lego
+e121,Rochester Institute Of Technology,University Of Rochester,Undirected,1,1999,James S. Gleason,James S. Gleason
+e122,Johns Hopkins University,University Of Rochester,Undirected,1,1999,Ernest A. Bates,Ernest A. Bates
+e123,University Of Chicago,University Of Rochester,Undirected,1,1999,Hugo F. Sonnenschein,Hugo F. Sonnenschein
+e124,Auburn University,University Of South Alabama,Undirected,1,1999,"Fob James, Jr","Fob James, Jr."
+e125,Auburn University,University Of South Alabama,Undirected,1,1999,Ed Richardson,Ed Richardson
+e126,University Of Alabama,University Of South Alabama,Undirected,1,1999,Ed Richardson,Ed Richardson
+e127,South Dakota State University,University Of South Dakota,Undirected,1,1999,David Gienapp,David Gienapp
+e128,South Dakota State University,University Of South Dakota,Undirected,1,1999,Jason Glodt,Jason Glodt
+e129,South Dakota State University,University Of South Dakota,Undirected,1,1999,Jack Rentschler,Jack Rentschler
+e130,South Dakota State University,University Of South Dakota,Undirected,1,1999,Robert T. Perry,Robert T. Perry
+e131,South Dakota State University,University Of South Dakota,Undirected,1,1999,Pat Lebrun,Pat Lebrun
+e132,Carnegie Mellon University,University Of Southern California,Undirected,1,1999,David A. Coulter,David A. Coulter
+e133,Loyola Marymount University,University Of Southern California,Undirected,1,1999,Kathleen L. McCarthy,Kathleen L. McCarthy
+e134,Marquette University,University Of St Thomas Minnesota,Undirected,1,1999,Gerald A. Rauenhorst,Gerald A. Rauenhorst
+e135,University Of Notre Dame,University Of St Thomas Minnesota,Undirected,1,1999,"Rev. Edward A. Malloy, C.S.C","Rev. Edward A. Malloy, C.S.C"
+e136,Carnegie Mellon University,University Of Tulsa,Undirected,1,1999,Stephen J. Jatras,Stephen J. Jatras
+e137,University Of Oklahoma,University Of Tulsa,Undirected,1,1999,Stephen J. Jatras,Stephen J. Jatras
+e138,University Of Utah,Utah State University,Undirected,1,1999,Andrew Croshaw,Andrew Croshaw
+e139,University Of Utah,Utah State University,Undirected,1,1999,David J. Grant,David J. Grant
+e140,University Of Utah,Utah State University,Undirected,1,1999,Kenneth G. Anderton,Kenneth G. Anderton
+e141,University Of Utah,Utah State University,Undirected,1,1999,Pamela J. Atkinson,Pamela J. Atkinson
+e142,University Of Utah,Utah State University,Undirected,1,1999,Larzette G. Hale,Larzette G. Hale
+e143,University Of Utah,Utah State University,Undirected,1,1999,L. Brent Hoggan,L. Brent Hoggan
+e144,University Of Utah,Utah State University,Undirected,1,1999,Cecelia H. Foxley,Cecelia H. Foxley
+e145,University Of Utah,Utah State University,Undirected,1,1999,Charles E. Johnson,Charles E. Johnson
+e146,University Of Utah,Utah State University,Undirected,1,1999,Karen H. Huntsman,Karen H. Huntsman
+e147,University Of Utah,Utah State University,Undirected,1,1999,Dale O. Zabriskie,Dale O. Zabriskie
+e148,University Of Utah,Utah State University,Undirected,1,1999,Paul S. Rogers,Paul S. Rogers
+e149,University Of Utah,Utah State University,Undirected,1,1999,Victor L. Lund,Victor L. Lund
+e150,University Of Utah,Utah State University,Undirected,1,1999,Jay B. Taggart,Jay B. Taggart
+e151,University Of Utah,Utah State University,Undirected,1,1999,Evelyn B. Lee,Evelyn B. Lee
+e152,Seton Hall University,Villanova University,Undirected,1,1999,Lawrence E. Bathgate II,Lawrence E. Bathgate II
+e153,University Of North Carolina At Greensboro,Wake Forest University,Undirected,1,1999,Hubert B. Humphrey,Hubert B. Humphrey
+e154,Indiana University Of Pennsylvania,West Chester University Of Pennsylvania,Undirected,1,1999,James H. McCormick,James H. McCormick
+e155,Thomas Jefferson University,Widener University,Undirected,1,1999,Peter M. Mattoon,Peter M. Mattoon
+e156,Carnegie Mellon University,Worcester Polytechnic Institute,Undirected,1,1999,Paul A. Allaire,Paul A. Allaire
+e157,University Of Connecticut,Yale University,Undirected,1,1999,John G. Rowland,John G. Rowland
+e158,Brown University,University Of Rhode Island,Undirected,1,1999,Frederick Lippitt,Frederick Lippitt
+e159,Cleveland State University,Kent State University,Undirected,1,1999,Michael A. Fox,Michael A. Fox
+e160,Cleveland State University,Ohio University,Undirected,1,1999,Michael A. Fox,Michael A. Fox
+e161,Cleveland State University,University Of Akron,Undirected,1,1999,Michael A. Fox,Michael A. Fox
+e162,Cleveland State University,University Of Cincinnati,Undirected,1,1999,Michael A. Fox,Michael A. Fox
+e163,Cleveland State University,Kent State University,Undirected,1,1999,Gerald H. Gordon,Gerald H. Gordon
+e164,Cleveland State University,Ohio University,Undirected,1,1999,Gerald H. Gordon,Gerald H. Gordon
+e165,Cleveland State University,University Of Akron,Undirected,1,1999,Gerald H. Gordon,Gerald H. Gordon
+e166,Cleveland State University,University Of Cincinnati,Undirected,1,1999,Gerald H. Gordon,Gerald H. Gordon
+e167,Cleveland State University,Kent State University,Undirected,1,1999,Merle G. Kearns,Merle G. Kearns
+e168,Cleveland State University,Ohio University,Undirected,1,1999,Merle G. Kearns,Merle G. Kearns
+e169,Cleveland State University,University Of Akron,Undirected,1,1999,Merle G. Kearns,Merle G. Kearns
+e170,Cleveland State University,University Of Cincinnati,Undirected,1,1999,Merle G. Kearns,Merle G. Kearns
+e171,Cleveland State University,Kent State University,Undirected,1,1999,"Tahlman Krumm, Jr.","Tahlman Krumm, Jr."
+e172,Cleveland State University,Ohio University,Undirected,1,1999,"Tahlman Krumm, Jr.","Tahlman Krumm, Jr."
+e173,Cleveland State University,University Of Akron,Undirected,1,1999,"Tahlman Krumm, Jr.","Tahlman Krumm, Jr."
+e174,Cleveland State University,University Of Cincinnati,Undirected,1,1999,"Tahlman Krumm, Jr.","Tahlman Krumm, Jr"
+e175,Cleveland State University,Kent State University,Undirected,1,1999,Elizabeth K. Lanier,Elizabeth K. Lanier
+e176,Cleveland State University,Ohio University,Undirected,1,1999,Elizabeth K. Lanier,Elizabeth K. Lanier
+e177,Cleveland State University,University Of Akron,Undirected,1,1999,Elizabeth K. Lanier,Elizabeth K. Lanier
+e178,Cleveland State University,University Of Cincinnati,Undirected,1,1999,Elizabeth K. Lanier,Elizabeth K. Lanier
+e179,Cleveland State University,Kent State University,Undirected,1,1999,Gerald M. Miller,Gerald M. Miller
+e180,Cleveland State University,Ohio University,Undirected,1,1999,Gerald M. Miller,Gerald M. Miller
+e181,Cleveland State University,University Of Akron,Undirected,1,1999,Gerald M. Miller,Gerald M. Miller
+e182,Cleveland State University,University Of Cincinnati,Undirected,1,1999,Gerald M. Miller,Gerald M. Miller
+e183,Cleveland State University,Kent State University,Undirected,1,1999,Thomas W. Noe,Thomas W. Noe
+e184,Cleveland State University,Ohio University,Undirected,1,1999,Thomas W. Noe,Thomas W. Noe
+e185,Cleveland State University,University Of Akron,Undirected,1,1999,Thomas W. Noe,Thomas W. Noe
+e186,Cleveland State University,University Of Cincinnati,Undirected,1,1999,Thomas W. Noe,Thomas W. Noe
+e187,Cleveland State University,Kent State University,Undirected,1,1999,Stephen A. Perry,Stephen A. Perry
+e188,Cleveland State University,Ohio University,Undirected,1,1999,Stephen A. Perry,Stephen A. Perry
+e189,Cleveland State University,University Of Akron,Undirected,1,1999,Stephen A. Perry,Stephen A. Perry
+e190,Cleveland State University,University Of Cincinnati,Undirected,1,1999,Stephen A. Perry,Stephen A. Perry
+e191,Cleveland State University,Kent State University,Undirected,1,1999,J. Gilbert Reese,J. Gilbert Reese
+e192,Cleveland State University,Ohio University,Undirected,1,1999,J. Gilbert Reese,J. Gilbert Reese
+e193,Cleveland State University,University Of Akron,Undirected,1,1999,J. Gilbert Reese,J. Gilbert Reese
+e194,Cleveland State University,University Of Cincinnati,Undirected,1,1999,J. Gilbert Reese,J. Gilbert Reese
+e195,Cleveland State University,Kent State University,Undirected,1,1999,Ralph E. Schey,Ralph E. Schey
+e196,Cleveland State University,Ohio University,Undirected,1,1999,Ralph E. Schey,Ralph E. Schey
+e197,Cleveland State University,University Of Akron,Undirected,1,1999,Ralph E. Schey,Ralph E. Schey
+e198,Cleveland State University,University Of Cincinnati,Undirected,1,1999,Ralph E. Schey,Ralph E. Schey
+e199,New Jersey Institute Of Technology,Princeton University,Undirected,1,1999,The Hon. Christine Todd Whitman,The Hon. Christine Todd Whitman
+e200,Kent State University,Ohio State University,Undirected,1,1999,Jeanette G. Grasselli Brown,Jeanette G. Grasselli Brown
+e201,Ohio State University,Ohio University,Undirected,1,1999,Jeanette G. Grasselli Brown,Jeanette G. Grasselli Brown
+e202,Ohio State University,University Of Akron,Undirected,1,1999,Jeanette G. Grasselli Brown,Jeanette G. Grasselli Brown
+e203,Ohio State University,University Of Cincinnati,Undirected,1,1999,Jeanette G. Grasselli Brown,Jeanette G. Grasselli Brown
+e204,Kent State University,Ohio State University,Undirected,1,1999,Michael A. Fox,Michael A. Fox
+e205,Ohio State University,Ohio University,Undirected,1,1999,Michael A. Fox,Michael A. Fox
+e206,Ohio State University,University Of Akron,Undirected,1,1999,Michael A. Fox,Michael A. Fox
+e207,Ohio State University,University Of Cincinnati,Undirected,1,1999,Michael A. Fox,Michael A. Fox
+e208,Cleveland State University,Ohio State University,Undirected,1,1999,Michael A. Fox,Michael A. Fox
+e209,Kent State University,Ohio State University,Undirected,1,1999,Gerald H. Gordon,Gerald H. Gordon
+e210,Ohio State University,Ohio University,Undirected,1,1999,Gerald H. Gordon,Gerald H. Gordon
+e211,Ohio State University,University Of Akron,Undirected,1,1999,Gerald H. Gordon,Gerald H. Gordon
+e212,Ohio State University,University Of Cincinnati,Undirected,1,1999,Gerald H. Gordon,Gerald H. Gordon
+e213,Cleveland State University,Ohio State University,Undirected,1,1999,Gerald H. Gordon,Gerald H. Gordon
+e214,Kent State University,Ohio State University,Undirected,1,1999,Merle G. Kearns,Merle G. Kearns
+e215,Ohio State University,Ohio University,Undirected,1,1999,Merle G. Kearns,Merle G. Kearns
+e216,Ohio State University,University Of Akron,Undirected,1,1999,Merle G. Kearns,Merle G. Kearns
+e217,Ohio State University,University Of Cincinnati,Undirected,1,1999,Merle G. Kearns,Merle G. Kearns
+e218,Cleveland State University,Ohio State University,Undirected,1,1999,Merle G. Kearns,Merle G. Kearns
+e219,Catholic University Of America,Seton Hall University,Undirected,1,1999,Most Rev. Theodore E. McCarrick,Most Rev. Theodore E. McCarrick
+e220,Kent State University,University Of Toledo,Undirected,1,1999,Jeanette G. Grasselli Brown,Jeanette G. Grasselli Brown
+e221,Ohio University,University Of Toledo,Undirected,1,1999,Jeanette G. Grasselli Brown,Jeanette G. Grasselli Brown
+e222,University Of Akron,University Of Toledo,Undirected,1,1999,Jeanette G. Grasselli Brown,Jeanette G. Grasselli Brown
+e223,University Of Cincinnati,University Of Toledo,Undirected,1,1999,Jeanette G. Grasselli Brown,Jeanette G. Grasselli Brown
+e224,Ohio State University,University Of Toledo,Undirected,1,1999,Jeanette G. Grasselli Brown,Jeanette G. Grasselli Brown
+e225,Kent State University,University Of Toledo,Undirected,1,1999,Michael A. Fox,Michael A. Fox
+e226,Ohio University,University Of Toledo,Undirected,1,1999,Michael A. Fox,Michael A. Fox
+e227,University Of Akron,University Of Toledo,Undirected,1,1999,Michael A. Fox,Michael A. Fox
+e228,University Of Cincinnati,University Of Toledo,Undirected,1,1999,Michael A. Fox,Michael A. Fox
+e229,Cleveland State University,University Of Toledo,Undirected,1,1999,Michael A. Fox,Michael A. Fox
+e230,Ohio State University,University Of Toledo,Undirected,1,1999,Michael A. Fox,Michael A. Fox
+e231,Kent State University,University Of Toledo,Undirected,1,1999,Gerald H. Gordon,Gerald H. Gordon
+e232,Ohio University,University Of Toledo,Undirected,1,1999,Gerald H. Gordon,Gerald H. Gordon
+e233,University Of Akron,University Of Toledo,Undirected,1,1999,Gerald H. Gordon,Gerald H. Gordon
+e234,University Of Cincinnati,University Of Toledo,Undirected,1,1999,Gerald H. Gordon,Gerald H. Gordon
+e235,Cleveland State University,University Of Toledo,Undirected,1,1999,Gerald H. Gordon,Gerald H. Gordon
+e236,Ohio State University,University Of Toledo,Undirected,1,1999,Gerald H. Gordon,Gerald H. Gordon
+e237,Kent State University,University Of Toledo,Undirected,1,1999,Merle G. Kearns,Merle G. Kearns
+e238,Ohio University,University Of Toledo,Undirected,1,1999,Merle G. Kearns,Merle G. Kearns
+e239,University Of Akron,University Of Toledo,Undirected,1,1999,Merle G. Kearns,Merle G. Kearns
+e240,University Of Cincinnati,University Of Toledo,Undirected,1,1999,Merle G. Kearns,Merle G. Kearns
+e241,Cleveland State University,University Of Toledo,Undirected,1,1999,Merle G. Kearns,Merle G. Kearns
+e242,Ohio State University,University Of Toledo,Undirected,1,1999,Merle G. Kearns,Merle G. Kearns
+e243,Kent State University,University Of Toledo,Undirected,1,1999,"Tahlman Krumm, Jr.","Tahlman Krumm, Jr."
+e244,Ohio University,University Of Toledo,Undirected,1,1999,"Tahlman Krumm, Jr.","Tahlman Krumm, Jr."
+e245,University Of Akron,University Of Toledo,Undirected,1,1999,"Tahlman Krumm, Jr.","Tahlman Krumm, Jr."
+e246,University Of Cincinnati,University Of Toledo,Undirected,1,1999,"Tahlman Krumm, Jr","Tahlman Krumm, Jr."
+e247,Cleveland State University,University Of Toledo,Undirected,1,1999,"Tahlman Krumm, Jr.","Tahlman Krumm, Jr."
+e248,Kent State University,University Of Toledo,Undirected,1,1999,Elizabeth K. Lanier,Elizabeth K. Lanier
+e249,Ohio University,University Of Toledo,Undirected,1,1999,Elizabeth K. Lanier,Elizabeth K. Lanier
+e250,University Of Akron,University Of Toledo,Undirected,1,1999,Elizabeth K. Lanier,Elizabeth K. Lanier
+e251,University Of Cincinnati,University Of Toledo,Undirected,1,1999,Elizabeth K. Lanier,Elizabeth K. Lanier
+e252,Cleveland State University,University Of Toledo,Undirected,1,1999,Elizabeth K. Lanier,Elizabeth K. Lanier
+e253,Kent State University,University Of Toledo,Undirected,1,1999,Gerald M. Miller,Gerald M. Miller
+e254,Ohio University,University Of Toledo,Undirected,1,1999,Gerald M. Miller,Gerald M. Miller
+e255,University Of Akron,University Of Toledo,Undirected,1,1999,Gerald M. Miller,Gerald M. Miller
+e256,University Of Cincinnati,University Of Toledo,Undirected,1,1999,Gerald M. Miller,Gerald M. Miller
+e257,Cleveland State University,University Of Toledo,Undirected,1,1999,Gerald M. Miller,Gerald M. Miller
+e258,Kent State University,University Of Toledo,Undirected,1,1999,Thomas W. Noe,Thomas W. Noe
+e259,Ohio University,University Of Toledo,Undirected,1,1999,Thomas W. Noe,Thomas W. Noe
+e260,University Of Akron,University Of Toledo,Undirected,1,1999,Thomas W. Noe,Thomas W. Noe
+e261,University Of Cincinnati,University Of Toledo,Undirected,1,1999,Thomas W. Noe,Thomas W. Noe
+e262,Cleveland State University,University Of Toledo,Undirected,1,1999,Thomas W. Noe,Thomas W. Noe
+e263,Kent State University,University Of Toledo,Undirected,1,1999,Stephen A. Perry,Stephen A. Perry
+e264,Ohio University,University Of Toledo,Undirected,1,1999,Stephen A. Perry,Stephen A. Perry
+e265,University Of Akron,University Of Toledo,Undirected,1,1999,Stephen A. Perry,Stephen A. Perry
+e266,University Of Cincinnati,University Of Toledo,Undirected,1,1999,Stephen A. Perry,Stephen A. Perry
+e267,Cleveland State University,University Of Toledo,Undirected,1,1999,Stephen A. Perry,Stephen A. Perry
+e268,Kent State University,University Of Toledo,Undirected,1,1999,J. Gilbert Reese,J. Gilbert Reese
+e269,Ohio University,University Of Toledo,Undirected,1,1999,J. Gilbert Reese,J. Gilbert Reese
+e270,University Of Akron,University Of Toledo,Undirected,1,1999,J. Gilbert Reese,J. Gilbert Reese
+e271,University Of Cincinnati,University Of Toledo,Undirected,1,1999,J. Gilbert Reese,J. Gilbert Reese
+e272,Cleveland State University,University Of Toledo,Undirected,1,1999,J. Gilbert Reese,J. Gilbert Reese
+e273,Kent State University,University Of Toledo,Undirected,1,1999,Ralph E. Schey,Ralph E. Schey
+e274,Ohio University,University Of Toledo,Undirected,1,1999,Ralph E. Schey,Ralph E. Schey
+e275,University Of Akron,University Of Toledo,Undirected,1,1999,Ralph E. Schey,Ralph E. Schey
+e276,University Of Cincinnati,University Of Toledo,Undirected,1,1999,Ralph E. Schey,Ralph E. Schey
+e277,Cleveland State University,University Of Toledo,Undirected,1,1999,Ralph E. Schey,Ralph E. Schey
+e278,New York University,Yeshiva University,Undirected,1,1999,Diane Belfer,Diane Belfer
+e279,Hofstra University,Yeshiva University,Undirected,1,1999,David S. Mack,David S. Mack
+e280,Massachusetts Institute Of Technology,Yeshiva University,Undirected,1,1999,Elliot K. Wolk,Elliot K. Wolk
+e281,California Institute Of Technology,Chapman University,Undirected,1,2000,George L. Argyros,George L. Argyros
+e282,Carnegie Mellon University,Duquesne University,Undirected,1,2000,"John G. Rangos, Sr","John G. Rangos, Sr"
+e283,Carnegie Mellon University,Duquesne University,Undirected,1,2000,Carol R. Brown,Carol R. Brown
+e284,Carnegie Mellon University,Duquesne University,Undirected,1,2000,Stanley R. Gumberg,Stanley R. Gumberg
+e285,Brandeis University,Fordham University,Undirected,1,2000,Robert Shapiro,Robert Shapiro
+e286,Fordham University,Georgetown University,Undirected,1,2000,William P. Frank,William P. Frank
+e287,California Institute Of Technology,Harvard University,Undirected,1,2000,Mildred S. Dresselhaus,Mildred S. Dresselhaus
+e288,Howard University,Johns Hopkins University,Undirected,1,2000,Frank Savage,Frank Savage
+e289,Brown University,Johns Hopkins University,Undirected,1,2000,Joanne Leedom-Ackerman,Joanne Leedom-Ackerman
+e290,Cleveland State University,Kent State University,Undirected,1,2000,Gerald M. Miller,Gerald M. Miller
+e291,Cleveland State University,Kent State University,Undirected,1,2000,J. Gilbert Reese,J. Gilbert Reese
+e292,Cleveland State University,Kent State University,Undirected,1,2000,Stephen A. Perry,Stephen A. Perry
+e293,Cleveland State University,Kent State University,Undirected,1,2000,Thomas W. Noe,Thomas W. Noe
+e294,Cleveland State University,Kent State University,Undirected,1,2000,Ralph E. Schey,Ralph E. Schey
+e295,Cleveland State University,Kent State University,Undirected,1,2000,Elizabeth K. Lanier,Elizabeth K. Lanier
+e296,Cleveland State University,Kent State University,Undirected,1,2000,Robert A. Gardner,Robert A. Gardner
+e297,Cleveland State University,Kent State University,Undirected,1,2000,Gerald H. Gordon,Gerald H. Gordon
+e298,Cleveland State University,Kent State University,Undirected,1,2000,"Tahlman Krumm, Jr.","Tahlman Krumm, Jr"
+e299,Andrews University,Loma Linda University,Undirected,1,2000,G. Ralph Thompson,G. Ralph Thompson
+e300,Andrews University,Loma Linda University,Undirected,1,2000,Alfred C. McClure,Alfred C. McClure
+e301,Boston College,Loyola University Chicago,Undirected,1,2000,"Rev. William P. Leahy, SJ","Rev. William P. Leahy, SJ"
+e302,Illinois Institute Of Technology,Loyola University Chicago,Undirected,1,2000,"Homer J. Livingston, Jr","Homer J. Livingston, Jr"
+e303,Creighton University,Loyola University Chicago,Undirected,1,2000,"Rev. Michael G. Morrison, SJ","Rev. Michael G. Morrison, SJ"
+e304,Illinois Institute Of Technology,Loyola University Chicago,Undirected,1,2000,Fidelis N. Umeh.,Fidelis N. Umeh
+e305,George Washington University,Marquette University,Undirected,1,2000,John M. Kucharski,John M. Kucharski
+e306,Johns Hopkins University,Massachusetts Institute Of Technology,Undirected,1,2000,Norman R. Augustine,Norman R. Augustine
+e307,Boston University,Massachusetts Institute Of Technology,Undirected,1,2000,Norman E. Gaut,Norman E. Gaut
+e308,Georgetown University,New York University,Undirected,1,2000,William R. Berkley,William R. Berkley
+e309,Case Western Reserve University,Ohio State University,Undirected,1,2000,David L. Brennan,David L. Brennan
+e310,Hampton University,Old Dominion University,Undirected,1,2000,"Edward L. Hamm, Jr","Edward L. Hamm, Jr"
+e311,Polytechnic University,Rensselaer Polytechnic Institute,Undirected,1,2000,William C.W. Mow,William C.W. Mow
+e312,Polytechnic University,Rensselaer Polytechnic Institute,Undirected,1,2000,"George Campbell, Jr.","George Campbell, Jr"
+e313,Dartmouth College,Rockefeller University,Undirected,1,2000,Russell L. Carson,Russell L. Carson
+e314,Georgetown University,Rockefeller University,Undirected,1,2000,Gustavo A. Cisneros,Gustavo A. Cisneros
+e315,Princeton University,Rockefeller University,Undirected,1,2000,Anthony B. Evnin,Anthony B. Evnin
+e316,New York University,Rockefeller University,Undirected,1,2000,Maurice R. Greenberg,Maurice R. Greenberg
+e317,Georgetown University,Saint Louis University,Undirected,1,2000,"John W. Padberg, SJ","John W. Padberg, SJ"
+e318,Lehigh University,Seton Hall University,Undirected,1,2000,"Frank E. Walsh, Jr","Frank E. Walsh, Jr"
+e319,Catholic University Of America,Seton Hall University,Undirected,1,2000,Most Rev. Theodore E. McCarrick,Most Rev. Theodore E. McCarrick
+e320,Rice University,Stanford University,Undirected,1,2000,Burton J. McMurtry,Burton J. McMurtry
+e321,Rockefeller University,Stanford University,Undirected,1,2000,Robert M. Bass,Robert M. Bass
+e322,Pennsylvania State University,Temple University,Undirected,1,2000,Eugene W. Hickok,"Eugene W. Hickok, Jr."
+e323,Brown University,Tufts University,Undirected,1,2000,Martin Granoff,Martin Granoff
+e324,Cleveland State University,University Of Akron,Undirected,1,2000,Robert A. Gardner,Robert A. Gardner
+e325,Kent State University,University Of Akron,Undirected,1,2000,Robert A. Gardner,Robert A. Gardner
+e326,Cleveland State University,University Of Akron,Undirected,1,2000,Gerald M. Miller,Gerald M. Miller
+e327,Kent State University,University Of Akron,Undirected,1,2000,Gerald M. Miller,Gerald M. Miller
+e328,Cleveland State University,University Of Akron,Undirected,1,2000,"Tahlman Krumm, Jr.","Tahlman Krumm, Jr"
+e329,Kent State University,University Of Akron,Undirected,1,2000,"Tahlman Krumm, Jr","Tahlman Krumm, Jr"
+e330,Cleveland State University,University Of Akron,Undirected,1,2000,Gerald H. Gordon,Gerald H. Gordon
+e331,Kent State University,University Of Akron,Undirected,1,2000,Gerald H. Gordon,Gerald H. Gordon
+e332,Kent State University,University Of Akron,Undirected,1,2000,Jeanette Grasselli Brown,Jeanette Grasselli Brown
+e333,Cleveland State University,University Of Akron,Undirected,1,2000,Elizabeth K. Lanier,Elizabeth K. Lanier
+e334,Kent State University,University Of Akron,Undirected,1,2000,Elizabeth K. Lanier,Elizabeth K. Lanier
+e335,Cleveland State University,University Of Akron,Undirected,1,2000,Thomas W. Noe,Thomas W. Noe
+e336,Kent State University,University Of Akron,Undirected,1,2000,Thomas W. Noe,Thomas W. Noe
+e337,Cleveland State University,University Of Akron,Undirected,1,2000,Stephen A. Perry,Stephen A. Perry
+e338,Kent State University,University Of Akron,Undirected,1,2000,Stephen A. Perry,Stephen A. Perry
+e339,Cleveland State University,University Of Akron,Undirected,1,2000,J. Gilbert Reese,J. Gilbert Reese
+e340,Kent State University,University Of Akron,Undirected,1,2000,J. Gilbert Reese,J. Gilbert Reese
+e341,Cleveland State University,University Of Akron,Undirected,1,2000,Ralph E. Schey,Ralph E. Schey
+e342,Kent State University,University Of Akron,Undirected,1,2000,Ralph E. Schey,Ralph E. Schey
+e343,Tufts University,University Of Chicago,Undirected,1,2000,Joseph Neubauer,Joseph Neubauer
+e344,Illinois Institute Of Technology,University Of Chicago,Undirected,1,2000,Casey Cowell,Casey Cowell
+e345,Marquette University,University Of Chicago,Undirected,1,2000,Willie D. Davis,Willie D. Davis
+e346,New School University,University Of Chicago,Undirected,1,2000,Strachan Donnelley,Strachan Donnelley
+e347,Georgetown University,University Of Connecticut,Undirected,1,2000,William R. Berkley,William R. Berkley
+e348,New York University,University Of Connecticut,Undirected,1,2000,William R. Berkley,William R. Berkley
+e349,Marquette University,University Of Dayton,Undirected,1,2000,Richard A. Abdoo,Richard A. Abdoo
+e350,Tufts University,University Of Delaware,Undirected,1,2000,John A. Krol,John A. Krol
+e351,Georgetown University,University Of Delaware,Undirected,1,2000,Charles M. Cawley,Charles M. Cawley
+e352,Idaho State University,University Of Idaho,Undirected,1,2000,Harold W. Davis,Harold W. Davis
+e353,Idaho State University,University Of Idaho,Undirected,1,2000,Curtis H. Eaton,Curtis H. Eaton
+e354,New Mexico State University,University Of New Mexico,Undirected,1,2000,Michael J. Davis,Michael J. Davis
+e355,Massachusetts Institute Of Technology,University Of North Carolina At Greensboro,Undirected,1,2000,Theresa M. Stone,Theresa M. Stone
+e356,New York University,University Of Notre Dame,Undirected,1,2000,Thomas G. Labrecque *,Thomas G. Labrecque
+e357,New Jersey Institute Of Technology,University Of Notre Dame,Undirected,1,2000,Raymond G. Chambers,Raymond G. Chambers
+e358,Carnegie Mellon University,University Of Oklahoma,Undirected,1,2000,Stephen J. Jatras.,Stephen J. Jatras
+e359,Oklahoma State University,University Of Oklahoma,Undirected,1,2000,"Leonard J. Eaton, Jr.","Leonard J. Eaton, Jr"
+e360,Oklahoma State University,University Of Oklahoma,Undirected,1,2000,Bill W. Burgess,"Bill W. Burgess, Jr"
+e361,Oklahoma State University,University Of Oklahoma,Undirected,1,2000,Hans Brisch,Hans Brisch
+e362,Oklahoma State University,University Of Oklahoma,Undirected,1,2000,Marlin Glass,Marlin Glass
+e363,New York University,University Of Pennsylvania,Undirected,1,2000,Henry R. Silverman,Henry R. Silverman
+e364,Rockefeller University,University Of Pennsylvania,Undirected,1,2000,Christopher H. Browne,Christopher H. Browne
+e365,Pennsylvania State University,University Of Pittsburgh,Undirected,1,2000,Thomas J. Ridge,Thomas J. Ridge
+e366,Hofstra University,University Of Pittsburgh,Undirected,1,2000,Thomas H. O'Brien,Thomas H. O'Brien
+e367,New Jersey Institute Of Technology,University Of Pittsburgh,Undirected,1,2000,Paul E. Lego,Paul E. Lego
+e368,Pennsylvania State University,University Of Pittsburgh,Undirected,1,2000,Eugene W. Hickok,"Eugene W. Hickok, Jr"
+e369,Temple University,University Of Pittsburgh,Undirected,1,2000,"Eugene W. Hickok, Jr.","Eugene W. Hickok, Jr"
+e370,Carnegie Mellon University,University Of Pittsburgh,Undirected,1,2000,Frank V. Cahouet,Frank V. Cahouet
+e371,Carnegie Mellon University,University Of Pittsburgh,Undirected,1,2000,William S. Dietrich II.,William S. Dietrich II
+e372,Loyola University Chicago,University Of San Diego,Undirected,1,2000,Alice B. Hayes,Alice B. Hayes
+e373,Loyola University Chicago,University Of San Francisco,Undirected,1,2000,"Rev. John P. Schlegel, SJ","Rev. John P. Schlegel, SJ"
+e374,Auburn University,University Of South Alabama,Undirected,1,2000,Don Siegelman,Don Siegelman
+e375,Auburn University,University Of South Alabama,Undirected,1,2000,Ed Richardson,Ed Richardson
+e376,South Dakota State University,University Of South Dakota,Undirected,1,2000,David Gienapp,David Gienapp
+e377,South Dakota State University,University Of South Dakota,Undirected,1,2000,Jack Rentschler,Jack Rentschler
+e378,South Dakota State University,University Of South Dakota,Undirected,1,2000,Robert T. Perry,Robert T. Perry
+e379,Marquette University,University Of St Thomas Minnesota,Undirected,1,2000,Gerald A. Rauenhorst,Gerald A. Rauenhorst
+e380,University Of Notre Dame,University Of St Thomas Minnesota,Undirected,1,2000,"Rev. Edward A. Malloy, CSC","Rev. Edward A. Malloy, CSC"
+e381,Cornell University,University Of Tulsa,Undirected,1,2000,Peter C. Meinig,Peter C. Meinig
+e382,University Of Utah,Utah State University,Undirected,1,2000,Jerry C. Atkin,Jerry C. Atkin
+e383,University Of Utah,Utah State University,Undirected,1,2000,Pamela J. Atkinson,Pamela J. Atkinson
+e384,University Of Utah,Utah State University,Undirected,1,2000,Aileen H. Clyde,Aileen H. Clyde
+e385,University Of Utah,Utah State University,Undirected,1,2000,David J. Grant,David J. Grant
+e386,University Of Utah,Utah State University,Undirected,1,2000,L. Brent Hoggan,L. Brent Hoggan
+e387,University Of Utah,Utah State University,Undirected,1,2000,Karen H. Huntsman,Karen H. Huntsman
+e388,University Of Utah,Utah State University,Undirected,1,2000,Kenneth G. Anderton,Kenneth G. Anderton
+e389,University Of Utah,Utah State University,Undirected,1,2000,Charles E. Johnson,Charles E. Johnson
+e390,University Of Utah,Utah State University,Undirected,1,2000,David J. Jordan,David J. Jordan
+e391,University Of Utah,Utah State University,Undirected,1,2000,E. George Mantes,E. George Mantes
+e392,University Of Utah,Utah State University,Undirected,1,2000,Winn L. Richards,Winn L. Richards
+e393,University Of Utah,Utah State University,Undirected,1,2000,Paul S. Rogers,Paul S. Rogers
+e394,University Of Utah,Utah State University,Undirected,1,2000,Maria Sweeten,Maria Sweeten
+e395,University Of Utah,Utah State University,Undirected,1,2000,James S. Jardine,James S. Jardine
+e396,University Of Utah,Utah State University,Undirected,1,2000,Michael R. Jensen,Michael R. Jensen
+e397,Seton Hall University,Villanova University,Undirected,1,2000,Lawrence E. Bathgate II,Lawrence E. Bathgate II
+e398,Indiana University Of Pennsylvania,West Chester University Of Pennsylvania,Undirected,1,2000,James H. McCormick,James H. McCormick
+e399,Marshall University,West Virginia University,Undirected,1,2000,Lucia B. James,Lucia B. James
+e400,Marshall University,West Virginia University,Undirected,1,2000,Ron D. Stollings,Ron D. Stollings
+e401,Marshall University,West Virginia University,Undirected,1,2000,Joseph W. Powell,Joseph W. Powell
+e402,Marshall University,West Virginia University,Undirected,1,2000,Thomas E. Potter,Thomas E. Potter
+e403,Marshall University,West Virginia University,Undirected,1,2000,J. Thomas Jones,J. Thomas Jones
+e404,Marshall University,West Virginia University,Undirected,1,2000,Jeremy Posey,Jeremy Posey
+e405,Marshall University,West Virginia University,Undirected,1,2000,Phyllis H. Arnold,Phyllis H. Arnold
+e406,Marshall University,West Virginia University,Undirected,1,2000,Ellen Broudy,Ellen Broudy
+e407,Marshall University,West Virginia University,Undirected,1,2000,John David,John David
+e408,Marshall University,West Virginia University,Undirected,1,2000,Michael J. Farrell,Michael J. Farrell
+e409,Marshall University,West Virginia University,Undirected,1,2000,James H. Harless,James H. Harless
+e410,Marshall University,West Virginia University,Undirected,1,2000,John R. Hoblitzell,John R. Hoblitzell
+e411,Thomas Jefferson University,Widener University,Undirected,1,2000,Peter M. Mattoon,Peter M. Mattoon
+e412,Carnegie Mellon University,Worcester Polytechnic Institute,Undirected,1,2000,Paul A. Allaire,Paul A. Allaire
+e413,Stevens Institute Of Technology,Worcester Polytechnic Institute,Undirected,1,2000,Thomas A. Corcoran,Thomas A. Corcoran
+e414,New School University,Yale University,Undirected,1,2000,"Barrington D. Parker, Jr","Barrington D. Parker, Jr"
+e415,University Of Connecticut,Yale University,Undirected,1,2000,John G. Rowland,John G. Rowland
+e416,Hofstra University,Yeshiva University,Undirected,1,2000,David S. Mack,David S. Mack
+e417,Massachusetts Institute Of Technology,Yeshiva University,Undirected,1,2000,Elliot K. Wolk,Elliot K. Wolk
+e418,Columbia University,Yeshiva University,Undirected,1,2000,John E. Zuccotti,John E. Zuccotti
+e419,New York University,Yeshiva University,Undirected,1,2000,Diane Belfer,Diane Belfer
+e420,Brown University,University Of Rhode Island,Undirected,1,2000,Frederick Lippitt,Frederick Lippitt
+e421,Harvard University,Rockefeller University,Undirected,1,2000,D. Ronald Daniel,D. Ronald Daniel
+e422,Loyola Marymount University,University Of Notre Dame,Undirected,1,2000,"Thomas E. Larkin, Jr","Thomas E. Larkin, Jr"
+e423,Loyola Marymount University,University Of Southern California,Undirected,1,2000,Kathleen L. McCarthy,Kathleen L. McCarthy
+e424,Loyola Marymount University,Loyola University Chicago,Undirected,1,2000,"Rev. John J. Piderit, SJ","Rev. John J. Piderit, SJ"
+e425,Cleveland State University,Ohio State University,Undirected,1,2000,"Tahlman Krumm, Jr.","Tahlman Krumm, Jr"
+e426,Kent State University,Ohio State University,Undirected,1,2000,"Tahlman Krumm, Jr","Tahlman Krumm, Jr"
+e427,Ohio State University,University Of Akron,Undirected,1,2000,"Tahlman Krumm, Jr","Tahlman Krumm, Jr"
+e428,Cleveland State University,Ohio State University,Undirected,1,2000,Gerald H. Gordon,Gerald H. Gordon
+e429,Kent State University,Ohio State University,Undirected,1,2000,Gerald H. Gordon,Gerald H. Gordon
+e430,Ohio State University,University Of Akron,Undirected,1,2000,Gerald H. Gordon,Gerald H. Gordon
+e431,Cleveland State University,Ohio State University,Undirected,1,2000,Robert A. Gardner,Robert A. Gardner
+e432,Kent State University,Ohio State University,Undirected,1,2000,Robert A. Gardner,Robert A. Gardner
+e433,Ohio State University,University Of Akron,Undirected,1,2000,Robert A. Gardner,Robert A. Gardner
+e434,Kent State University,Ohio State University,Undirected,1,2000,Jeanette Grasselli Brown,Jeanette Grasselli Brown
+e435,Ohio State University,University Of Akron,Undirected,1,2000,Jeanette Grasselli Brown,Jeanette Grasselli Brown
+e436,Cleveland State University,Ohio State University,Undirected,1,2000,Elizabeth K. Lanier,Elizabeth K. Lanier
+e437,Kent State University,Ohio State University,Undirected,1,2000,Elizabeth K. Lanier,Elizabeth K. Lanier
+e438,Ohio State University,University Of Akron,Undirected,1,2000,Elizabeth K. Lanier,Elizabeth K. Lanier
+e439,Cleveland State University,Ohio State University,Undirected,1,2000,Gerald M. Miller,Gerald M. Miller
+e440,Kent State University,Ohio State University,Undirected,1,2000,Gerald M. Miller,Gerald M. Miller
+e441,Ohio State University,University Of Akron,Undirected,1,2000,Gerald M. Miller,Gerald M. Miller
+e442,Cleveland State University,Ohio State University,Undirected,1,2000,Thomas W. Noe,Thomas W. Noe
+e443,Kent State University,Ohio State University,Undirected,1,2000,Thomas W. Noe,Thomas W. Noe
+e444,Ohio State University,University Of Akron,Undirected,1,2000,Thomas W. Noe,Thomas W. Noe
+e445,Cleveland State University,Ohio State University,Undirected,1,2000,Stephen A. Perry,Stephen A. Perry
+e446,Kent State University,Ohio State University,Undirected,1,2000,Stephen A. Perry,Stephen A. Perry
+e447,Ohio State University,University Of Akron,Undirected,1,2000,Stephen A. Perry,Stephen A. Perry
+e448,Cleveland State University,Ohio State University,Undirected,1,2000,J. Gilbert Reese,J. Gilbert Reese
+e449,Kent State University,Ohio State University,Undirected,1,2000,J. Gilbert Reese,J. Gilbert Reese
+e450,Ohio State University,University Of Akron,Undirected,1,2000,J. Gilbert Reese,J. Gilbert Reese
+e451,Cleveland State University,Ohio University,Undirected,1,2000,"Tahlman Krumm, Jr.","Tahlman Krumm, Jr"
+e452,Kent State University,Ohio University,Undirected,1,2000,"Tahlman Krumm, Jr","Tahlman Krumm, Jr"
+e453,Ohio University,University Of Akron,Undirected,1,2000,"Tahlman Krumm, Jr","Tahlman Krumm, Jr"
+e454,Ohio State University,Ohio University,Undirected,1,2000,"Tahlman Krumm, Jr","Tahlman Krumm, Jr"
+e455,Cleveland State University,Ohio University,Undirected,1,2000,Gerald H. Gordon,Gerald H. Gordon
+e456,Kent State University,Ohio University,Undirected,1,2000,Gerald H. Gordon,Gerald H. Gordon
+e457,Ohio University,University Of Akron,Undirected,1,2000,Gerald H. Gordon,Gerald H. Gordon
+e458,Ohio State University,Ohio University,Undirected,1,2000,Gerald H. Gordon,Gerald H. Gordon
+e459,Cleveland State University,Ohio University,Undirected,1,2000,Robert A. Gardner,Robert A. Gardner
+e460,Kent State University,Ohio University,Undirected,1,2000,Robert A. Gardner,Robert A. Gardner
+e461,Ohio University,University Of Akron,Undirected,1,2000,Robert A. Gardner,Robert A. Gardner
+e462,Ohio State University,Ohio University,Undirected,1,2000,Robert A. Gardner,Robert A. Gardner
+e463,Kent State University,Ohio University,Undirected,1,2000,Jeanette Grasselli Brown,Jeanette Grasselli Brown
+e464,Ohio University,University Of Akron,Undirected,1,2000,Jeanette Grasselli Brown,Jeanette Grasselli Brown
+e465,Ohio State University,Ohio University,Undirected,1,2000,Jeanette Grasselli Brown,Jeanette Grasselli Brown
+e466,Cleveland State University,Ohio University,Undirected,1,2000,Elizabeth K. Lanier,Elizabeth K. Lanier
+e467,Kent State University,Ohio University,Undirected,1,2000,Elizabeth K. Lanier,Elizabeth K. Lanier
+e468,Ohio University,University Of Akron,Undirected,1,2000,Elizabeth K. Lanier,Elizabeth K. Lanier
+e469,Ohio State University,Ohio University,Undirected,1,2000,Elizabeth K. Lanier,Elizabeth K. Lanier
+e470,Cleveland State University,Ohio University,Undirected,1,2000,Gerald M. Miller,Gerald M. Miller
+e471,Kent State University,Ohio University,Undirected,1,2000,Gerald M. Miller,Gerald M. Miller
+e472,Ohio University,University Of Akron,Undirected,1,2000,Gerald M. Miller,Gerald M. Miller
+e473,Ohio State University,Ohio University,Undirected,1,2000,Gerald M. Miller,Gerald M. Miller
+e474,Cleveland State University,Ohio University,Undirected,1,2000,Thomas W. Noe,Thomas W. Noe
+e475,Kent State University,Ohio University,Undirected,1,2000,Thomas W. Noe,Thomas W. Noe
+e476,Ohio University,University Of Akron,Undirected,1,2000,Thomas W. Noe,Thomas W. Noe
+e477,Ohio State University,Ohio University,Undirected,1,2000,Thomas W. Noe,Thomas W. Noe
+e478,Cleveland State University,Ohio University,Undirected,1,2000,Stephen A. Perry,Stephen A. Perry
+e479,Kent State University,Ohio University,Undirected,1,2000,Stephen A. Perry,Stephen A. Perry
+e480,Ohio University,University Of Akron,Undirected,1,2000,Stephen A. Perry,Stephen A. Perry
+e481,Ohio State University,Ohio University,Undirected,1,2000,Stephen A. Perry,Stephen A. Perry
+e482,Cleveland State University,Ohio University,Undirected,1,2000,J. Gilbert Reese,J. Gilbert Reese
+e483,Kent State University,Ohio University,Undirected,1,2000,J. Gilbert Reese,J. Gilbert Reese
+e484,Ohio University,University Of Akron,Undirected,1,2000,J. Gilbert Reese,J. Gilbert Reese
+e485,Ohio State University,Ohio University,Undirected,1,2000,J. Gilbert Reese,J. Gilbert Reese
+e486,Cleveland State University,Ohio University,Undirected,1,2000,Ralph E. Schey,Ralph E. Schey
+e487,Kent State University,Ohio University,Undirected,1,2000,Ralph E. Schey,Ralph E. Schey
+e488,Ohio University,University Of Akron,Undirected,1,2000,Ralph E. Schey,Ralph E. Schey
+e489,Cleveland State University,University Of Cincinnati,Undirected,1,2000,"Tahlman Krumm, Jr.","Tahlman Krumm, Jr"
+e490,Kent State University,University Of Cincinnati,Undirected,1,2000,"Tahlman Krumm, Jr","Tahlman Krumm, Jr"
+e491,University Of Akron,University Of Cincinnati,Undirected,1,2000,"Tahlman Krumm, Jr","Tahlman Krumm, Jr"
+e492,Ohio State University,University Of Cincinnati,Undirected,1,2000,"Tahlman Krumm, Jr","Tahlman Krumm, Jr"
+e493,Ohio University,University Of Cincinnati,Undirected,1,2000,"Tahlman Krumm, Jr","Tahlman Krumm, Jr"
+e494,Cleveland State University,University Of Cincinnati,Undirected,1,2000,Gerald H. Gordon,Gerald H. Gordon
+e495,Kent State University,University Of Cincinnati,Undirected,1,2000,Gerald H. Gordon,Gerald H. Gordon
+e496,University Of Akron,University Of Cincinnati,Undirected,1,2000,Gerald H. Gordon,Gerald H. Gordon
+e497,Ohio State University,University Of Cincinnati,Undirected,1,2000,Gerald H. Gordon,Gerald H. Gordon
+e498,Ohio University,University Of Cincinnati,Undirected,1,2000,Gerald H. Gordon,Gerald H. Gordon
+e499,Cleveland State University,University Of Cincinnati,Undirected,1,2000,Robert A. Gardner,Robert A. Gardner
+e500,Kent State University,University Of Cincinnati,Undirected,1,2000,Robert A. Gardner,Robert A. Gardner
+e501,University Of Akron,University Of Cincinnati,Undirected,1,2000,Robert A. Gardner,Robert A. Gardner
+e502,Ohio State University,University Of Cincinnati,Undirected,1,2000,Robert A. Gardner,Robert A. Gardner
+e503,Ohio University,University Of Cincinnati,Undirected,1,2000,Robert A. Gardner,Robert A. Gardner
+e504,Kent State University,University Of Cincinnati,Undirected,1,2000,Jeanette Grasselli Brown,Jeanette Grasselli Brown
+e505,University Of Akron,University Of Cincinnati,Undirected,1,2000,Jeanette Grasselli Brown,Jeanette Grasselli Brown
+e506,Ohio State University,University Of Cincinnati,Undirected,1,2000,Jeanette Grasselli Brown,Jeanette Grasselli Brown
+e507,Ohio University,University Of Cincinnati,Undirected,1,2000,Jeanette Grasselli Brown,Jeanette Grasselli Brown
+e508,Cleveland State University,University Of Cincinnati,Undirected,1,2000,Elizabeth K. Lanier,Elizabeth K. Lanier
+e509,Kent State University,University Of Cincinnati,Undirected,1,2000,Elizabeth K. Lanier,Elizabeth K. Lanier
+e510,University Of Akron,University Of Cincinnati,Undirected,1,2000,Elizabeth K. Lanier,Elizabeth K. Lanier
+e511,Ohio State University,University Of Cincinnati,Undirected,1,2000,Elizabeth K. Lanier,Elizabeth K. Lanier
+e512,Ohio University,University Of Cincinnati,Undirected,1,2000,Elizabeth K. Lanier,Elizabeth K. Lanier
+e513,Cleveland State University,University Of Cincinnati,Undirected,1,2000,Gerald M. Miller,Gerald M. Miller
+e514,Kent State University,University Of Cincinnati,Undirected,1,2000,Gerald M. Miller,Gerald M. Miller
+e515,University Of Akron,University Of Cincinnati,Undirected,1,2000,Gerald M. Miller,Gerald M. Miller
+e516,Ohio State University,University Of Cincinnati,Undirected,1,2000,Gerald M. Miller,Gerald M. Miller
+e517,Ohio University,University Of Cincinnati,Undirected,1,2000,Gerald M. Miller,Gerald M. Miller
+e518,Cleveland State University,University Of Cincinnati,Undirected,1,2000,Thomas W. Noe,Thomas W. Noe
+e519,Kent State University,University Of Cincinnati,Undirected,1,2000,Thomas W. Noe,Thomas W. Noe
+e520,University Of Akron,University Of Cincinnati,Undirected,1,2000,Thomas W. Noe,Thomas W. Noe
+e521,Ohio State University,University Of Cincinnati,Undirected,1,2000,Thomas W. Noe,Thomas W. Noe
+e522,Ohio University,University Of Cincinnati,Undirected,1,2000,Thomas W. Noe,Thomas W. Noe
+e523,Cleveland State University,University Of Cincinnati,Undirected,1,2000,Stephen A. Perry,Stephen A. Perry
+e524,Kent State University,University Of Cincinnati,Undirected,1,2000,Stephen A. Perry,Stephen A. Perry
+e525,University Of Akron,University Of Cincinnati,Undirected,1,2000,Stephen A. Perry,Stephen A. Perry
+e526,Ohio State University,University Of Cincinnati,Undirected,1,2000,Stephen A. Perry,Stephen A. Perry
+e527,Ohio University,University Of Cincinnati,Undirected,1,2000,Stephen A. Perry,Stephen A. Perry
+e528,Cleveland State University,University Of Cincinnati,Undirected,1,2000,J. Gilbert Reese,J. Gilbert Reese
+e529,Kent State University,University Of Cincinnati,Undirected,1,2000,J. Gilbert Reese,J. Gilbert Reese
+e530,University Of Akron,University Of Cincinnati,Undirected,1,2000,J. Gilbert Reese,J. Gilbert Reese
+e531,Ohio State University,University Of Cincinnati,Undirected,1,2000,J. Gilbert Reese,J. Gilbert Reese
+e532,Ohio University,University Of Cincinnati,Undirected,1,2000,J. Gilbert Reese,J. Gilbert Reese
+e533,Cleveland State University,University Of Cincinnati,Undirected,1,2000,Ralph E. Schey,Ralph E. Schey
+e534,Kent State University,University Of Cincinnati,Undirected,1,2000,Ralph E. Schey,Ralph E. Schey
+e535,University Of Akron,University Of Cincinnati,Undirected,1,2000,Ralph E. Schey,Ralph E. Schey
+e536,Ohio University,University Of Cincinnati,Undirected,1,2000,Ralph E. Schey,Ralph E. Schey
+e537,Cleveland State University,University Of Toledo,Undirected,1,2000,"Tahlman Krumm, Jr.","Tahlman Krumm, Jr"
+e538,Kent State University,University Of Toledo,Undirected,1,2000,"Tahlman Krumm, Jr","Tahlman Krumm, Jr"
+e539,University Of Akron,University Of Toledo,Undirected,1,2000,"Tahlman Krumm, Jr","Tahlman Krumm, Jr"
+e540,Ohio State University,University Of Toledo,Undirected,1,2000,"Tahlman Krumm, Jr","Tahlman Krumm, Jr"
+e541,Ohio University,University Of Toledo,Undirected,1,2000,"Tahlman Krumm, Jr","Tahlman Krumm, Jr"
+e542,University Of Cincinnati,University Of Toledo,Undirected,1,2000,"Tahlman Krumm, Jr","Tahlman Krumm, Jr"
+e543,Cleveland State University,University Of Toledo,Undirected,1,2000,Gerald H. Gordon,Gerald H. Gordon
+e544,Kent State University,University Of Toledo,Undirected,1,2000,Gerald H. Gordon,Gerald H. Gordon
+e545,University Of Akron,University Of Toledo,Undirected,1,2000,Gerald H. Gordon,Gerald H. Gordon
+e546,Ohio State University,University Of Toledo,Undirected,1,2000,Gerald H. Gordon,Gerald H. Gordon
+e547,Ohio University,University Of Toledo,Undirected,1,2000,Gerald H. Gordon,Gerald H. Gordon
+e548,University Of Cincinnati,University Of Toledo,Undirected,1,2000,Gerald H. Gordon,Gerald H. Gordon
+e549,Cleveland State University,University Of Toledo,Undirected,1,2000,Robert A. Gardner,Robert A. Gardner
+e550,Kent State University,University Of Toledo,Undirected,1,2000,Robert A. Gardner,Robert A. Gardner
+e551,University Of Akron,University Of Toledo,Undirected,1,2000,Robert A. Gardner,Robert A. Gardner
+e552,Ohio State University,University Of Toledo,Undirected,1,2000,Robert A. Gardner,Robert A. Gardner
+e553,Ohio University,University Of Toledo,Undirected,1,2000,Robert A. Gardner,Robert A. Gardner
+e554,University Of Cincinnati,University Of Toledo,Undirected,1,2000,Robert A. Gardner,Robert A. Gardner
+e555,Kent State University,University Of Toledo,Undirected,1,2000,Jeanette Grasselli Brown,Jeanette Grasselli Brown
+e556,University Of Akron,University Of Toledo,Undirected,1,2000,Jeanette Grasselli Brown,Jeanette Grasselli Brown
+e557,Ohio State University,University Of Toledo,Undirected,1,2000,Jeanette Grasselli Brown,Jeanette Grasselli Brown
+e558,Ohio University,University Of Toledo,Undirected,1,2000,Jeanette Grasselli Brown,Jeanette Grasselli Brown
+e559,University Of Cincinnati,University Of Toledo,Undirected,1,2000,Jeanette Grasselli Brown,Jeanette Grasselli Brown
+e560,Cleveland State University,University Of Toledo,Undirected,1,2000,Elizabeth K. Lanier,Elizabeth K. Lanier
+e561,Kent State University,University Of Toledo,Undirected,1,2000,Elizabeth K. Lanier,Elizabeth K. Lanier
+e562,University Of Akron,University Of Toledo,Undirected,1,2000,Elizabeth K. Lanier,Elizabeth K. Lanier
+e563,Ohio State University,University Of Toledo,Undirected,1,2000,Elizabeth K. Lanier,Elizabeth K. Lanier
+e564,Ohio University,University Of Toledo,Undirected,1,2000,Elizabeth K. Lanier,Elizabeth K. Lanier
+e565,University Of Cincinnati,University Of Toledo,Undirected,1,2000,Elizabeth K. Lanier,Elizabeth K. Lanier
+e566,Cleveland State University,University Of Toledo,Undirected,1,2000,Gerald M. Miller,Gerald M. Miller
+e567,Kent State University,University Of Toledo,Undirected,1,2000,Gerald M. Miller,Gerald M. Miller
+e568,University Of Akron,University Of Toledo,Undirected,1,2000,Gerald M. Miller,Gerald M. Miller
+e569,Ohio State University,University Of Toledo,Undirected,1,2000,Gerald M. Miller,Gerald M. Miller
+e570,Ohio University,University Of Toledo,Undirected,1,2000,Gerald M. Miller,Gerald M. Miller
+e571,University Of Cincinnati,University Of Toledo,Undirected,1,2000,Gerald M. Miller,Gerald M. Miller
+e572,Cleveland State University,University Of Toledo,Undirected,1,2000,Thomas W. Noe,Thomas W. Noe
+e573,Kent State University,University Of Toledo,Undirected,1,2000,Thomas W. Noe,Thomas W. Noe
+e574,University Of Akron,University Of Toledo,Undirected,1,2000,Thomas W. Noe,Thomas W. Noe
+e575,Ohio State University,University Of Toledo,Undirected,1,2000,Thomas W. Noe,Thomas W. Noe
+e576,Ohio University,University Of Toledo,Undirected,1,2000,Thomas W. Noe,Thomas W. Noe
+e577,University Of Cincinnati,University Of Toledo,Undirected,1,2000,Thomas W. Noe,Thomas W. Noe
+e578,Cleveland State University,University Of Toledo,Undirected,1,2000,Stephen A. Perry,Stephen A. Perry
+e579,Kent State University,University Of Toledo,Undirected,1,2000,Stephen A. Perry,Stephen A. Perry
+e580,University Of Akron,University Of Toledo,Undirected,1,2000,Stephen A. Perry,Stephen A. Perry
+e581,Ohio State University,University Of Toledo,Undirected,1,2000,Stephen A. Perry,Stephen A. Perry
+e582,Ohio University,University Of Toledo,Undirected,1,2000,Stephen A. Perry,Stephen A. Perry
+e583,University Of Cincinnati,University Of Toledo,Undirected,1,2000,Stephen A. Perry,Stephen A. Perry
+e584,Cleveland State University,University Of Toledo,Undirected,1,2000,J. Gilbert Reese,J. Gilbert Reese
+e585,Kent State University,University Of Toledo,Undirected,1,2000,J. Gilbert Reese,J. Gilbert Reese
+e586,University Of Akron,University Of Toledo,Undirected,1,2000,J. Gilbert Reese,J. Gilbert Reese
+e587,Ohio State University,University Of Toledo,Undirected,1,2000,J. Gilbert Reese,J. Gilbert Reese
+e588,Ohio University,University Of Toledo,Undirected,1,2000,J. Gilbert Reese,J. Gilbert Reese
+e589,University Of Cincinnati,University Of Toledo,Undirected,1,2000,J. Gilbert Reese,J. Gilbert Reese
+e590,Cleveland State University,University Of Toledo,Undirected,1,2000,Ralph E. Schey,Ralph E. Schey
+e591,Kent State University,University Of Toledo,Undirected,1,2000,Ralph E. Schey,Ralph E. Schey
+e592,University Of Akron,University Of Toledo,Undirected,1,2000,Ralph E. Schey,Ralph E. Schey
+e593,Ohio University,University Of Toledo,Undirected,1,2000,Ralph E. Schey,Ralph E. Schey
+e594,University Of Cincinnati,University Of Toledo,Undirected,1,2000,Ralph E. Schey,Ralph E. Schey
+e595,California Institute Of Technology,Chapman University,Undirected,1,2005,George L. Argyros,George L. Argyros
+e596,Carnegie Mellon University,Duquesne University,Undirected,1,2005,"John G. Rangos, Sr","John G. Rangos, Sr"
+e597,Carnegie Mellon University,Duquesne University,Undirected,1,2005,Stanley R. Gumberg,Stanley R. Gumberg
+e598,Duke University,Emory University,Undirected,1,2005,James Raphael Gavin III,James Raphael Gavin III
+e599,Creighton University,Georgetown University,Undirected,1,2005,"Rev. Edwin H. Cassem, SJ","Rev. Edwin H. Cassem, SJ"
+e600,Fordham University,Georgetown University,Undirected,1,2005,William P. Frank,William P. Frank
+e601,California Institute Of Technology,Harvard University,Undirected,1,2005,Thomas E. Everhart,Thomas E. Everhart
+e602,California Institute Of Technology,Harvard University,Undirected,1,2005,David D. Ho,David D. Ho
+e603,Andrews University,Loma Linda University,Undirected,1,2005,Jan Paulsen,Jan Paulsen
+e604,Andrews University,Loma Linda University,Undirected,1,2005,"Thomas J. Mostert, Jr.","Thomas J. Mostert, Jr"
+e605,Andrews University,Loma Linda University,Undirected,1,2005,Robert Lemon,Robert Lemon
+e606,Andrews University,Loma Linda University,Undirected,1,2005,C. Garland Dulan,C. Garland Dulan
+e607,Andrews University,Loma Linda University,Undirected,1,2005,Matthew Bediako,Matthew Bediako
+e608,Boston College,Loyola Marymount University,Undirected,1,2005,"Rev. Robert B. Lawton, SJ","Rev. Robert B. Lawton, SJ"
+e609,Fordham University,Loyola University Chicago,Undirected,1,2005,"Rev. Gerald R. Blaszczak, SJ","Rev. Gerald R. Blaszczak, SJ"
+e610,Creighton University,Loyola University Chicago,Undirected,1,2005,"Rev. John P. Schlegel, SJ","Rev. John P. Schlegel, SJ."
+e611,Boston College,Loyola University Chicago,Undirected,1,2005,"Rev. Scott R. Pilarz, SJ","Rev. Scott R. Pilarz, SJ"
+e612,Boston College,Loyola University Chicago,Undirected,1,2005,"Rev. Paul F. Harman, SJ","Rev. Paul F. Harman, SJ"
+e613,Loyola University Chicago,Marquette University,Undirected,1,2005,Cherryl T. Thomas,Cherryl T. Thomas
+e614,Howard University,Massachusetts Institute Of Technology,Undirected,1,2005,John A. Thain,John A. Thain
+e615,Cornell University,Massachusetts Institute Of Technology,Undirected,1,2005,Martin Y. Tang,Martin Y. Tang
+e616,California Institute Of Technology,Massachusetts Institute Of Technology,Undirected,1,2005,Gordon M. Binder,Gordon M. Binder
+e617,California Institute Of Technology,Massachusetts Institute Of Technology,Undirected,1,2005,David D. Ho,David D. Ho
+e618,Harvard University,Massachusetts Institute Of Technology,Undirected,1,2005,David D. Ho,David D. Ho
+e619,Dartmouth College,New School University,Undirected,1,2005,Jonathan Newcomb,Jonathan Newcomb
+e620,Massachusetts Institute Of Technology,New School University,Undirected,1,2005,Robert B. Millard,Robert B. Millard
+e621,Cornell University,New School University,Undirected,1,2005,Franci J. Blassberg,Franci J. Blassberg
+e622,Cornell University,New School University,Undirected,1,2005,Paul A. Gould,Paul A. Gould
+e623,Columbia University,New York University,Undirected,1,2005,"E. John Rosenwald, Jr","E. John Rosenwald, Jr."
+e624,New School University,New York University,Undirected,1,2005,William D. Zabel,William D. Zabel
+e625,Georgetown University,New York University,Undirected,1,2005,William R. Berkley,William R. Berkley
+e626,Hofstra University,New York University,Undirected,1,2005,Charles Kushner,Charles Kushner
+e627,Clarkson University,Polytechnic University,Undirected,1,2005,Paul M. Horn,Paul M. Horn
+e628,Carnegie Mellon University,Princeton University,Undirected,1,2005,Eric E. Schmidt,Eric E. Schmidt
+e629,Georgetown University,Rensselaer Polytechnic Institute,Undirected,1,2005,Arthur J. Gajarsa,Arthur J. Gajarsa
+e630,Cornell University,Rochester Institute Of Technology,Undirected,1,2005,Elizabeth D. Moore,Elizabeth D. Moore
+e631,Johns Hopkins University,Rockefeller University,Undirected,1,2005,David H. Koch,David H. Koch
+e632,Brown University,Rockefeller University,Undirected,1,2005,Robin Chemers Neustein,Robin Chemers Neustein
+e633,Massachusetts Institute Of Technology,Rockefeller University,Undirected,1,2005,James H. Simons,James H. Simons
+e634,Georgetown University,Rockefeller University,Undirected,1,2005,Shirley Ann Jackson,Shirley Ann Jackson
+e635,Princeton University,Rockefeller University,Undirected,1,2005,Anthony B. Evnin,Anthony B. Evnin
+e636,Dartmouth College,Rockefeller University,Undirected,1,2005,Russell L. Carson,Russell L. Carson
+e637,Brandeis University,Rockefeller University,Undirected,1,2005,D. Ronald Daniel,D. Ronald Daniel
+e638,Rockefeller University,Stanford University,Undirected,1,2005,Robert Muse Bass,Robert Muse Bass
+e639,Pennsylvania State University,Temple University,Undirected,1,2005,Edward G. Rendell,Edward G. Rendell
+e640,Brown University,Tufts University,Undirected,1,2005,Martin J. Granoff,Martin J. Granoff
+e641,Tufts University,University Of Chicago,Undirected,1,2005,Joseph Neubauer,Joseph Neubauer
+e642,New York University,University Of Chicago,Undirected,1,2005,Eric J. Gleacher,Eric .J. Gleacher
+e643,Princeton University,University Of Chicago,Undirected,1,2005,Dennis J. Keller,Dennis J. Keller
+e644,New School University,University Of Chicago,Undirected,1,2005,Strachan Donnelley,Strachan Donnelley
+e645,Illinois Institute Of Technology,University Of Chicago,Undirected,1,2005,Craig J. Duchossois,Craig J. Duchossois
+e646,Georgetown University,University Of Connecticut,Undirected,1,2005,William R. Berkley,William R. Berkley
+e647,New York University,University Of Connecticut,Undirected,1,2005,William R. Berkley,William R. Berkley
+e648,Kansas State University,University Of Kansas,Undirected,1,2005,Franklin Gaines,Franklin Gaines
+e649,Kansas State University,University Of Kansas,Undirected,1,2005,Janice B. DeBauge,Janice B. DeBauge
+e650,Kansas State University,University Of Kansas,Undirected,1,2005,Nelson D. Galle,Nelson D. Galle
+e651,Kansas State University,University Of Kansas,Undirected,1,2005,Donna L. Shank,Donna L. Shank
+e652,Kansas State University,University Of Kansas,Undirected,1,2005,Deryl W. Wynn,Deryl W. Wynn
+e653,Kansas State University,University Of Kansas,Undirected,1,2005,Richard Bond,Richard Bond
+e654,Kansas State University,University Of Kansas,Undirected,1,2005,William R. Docking,William R. Docking
+e655,Tufts University,University Of New Mexico,Undirected,1,2005,Bill Richardson,Bill Richardson
+e656,Massachusetts Institute Of Technology,University Of North Carolina At Greensboro,Undirected,1,2005,Theresa M. Stone,Theresa M. Stone
+e657,New Jersey Institute Of Technology,University Of Notre Dame,Undirected,1,2005,Raymond G. Chambers,Raymond G. Chambers
+e658,Oklahoma State University,University Of Oklahoma,Undirected,1,2005,Joseph E. Cappy,Joseph E. Cappy
+e659,Oklahoma State University,University Of Oklahoma,Undirected,1,2005,Ronald H. White,Ronald H. White
+e660,Oklahoma State University,University Of Oklahoma,Undirected,1,2005,Paul G. Risser,Paul G. Risser
+e661,Oklahoma State University,University Of Oklahoma,Undirected,1,2005,Carl R. Renfro,Carl R. Renfro
+e662,Oklahoma State University,University Of Oklahoma,Undirected,1,2005,Cheryl P. Hunter,Cheryl P. Hunter
+e663,Oklahoma State University,University Of Oklahoma,Undirected,1,2005,James D. Harrel,James D. Harrel
+e664,Oklahoma State University,University Of Oklahoma,Undirected,1,2005,"Bill W. Burgess, Jr","Bill W. Burgess, Jr"
+e665,Rockefeller University,University Of Pennsylvania,Undirected,1,2005,Judith Roth Berkowitz,Judith Roth Berkowitz
+e666,Rockefeller University,University Of Pennsylvania,Undirected,1,2005,Christopher H. Browne,Christopher H. Browne
+e667,New York University,University Of Pennsylvania,Undirected,1,2005,Henry R. Silverman,Henry R. Silverman
+e668,Pennsylvania State University,University Of Pennsylvania,Undirected,1,2005,Edward G. Rendell,Edward G. Rendell
+e669,Temple University,University Of Pennsylvania,Undirected,1,2005,Edward G. Rendell,Edward G. Rendell
+e670,Temple University,University Of Pittsburgh,Undirected,1,2005,Vicki L. Phillips,Vicki L. Phillips
+e671,Carnegie Mellon University,University Of Pittsburgh,Undirected,1,2005,Frank V. Cahouet,Frank V. Cahouet
+e672,Pennsylvania State University,University Of Pittsburgh,Undirected,1,2005,Edward G. Rendell,Edward G. Rendell
+e673,Temple University,University Of Pittsburgh,Undirected,1,2005,Edward G. Rendell,Edward G. Rendell
+e674,University Of Pennsylvania,University Of Pittsburgh,Undirected,1,2005,Edward G. Rendell,Edward G. Rendell
+e675,Auburn University,University Of South Alabama,Undirected,1,2005,"Robert R. ""Bob"" Riley","Robert R. ""Bob"" Riley"
+e676,University Of Notre Dame,University Of St Thomas Minnesota,Undirected,1,2005,"Rev. Edward A. Malloy, CSC","Rev. Edward A. Malloy, CSC"
+e677,Princeton University,University Of Virginia,Undirected,1,2005,John O. Wynne,John O. Wynne
+e678,University Of Utah,Utah State University,Undirected,1,2005,Daryl C. Barrett,Daryl C. Barrett
+e679,University Of Utah,Utah State University,Undirected,1,2005,Jerry C. Atkin,Jerry C. Atkin
+e680,University Of Utah,Utah State University,Undirected,1,2005,Linnea S. Barney,Linnea S. Barney
+e681,University Of Utah,Utah State University,Undirected,1,2005,Bonnie Jean Beesley,Bonnie Jean Beesley
+e682,University Of Utah,Utah State University,Undirected,1,2005,Kim R. Burningham,Kim R. Burningham
+e683,University Of Utah,Utah State University,Undirected,1,2005,David J. Grant,David J. Grant
+e684,University Of Utah,Utah State University,Undirected,1,2005,James S. Jardine,James S. Jardine
+e685,University Of Utah,Utah State University,Undirected,1,2005,Michael R. Jensen,Michael R. Jensen
+e686,University Of Utah,Utah State University,Undirected,1,2005,David J. Jordan,David J. Jordan
+e687,University Of Utah,Utah State University,Undirected,1,2005,Nolan E. Karras,Nolan E. Karras
+e688,University Of Utah,Utah State University,Undirected,1,2005,Richard E. Kendell,Richard E. Kendell
+e689,University Of Utah,Utah State University,Undirected,1,2005,David L. Maher,David L. Maher
+e690,University Of Utah,Utah State University,Undirected,1,2005,E. George Mantes,E. George Mantes
+e691,University Of Utah,Utah State University,Undirected,1,2005,Marlon O. Snow,Marlon O. Snow
+e692,University Of Utah,Utah State University,Undirected,1,2005,Maria Sweeten,Maria Sweeten
+e693,University Of Utah,Utah State University,Undirected,1,2005,Jed H. Pitcher,Jed H. Pitcher
+e694,Harvard University,Vanderbilt University,Undirected,1,2005,Frances D. Fergusson,Frances D. Fergusson
+e695,University Of Notre Dame,Vanderbilt University,Undirected,1,2005,"Rev. Edward A. Malloy, CSC","Rev. Edward A. Malloy, CSC."
+e696,University Of St Thomas Minnesota,Vanderbilt University,Undirected,1,2005,"Rev. Edward A. Malloy, CSC","Rev. Edward A. Malloy, CSC."
+e697,Drexel University,Villanova University,Undirected,1,2005,Patricia Imbesi,Patricia Imbesi
+e698,University Of San Diego,Wake Forest University,Undirected,1,2005,Douglas F. Manchester,Douglas F. Manchester
+e699,George Washington University,Washington State University,Undirected,1,2005,Elizabeth A. Cowles,Elizabeth A. Cowles
+e700,Indiana University Of Pennsylvania,West Chester University Of Pennsylvania,Undirected,1,2005,Dr. Judy G. Hample,Dr. Judy G. Hample
+e701,Lehigh University,West Virginia University,Undirected,1,2005,Curtis H. Barnette,Curtis H. Barnette
+e702,Kansas State University,Wichita State University,Undirected,1,2005,Deryl W. Wynn,Deryl W. Wynn
+e703,Kansas State University,Wichita State University,Undirected,1,2005,Donna L. Shank,Donna L. Shank
+e704,Kansas State University,Wichita State University,Undirected,1,2005,Nelson D. Galle,Nelson D. Galle
+e705,Kansas State University,Wichita State University,Undirected,1,2005,Richard Bond,Richard Bond
+e706,Kansas State University,Wichita State University,Undirected,1,2005,William R. Docking,William R. Docking
+e707,Kansas State University,Wichita State University,Undirected,1,2005,Janice B. DeBauge,Janice B. DeBauge
+e708,Kansas State University,Wichita State University,Undirected,1,2005,Franklin Gaines,Franklin Gaines
+e709,Massachusetts Institute Of Technology,Yale University,Undirected,1,2005,Margaret H. Marshall,Margaret H. Marshall
+e710,Fordham University,Yeshiva University,Undirected,1,2005,Joel I. Picket,Joel I. Picket
+e711,Hofstra University,Yeshiva University,Undirected,1,2005,David S. Mack,David S. Mack
+e712,New York University,Yeshiva University,Undirected,1,2005,Diane Belfer,Diane Belfer
+e713,Columbia University,Yeshiva University,Undirected,1,2005,Ruth L. Gottesman,Ruth L. Gottesman
+e714,Johns Hopkins University,Loyola Marymount University,Undirected,1,2005,Robert J. Abernethy,Robert J. Abernethy
+e715,Loyola Marymount University,University Of San Francisco,Undirected,1,2005,"Rev. Paul Bernadicou, SJ","Rev. Paul Bernadicou, SJ"
+e716,Fordham University,Loyola Marymount University,Undirected,1,2005,"Rev. Gerald R. Blaszczak, SJ","Rev. Gerald R. Blaszczak, SJ"
+e717,Loyola Marymount University,Loyola University Chicago,Undirected,1,2005,"Rev. Gerald R. Blaszczak, SJ","Rev. Gerald R. Blaszczak, SJ"
+e718,Loyola Marymount University,University Of Southern California,Undirected,1,2005,Kathleen L. McCarthy,Kathleen L. McCarthy
+e719,Loyola Marymount University,University Of Notre Dame,Undirected,1,2005,"Thomas E. Larkin, Jr","Thomas E. Larkin, Jr."
+e720,Loyola Marymount University,University Of San Diego,Undirected,1,2005,Liam E. McGee,Liam E. McGee
+e721,Loyola Marymount University,University Of Southern California,Undirected,1,2005,Joan A. Payden,Joan A. Payden
+e722,Loyola Marymount University,University Of Southern California,Undirected,1,2005,"Edward P. Roski, Jr","Edward P. Roski, Jr"
+e723,Boston College,Loyola Marymount University,Undirected,1,2005,"Rev. Jeffrey P. von Arx, SJ","Rev. Jeffrey P. von Arx, SJ"
+e724,New Jersey Institute Of Technology,Princeton University,Undirected,1,2005,James E. McGreevey,James E. McGreevey
+e725,California Institute Of Technology,Chapman University,Undirected,1,2007,George L. Argyros,George L. Argyros
+e726,Brandeis University,Columbia University,Undirected,1,2007,"E. John Rosenwald, Jr","E. John Rosenwald, Jr."
+e727,Brown University,Cornell University,Undirected,1,2007,Jeffrey W. Greenberg,Jeffrey W. Greenberg
+e728,Columbia University,Cornell University,Undirected,1,2007,"Charles O. ""Chuck"" Prince III","Charles O. ""Chuck"" Prince III"
+e729,Cornell University,Duke University,Undirected,1,2007,Robert C. Richardson,Robert C. Richardson
+e730,Boston College,Georgetown University,Undirected,1,2007,"Rev. Bradley M. Schaeffer, S.J.","Rev. Bradley M. Schaeffer, S.J"
+e731,Fordham University,Georgetown University,Undirected,1,2007,Winston J. Churchill,Winston J. Churchill
+e732,Fordham University,Georgetown University,Undirected,1,2007,William P. Frank,William P. Frank
+e733,Duke University,Johns Hopkins University,Undirected,1,2007,David M. Rubenstein,David M. Rubenstein
+e734,Andrews University,Loma Linda University,Undirected,1,2007,Matthew Bediako,Matthew Bediako
+e735,Andrews University,Loma Linda University,Undirected,1,2007,C. Garland Dulan,C. Garland Dulan
+e736,Andrews University,Loma Linda University,Undirected,1,2007,Robert Lemon,Robert Lemon
+e737,Andrews University,Loma Linda University,Undirected,1,2007,Jan Paulsen,Jan Paulsen
+e738,Andrews University,Loma Linda University,Undirected,1,2007,Max A. Trevino,Max A. Trevino
+e739,Andrews University,Loma Linda University,Undirected,1,2007,Dennis N. Carlson,Dennis N. Carlson
+e740,Cornell University,Long Island University,Undirected,1,2007,Bruce C. Ratner,Bruce C. Ratner
+e741,Boston College,Loyola Marymount University,Undirected,1,2007,"Father Robert B. Lawton, S.J","Father Robert B. Lawton, S.J"
+e742,Boston College,Loyola University Chicago,Undirected,1,2007,"Rev. Scott R. Pilarz, S.J.","Rev. Scott R. Pilarz, S.J"
+e743,Fordham University,Loyola University Chicago,Undirected,1,2007,"Michael J. Garanzini, S.J","Michael J. Garanzini, S.J"
+e744,Cornell University,Massachusetts Institute Of Technology,Undirected,1,2007,Martin Y. Tang,Martin Y. Tang
+e745,Howard University,Massachusetts Institute Of Technology,Undirected,1,2007,John A. Thain,John A. Thain
+e746,California Institute Of Technology,Massachusetts Institute Of Technology,Undirected,1,2007,Gordon M. Binder,Gordon M. Binder
+e747,California Institute Of Technology,Massachusetts Institute Of Technology,Undirected,1,2007,David D. Ho,David D. Ho
+e748,Clemson University,Mercer University,Undirected,1,2007,James R. Williams,James R. Williams
+e749,Massachusetts Institute Of Technology,New School,Undirected,1,2007,Robert B. Millard,Robert B. Millard
+e750,Cornell University,New School,Undirected,1,2007,Franci J. Blassberg,Franci J. Blassberg
+e751,Cornell University,New School,Undirected,1,2007,Paul A. Gould,Paul A. Gould
+e752,Cornell University,New York University,Undirected,1,2007,Kevin R. Brine,Kevin R. Brine
+e753,New School,New York University,Undirected,1,2007,William D. Zabel,William D. Zabel
+e754,Brandeis University,New York University,Undirected,1,2007,"E. John Rosenwald, Jr","E. John Rosenwald, Jr."
+e755,Columbia University,New York University,Undirected,1,2007,"E. John Rosenwald, Jr.","E. John Rosenwald, Jr."
+e756,Clarkson University,Polytechnic University,Undirected,1,2007,Paul M. Horn,Paul M. Horn
+e757,New School,Princeton University,Undirected,1,2007,Nancy B. Peretsman,Nancy B. Peretsman
+e758,Cornell University,Rochester Institute Of Technology,Undirected,1,2007,Elizabeth D. Moore,Elizabeth D. Moore
+e759,Johns Hopkins University,Rockefeller University,Undirected,1,2007,David H. Koch,David H. Koch
+e760,Brandeis University,Rockefeller University,Undirected,1,2007,Thomas H. Lee,Thomas H. Lee
+e761,Massachusetts Institute Of Technology,Rockefeller University,Undirected,1,2007,James H. Simons,James H. Simons
+e762,Cornell University,Rockefeller University,Undirected,1,2007,Brooke Astor,Brooke Astor
+e763,Dartmouth College,Rockefeller University,Undirected,1,2007,Russell L. Carson,Russell L. Carson
+e764,Princeton University,Rockefeller University,Undirected,1,2007,Anthony B. Evnin,Anthony B. Evnin
+e765,Brandeis University,Rockefeller University,Undirected,1,2007,D. Ronald Daniel,D. Ronald Daniel
+e766,Georgetown University,Saint Louis University,Undirected,1,2007,"Rev. Robert L. Niehoff, S.J","Rev. Robert L. Niehoff, S.J."
+e767,Rensselaer Polytechnic Institute,St Johns University,Undirected,1,2007,Linda S. Sanford,Linda S. Sanford
+e768,Rice University,Stanford University,Undirected,1,2007,Bruce W. Dunlevie,Bruce W. Dunlevie
+e769,Rockefeller University,Stanford University,Undirected,1,2007,Robert Muse Bass,Robert Muse Bass
+e770,Drexel University,Thomas Jefferson University,Undirected,1,2007,Jeffrey P. Orleans,Jeffrey P. Orleans
+e771,Tufts University,University Of Chicago,Undirected,1,2007,Joseph Neubauer,Joseph Neubauer
+e772,Princeton University,University Of Chicago,Undirected,1,2007,Jon S. Corzine,Jon S. Corzine
+e773,Carnegie Mellon University,University Of Chicago,Undirected,1,2007,"Erroll B. Davis, Jr.","Erroll B. Davis, Jr"
+e774,Illinois Institute Of Technology,University Of Chicago,Undirected,1,2007,Craig J. Duchossois,Craig J. Duchossois
+e775,New School,University Of Chicago,Undirected,1,2007,Strachan Donnelley,Strachan Donnelley
+e776,Princeton University,University Of Chicago,Undirected,1,2007,Dennis J. Keller,Dennis J. Keller
+e777,Tufts University,University Of New Mexico,Undirected,1,2007,William B. Richardson,William B. Richardson
+e778,Massachusetts Institute Of Technology,University Of North Carolina At Greensboro,Undirected,1,2007,Theresa M. Stone,Theresa M. Stone
+e779,New Jersey Institute Of Technology,University Of Notre Dame,Undirected,1,2007,Raymond G. Chambers,Raymond G. Chambers
+e780,Oklahoma State University,University Of Oklahoma,Undirected,1,2007,James D. Harrel,James D. Harrel
+e781,Oklahoma State University,University Of Oklahoma,Undirected,1,2007,Carl R. Renfro,Carl R. Renfro
+e782,Oklahoma State University,University Of Oklahoma,Undirected,1,2007,William Stuart Price,William Stuart Price
+e783,Oklahoma State University,University Of Oklahoma,Undirected,1,2007,Joseph L. Parker,Joseph L. Parker
+e784,Oklahoma State University,University Of Oklahoma,Undirected,1,2007,John Massey,John Massey
+e785,Oklahoma State University,University Of Oklahoma,Undirected,1,2007,Cheryl P. Hunter,Cheryl P. Hunter
+e786,Oklahoma State University,University Of Oklahoma,Undirected,1,2007,Julie Carson,Julie Carson
+e787,Oklahoma State University,University Of Oklahoma,Undirected,1,2007,"Bill W. Burgess, Jr","Bill W. Burgess, Jr"
+e788,New York University,University Of Pennsylvania,Undirected,1,2007,Henry R. Silverman,Henry R. Silverman
+e789,Pennsylvania State University,University Of Pennsylvania,Undirected,1,2007,Edward G. Rendell,Edward G. Rendell
+e790,California Institute Of Technology,University Of Pennsylvania,Undirected,1,2007,Peter Norton,Peter Norton
+e791,Pennsylvania State University,University Of Pittsburgh,Undirected,1,2007,Gerald L. Zahorchak,Gerald L. Zahorchak
+e792,Pennsylvania State University,University Of Pittsburgh,Undirected,1,2007,Edward G. Rendell,Edward G. Rendell
+e793,University Of Pennsylvania,University Of Pittsburgh,Undirected,1,2007,Edward G. Rendell,Edward G. Rendell
+e794,Carnegie Mellon University,University Of Pittsburgh,Undirected,1,2007,William S. Dietrich II,William S. Dietrich II
+e795,Carnegie Mellon University,University Of Pittsburgh,Undirected,1,2007,Ira J. Gumberg,Ira J. Gumberg
+e796,Chapman University,University Of San Diego,Undirected,1,2007,James V. Mazzo,James V. Mazzo
+e797,Auburn University,University Of South Alabama,Undirected,1,2007,"Robert R. ""Bob"" Riley","Robert R. ""Bob"" Riley"
+e798,Cornell University,University Of Southern California,Undirected,1,2007,Ratan N. Tata,Ratan N. Tata
+e799,Cornell University,University Of Tulsa,Undirected,1,2007,Peter C. Meinig,Peter C. Meinig
+e800,Princeton University,University Of Virginia,Undirected,1,2007,John O. Wynne,John O. Wynne
+e801,University Of Utah,Utah State University,Undirected,1,2007,Josh M. Reid,Josh M. Reid
+e802,University Of Utah,Utah State University,Undirected,1,2007,Richard E. Kendell,Richard E. Kendell
+e803,University Of Utah,Utah State University,Undirected,1,2007,Nolan E. Karras,Nolan E. Karras
+e804,University Of Utah,Utah State University,Undirected,1,2007,David J. Jordan,David J. Jordan
+e805,University Of Utah,Utah State University,Undirected,1,2007,Ali Hasnain,Ali Hasnain
+e806,University Of Utah,Utah State University,Undirected,1,2007,James S. Jardine,James S. Jardine
+e807,University Of Utah,Utah State University,Undirected,1,2007,Meghan Holbrook,Meghan Holbrook
+e808,University Of Utah,Utah State University,Undirected,1,2007,Greg W. Haws,Greg W. Haws
+e809,University Of Utah,Utah State University,Undirected,1,2007,David J. Grant,David J. Grant
+e810,University Of Utah,Utah State University,Undirected,1,2007,Katharine Bagley Garff,Katharine Bagley Garff
+e811,University Of Utah,Utah State University,Undirected,1,2007,Rosanita Cespedes,Rosanita Cespedes
+e812,University Of Utah,Utah State University,Undirected,1,2007,Michael R. Jensen,Michael R. Jensen
+e813,University Of Utah,Utah State University,Undirected,1,2007,Janet A. Cannon,Janet A. Cannon
+e814,University Of Utah,Utah State University,Undirected,1,2007,Jed H. Pitcher,Jed H. Pitcher
+e815,University Of Utah,Utah State University,Undirected,1,2007,Jerry C. Atkin,Jerry C. Atkin
+e816,New York University,Vanderbilt University,Undirected,1,2007,Catherine B. Reynolds,Catherine B. Reynolds
+e817,University Of St Thomas Minnesota,Vanderbilt University,Undirected,1,2007,"Rev. Edward A. Malloy, CSC","Rev. Edward A. Malloy, CSC"
+e818,New York University,Virginia Commonwealth University,Undirected,1,2007,Edward H. Bersoff,Edward H. Bersoff
+e819,University Of San Diego,Wake Forest University,Undirected,1,2007,Douglas F. Manchester,Douglas F. Manchester
+e820,George Washington University,Washington State University,Undirected,1,2007,Elizabeth A. Cowles,Elizabeth A. Cowles
+e821,Indiana University Of Pennsylvania,West Chester University Of Pennsylvania,Undirected,1,2007,Judy G. Hample,Judy G. Hample
+e822,University Of Pennsylvania,Widener University,Undirected,1,2007,Ira Harkavy,Ira Harkavy
+e823,University Of Connecticut,Yale University,Undirected,1,2007,M. Jodi Rell,M. Jodi Rell
+e824,Massachusetts Institute Of Technology,Yale University,Undirected,1,2007,Margaret H. Marshall,Margaret H. Marshall
+e825,Fordham University,Yeshiva University,Undirected,1,2007,Joel I. Picket,Joel I. Picket
+e826,Johns Hopkins University,Yeshiva University,Undirected,1,2007,Michael F. Price,Michael F. Price
+e827,Cornell University,Yeshiva University,Undirected,1,2007,Robert A. Belfer,Robert A. Belfer
+e828,Columbia University,Yeshiva University,Undirected,1,2007,Ruth L. Gottesman,Ruth L. Gottesman
+e829,Rockefeller University,Yeshiva University,Undirected,1,2007,Evelyn G. Lipper,Evelyn G. Lipper
+e830,Clemson University,Cleveland State University,Undirected,1,2007,Vijaya K. Konangi,Vijaya K. Konangi
+e831,Clemson University,Cleveland State University,Undirected,1,2007,Sonali B. Wilson,Sonali B. Wilson
+e832,California Institute Of Technology,Harvard University,Undirected,1,2007,James F. Rothenberg,James F. Rothenberg
+e833,Johns Hopkins University,Loyola Marymount University,Undirected,1,2007,Robert J. Abernethy,Robert J. Abernethy
+e834,Loyola Marymount University,University Of Notre Dame,Undirected,1,2007,"Thomas E. Larkin, Jr.","Thomas E. Larkin, Jr"
+e835,Loyola Marymount University,University Of Southern California,Undirected,1,2007,Kathleen L. McCarthy,Kathleen L. McCarthy
+e836,Loyola Marymount University,University Of San Diego,Undirected,1,2007,Liam E. McGee,Liam E. McGee
+e837,Loyola Marymount University,University Of Southern California,Undirected,1,2007,Joan A. Payden,Joan A. Payden
+e838,Loyola Marymount University,University Of Southern California,Undirected,1,2007,"Edward P. Roski, Jr.","Edward P. Roski, Jr"
+e839,Columbia University,New Jersey Institute Of Technology,Undirected,1,2007,Cory A. Booker,Cory A. Booker
+e840,New Jersey Institute Of Technology,Princeton University,Undirected,1,2007,Jon S. Corzine,Jon S. Corzine
+e841,New Jersey Institute Of Technology,University Of Chicago,Undirected,1,2007,Jon S. Corzine,Jon S. Corzine
+e842,Baylor College Of Medicine,Baylor University,Undirected,1,2008,Laree Estes Perez,Laree Estes Perez
+e843,California Institute Of Technology,Chapman University,Undirected,1,2008,George L. Argyros,George L. Argyros
+e844,Brandeis University,Columbia University,Undirected,1,2008,"E. John Rosenwald, Jr","E. John Rosenwald, Jr"
+e845,Fordham University,Georgetown University,Undirected,1,2008,Winston J. Churchill,Winston J. Churchill
+e846,Fordham University,Georgetown University,Undirected,1,2008,William P. Frank,William P. Frank
+e847,Boston College,Georgetown University,Undirected,1,2008,"Rev. Bradley M. Schaeffer, S.J.","Rev. Bradley M. Schaeffer, S.J"
+e848,Duke University,Johns Hopkins University,Undirected,1,2008,David M. Rubenstein,David M. Rubenstein
+e849,Andrews University,Loma Linda University,Undirected,1,2008,Donald C. Schneider,Donald C. Schneider
+e850,Andrews University,Loma Linda University,Undirected,1,2008,Jan Paulsen,Jan Paulsen
+e851,Andrews University,Loma Linda University,Undirected,1,2008,C. Garland Dulan,C. Garland Dulan
+e852,Andrews University,Loma Linda University,Undirected,1,2008,Matthew Bediako,Matthew Bediako
+e853,Andrews University,Loma Linda University,Undirected,1,2008,Robert E. Lemon,Robert E. Lemon
+e854,Boston College,Loyola University Chicago,Undirected,1,2008,"Rev. Scott R. Pilarz, S.J","Rev. Scott R. Pilarz, S.J"
+e855,Fordham University,Loyola University Chicago,Undirected,1,2008,"Michael J. Garanzini, S.J","Michael J. Garanzini, S.J"
+e856,Loyola University Chicago,Marquette University,Undirected,1,2008,Cherryl T. Thomas.,Cherryl T. Thomas
+e857,California Institute Of Technology,Massachusetts Institute Of Technology,Undirected,1,2008,Gordon M. Binder,Gordon M. Binder
+e858,Howard University,Massachusetts Institute Of Technology,Undirected,1,2008,John A. Thain,John A. Thain
+e859,Cornell University,Massachusetts Institute Of Technology,Undirected,1,2008,Martin Y. Tang,Martin Y. Tang
+e860,Clemson University,Mercer University,Undirected,1,2008,James R. Williams,James R. Williams
+e861,Massachusetts Institute Of Technology,New School,Undirected,1,2008,Robert B. Millard,Robert B. Millard
+e862,Cornell University,New School,Undirected,1,2008,Paul A. Gould,Paul A. Gould
+e863,Georgetown University,New York University,Undirected,1,2008,William R. Berkley,William R. Berkley
+e864,New School,New York University,Undirected,1,2008,William D. Zabel,William D. Zabel
+e865,Brandeis University,New York University,Undirected,1,2008,"E. John Rosenwald, Jr","E. John Rosenwald, Jr."
+e866,Columbia University,New York University,Undirected,1,2008,"E. John Rosenwald, Jr","E. John Rosenwald, Jr."
+e867,Loyola University Chicago,Northwestern University,Undirected,1,2008,William M. Daley,William M. Daley
+e868,Georgetown University,Pepperdine University,Undirected,1,2008,Lynn C. Fritz,Lynn C. Fritz
+e869,Clarkson University,Polytechnic University,Undirected,1,2008,Paul M. Horn,Paul M. Horn
+e870,New School,Princeton University,Undirected,1,2008,Nancy B. Peretsman,Nancy B. Peretsman
+e871,Baylor College Of Medicine,Rice University,Undirected,1,2008,Robert Theron Brockman,Robert Theron Brockman
+e872,Gallaudet University,Rochester Institute Of Technology,Undirected,1,2008,James R. Macfadden,James R. Macfadden
+e873,Brandeis University,Rockefeller University,Undirected,1,2008,Thomas H. Lee,Thomas H. Lee
+e874,Brown University,Rockefeller University,Undirected,1,2008,Karen M. Levy,Karen M. Levy
+e875,Massachusetts Institute Of Technology,Rockefeller University,Undirected,1,2008,James H. Simons,James H. Simons
+e876,Johns Hopkins University,Rockefeller University,Undirected,1,2008,David H. Koch,David H. Koch
+e877,Dartmouth College,Rockefeller University,Undirected,1,2008,Russell L. Carson,Russell L. Carson
+e878,Georgetown University,Saint Louis University,Undirected,1,2008,"Rev. Robert L. Niehoff, S.J","Rev. Robert L. Niehoff, S.J"
+e879,Catholic University Of America,Seton Hall University,Undirected,1,2008,The Most Reverend John J. Myers,The Most Reverend John J. Myers
+e880,Baylor College Of Medicine,Southern Methodist University,Undirected,1,2008,Rev. Kirbyjon H. Caldwell,Rev. Kirbyjon H. Caldwell
+e881,Rensselaer Polytechnic Institute,St Johns University,Undirected,1,2008,Linda S. Sanford,Linda S. Sanford
+e882,Rice University,Stanford University,Undirected,1,2008,Bruce W. Dunlevie,Bruce W. Dunlevie
+e883,Rochester Institute Of Technology,Syracuse University,Undirected,1,2008,"Thomas C. Wilmot, Sr","Thomas C. Wilmot, Sr."
+e884,Syracuse University,Temple University,Undirected,1,2008,Theodore A. McKee,Theodore A. McKee
+e885,Pennsylvania State University,Thomas Jefferson University,Undirected,1,2008,Ira M. Lubert,Ira M. Lubert
+e886,Drexel University,Thomas Jefferson University,Undirected,1,2008,Jeffrey P. Orleans,Jeffrey P. Orleans
+e887,Brown University,Tufts University,Undirected,1,2008,Martin J. Granoff,Martin J. Granoff
+e888,Tufts University,University Of Chicago,Undirected,1,2008,Joseph Neubauer,Joseph Neubauer
+e889,Carnegie Mellon University,University Of Chicago,Undirected,1,2008,"Erroll B. Davis, Jr.","Erroll B. Davis, Jr"
+e890,Illinois Institute Of Technology,University Of Chicago,Undirected,1,2008,Craig J. Duchossois,Craig J. Duchossois
+e891,Princeton University,University Of Chicago,Undirected,1,2008,Dennis J. Keller,Dennis J. Keller
+e892,Duke University,University Of Chicago,Undirected,1,2008,David M. Rubenstein,David M. Rubenstein
+e893,Johns Hopkins University,University Of Chicago,Undirected,1,2008,David M. Rubenstein,David M. Rubenstein
+e894,Illinois Institute Of Technology,University Of Connecticut,Undirected,1,2008,John W. Rowe,John W. Rowe
+e895,Tufts University,University Of New Mexico,Undirected,1,2008,William B. Richardson,William B. Richardson
+e896,Depaul University,University Of North Carolina At Charlotte,Undirected,1,2008,Bertram L. Scott,Bertram L. Scott
+e897,Creighton University,University Of Notre Dame,Undirected,1,2008,Kenneth E. Stinson,Kenneth E. Stinson
+e898,New Jersey Institute Of Technology,University Of Notre Dame,Undirected,1,2008,Raymond G. Chambers,Raymond G. Chambers
+e899,Oklahoma State University,University Of Oklahoma,Undirected,1,2008,John Massey,John Massey
+e900,Oklahoma State University,University Of Oklahoma,Undirected,1,2008,Julie Carson,Julie Carson
+e901,Oklahoma State University,University Of Oklahoma,Undirected,1,2008,Glen D. Johnson,Glen D. Johnson
+e902,Oklahoma State University,University Of Oklahoma,Undirected,1,2008,Cheryl P. Hunter,Cheryl P. Hunter
+e903,Oklahoma State University,University Of Oklahoma,Undirected,1,2008,James D. Harrel,James D. Harrel
+e904,Oklahoma State University,University Of Oklahoma,Undirected,1,2008,"Marlin ""Ike"" Glass, Jr","Marlin ""Ike"" Glass, Jr."
+e905,Oklahoma State University,University Of Oklahoma,Undirected,1,2008,"Bill W. Burgess, Jr","Bill W. Burgess, Jr."
+e906,Pennsylvania State University,University Of Pennsylvania,Undirected,1,2008,Edward G. Rendell,Edward G. Rendell
+e907,Pennsylvania State University,University Of Pittsburgh,Undirected,1,2008,Edward G. Rendell,Edward G. Rendell
+e908,University Of Pennsylvania,University Of Pittsburgh,Undirected,1,2008,Edward G. Rendell,Edward G. Rendell
+e909,Carnegie Mellon University,University Of Pittsburgh,Undirected,1,2008,Luke Ravenstahl,Luke Ravenstahl
+e910,Pennsylvania State University,University Of Pittsburgh,Undirected,1,2008,Gerald L. Zahorchak,Gerald L. Zahorchak
+e911,Carnegie Mellon University,University Of Pittsburgh,Undirected,1,2008,William S. Dietrich II,William S. Dietrich II
+e912,Chapman University,University Of San Diego,Undirected,1,2008,James V. Mazzo,James V. Mazzo
+e913,Auburn University,University Of South Alabama,Undirected,1,2008,"Robert R. ""Bob"" Riley","Robert R. ""Bob"" Riley"
+e914,California Institute Of Technology,University Of Southern California,Undirected,1,2008,David L. Lee,David L. Lee
+e915,Cornell University,University Of Southern California,Undirected,1,2008,Ratan N. Tata,Ratan N. Tata
+e916,Catholic University Of America,University Of St Thomas Minnesota,Undirected,1,2008,The Most Reverend Harry J. Flynn,The Most Reverend Harry J. Flynn
+e917,Seton Hall University,University Of St Thomas Minnesota,Undirected,1,2008,Antoine M. Garibaldi,Antoine M. Garibaldi
+e918,Georgetown University,University Of St Thomas Minnesota,Undirected,1,2008,John J. Fauth IV,John J. Fauth IV
+e919,Cornell University,University Of Tulsa,Undirected,1,2008,Peter C. Meinig,Peter C. Meinig
+e920,University Of Utah,Utah State University,Undirected,1,2008,Jerry C. Atkin,Jerry C. Atkin
+e921,University Of Utah,Utah State University,Undirected,1,2008,Bonnie Jean Beesley,Bonnie Jean Beesley
+e922,University Of Utah,Utah State University,Undirected,1,2008,Rosanita Cespedes,Rosanita Cespedes
+e923,University Of Utah,Utah State University,Undirected,1,2008,Amy Engh,Amy Engh
+e924,University Of Utah,Utah State University,Undirected,1,2008,Katharine Bagley Garff,Katharine Bagley Garff
+e925,University Of Utah,Utah State University,Undirected,1,2008,Greg W. Haws,Greg W. Haws
+e926,University Of Utah,Utah State University,Undirected,1,2008,Meghan Holbrook,Meghan Holbrook
+e927,University Of Utah,Utah State University,Undirected,1,2008,James S. Jardine,James S. Jardine
+e928,University Of Utah,Utah State University,Undirected,1,2008,David J. Jordan,David J. Jordan
+e929,University Of Utah,Utah State University,Undirected,1,2008,Janet A. Cannon,Janet A. Cannon
+e930,University Of Utah,Utah State University,Undirected,1,2008,Richard E. Kendell,Richard E. Kendell
+e931,University Of Utah,Utah State University,Undirected,1,2008,Anthony W. Morgan,Anthony W. Morgan
+e932,University Of Utah,Utah State University,Undirected,1,2008,Jed H. Pitcher,Jed H. Pitcher
+e933,University Of Utah,Utah State University,Undirected,1,2008,Josh M. Reid,Josh M. Reid
+e934,University Of Utah,Utah State University,Undirected,1,2008,"Sara V. Sinclair, RN, CHA, FACHCA","Sara V. Sinclair, RN, CHA, FACHCA"
+e935,University Of Utah,Utah State University,Undirected,1,2008,Marion O. Snow,Marion O. Snow
+e936,University Of Utah,Utah State University,Undirected,1,2008,John H. Zenger,John H. Zenger
+e937,University Of Utah,Utah State University,Undirected,1,2008,Nolan E. Karras,Nolan E. Karras
+e938,New York University,Vanderbilt University,Undirected,1,2008,Catherine B. Reynolds,Catherine B. Reynolds
+e939,University Of St Thomas Minnesota,Vanderbilt University,Undirected,1,2008,"Rev. Edward A. Malloy, CSC","Rev. Edward A. Malloy, CSC"
+e940,University Of North Carolina At Charlotte,Wake Forest University,Undirected,1,2008,"Graham W. Denton, Jr",Graham W. Denton
+e941,Indiana University Of Pennsylvania,West Chester University Of Pennsylvania,Undirected,1,2008,Judy G. Hample,Judy G. Hample
+e942,Boston College,Worcester Polytechnic Institute,Undirected,1,2008,John L. LaMattina,John L. LaMattina
+e943,Massachusetts Institute Of Technology,Yale University,Undirected,1,2008,Margaret H. Marshall,Margaret H. Marshall
+e944,University Of Connecticut,Yale University,Undirected,1,2008,M. Jodi Rell,M. Jodi Rell
+e945,Johns Hopkins University,Yeshiva University,Undirected,1,2008,Michael F. Price,Michael F. Price
+e946,Fordham University,Yeshiva University,Undirected,1,2008,Joel I. Picket,Joel I. Picket
+e947,Rockefeller University,Yeshiva University,Undirected,1,2008,Evelyn G. Lipper,Evelyn G. Lipper
+e948,Columbia University,Yeshiva University,Undirected,1,2008,Ruth L. Gottesman,Ruth L. Gottesman
+e949,California Institute Of Technology,Harvard University,Undirected,1,2008,James F. Rothenberg,James F. Rothenberg
+e950,Johns Hopkins University,Loyola Marymount University,Undirected,1,2008,Robert J. Abernethy,Robert J. Abernethy
+e951,Loyola Marymount University,University Of Notre Dame,Undirected,1,2008,"Thomas E. Larkin, Jr.","Thomas E. Larkin, Jr"
+e952,Boston College,Loyola Marymount University,Undirected,1,2008,"Rev. Robert B. Lawton, S.J","Rev. Robert B. Lawton, S.J"
+e953,Loyola Marymount University,University Of Southern California,Undirected,1,2008,Kathleen L. McCarthy,Kathleen L. McCarthy
+e954,Loyola Marymount University,University Of San Diego,Undirected,1,2008,Liam E. McGee,Liam E. McGee
+e955,Loyola Marymount University,University Of Southern California,Undirected,1,2008,"Edward P. Roski, Jr.","Edward P. Roski, Jr"
+e956,Columbia University,New Jersey Institute Of Technology,Undirected,1,2008,Cory A. Booker,Cory A. Booker
+e957,New Jersey Institute Of Technology,Princeton University,Undirected,1,2008,Jon S. Corzine,Jon S. Corzine
+e958,Hofstra University,Yeshiva University,Undirected,1,2008,Bernard L. Madoff,Bernard L. Madoff
+e959,California Institute Of Technology,Chapman University,Undirected,1,2009,George L. Argyros,George L. Argyros
+e960,Brandeis University,Columbia University,Undirected,1,2009,"E. John Rosenwald, Jr.","E. John Rosenwald, Jr."
+e961,Fordham University,Georgetown University,Undirected,1,2009,William P. Frank,William P. Frank
+e962,Fordham University,Georgetown University,Undirected,1,2009,Winston J. Churchill,Winston J. Churchill
+e963,Boston College,Georgetown University,Undirected,1,2009,"Rev. Bradley M. Schaeffer, S.J,","Rev. Bradley M. Schaeffer, S.J"
+e964,Duke University,Johns Hopkins University,Undirected,1,2009,David M. Rubenstein,David M. Rubenstein
+e965,Andrews University,Loma Linda University,Undirected,1,2009,Donald C. Schneider,Donald C. Schneider
+e966,Andrews University,Loma Linda University,Undirected,1,2009,Jan Paulsen,Jan Paulsen
+e967,Andrews University,Loma Linda University,Undirected,1,2009,C. Garland Dulan,C. Garland Dulan
+e968,Andrews University,Loma Linda University,Undirected,1,2009,Robert E. Lemon,Robert E. Lemon
+e969,Andrews University,Loma Linda University,Undirected,1,2009,Matthew Bediako,Matthew Bediako
+e970,Boston College,Loyola Marymount University,Undirected,1,2009,"Rev. Robert B. Lawton, S.J","Rev. Robert B. Lawton, S.J"
+e971,Boston College,Loyola University Chicago,Undirected,1,2009,"Rev. Bradley M. Schaeffer, S.J,","Rev. Bradley M. Schaeffer, S.J"
+e972,Georgetown University,Loyola University Chicago,Undirected,1,2009,"Rev. Bradley M. Schaeffer, S.J","Rev. Bradley M. Schaeffer, S.J"
+e973,Fordham University,Loyola University Chicago,Undirected,1,2009,"Michael J. Garanzini, S.J","Michael J. Garanzini, S.J,"
+e974,Boston College,Marquette University,Undirected,1,2009,"Rev. Douglas W. Marcouiller, S.J.","Rev. Douglas W. Marcouiller, S.J"
+e975,Loyola University Chicago,Marquette University,Undirected,1,2009,Cherryl T. Thomas,Cherryl T. Thomas
+e976,California Institute Of Technology,Massachusetts Institute Of Technology,Undirected,1,2009,Gordon M. Binder,Gordon M. Binder
+e977,Howard University,Massachusetts Institute Of Technology,Undirected,1,2009,John A. Thain,John A. Thain
+e978,Cornell University,Massachusetts Institute Of Technology,Undirected,1,2009,Martin Y. Tang,Martin Y. Tang
+e979,Florida State University,Mercer University,Undirected,1,2009,William Andrew Haggard,William Andrew Haggard
+e980,Massachusetts Institute Of Technology,New School,Undirected,1,2009,Robert B. Millard,Robert B. Millard
+e981,Cornell University,New School,Undirected,1,2009,Paul A. Gould,Paul A. Gould
+e982,Florida State University,New School,Undirected,1,2009,David B. Ford,David B. Ford
+e983,Brandeis University,New York University,Undirected,1,2009,Michael H. Steinhardt,Michael H. Steinhardt
+e984,Georgetown University,New York University,Undirected,1,2009,William R. Berkley,William R. Berkley
+e985,New School,New York University,Undirected,1,2009,William D. Zabel,William D. Zabel
+e986,Indiana University Of Pennsylvania,North Dakota State University,Undirected,1,2009,James C. Miller,James C. Miller
+e987,Loyola University Chicago,Northwestern University,Undirected,1,2009,"William M. ""Bill"" Daley.","William M. ""Bill"" Daley"
+e988,Brandeis University,Ohio State University,Undirected,1,2009,Ronald A. Ratner,Ronald A. Ratner
+e989,California Institute Of Technology,Princeton University,Undirected,1,2009,John D. Diekman,John D. Diekman
+e990,Baylor College Of Medicine,Rice University,Undirected,1,2009,Robert Theron Brockman,Robert Theron Brockman
+e991,Brandeis University,Rockefeller University,Undirected,1,2009,Thomas H. Lee,Thomas H. Lee
+e992,Brown University,Rockefeller University,Undirected,1,2009,Karen M. Levy,Karen M. Levy
+e993,Massachusetts Institute Of Technology,Rockefeller University,Undirected,1,2009,James H. Simons,James H. Simons
+e994,Johns Hopkins University,Rockefeller University,Undirected,1,2009,David H. Koch,David H. Koch
+e995,Georgetown University,Saint Louis University,Undirected,1,2009,"Rev. Robert L. ""Bob"" Niehoff, S.J.","Rev. Robert L. ""Bob"" Niehoff, s.J."
+e996,Catholic University Of America,Seton Hall University,Undirected,1,2009,The Most Reverend John J. Myers,The Most Reverend John J. Myers
+e997,Rensselaer Polytechnic Institute,St Johns University,Undirected,1,2009,Linda S. Sanford,Linda S. Sanford
+e998,Catholic University Of America,St Johns University,Undirected,1,2009,"The Very Reverend David M. O'Connell, CM","The Very Reverend David M. O'Connell, CM"
+e999,Rockefeller University,Stanford University,Undirected,1,2009,Robert Muse Bass,Robert Muse Bass
+e1000,Rice University,Stanford University,Undirected,1,2009,Bruce W. Dunlevie,Bruce W. Dunlevie
+e1001,Rochester Institute Of Technology,Syracuse University,Undirected,1,2009,"Thomas C. Wilmot, Sr","Thomas C. Wilmot, Sr"
+e1002,Syracuse University,Temple University,Undirected,1,2009,Theodore A. McKee,Theodore A. McKee
+e1003,Pennsylvania State University,Thomas Jefferson University,Undirected,1,2009,Ira M. Lubert,Ira M. Lubert
+e1004,Drexel University,Thomas Jefferson University,Undirected,1,2009,Jeffrey P. Orleans,Jeffrey P. Orleans
+e1005,Brown University,Tufts University,Undirected,1,2009,Martin J. Granoff,Martin J. Granoff
+e1006,Tufts University,University Of Chicago,Undirected,1,2009,"Joseph L. ""Joe"" Neubauer","Joseph L. ""Joe"" Neubauer"
+e1007,Duke University,University Of Chicago,Undirected,1,2009,David M. Rubenstein,David M. Rubenstein
+e1008,Johns Hopkins University,University Of Chicago,Undirected,1,2009,David M. Rubenstein,David M. Rubenstein
+e1009,Illinois Institute Of Technology,University Of Chicago,Undirected,1,2009,Craig J. Duchossois,Craig J. Duchossois
+e1010,Princeton University,University Of Chicago,Undirected,1,2009,Dennis J. Keller,Dennis J. Keller
+e1011,Illinois Institute Of Technology,University Of Connecticut,Undirected,1,2009,John W. Rowe,John W. Rowe
+e1012,Tufts University,University Of New Mexico,Undirected,1,2009,"William B. ""Bill"" Richardson","William B. ""Bill"" Richardson"
+e1013,Creighton University,University Of Notre Dame,Undirected,1,2009,Kenneth E. Stinson,Kenneth E. Stinson
+e1014,Oklahoma State University,University Of Oklahoma,Undirected,1,2009,John Massey,John Massey
+e1015,Oklahoma State University,University Of Oklahoma,Undirected,1,2009,Cheryl P. Hunter,Cheryl P. Hunter
+e1016,Oklahoma State University,University Of Oklahoma,Undirected,1,2009,Glen D. Johnson,Glen D. Johnson
+e1017,Oklahoma State University,University Of Oklahoma,Undirected,1,2009,"Bill W. Burgess, Jr","Bill W. Burgess, Jr"
+e1018,Oklahoma State University,University Of Oklahoma,Undirected,1,2009,Julie Carson,Julie Carson
+e1019,Oklahoma State University,University Of Oklahoma,Undirected,1,2009,"Marlin ""Ike"" Glass, Jr","Marlin ""Ike"" Glass, Jr."
+e1020,Oklahoma State University,University Of Oklahoma,Undirected,1,2009,James D. Harrel,James D. Harrel
+e1021,Pennsylvania State University,University Of Pennsylvania,Undirected,1,2009,Edward G. Rendell,Edward G. Rendell
+e1022,Rockefeller University,University Of Pennsylvania,Undirected,1,2009,Christopher H. Browne,Christopher H. Browne
+e1023,Carnegie Mellon University,University Of Pittsburgh,Undirected,1,2009,Luke Ravenstahl,Luke Ravenstahl
+e1024,Pennsylvania State University,University Of Pittsburgh,Undirected,1,2009,Edward G. Rendell,Edward G. Rendell
+e1025,University Of Pennsylvania,University Of Pittsburgh,Undirected,1,2009,Edward G. Rendell,Edward G. Rendell
+e1026,Pennsylvania State University,University Of Pittsburgh,Undirected,1,2009,Gerald L. Zahorchak,Gerald L. Zahorchak
+e1027,Carnegie Mellon University,University Of Pittsburgh,Undirected,1,2009,William S. Dietrich II,William S. Dietrich II
+e1028,Cornell University,University Of Southern California,Undirected,1,2009,Ratan N. Tata,Ratan N. Tata
+e1029,California Institute Of Technology,University Of Southern California,Undirected,1,2009,David L. Lee,David L. Lee
+e1030,Georgetown University,University Of St Thomas Minnesota,Undirected,1,2009,John J. Fauth IV,John J. Fauth IV
+e1031,Catholic University Of America,University Of St Thomas Minnesota,Undirected,1,2009,The Most Reverend Harry J. Flynn,The Most Reverend Harry J. Flynn
+e1032,Seton Hall University,University Of St Thomas Minnesota,Undirected,1,2009,Antoine M. Garibaldi,Antoine M. Garibaldi
+e1033,University Of Utah,Utah State University,Undirected,1,2009,"Jerry C. Atkin, CPA","Jerry C. Atkin, CPA"
+e1034,University Of Utah,Utah State University,Undirected,1,2009,Janet A. Cannon,Janet A. Cannon
+e1035,University Of Utah,Utah State University,Undirected,1,2009,Rosanita Cespedes,Rosanita Cespedes
+e1036,University Of Utah,Utah State University,Undirected,1,2009,Rev. France A. Davis,Rev. France A. Davis
+e1037,University Of Utah,Utah State University,Undirected,1,2009,Katharine Bagley Garff,Katharine Bagley Garff
+e1038,University Of Utah,Utah State University,Undirected,1,2009,Greg W. Haws,Greg W. Haws
+e1039,University Of Utah,Utah State University,Undirected,1,2009,Meghan Holbrook,Meghan Holbrook
+e1040,University Of Utah,Utah State University,Undirected,1,2009,Anthony W. Morgan,Anthony W. Morgan
+e1041,University Of Utah,Utah State University,Undirected,1,2009,Nolan E. Karras,Nolan E. Karras
+e1042,University Of Utah,Utah State University,Undirected,1,2009,Basim Motiwala,Basim Motiwala
+e1043,University Of Utah,Utah State University,Undirected,1,2009,Marion O. Snow,Marion O. Snow
+e1044,University Of Utah,Utah State University,Undirected,1,2009,Teresa L. Theurer,Teresa L. Theurer
+e1045,University Of Utah,Utah State University,Undirected,1,2009,Joel D. Wright,Joel D. Wright
+e1046,University Of Utah,Utah State University,Undirected,1,2009,John H. Zenger,John H. Zenger
+e1047,University Of Utah,Utah State University,Undirected,1,2009,David J. Jordan,David J. Jordan
+e1048,University Of Utah,Utah State University,Undirected,1,2009,Bonnie Jean Beesley,Bonnie Jean Beesley
+e1049,University Of Utah,Utah State University,Undirected,1,2009,Jed H. Pitcher,Jed H. Pitcher
+e1050,New York University,Vanderbilt University,Undirected,1,2009,Catherine B. Reynolds,Catherine B. Reynolds
+e1051,University Of St Thomas Minnesota,Vanderbilt University,Undirected,1,2009,"Rev. Edward A. Malloy, CSC","Rev. Edward A. Malloy, CSC"
+e1052,University Of Connecticut,Yale University,Undirected,1,2009,M. Jodi Rell,M. Jodi Rell
+e1053,Massachusetts Institute Of Technology,Yale University,Undirected,1,2009,Margaret H. Marshall,Margaret H. Marshall
+e1054,Columbia University,Yeshiva University,Undirected,1,2009,Ruth L. Gottesman,Ruth L. Gottesman
+e1055,Hofstra University,Yeshiva University,Undirected,1,2009,Bernard L. Madoff,Bernard L. Madoff
+e1056,Brown University,Howard University,Undirected,1,2009,Ruth J. Simmons,Ruth J. Simmons
+e1057,California Institute Of Technology,Harvard University,Undirected,1,2009,James F. Rothenberg,James F. Rothenberg
+e1058,Johns Hopkins University,Loyola Marymount University,Undirected,1,2009,Robert J. Abernethy,Robert J. Abernethy
+e1059,Loyola Marymount University,University Of Notre Dame,Undirected,1,2009,"Thomas E. Larkin, Jr.","Thomas E. Larkin, Jr."
+e1060,Loyola Marymount University,University Of Southern California,Undirected,1,2009,Kathleen L. McCarthy,Kathleen L. McCarthy
+e1061,Loyola Marymount University,University Of San Diego,Undirected,1,2009,Liam E. McGee,Liam E. McGee
+e1062,Loyola Marymount University,University Of Southern California,Undirected,1,2009,Joan A. Payden,Joan A. Payden
+e1063,Loyola Marymount University,University Of Southern California,Undirected,1,2009,"Edward P. Roski, Jr","Edward P. Roski, Jr"
+e1064,Columbia University,New Jersey Institute Of Technology,Undirected,1,2009,Cory A. Booker,Cory A. Booker
+e1065,New Jersey Institute Of Technology,Princeton University,Undirected,1,2009,Jon S. Corzine,Jon S. Corzine
+e1066,Catholic University Of America,Seton Hall University,Undirected,1,2009,The Most Reverend Aurthur J. Serratelli,The Most Reverend Aurthur J. Serratelli
+e1067,Baylor College Of Medicine,Baylor University,Undirected,1,2011,"William K. Robbins, Jr",William K. Robbins
+e1068,Brandeis University,Cornell University,Undirected,1,2011,Barton J. Winokur,Barton J. Winokur
+e1069,Clark Atlanta University,Emory University,Undirected,1,2011,B. Michael Watson,B. Michael Watson
+e1070,Catholic University Of America,Fordham University,Undirected,1,2011,Mark H. Tuohey III,Mark H. Tuohey III
+e1071,Boston College,Fordham University,Undirected,1,2011,"Thomas J. ""T. J."" Maloney","Thomas J. ""T. J."" Maloney"
+e1072,California Institute Of Technology,Harvard University,Undirected,1,2011,James F. Rothenberg,James F. Rothenberg
+e1073,Duke University,Johns Hopkins University,Undirected,1,2011,David M. Rubenstein,David M. Rubenstein
+e1074,Andrews University,Loma Linda University,Undirected,1,2011,Robert E. Lemon,Robert E. Lemon
+e1075,Boston College,Loyola University Chicago,Undirected,1,2011,"Rev. Bradley M. Schaeffer, S.J.","Rev. Bradley M. Schaeffer, S.J"
+e1076,Fordham University,Loyola University Chicago,Undirected,1,2011,"Rev. Michael J. Garanzini, S.J.","Rev. Michael J. Garanzini, S.J"
+e1077,Boston College,Marquette University,Undirected,1,2011,"Rev. Scott R. Pilarz, S.J.","Rev. Scott R. Pilarz, S.J"
+e1078,Boston University,Massachusetts Institute Of Technology,Undirected,1,2011,"Cleve L. Killingsworth, Jr","Cleve L. Killingsworth, Jr."
+e1079,Fordham University,New School,Undirected,1,2011,Lilian Shiao-Yen Wu,Lilian Shiao-Yen Wu
+e1080,Cornell University,New School,Undirected,1,2011,Paul A. Gould,Paul A. Gould
+e1081,Massachusetts Institute Of Technology,New School,Undirected,1,2011,Robert B. Millard.,Robert B. Millard
+e1082,Howard University,New School,Undirected,1,2011,Sheila C. Johnson,Sheila C. Johnson
+e1083,Brandeis University,New York University,Undirected,1,2011,Michael H. Steinhardt,Michael H. Steinhardt
+e1084,New School,New York University,Undirected,1,2011,William D. Zabel,William D. Zabel
+e1085,George Washington University,Northeastern University,Undirected,1,2011,Ellen M. Zane,Ellen M. Zane
+e1086,Illinois Institute Of Technology,Northwestern University,Undirected,1,2011,A. Steven Crown,A. Steven Crown
+e1087,Fordham University,Northwestern University,Undirected,1,2011,Dennis J. FitzSimons,Dennis J. FitzSimons
+e1088,New York University,Polytechnic Institute Of New York University,Undirected,1,2011,Jeffrey H. Lynford,Jeffrey H. Lynford
+e1089,New York University,Polytechnic Institute Of New York University,Undirected,1,2011,John Edward Sexton,John Edward Sexton
+e1090,New York University,Polytechnic Institute Of New York University,Undirected,1,2011,Charles J. Hinkaty,Charles J. Hinkaty
+e1091,Baylor College Of Medicine,Rice University,Undirected,1,2011,"James T. ""Jim"" Hackett","James T. ""Jim"" Hackett"
+e1092,Baylor College Of Medicine,Rice University,Undirected,1,2011,"Robert Theron ""Bob"" Brockman","Robert Theron ""Bob"" Brockman"
+e1093,Brown University,Rockefeller University,Undirected,1,2011,Karen M. Levy,Karen M. Levy
+e1094,Georgetown University,Saint Louis University,Undirected,1,2011,"Rev. Robert L. ""Bob"" Niehoff, S.J.","Rev. Robert L. ""Bob"" Niehoff, S.J"
+e1095,Catholic University Of America,Seton Hall University,Undirected,1,2011,The Most Reverend John J. Myers,The Most Reverend John J. Myers
+e1096,Baylor College Of Medicine,Southern Methodist University,Undirected,1,2011,Rev. Kirbyjon H. Caldwell,Rev. Kirbyjon H. Caldwell
+e1097,Rensselaer Polytechnic Institute,St Johns University,Undirected,1,2011,Linda S. Sanford,Linda S. Sanford
+e1098,Catholic University Of America,St Johns University,Undirected,1,2011,"Sister Margaret Mary Fitzpatrick, SC","Sister Margaret Mary Fitzpatrick, SC"
+e1099,Rockefeller University,Stanford University,Undirected,1,2011,Robert Muse Bass,Robert Muse Bass
+e1100,Rochester Institute Of Technology,Syracuse University,Undirected,1,2011,"Thomas C. Wilmot, Sr.","Thomas C. Wilmot, Sr."
+e1101,Dartmouth College,Texas Christian University,Undirected,1,2011,Trevor Rees-Jones,Trevor Rees-Jones
+e1102,Pennsylvania State University,Thomas Jefferson University,Undirected,1,2011,Ira M. Lubert,Ira M. Lubert
+e1103,Georgetown University,University Of Chicago,Undirected,1,2011,"Thomas A. ""Tom"" Reynolds III","Thomas A. ""Tom"" Reynolds III"
+e1104,Loyola University Chicago,University Of Chicago,Undirected,1,2011,Mary A. Tolan,Mary A. Tolan
+e1105,Duke University,University Of Chicago,Undirected,1,2011,David M. Rubenstein,David M. Rubenstein
+e1106,Johns Hopkins University,University Of Chicago,Undirected,1,2011,David M. Rubenstein,David M. Rubenstein
+e1107,Illinois Institute Of Technology,University Of Chicago,Undirected,1,2011,Craig J. Duchossois,Craig J. Duchossois
+e1108,Howard University,University Of Delaware,Undirected,1,2011,"Patrick T. ""Pat"" Harker","Patrick T. ""Pat"" Harker"
+e1109,Pepperdine University,University Of Pacific,Undirected,1,2011,Janice Rogers Brown,Janice Rogers Brown
+e1110,Pennsylvania State University,University Of Pennsylvania,Undirected,1,2011,"Edward G. ""Ed"" Rendell","Edward G. ""Ed"" Rendell"
+e1111,Pennsylvania State University,University Of Pittsburgh,Undirected,1,2011,"Edward G. ""Ed"" Rendell","Edward G. ""Ed"" Rendell"
+e1112,University Of Pennsylvania,University Of Pittsburgh,Undirected,1,2011,"Edward G. ""Ed"" Rendell","Edward G. ""Ed"" Rendell"
+e1113,Carnegie Mellon University,University Of Pittsburgh,Undirected,1,2011,Luke Ravenstahl,Luke Ravenstahl
+e1114,Chapman University,University Of San Diego,Undirected,1,2011,"James V. ""Jim"" Mazzo","James V. ""Jim"" Mazzo"
+e1115,Auburn University,University Of South Alabama,Undirected,1,2011,"Robert R. ""Bob"" Riley","Robert R. ""Bob"" Riley"
+e1116,Cornell University,University Of Southern California,Undirected,1,2011,Ratan N. Tata,Ratan N. Tata
+e1117,California Institute Of Technology,University Of Southern California,Undirected,1,2011,David L. Lee,David L. Lee
+e1118,St Johns University,University Of St Thomas Minnesota,Undirected,1,2011,"Sister Carol Keehan, DC","Sister Carol Keehan, DC"
+e1119,Seton Hall University,University Of St Thomas Minnesota,Undirected,1,2011,"Antoine M. Garibaldi, Ph.D","Antoine M. Garibaldi, Ph.D."
+e1120,Georgetown University,University Of St Thomas Minnesota,Undirected,1,2011,John J. Fauth IV,John J. Fauth IV
+e1121,University Of San Diego,University Of St Thomas Minnesota,Undirected,1,2011,"Ronald L. ""Ron"" Fowler","Ronald L. ""Ron"" Fowler"
+e1122,Cornell University,University Of Tulsa,Undirected,1,2011,Peter C. Meinig.,Peter C. Meinig
+e1123,Howard University,University Of Virginia,Undirected,1,2011,Sheila C. Johnson,Sheila C. Johnson
+e1124,New School,University Of Virginia,Undirected,1,2011,Sheila C. Johnson,Sheila C. Johnson
+e1125,University Of St Thomas Minnesota,Vanderbilt University,Undirected,1,2011,Rev. Edward A. Malloy,Rev. Edward A. Malloy
+e1126,University Of Pacific,Washington University,Undirected,1,2011,Steven F. Leer,Steven F. Leer
+e1127,Carnegie Mellon University,West Virginia University,Undirected,1,2011,"Raymond J. ""Ray"" Lane","Raymond J. ""Ray"" Lane"
+e1128,University Of Connecticut,Yale University,Undirected,1,2011,M. Jodi Rell,M. Jodi Rell
+e1129,Massachusetts Institute Of Technology,Yale University,Undirected,1,2011,Margaret H. Marshall,Margaret H. Marshall
+e1130,Brown University,Howard University,Undirected,1,2011,Ruth J. Simmons,Ruth J. Simmons
+e1131,Loyola Marymount University,Loyola University Chicago,Undirected,1,2011,"Rev. Paul J. Fitzgerald, S.J.","Rev. Paul J. Fitzgerald, S.J"
+e1132,Loyola Marymount University,University Of Southern California,Undirected,1,2011,Kathleen L. McCarthy,Kathleen L. McCarthy
+e1133,Loyola Marymount University,University Of Southern California,Undirected,1,2011,"Joan A. Payden, CFA.","Joan A. Payden, CFA"
+e1134,Loyola Marymount University,University Of Southern California,Undirected,1,2011,"Edward P. Roski, Jr.","Edward P. Roski, Jr."
+e1135,Baylor College Of Medicine,Baylor University,Undirected,1,2013,"William K. Robbins, Jr","William K. Robbins, Jr"
+e1136,Brown University,Carnegie Mellon University,Undirected,1,2013,Steven Price,Steven Price
+e1137,Brandeis University,Cornell University,Undirected,1,2013,Barton J. Winokur,Barton J. Winokur
+e1138,Boston College,Creighton University,Undirected,1,2013,"Rev. William P. Leahy, S.J.","Rev. William P. Leahy, S.J."
+e1139,Boston College,Creighton University,Undirected,1,2013,"Dr. Timothy R. Lannon, S.J","Dr. Timothy R. Lannon, S.J"
+e1140,Clark Atlanta University,Emory University,Undirected,1,2013,Bishop B. Michael Watson,Bishop B. Michael Watson
+e1141,Catholic University Of America,Fordham University,Undirected,1,2013,Mark H. Tuohey III,Mark H. Tuohey III
+e1142,Boston College,Fordham University,Undirected,1,2013,Thomas J. Maloney,Thomas J. Maloney
+e1143,Brandeis University,George Washington University,Undirected,1,2013,James F. Humphreys,James F. Humphreys
+e1144,Duke University,Johns Hopkins University,Undirected,1,2013,David M. Rubenstein,David M. Rubenstein
+e1145,Andrews University,Loma Linda University,Undirected,1,2013,Dr. Lisa M. Beardsley-Hardy.,Dr. Lisa M. Beardsley-Hardy
+e1146,Andrews University,Loma Linda University,Undirected,1,2013,Daniel R. Jackson,Daniel R. Jackson
+e1147,Andrews University,Loma Linda University,Undirected,1,2013,Robert E. Lemon,Robert E. Lemon
+e1148,Andrews University,Loma Linda University,Undirected,1,2013,"Dr. G. T. Ng, PhD","Dr. G. T. Ng, PhD"
+e1149,Andrews University,Loma Linda University,Undirected,1,2013,"Dr. Ted N. C. Wilson, PhD","Dr. Ted N. C. Wilson, PhD"
+e1150,Boston College,Loyola University Chicago,Undirected,1,2013,"Rev. Bradley M. Schaeffer, S.J","Rev. Bradley M. Schaeffer, S.J"
+e1151,Fordham University,Loyola University Chicago,Undirected,1,2013,"Rev. Michael J. Garanzini, S.J","Rev. Michael J. Garanzini, S.J"
+e1152,Boston College,Marquette University,Undirected,1,2013,"Dr. Timothy R. Lannon, S.J","Dr. Timothy R. Lannon, S.J"
+e1153,Creighton University,Marquette University,Undirected,1,2013,"Dr. Timothy R. Lannon, S.J","Dr. Timothy R. Lannon, S.J"
+e1154,Harvard University,Massachusetts Institute Of Technology,Undirected,1,2013,"Dr. Eve J. Higginbotham, MD","Dr. Eve J. Higginbotham, MD"
+e1155,Boston University,Massachusetts Institute Of Technology,Undirected,1,2013,"Cleve L. Killingsworth, Jr.","Cleve L. Killingsworth, Jr"
+e1156,Fordham University,New School,Undirected,1,2013,Lilian Shiao-Yen Wu,Lilian Shiao-Yen Wu
+e1157,Cornell University,New School,Undirected,1,2013,Paul A. Gould,Paul A. Gould
+e1158,Long Island University,New York University,Undirected,1,2013,Charles Zegar,Charles Zegar
+e1159,Georgetown University,New York University,Undirected,1,2013,William R. Berkley,William R. Berkley
+e1160,Illinois Institute Of Technology,Northwestern University,Undirected,1,2013,Arie Steven Crown,Arie Steven Crown
+e1161,Fordham University,Northwestern University,Undirected,1,2013,Dennis J. FitzSimons,Dennis J. FitzSimons
+e1162,New York University,Polytechnic Institute Of New York University,Undirected,1,2013,Charles J. Hinkaty,Charles J. Hinkaty
+e1163,New York University,Polytechnic Institute Of New York University,Undirected,1,2013,Jeffrey Hayden Lynford,Jeffrey Hayden Lynford
+e1164,New York University,Polytechnic Institute Of New York University,Undirected,1,2013,Dr. John Edward Sexton,Dr. John Edward Sexton
+e1165,Howard University,Princeton University,Undirected,1,2013,Dr. Ruth J. Simmons,Dr. Ruth J. Simmons
+e1166,Carnegie Mellon University,Rensselaer Polytechnic Institute,Undirected,1,2013,William L. Meaney,William L. Meaney
+e1167,Baylor College Of Medicine,Rice University,Undirected,1,2013,"James T. ""Jim"" Hackett","James T. ""Jim"" Hackett"
+e1168,Baylor College Of Medicine,Rice University,Undirected,1,2013,Laura Elena Arnold,Laura Elena Arnold
+e1169,New School,Rockefeller University,Undirected,1,2013,Susan M. Lyne,Susan M. Lyne
+e1170,Massachusetts Institute Of Technology,Rockefeller University,Undirected,1,2013,David H. Koch,David H. Koch
+e1171,Georgetown University,Saint Louis University,Undirected,1,2013,"Rev. Robert L. ""Bob"" Niehoff, S.J.","Rev. Robert L. ""Bob"" Niehoff, S.J"
+e1172,Baylor University,Saint Louis University,Undirected,1,2013,"Albert C. Black, Jr","Albert C. Black, Jr."
+e1173,Seton Hall University,St Johns University,Undirected,1,2013,"The Most Reverend David M. O'Connell, CM","The Most Reverend David M. O'Connell, CM"
+e1174,Rensselaer Polytechnic Institute,St Johns University,Undirected,1,2013,Linda S. Sanford,Linda S. Sanford
+e1175,Depaul University,St Johns University,Undirected,1,2013,"Sister Margaret Mary Fitzpatrick, SC","Sister Margaret Mary Fitzpatrick, SC"
+e1176,Rockefeller University,Stanford University,Undirected,1,2013,Robert Muse Bass,Robert Muse Bass
+e1177,Rensselaer Polytechnic Institute,Syracuse University,Undirected,1,2013,Nancy Cantor,Nancy Cantor
+e1178,Syracuse University,Temple University,Undirected,1,2013,Theodore A. McKee,Theodore A. McKee
+e1179,Dartmouth College,Texas Christian University,Undirected,1,2013,Trevor Rees-Jones,Trevor Rees-Jones
+e1180,Duke University,University Of Chicago,Undirected,1,2013,David M. Rubenstein,David M. Rubenstein
+e1181,Johns Hopkins University,University Of Chicago,Undirected,1,2013,David M. Rubenstein,David M. Rubenstein
+e1182,Loyola University Chicago,University Of Chicago,Undirected,1,2013,Mary Ann Tolan,Mary Ann Tolan
+e1183,Illinois Institute Of Technology,University Of Chicago,Undirected,1,2013,Craig J. Duchossois,Craig J. Duchossois
+e1184,Carnegie Mellon University,University Of Notre Dame,Undirected,1,2013,James E. Rohr,James E. Rohr
+e1185,Dartmouth College,University Of Notre Dame,Undirected,1,2013,Dr. Marye Anne Fox,Dr. Marye Anne Fox
+e1186,Pennsylvania State University,University Of Pennsylvania,Undirected,1,2013,"Thomas ""Tom"" Corbett","Thomas ""Tom"" Corbett"
+e1187,Carnegie Mellon University,University Of Pittsburgh,Undirected,1,2013,Luke Ravenstahl,Luke Ravenstahl
+e1188,Pennsylvania State University,University Of Pittsburgh,Undirected,1,2013,"Thomas ""Tom"" Corbett","Thomas ""Tom"" Corbett"
+e1189,University Of Pennsylvania,University Of Pittsburgh,Undirected,1,2013,"Thomas ""Tom"" Corbett","Thomas ""Tom"" Corbett"
+e1190,Rochester Institute Of Technology,University Of Rochester,Undirected,1,2013,"Thomas S. ""Tom"" Richards","Thomas S. ""Tom"" Richards"
+e1191,Rochester Institute Of Technology,University Of Rochester,Undirected,1,2013,Richard E. Sands,Richard E. Sands
+e1192,Syracuse University,University Of Rochester,Undirected,1,2013,"Thomas C. Wilmot, Sr.","Thomas C. Wilmot, Sr."
+e1193,Adelphi University,University Of Rochester,Undirected,1,2013,Laurence Kessler,Laurence Kessler.
+e1194,Massachusetts Institute Of Technology,University Of Rochester,Undirected,1,2013,Arunas A. Chesonis,Arunas A. Chesonis
+e1195,Chapman University,University Of San Diego,Undirected,1,2013,"James V. ""Jim"" Mazzo","James V. ""Jim"" Mazzo"
+e1196,Cornell University,University Of Southern California,Undirected,1,2013,Ratan N. Tata,Ratan N. Tata
+e1197,Boston College,University Of St Thomas Minnesota,Undirected,1,2013,"Marianne D. Short, Esq.","Marianne D. Short, Esq"
+e1198,Georgetown University,University Of St Thomas Minnesota,Undirected,1,2013,John J. 'Hap' Fauth IV,"John J. ""Hap"" Fauth IV"
+e1199,University Of San Diego,University Of St Thomas Minnesota,Undirected,1,2013,"Ronald L. ""Ron"" Fowler","Ronald L. ""Ron"" Fowler"
+e1200,St Johns University,University Of St Thomas Minnesota,Undirected,1,2013,"Sister Carol Keehan, DC","Sister Carol Keehan, DC"
+e1201,University Of St Thomas Minnesota,Vanderbilt University,Undirected,1,2013,"Rev. Edward A. Malloy, CSC","Rev. Edward A. Malloy, CSC"
+e1202,University Of Pacific,Washington University,Undirected,1,2013,"Steven F. ""Steve"" Leer","Steven F. ""Steve"" Leer"
+e1203,Emory University,Washington University,Undirected,1,2013,Steven H. Lipstein,Steven H. Lipstein
+e1204,University Of Denver,Washington University,Undirected,1,2013,Ralph J. Nagel,Ralph J. Nagel
+e1205,Massachusetts Institute Of Technology,West Virginia University,Undirected,1,2013,Dr. Charles Marstiller Vest,Dr. Charles Marstiller Vest
+e1206,Carnegie Mellon University,West Virginia University,Undirected,1,2013,"Raymond J. ""Ray"" Lane","Raymond J. ""Ray"" Lane"
+e1207,Brown University,Howard University,Undirected,1,2013,Dr. Ruth J. Simmons,Dr. Ruth J. Simmons
+e1208,Brown University,Princeton University,Undirected,1,2013,Dr. Ruth J. Simmons,Dr. Ruth J. Simmons
+e1209,Dartmouth College,Rockefeller University,Undirected,1,2013,"Dr. Holly S. Andersen, MD","Dr. Holly S. Andersen, MD"
+e1210,New Jersey Institute Of Technology,Princeton University,Undirected,1,2013,"Christopher J. ""Chris"" Christie","Christopher J. ""Chris"" Christie"
+e1211,Baylor College Of Medicine,Baylor University,Undirected,1,2018,Mark A. McCollum,Mark A. McCollum
+e1212,Baylor College Of Medicine,Baylor University,Undirected,1,2018,"William K. Robbins, Jr","William K. Robbins, Jr"
+e1213,Baylor College Of Medicine,Baylor University,Undirected,1,2018,Larry P. Heard,Larry P. Heard
+e1214,Boston College,Creighton University,Undirected,1,2018,"Rev. Daniel S. Hendrickson, S.J","Rev. Daniel S. Hendrickson, S.J"
+e1215,Boston College,Creighton University,Undirected,1,2018,"Rev. William P. Leahy, S.J","Rev. William P. Leahy, S.J"
+e1216,Clark Atlanta University,Emory University,Undirected,1,2018,Rev. Sue Haupert-Johnson,Rev. Sue Haupert-Johnson
+e1217,Case Western Reserve University,Emory University,Undirected,1,2018,Mark A. Weinberger,Mark A. Weinberger
+e1218,Drexel University,Fordham University,Undirected,1,2018,Sally J. Bellet,Sally J. Bellet
+e1219,Andrews University,Loma Linda University,Undirected,1,2018,"Dr. G. T. Ng, PhD","Dr. G. T. Ng, PhD"
+e1220,Andrews University,Loma Linda University,Undirected,1,2018,Juan R. Prestol-Puesan,Juan R. Prestol-Puesan
+e1221,Andrews University,Loma Linda University,Undirected,1,2018,"Dr. Ted N. C. Wilson, PhD","Dr. Ted N. C. Wilson, PhD"
+e1222,Andrews University,Loma Linda University,Undirected,1,2018,Dr. Lisa M. Beardsley-Hardy,Dr. Lisa M. Beardsley-Hardy
+e1223,Andrews University,Loma Linda University,Undirected,1,2018,Daniel R. Jackson,Daniel R. Jackson
+e1224,Illinois Institute Of Technology,Loyola University Chicago,Undirected,1,2018,Kevin W. Willer,Kevin W. Willer
+e1225,Loyola Marymount University,Marquette University,Undirected,1,2018,"Rev. Michael A. Zampelli, S.J","Rev. Michael A. Zampelli, S.J"
+e1226,Drexel University,New Jersey Institute Of Technology,Undirected,1,2018,Philip L. Rinaldi,Philip L. Rinaldi
+e1227,Long Island University,New York University,Undirected,1,2018,Charles Zegar,Charles Zegar
+e1228,Illinois Institute Of Technology,Northwestern University,Undirected,1,2018,Arie Steven Crown,Arie Steven Crown
+e1229,Duke University,Northwestern University,Undirected,1,2018,"Jeffrey W. ""Jeff"" Ubben","Jeffrey W. ""Jeff"" Ubben"
+e1230,Duke University,Northwestern University,Undirected,1,2018,"Jay Robert ""J. B."" Pritzker","Jay Robert ""J. B."" Pritzker"
+e1231,Massachusetts Institute Of Technology,Rensselaer Polytechnic Institute,Undirected,1,2018,"Dr. Shirley Ann Jackson, PhD","Dr. Shirley Ann Jackson, PhD"
+e1232,Baylor College Of Medicine,Rice University,Undirected,1,2018,"James T. ""Jim"" Hackett","James T. ""Jim"" Hackett"
+e1233,Cornell University,Rockefeller University,Undirected,1,2018,Linda R. Macaulay,Linda R. Macaulay
+e1234,Rice University,Rockefeller University,Undirected,1,2018,"Dr. Huda Y. Zoghbi, MD","Dr. Huda Y. Zoghbi, MD"
+e1235,Johns Hopkins University,Rockefeller University,Undirected,1,2018,Andreas C. Dracopoulos,Andreas C. Dracopoulos
+e1236,Loyola University Chicago,Saint Louis University,Undirected,1,2018,"Rev. Robert L. ""Bob"" Niehoff, S.J","Rev. Robert L. ""Bob"" Niehoff, S.J"
+e1237,Catholic University Of America,Seton Hall University,Undirected,1,2018,Cardinal Joseph Tobin,Cardinal Joseph Tobin
+e1238,Georgetown University,St Johns University,Undirected,1,2018,"Sister Carol Keehan, DC","Sister Carol Keehan, DC"
+e1239,Rockefeller University,Stanford University,Undirected,1,2018,Robert Muse Bass,Robert Muse Bass
+e1240,Pennsylvania State University,Temple University,Undirected,1,2018,"Thomas W. ""Tom"" Wolf","Thomas W. ""Tom"" Wolf"
+e1241,Pennsylvania State University,Temple University,Undirected,1,2018,Pedro A. Rivera,Pedro A. Rivera
+e1242,Loyola University Chicago,University Of Chicago,Undirected,1,2018,Mary Ann Tolan,Mary Ann Tolan
+e1243,Illinois Institute Of Technology,University Of Chicago,Undirected,1,2018,Craig J. Duchossois,Craig J. Duchossois
+e1244,Northwestern University,University Of Denver,Undirected,1,2018,"Deborah L. ""Deb"" DeHaas, CPA","Deborah L. ""Deb"" DeHaas, CPA"
+e1245,Boston University,University Of Louisville,Undirected,1,2018,Sandra A. Frazier,Sandra A. Frazier
+e1246,Carnegie Mellon University,University Of Notre Dame,Undirected,1,2018,James E. Rohr,James E. Rohr
+e1247,Rockefeller University,University Of Pennsylvania,Undirected,1,2018,Michael J. Price,Michael J. Price
+e1248,Pennsylvania State University,University Of Pennsylvania,Undirected,1,2018,"Thomas W. ""Tom"" Wolf","Thomas W. ""Tom"" Wolf"
+e1249,Temple University,University Of Pennsylvania,Undirected,1,2018,"Thomas W. ""Tom"" Wolf","Thomas W. ""Tom"" Wolf"
+e1250,Pennsylvania State University,University Of Pittsburgh,Undirected,1,2018,Pedro A. Rivera,Pedro A. Rivera
+e1251,Temple University,University Of Pittsburgh,Undirected,1,2018,Pedro A. Rivera,Pedro A. Rivera
+e1252,Pennsylvania State University,University Of Pittsburgh,Undirected,1,2018,"Thomas W. ""Tom"" Wolf","Thomas W. ""Tom"" Wolf"
+e1253,Temple University,University Of Pittsburgh,Undirected,1,2018,"Thomas W. ""Tom"" Wolf","Thomas W. ""Tom"" Wolf"
+e1254,University Of Pennsylvania,University Of Pittsburgh,Undirected,1,2018,"Thomas W. ""Tom"" Wolf","Thomas W. ""Tom"" Wolf"
+e1255,Carnegie Mellon University,University Of Pittsburgh,Undirected,1,2018,"Edward J. ""Ed"" Grefenstette","Edward J. ""Ed"" Grefenstette"
+e1256,Carnegie Mellon University,University Of Pittsburgh,Undirected,1,2018,Ira J. Gumberg,Ira J. Gumberg
+e1257,Carnegie Mellon University,University Of Pittsburgh,Undirected,1,2018,"William ""Bill"" Peduto","William ""Bill"" Peduto"
+e1258,Rochester Institute Of Technology,University Of Rochester,Undirected,1,2018,Sandra A. Parker,Sandra A. Parker
+e1259,Rochester Institute Of Technology,University Of Rochester,Undirected,1,2018,Richard E. Sands,Richard E. Sands
+e1260,Adelphi University,University Of Rochester,Undirected,1,2018,Laurence Kessler,Laurence Kessler
+e1261,Georgetown University,University Of San Francisco,Undirected,1,2018,"Rev. Stephen V. Sundborg, S.J.","Rev. Stephen V. Sundborg, S.J"
+e1262,Auburn University,University Of South Alabama,Undirected,1,2018,Kay Ivey,Kay Ivey
+e1263,Cornell University,University Of Southern California,Undirected,1,2018,Ratan N. Tata,Ratan N. Tata
+e1264,Rockefeller University,University Of Southern California,Undirected,1,2018,"Dr. Miriam O. Adelson, MD","Dr. Miriam O. Adelson, MD"
+e1265,Loyola University Chicago,University Of St Thomas Minnesota,Undirected,1,2018,Dr. Julie H. Sullivan,Dr. Julie H. Sullivan
+e1266,Georgetown University,University Of St Thomas Minnesota,Undirected,1,2018,Dr. Antoine M. Garibaldi,Dr. Antoine M. Garibaldi
+e1267,Northwestern University,Vanderbilt University,Undirected,1,2018,Jay C. Hoag,Jay C. Hoag
+e1268,Emory University,Washington University,Undirected,1,2018,"Steven H. ""Steve"" Lipstein","Steven H. ""Steve"" Lipstein"
+e1269,Saint Louis University,Washington University,Undirected,1,2018,"George Paz, CPA","George Paz, CPA"
+e1270,Saint Louis University,Washington University,Undirected,1,2018,Robert O'Loughlin,Robert O'Loughlin
+e1271,Rowan University,Widener University,Undirected,1,2018,"Dr. Barbara Chamberlain, RN","Dr. Barbara Chamberlain, RN"
+e1272,University Of Connecticut,Yale University,Undirected,1,2018,"Dannel P. ""Dan"" Malloy","Dannel P. ""Dan"" Malloy"
+e1273,Vanderbilt University,Yeshiva University,Undirected,1,2018,Mark Wilf,Mark Wilf
+e1274,Brown University,Rockefeller University,Undirected,1,2018,Jonathan Milton Nelson,Jonathan Milton Nelson
+e1275,Harvard University,University Of Chicago,Undirected,1,2018,David Mark Rubenstein,David Mark Rubenstein
+e1276,New Jersey Institute Of Technology,Princeton University,Undirected,1,2018,"Christopher J. ""Chris"" Christie","Christopher J. ""Chris"" Christie"
+e1277,Northwestern University,Rutgers State University Of New Jersey,Undirected,1,2018,Mark A. Angelson,Mark A. Angelson

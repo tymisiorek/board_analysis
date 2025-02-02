@@ -1,0 +1,52 @@
+Id,Source,Target,Type,Weight,Year
+e619,Baylor College Of Medicine,Baylor University,Undirected,0.08333333333333333,2018
+e620,Boston College,Creighton University,Undirected,0.05263157894736842,2018
+e621,Clark Atlanta University,Emory University,Undirected,0.03333333333333333,2018
+e622,Case Western Reserve University,Emory University,Undirected,0.02564102564102564,2018
+e623,Drexel University,Fordham University,Undirected,0.025,2018
+e624,Andrews University,Loma Linda University,Undirected,0.14285714285714285,2018
+e625,Illinois Institute Of Technology,Loyola University Chicago,Undirected,0.03225806451612903,2018
+e626,Loyola Marymount University,Marquette University,Undirected,0.018867924528301886,2018
+e627,Drexel University,New Jersey Institute Of Technology,Undirected,0.02040816326530612,2018
+e628,Long Island University,New York University,Undirected,0.03225806451612903,2018
+e629,Illinois Institute Of Technology,Northwestern University,Undirected,0.02857142857142857,2018
+e630,Duke University,Northwestern University,Undirected,0.05263157894736842,2018
+e631,Massachusetts Institute Of Technology,Rensselaer Polytechnic Institute,Undirected,0.04,2018
+e632,Baylor College Of Medicine,Rice University,Undirected,0.04,2018
+e633,Cornell University,Rockefeller University,Undirected,0.02040816326530612,2018
+e634,Rice University,Rockefeller University,Undirected,0.04,2018
+e635,Johns Hopkins University,Rockefeller University,Undirected,0.027777777777777776,2018
+e636,Loyola University Chicago,Saint Louis University,Undirected,0.03225806451612903,2018
+e637,Catholic University Of America,Seton Hall University,Undirected,0.022222222222222223,2018
+e638,Georgetown University,St Johns University,Undirected,0.03571428571428571,2018
+e639,Rockefeller University,Stanford University,Undirected,0.030303030303030304,2018
+e640,Pennsylvania State University,Temple University,Undirected,0.05405405405405406,2018
+e641,Loyola University Chicago,University Of Chicago,Undirected,0.03225806451612903,2018
+e642,Illinois Institute Of Technology,University Of Chicago,Undirected,0.02857142857142857,2018
+e643,Northwestern University,University Of Denver,Undirected,0.04,2018
+e644,Boston University,University Of Louisville,Undirected,0.08333333333333333,2018
+e645,Carnegie Mellon University,University Of Notre Dame,Undirected,0.02040816326530612,2018
+e646,Rockefeller University,University Of Pennsylvania,Undirected,0.02040816326530612,2018
+e647,Pennsylvania State University,University Of Pennsylvania,Undirected,0.02631578947368421,2018
+e648,Temple University,University Of Pennsylvania,Undirected,0.02702702702702703,2018
+e649,Pennsylvania State University,University Of Pittsburgh,Undirected,0.05263157894736842,2018
+e650,Temple University,University Of Pittsburgh,Undirected,0.05405405405405406,2018
+e651,University Of Pennsylvania,University Of Pittsburgh,Undirected,0.018867924528301886,2018
+e652,Carnegie Mellon University,University Of Pittsburgh,Undirected,0.06,2018
+e653,Rochester Institute Of Technology,University Of Rochester,Undirected,0.044444444444444446,2018
+e654,Adelphi University,University Of Rochester,Undirected,0.037037037037037035,2018
+e655,Auburn University,University Of South Alabama,Undirected,0.0625,2018
+e656,Cornell University,University Of Southern California,Undirected,0.017543859649122806,2018
+e657,Rockefeller University,University Of Southern California,Undirected,0.02040816326530612,2018
+e658,Loyola University Chicago,University Of St Thomas Minnesota,Undirected,0.03225806451612903,2018
+e659,Georgetown University,University Of St Thomas Minnesota,Undirected,0.02631578947368421,2018
+e660,Northwestern University,Vanderbilt University,Undirected,0.041666666666666664,2018
+e661,Emory University,Washington University,Undirected,0.02564102564102564,2018
+e662,Saint Louis University,Washington University,Undirected,0.044444444444444446,2018
+e663,Rowan University,Widener University,Undirected,0.05555555555555555,2018
+e664,University Of Connecticut,Yale University,Undirected,0.05263157894736842,2018
+e665,Vanderbilt University,Yeshiva University,Undirected,0.041666666666666664,2018
+e666,Brown University,Rockefeller University,Undirected,0.02040816326530612,2018
+e667,Harvard University,University Of Chicago,Undirected,0.023255813953488372,2018
+e668,New Jersey Institute Of Technology,Princeton University,Undirected,0.017857142857142856,2018
+e669,Northwestern University,Rutgers State University Of New Jersey,Undirected,0.015873015873015872,2018
