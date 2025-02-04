@@ -31,6 +31,10 @@ yearly_university_counts = []    # (Year, number of nodes)
 yearly_density = []              # (Year, network density)
 yearly_shortest_path_lengths = []  # (Year, avg unweighted, avg weighted)
 
+# NEW: Global clustering coefficient and number of components arrays.
+yearly_global_clustering = []    # (Year, global clustering coefficient)
+yearly_num_components = []       # (Year, number of connected components)
+
 # ----------------------------------------------------------------------------- 
 # Helper functions
 # -----------------------------------------------------------------------------
@@ -81,14 +85,31 @@ def group_institutions_by_membership(institution_to_members: dict, threshold: fl
 board_statistics_path = f"{absolute_path}{altered_dataframes}sample_board_statistics.csv"
 board_statistics_df = pd.read_csv(board_statistics_path)
 
-def lookup_female_president(row):
-    matching_rows = board_statistics_df[ board_statistics_df['AffiliationId'] == row['AffiliationId'] ]
-    if not matching_rows.empty:
-        return matching_rows['female_president'].mode()[0]
-    matching_rows = board_statistics_df[ board_statistics_df['Institution'] == row['Id'] ]
-    if not matching_rows.empty:
-        return matching_rows['female_president'].mode()[0]
-    return 'unknown'
+def lookup_female_president(row, year):
+    """
+    Look up the 'female_president' boolean from board_statistics_df for a given row and year.
+    
+    The function first filters board_statistics_df by the specified year, then attempts to
+    match either on 'AffiliationId' (using row['AffiliationId']) or on 'Institution' (using row['Id']).
+    It returns the boolean value from the 'female_president' column.
+    
+    Raises:
+        ValueError: If no matching record is found.
+    """
+    filtered_df = board_statistics_df[board_statistics_df['Year'] == int(year)]
+    if row["Id"] in filtered_df["Institution"].values:
+        matching_row = filtered_df[filtered_df["Institution"] == row["Id"]].iloc[0]
+        if matching_row['female_president'] == True:
+            return True
+        else:
+            return False
+    elif row["AffiliationId"] in filtered_df["AffiliationId"].values:
+        matching_row = filtered_df[filtered_df["AffiliationId"] == row["AffiliationId"]].iloc[0]
+        if matching_row['female_president'] == True:
+            return True
+        else:
+            return False
+    return "Unknown"
 
 def lookup_column(row, column_name):
     matching_rows = board_statistics_df[ board_statistics_df['AffiliationId'] == row['AffiliationId'] ]
@@ -160,7 +181,7 @@ for year in years:
     # ---------------------------
     # Identify Identical Board Groups
     # ---------------------------
-    threshold = 0.3
+    threshold = 1.3
     identical_board_groups = group_institutions_by_membership(institution_to_members, threshold)
     print(f"  Found {len(identical_board_groups)} identical board group(s) with threshold={threshold}.")
     for i, g in enumerate(identical_board_groups, start=1):
@@ -214,12 +235,10 @@ for year in years:
             if pair in created_interlocks[name]:
                 continue
             created_interlocks[name].add(pair)
-            
-            # Weight based on the size of the smaller board.
-            size1 = board_sizes.get(prev_institution, 1)
-            size2 = board_sizes.get(institution, 1)
-            w = 1 / min(size1, size2)
-            
+
+            # Weight of edges: each shared board member contributes 1.
+            w = 1
+
             if pair in edge_accum:
                 edge_accum[pair]['Weight'] += w
             else:
@@ -250,7 +269,13 @@ for year in years:
     excluded_interlocks_count = context_dict['excluded_interlocks_count']
     total_interlocks = context_dict['total_interlocks']
     edge_id_counter = context_dict['edge_id_counter']
-    
+
+    # Recalculate each edge's weight as the ratio of shared board members to total unique board members.
+    for pair, edge in edge_accum.items():
+        shared_members = edge['Weight']  # This is the count of shared board members.
+        total_unique = board_sizes.get(pair[0], 0) + board_sizes.get(pair[1], 0) - shared_members
+        edge['Weight'] = shared_members / total_unique if total_unique > 0 else 0
+
     print(f"  Institutions: {len(year_nodes_dict)} | Total interlocks: {total_interlocks} | Excluded interlocks: {excluded_interlocks_count}")
     
     # Create a nodes DataFrame (in-memory only).
@@ -260,7 +285,7 @@ for year in years:
         columns=['Id', 'Interlock_Count', 'AffiliationId']
     )
     nodes_df['Label'] = nodes_df['Id']
-    nodes_df['female_president'] = nodes_df.apply(lookup_female_president, axis=1)
+    nodes_df['female_president'] = nodes_df.apply(lambda row: lookup_female_president(row, year), axis=1)
     nodes_df['control'] = nodes_df.apply(lambda row: lookup_column(row, 'control'), axis=1)
     nodes_df['region'] = nodes_df.apply(lambda row: lookup_column(row, 'region'), axis=1)
     nodes_df = nodes_df[['Id', 'Label', 'Interlock_Count', 'AffiliationId',
@@ -334,6 +359,12 @@ for year in years:
     yearly_density.append((int(year), dens))
     yearly_avg_path_lengths.append((int(year), avg_path_unweighted))
     yearly_shortest_path_lengths.append((int(year), avg_path_unweighted, avg_path_weighted))
+    
+    # NEW: Compute global clustering coefficient and number of connected components.
+    global_clust = nx.transitivity(G)
+    num_components = nx.number_connected_components(G)
+    yearly_global_clustering.append((int(year), global_clust))
+    yearly_num_components.append((int(year), num_components))
 
 # =============================================================================
 # Plotting Time-Series Graphs (all in-memory)
@@ -432,5 +463,41 @@ plt.xticks(df_shortest_paths['Year'], fontsize=12)
 plt.yticks(fontsize=12)
 plt.grid(True, linestyle='--', alpha=0.6)
 plt.legend(fontsize=12)
+plt.tight_layout()
+plt.show()
+
+# 6) Plot Global Clustering Coefficient Over Time
+df_global_clustering = pd.DataFrame(yearly_global_clustering, columns=['Year', 'GlobalClustering'])
+df_global_clustering.sort_values('Year', inplace=True)
+
+plt.figure(figsize=(10, 6))
+plt.plot(df_global_clustering['Year'], df_global_clustering['GlobalClustering'], marker='o', linestyle='-', 
+         linewidth=2.5, markersize=8, color='brown')
+plt.xlabel('Year', fontsize=14, fontweight='bold', labelpad=10)
+plt.ylabel('Global Clustering Coefficient', fontsize=14, fontweight='bold', labelpad=10)
+plt.title('Global Clustering Coefficient Over Time', fontsize=16, fontweight='bold', pad=20)
+plt.xticks(df_global_clustering['Year'], fontsize=12)
+plt.yticks(fontsize=12)
+plt.grid(True, linestyle='--', alpha=0.6)
+for x, y in zip(df_global_clustering['Year'], df_global_clustering['GlobalClustering']):
+    plt.text(x, y, f'{y:.4f}', fontsize=12, ha='center', va='bottom', fontweight='bold')
+plt.tight_layout()
+plt.show()
+
+# 7) Plot Number of Components Over Time
+df_components = pd.DataFrame(yearly_num_components, columns=['Year', 'NumComponents'])
+df_components.sort_values('Year', inplace=True)
+
+plt.figure(figsize=(10, 6))
+plt.plot(df_components['Year'], df_components['NumComponents'], marker='o', linestyle='-', 
+         linewidth=2.5, markersize=8, color='magenta')
+plt.xlabel('Year', fontsize=14, fontweight='bold', labelpad=10)
+plt.ylabel('Number of Components', fontsize=14, fontweight='bold', labelpad=10)
+plt.title('Number of Components Over Time', fontsize=16, fontweight='bold', pad=20)
+plt.xticks(df_components['Year'], fontsize=12)
+plt.yticks(fontsize=12)
+plt.grid(True, linestyle='--', alpha=0.6)
+for x, y in zip(df_components['Year'], df_components['NumComponents']):
+    plt.text(x, y, f'{y}', fontsize=12, ha='center', va='bottom', fontweight='bold')
 plt.tight_layout()
 plt.show()

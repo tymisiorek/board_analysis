@@ -235,9 +235,7 @@ for year in years:
             created_interlocks[name].add(pair)
             
             # Calculate weight contribution as 1 divided by the size of the smaller board.
-            size1 = board_sizes.get(prev_institution, 1)
-            size2 = board_sizes.get(institution, 1)
-            w = 1 / min(size1, size2)
+            w = 1 
             
             # Since edges are calculated per year, if this pair already exists, update its weight.
             if pair in edge_accum:
@@ -271,6 +269,12 @@ for year in years:
     total_interlocks = context['total_interlocks']
     edge_id_counter = context['edge_id_counter']
     
+    #add weights to the edges
+    for pair, edge in edge_accum.items():
+        shared_members = edge['Weight']
+        total_unique = board_sizes.get(pair[0], 0) + board_sizes.get(pair[1], 0) - shared_members
+        edge['Weight'] = shared_members / total_unique if total_unique > 0 else 0
+
     #nodes df for the current year
     nodes_df = pd.DataFrame(
         [(inst, data['Interlock_Count'], data['AffiliationId'])
