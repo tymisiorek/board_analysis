@@ -295,6 +295,13 @@ for year in years:
     edges_df = pd.DataFrame(list(edge_accum.values()))
     edges_df = edges_df[['Id', 'Source', 'Target', 'Type', 'Weight', 'Year']]
 
+    # Added code: Print the nodes with interlocks recorded for this year.
+    nodes_with_interlocks = set()
+    for pair in edge_accum.keys():
+        nodes_with_interlocks.update(pair)
+    print(f"Year {year}: Nodes with interlocks recorded: {nodes_with_interlocks}")
+    print(f"Year {year}: {len(nodes_with_interlocks)} nodes with interlocks recorded.")
+    
     print(f"Institutions: {len(year_nodes_dict)} | Total interlocks: {total_interlocks}")
     
     '''

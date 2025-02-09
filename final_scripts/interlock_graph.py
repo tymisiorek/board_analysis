@@ -27,7 +27,7 @@ yearly_edges_dfs = {}     # year -> edges DataFrame
 
 yearly_interlock_counts = []     # (Year, total interlocks)
 yearly_avg_path_lengths = []     # (Year, avg unweighted path length)
-yearly_university_counts = []    # (Year, number of nodes)
+yearly_university_counts = []    # (Year, number of institutions that recorded an interlock)
 yearly_density = []              # (Year, network density)
 yearly_shortest_path_lengths = []  # (Year, avg unweighted, avg weighted)
 
@@ -37,7 +37,7 @@ yearly_num_components = []       # (Year, number of connected components)
 
 # ----------------------------------------------------------------------------- 
 # Helper functions
-# -----------------------------------------------------------------------------
+# ----------------------------------------------------------------------------- 
 def remove_non_samples(df: pd.DataFrame) -> pd.DataFrame:
     """Filter the DataFrame to include only rows where 'PrimarySample' is True."""
     return df[df['PrimarySample'] == True]
@@ -181,7 +181,7 @@ for year in years:
     # ---------------------------
     # Identify Identical Board Groups
     # ---------------------------
-    threshold = 1.3
+    threshold = 1.5
     identical_board_groups = group_institutions_by_membership(institution_to_members, threshold)
     print(f"  Found {len(identical_board_groups)} identical board group(s) with threshold={threshold}.")
     for i, g in enumerate(identical_board_groups, start=1):
@@ -324,7 +324,8 @@ for year in years:
     # ---------------------------
     # Compute Summary Metrics for This Year
     # ---------------------------
-    num_universities = G.number_of_nodes()
+    # Instead of using G.number_of_nodes(), count only those nodes that participate in at least one interlock.
+    num_interlocked_institutions = sum(1 for n in G.nodes() if G.degree(n) > 0)
     dens = nx.density(G)
     
     # Create an unweighted copy of G (i.e. set every edge weight to 1)
@@ -355,7 +356,8 @@ for year in years:
             avg_path_weighted = float('nan')
     
     yearly_interlock_counts.append((int(year), total_interlocks))
-    yearly_university_counts.append((int(year), num_universities))
+    # Append the number of institutions that actually recorded an interlock.
+    yearly_university_counts.append((int(year), num_interlocked_institutions))
     yearly_density.append((int(year), dens))
     yearly_avg_path_lengths.append((int(year), avg_path_unweighted))
     yearly_shortest_path_lengths.append((int(year), avg_path_unweighted, avg_path_weighted))
@@ -404,7 +406,7 @@ for x, y in zip(df_avg_path['Year'], df_avg_path['AvgPathLength']):
 plt.tight_layout()
 plt.show()
 
-# 3) Plot Number of Universities Over Time
+# 3) Plot Number of Universities Over Time (institutions that recorded at least one interlock)
 df_universities = pd.DataFrame(yearly_university_counts, columns=['Year', 'NumUniversities'])
 df_universities.sort_values('Year', inplace=True)
 
@@ -412,7 +414,7 @@ plt.figure(figsize=(10, 6))
 plt.plot(df_universities['Year'], df_universities['NumUniversities'], marker='o', linestyle='-', linewidth=2.5, markersize=8, color='green')
 plt.xlabel('Year', fontsize=14, fontweight='bold', labelpad=10)
 plt.ylabel('Number of Universities', fontsize=14, fontweight='bold', labelpad=10)
-plt.title('Number of Universities in the Network Over Time', fontsize=16, fontweight='bold', pad=20)
+plt.title('Number of Institutions Recording an Interlock Over Time', fontsize=16, fontweight='bold', pad=20)
 plt.xticks(df_universities['Year'], fontsize=12)
 plt.yticks(fontsize=12)
 plt.grid(True, linestyle='--', alpha=0.6)
