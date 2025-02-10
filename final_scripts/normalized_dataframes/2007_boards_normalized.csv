@@ -187,6 +187,13 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Stanley Jantz,Trustee,Biola University,,,152479009.0,110097.0,,,Trustee,True,
 2007,Dwight Hanger,Trustee,Biola University,,,152479009.0,110097.0,,,Trustee,True,
 2007,Arthur Fraser,Trustee,Biola University,,,152479009.0,110097.0,,,Trustee,True,
+2007,Marilyn Howard,Ex Officio Board Member,Boise State University,,"Idaho BA, MA; Brigham Young PhD",106969075.0,142276.0,,,"Member, Ex Officio",True,
+2007,Sue Thilo,Board Member,Boise State University,,Iowa State BA,106969075.0,142276.0,,,Member,True,
+2007,Milford Terrell,Vice President,Boise State University,,,106969075.0,142276.0,,,Board Vice President,True,
+2007,Karen McGee,Board Member,Boise State University,,Idaho State,106969075.0,142276.0,,,Member,True,
+2007,Roderick W. Lewis,Board Member,Boise State University,,Brigham Young 1980 BA; Columbia 1983 JD,106969075.0,142276.0,,,Member,True,
+2007,Blake Hall,Board Member,Boise State University,,Brigham Young 1976 BA; George Washington 1979 JD,106969075.0,142276.0,,,Member,True,
+2007,Laird Stone,President,Boise State University,,"Idaho BS, JD",106969075.0,142276.0,,,Board President,True,
 2007,Robert M. Devlin,Trustee,Boston College,,,103531236.0,164924.0,,,Trustee,True,
 2007,Robert F. Cotter,Trustee,Boston College,,Boston Col 1973 BA,103531236.0,164924.0,,,Trustee,True,
 2007,Kathleen A. Corbet,Trustee,Boston College,,Boston Col 1982 BS; Stern 1989 MBA,103531236.0,164924.0,,,Trustee,True,
@@ -209,7 +216,7 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Kathleen M. McGillycuddy,Trustee,Boston College,,,103531236.0,164924.0,,,Trustee,True,
 2007,Mario J. Gabelli,Trustee,Boston College,,Fordham 1965 BS; Columbia 1967 MBA,103531236.0,164924.0,,,Trustee,True,
 2007,Peter K. Markell,Trustee,Boston College,,,103531236.0,164924.0,,,Trustee,True,
-2007,"Rev. William P. Leahy, SJ",President,Boston College,,,103531236.0,164924.0,,,Board President,True,
+2007,"Rev. William P. Leahy, S.J.",President,Boston College,,,103531236.0,164924.0,,,Board President,True,
 2007,"Father Robert B. Lawton, S.J",Trustee,Boston College,,,103531236.0,164924.0,,,Trustee,True,
 2007,Robert K. Kraft,Trustee,Boston College,,Columbia 1963 BA; Harvard 1965 MBA,103531236.0,164924.0,,,Trustee,True,
 2007,"Rev. Daniel J. Harrington, S.J.",Trustee,Boston College,,,103531236.0,164924.0,,,Trustee,True,
@@ -217,7 +224,7 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Kathleen Powers Haley,Trustee,Boston College,,,103531236.0,164924.0,,,Trustee,True,
 2007,Mary J. Steele Guilfoile,Trustee,Boston College,,"Boston Col 1976 BS, 1984 MBA",103531236.0,164924.0,,,Trustee,True,
 2007,Susan M. Gianinno,Trustee,Boston College,,,103531236.0,164924.0,,,Trustee,True,
-2007,"Rev. William P. Leahy, SJ",Trustee,Boston College,,,103531236.0,164924.0,,,Trustee,True,
+2007,"Rev. William P. Leahy, S.J.",Trustee,Boston College,,,103531236.0,164924.0,,,Trustee,True,
 2007,John J. Powers,Trustee,Boston College,,,103531236.0,164924.0,,,Trustee,True,
 2007,Pierre-Richard Prosper,Trustee,Boston College,,Boston Col 1985 AB; Pepperdine JD,103531236.0,164924.0,,,Trustee,True,
 2007,"Rev. Bradley M. Schaeffer, S.J",Trustee,Boston College,,,103531236.0,164924.0,,,Trustee,True,
@@ -252,8 +259,8 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Terry L. Andreas,Trustee,Boston University,,,111088046.0,164988.0,,,Trustee,True,
 2007,John Battaglino,Trustee,Boston University,,,111088046.0,164988.0,,,Trustee,True,
 2007,Michael E. Bronner,Trustee,Boston University,,,111088046.0,164988.0,,,Trustee,True,
-2007,Robert A. Brown,President,Boston University,,,111088046.0,164988.0,,,Board President,True,
-2007,Robert A. Brown,Ex Officio Trustee,Boston University,,,111088046.0,164988.0,,,"Trustee, Ex Officio",True,
+2007,Robert J. Brown,President,Boston University,,,111088046.0,164988.0,,,Board President,True,
+2007,Robert J. Brown,Ex Officio Trustee,Boston University,,,111088046.0,164988.0,,,"Trustee, Ex Officio",True,
 2007,Frederick H. Chicos,Trustee,Boston University,,,111088046.0,164988.0,,,Trustee,True,
 2007,Ronald G. Garriques,Trustee,Boston University,,Boston U BS; Stanford 1987 MS; Wharton 1993 MBA,111088046.0,164988.0,,,Trustee,True,
 2007,Earle M. Chiles,Trustee,Boston University,,,111088046.0,164988.0,,,Trustee,True,
@@ -265,6 +272,14 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Peter H. Vermilye,Trustee,Boston University,,,111088046.0,164988.0,,,Trustee,True,
 2007,Kenneth J. Feld,Trustee,Boston University,,,111088046.0,164988.0,,,Trustee,True,
 2007,Suzanne Cutler,Trustee,Boston University,,,111088046.0,164988.0,,,Trustee,True,
+2007,John Harbal,Trustee,Bowling Green State University,,Bowling Green State 1972,157417397.0,201441.0,,,Trustee,True,University System of Ohio
+2007,Stephanie Magyar Imhoff,Trustee,Bowling Green State University,,Bowling Green State 1982 BS,157417397.0,201441.0,,,Trustee,True,University System of Ohio
+2007,Michael J. Marsh,Trustee,Bowling Green State University,,,157417397.0,201441.0,,,Trustee,True,University System of Ohio
+2007,"Col John E. Moore, Jr., USAF (Ret)",Trustee,Bowling Green State University,,Bowling Green State 1966,157417397.0,201441.0,,,Trustee,True,University System of Ohio
+2007,William D. Primrose III,Trustee,Bowling Green State University,,Bowling Green State 1974,157417397.0,201441.0,,,Trustee,True,University System of Ohio
+2007,Debra Ryan,Vacant,Bowling Green State University,,Bowling Green State 1974,157417397.0,201441.0,,,Other Board Member,True,University System of Ohio
+2007,J. Robert Sebo,Trustee,Bowling Green State University,,Bowling Green State 1958 BSBA,157417397.0,201441.0,,,Trustee,True,University System of Ohio
+2007,Michael R. Wilcox,Trustee,Bowling Green State University,,,157417397.0,201441.0,,,Trustee,True,University System of Ohio
 2007,Linda Whitlock,Trustee,Brandeis University,,,6902469.0,165015.0,,,Trustee,True,
 2007,John L. Usdan,Trustee,Brandeis University,,,6902469.0,165015.0,,,Trustee,True,
 2007,Rhonda S. Zinner,Trustee,Brandeis University,,,6902469.0,165015.0,,,Trustee,True,
@@ -318,6 +333,15 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Carol R. Saivetz,Trustee,Brandeis University,,,6902469.0,165015.0,,,Trustee,True,
 2007,Robert Shapiro,Treasurer,Brandeis University,,,6902469.0,165015.0,,,Other Board Member,True,
 2007,Malcolm L. Sherman,Vice Chairman,Brandeis University,,,6902469.0,165015.0,,,Board Vice President,True,
+2007,Gordon B. Hinckley,Chairman,Brigham Young University,,,100005738.0,230038.0,,,Board President,True,
+2007,James E. Faust,Second Vice Chairman,Brigham Young University,,,100005738.0,230038.0,,,Board Vice President,True,
+2007,David A. Bednar,Trustee,Brigham Young University,,,100005738.0,230038.0,,,Trustee,True,
+2007,Robert D. Hales,Trustee,Brigham Young University,,,100005738.0,230038.0,,,Trustee,True,
+2007,Susan W. Tanner,Trustee,Brigham Young University,,,100005738.0,230038.0,,,Trustee,True,
+2007,Thomas S. Monson,First Vice Chairman,Brigham Young University,,,100005738.0,230038.0,,,Board Vice President,True,
+2007,Bonnie D. Parkin,Trustee,Brigham Young University,,,100005738.0,230038.0,,,Trustee,True,
+2007,Richard G. Scott,Trustee,Brigham Young University,,,100005738.0,230038.0,,,Trustee,True,
+2007,Earl C. Tingey,Trustee,Brigham Young University,,,100005738.0,230038.0,,,Trustee,True,
 2007,Fredric B. Garonzik,Trustee,Brown University,,Brown 1964 AB: Wharton 1967 MBA,27804330.0,217156.0,,,Trustee,True,
 2007,Dr. James B. Garvin,Trustee,Brown University,,,27804330.0,217156.0,,,Trustee,True,
 2007,Rabbi Laura Geller,Trustee,Brown University,,,27804330.0,217156.0,,,Trustee,True,
@@ -367,6 +391,68 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Karen M. Levy,Trustee,Brown University,,,27804330.0,217156.0,,,Trustee,True,
 2007,Katherine G. Farley,Trustee,Brown University,,,27804330.0,217156.0,,,Trustee,True,
 2007,Robin A. Lenhardt,Trustee,Brown University,,,27804330.0,217156.0,,,Trustee,True,
+2007,Charles R. Trimble,Trustee,California Institute Of Technology,,,122411786.0,110404.0,,,Trustee,True,
+2007,Donald W. Tang,Trustee,California Institute Of Technology,,,122411786.0,110404.0,,,Trustee,True,
+2007,Lewis W. van Amerongen,Trustee,California Institute Of Technology,,,122411786.0,110404.0,,,Trustee,True,
+2007,Marc I. Stern,Trustee,California Institute Of Technology,,Dickinson Col BA; Columbia 1966 MA 1969 ID,122411786.0,110404.0,,,Trustee,True,
+2007,Virginia V. Weldon,Trustee,California Institute Of Technology,,Smith; SUNY (Buffalo) MD,122411786.0,110404.0,,,Trustee,True,
+2007,Gayle E. Wilson,Trustee,California Institute Of Technology,,,122411786.0,110404.0,,,Trustee,True,
+2007,Suzanne H. Woolsey,Trustee,California Institute Of Technology,,Stanford 1963 BA; Harvard 1965 MA 1970 PhD,122411786.0,110404.0,,,Trustee,True,
+2007,Walter L. Weisman,Vice Chairman,California Institute Of Technology,,,122411786.0,110404.0,,,Board Vice President,True,
+2007,James F. Rothenberg,Trustee,California Institute Of Technology,,"Harvard 1968 AB, 1970 MBA",122411786.0,110404.0,,,Trustee,True,
+2007,"Stanley R. Rawn, Jr",Senior Trustee,California Institute Of Technology,,,122411786.0,110404.0,,,Trustee,True,
+2007,Richard M. Rosenberg,Senior Trustee,California Institute Of Technology,,,122411786.0,110404.0,,,Trustee,True,
+2007,Thomas E. Everhart,Senior Trustee,California Institute Of Technology,,Harvard 1953 AM; UCLA 1955 MSc; Cambridge (UK) 1958 PhD,122411786.0,110404.0,,,Trustee,True,
+2007,Stephen A. Ross,Trustee,California Institute Of Technology,,,122411786.0,110404.0,,,Trustee,True,
+2007,Thomas E. Everhart,President Emeritus,California Institute Of Technology,,Harvard 1953 AM; UCLA 1955 MSc; Cambridge (UK) 1958 PhD,122411786.0,110404.0,,,Board President,True,
+2007,Lounette M. Dyer,Trustee,California Institute Of Technology,,,122411786.0,110404.0,,,Trustee,True,
+2007,John D. Diekman,Trustee,California Institute Of Technology,,Princeton AB; Stanford PhD,122411786.0,110404.0,,,Trustee,True,
+2007,William H. Davidow,Trustee,California Institute Of Technology,,Dartmouth AB; Stanford PhD,122411786.0,110404.0,,,Trustee,True,
+2007,Richard P. Cooley,Senior Trustee,California Institute Of Technology,,,122411786.0,110404.0,,,Trustee,True,
+2007,Harry M. Conger,Senior Trustee,California Institute Of Technology,,,122411786.0,110404.0,,,Trustee,True,
+2007,Camilla Chandler Frost,Senior Trustee,California Institute Of Technology,,,122411786.0,110404.0,,,Trustee,True,
+2007,Robert B. Chess,Trustee,California Institute Of Technology,,,122411786.0,110404.0,,,Trustee,True,
+2007,John E. Bryson,Trustee,California Institute Of Technology,,,122411786.0,110404.0,,,Trustee,True,
+2007,Walter Burke,Senior Trustee,California Institute Of Technology,,,122411786.0,110404.0,,,Trustee,True,
+2007,Harold Brown,Senior Trustee,California Institute Of Technology,,,122411786.0,110404.0,,,Trustee,True,
+2007,Harold Brown,President Emeritus,California Institute Of Technology,,,122411786.0,110404.0,,,Board President,True,
+2007,Eli Broad,Senior Trustee,California Institute Of Technology,,Michigan State 1954 BA,122411786.0,110404.0,,,Trustee,True,
+2007,Par Brest,Trustee,California Institute Of Technology,,,122411786.0,110404.0,,,Trustee,True,
+2007,Gordon M. Binder,Trustee,California Institute Of Technology,,,122411786.0,110404.0,,,Trustee,True,
+2007,G. Patricia Beckman,Senior Trustee,California Institute Of Technology,,,122411786.0,110404.0,,,Trustee,True,
+2007,Milton M. Chang,Trustee,California Institute Of Technology,,,122411786.0,110404.0,,,Trustee,True,
+2007,Victor K. Atkins,Senior Trustee,California Institute Of Technology,,,122411786.0,110404.0,,,Trustee,True,
+2007,Arthur L. Goldstein,Trustee,California Institute Of Technology,,Rensselaer Poly BS; Delaware MS; Harvard MBA,122411786.0,110404.0,,,Trustee,True,
+2007,Frederick J. Hameetman,Trustee,California Institute Of Technology,,Caltech 1962 BS; Occidental 1962 BA; USC 1964 MS,122411786.0,110404.0,,,Trustee,True,
+2007,Gordon E. Moore,Senior Trustee,California Institute Of Technology,,UC Berkeley BS; Caltech PhD,122411786.0,110404.0,,,Trustee,True,
+2007,Gordon E. Moore,Chairman Emeritus,California Institute Of Technology,,UC Berkeley BS; Caltech PhD,122411786.0,110404.0,,,Board President,True,
+2007,Clara Spalter Miller,Trustee,California Institute Of Technology,,,122411786.0,110404.0,,,Trustee,True,
+2007,Shirley M. Malcom,Trustee,California Institute Of Technology,,,122411786.0,110404.0,,,Trustee,True,
+2007,John J. Mack,Trustee,California Institute Of Technology,,North Carolina A&T BS: Clark Atlanta MA,122411786.0,110404.0,,,Trustee,True,
+2007,A. Michael Lipper,Trustee,California Institute Of Technology,,,122411786.0,110404.0,,,Trustee,True,
+2007,Ronald K. Linde,Trustee,California Institute Of Technology,,,122411786.0,110404.0,,,Trustee,True,
+2007,Alexander Lidow,Trustee,California Institute Of Technology,,,122411786.0,110404.0,,,Trustee,True,
+2007,William T. Gross,Trustee,California Institute Of Technology,,,122411786.0,110404.0,,,Trustee,True,
+2007,York Liao,Trustee,California Institute Of Technology,,,122411786.0,110404.0,,,Trustee,True,
+2007,Jon B. Kutler,Trustee,California Institute Of Technology,,Naval Acad BS; Harvard 1985 MBA,122411786.0,110404.0,,,Trustee,True,
+2007,Kent Kresa,Chairman,California Institute Of Technology,,"MIT 1959 BS, 1961 MS, 1966 EAA",122411786.0,110404.0,,,Board President,True,
+2007,Louise Kirkbride,Trustee,California Institute Of Technology,,,122411786.0,110404.0,,,Trustee,True,
+2007,William F. Kleschnick,Senior Trustee,California Institute Of Technology,,,122411786.0,110404.0,,,Trustee,True,
+2007,Jon Faiz Kayyem,Trustee,California Institute Of Technology,,,122411786.0,110404.0,,,Trustee,True,
+2007,"ADM Bobby R. Inman, USN (Ret)",Senior Trustee,California Institute Of Technology,,"Caltech BS, MS",122411786.0,110404.0,,,Trustee,True,
+2007,The Honorable Shirley Mount Hufstedler,Senior Trustee,California Institute Of Technology,,New Mexico 1945 BBA: Stanford 1949 LLB,122411786.0,110404.0,,,Trustee,True,
+2007,David D. Ho,Trustee,California Institute Of Technology,,Caltech 1974 BS; Harvard 1978 MD,122411786.0,110404.0,,,Trustee,True,
+2007,David L. Lee,Trustee,California Institute Of Technology,,,122411786.0,110404.0,,,Trustee,True,
+2007,Philip M. Neches,Trustee,California Institute Of Technology,,,122411786.0,110404.0,,,Trustee,True,
+2007,"Patrick H. Nettles, Jr",Trustee,California Institute Of Technology,,Georgia Tech 1964 BS; Caltech 1970 PhD,122411786.0,110404.0,,,Trustee,True,
+2007,Nelson C. Rising,Trustee,California Institute Of Technology,,"UCLA 1963 BA, 1967 JD",122411786.0,110404.0,,,Trustee,True,
+2007,Sally K. Ride,Trustee,California Institute Of Technology,,,122411786.0,110404.0,,,Trustee,True,
+2007,Stewart A. Resnick,Trustee,California Institute Of Technology,,"UCLA BSBA, JD",122411786.0,110404.0,,,Trustee,True,
+2007,George L. Argyros,Trustee,California Institute Of Technology,,Chapman 1959 BA,122411786.0,110404.0,,,Trustee,True,
+2007,Sidney R. Petersen,Senior Trustee,California Institute Of Technology,,,122411786.0,110404.0,,,Trustee,True,
+2007,Stephen R. Onderdonk,Trustee,California Institute Of Technology,,,122411786.0,110404.0,,,Trustee,True,
+2007,Ronald L. Olson,Trustee,California Institute Of Technology,,Drake 1963 BS; Michigan 1966 JD; Oxford (UK) 1967,122411786.0,110404.0,,,Trustee,True,
+2007,Peter Norton,Trustee,California Institute Of Technology,,,122411786.0,110404.0,,,Trustee,True,
 2007,James M. Walton,Trustee,Carnegie Mellon University,,Yale 1953 BA; Harvard 1958 MBA,74973139.0,211440.0,,,Trustee,True,
 2007,John E. Swearingen,Trustee,Carnegie Mellon University,,,74973139.0,211440.0,,,Trustee,True,
 2007,Mary Jo Dively,Vice President,Carnegie Mellon University,,,74973139.0,211440.0,,,Board Vice President,True,
@@ -621,6 +707,23 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Cecelia Presley,Trustee,Chapman University,,,185071736.0,111948.0,,,Trustee,True,
 2007,Karen R. Wilkinson,Trustee,Chapman University,,Chapman 1969,185071736.0,111948.0,,,Trustee,True,
 2007,Sebastian Paul Musco,Trustee,Chapman University,,,185071736.0,111948.0,,,Trustee,True,
+2007,Rita DiMartino,Trustee,City University Of New York,,Staten Island BA; Long Island MPA,174216632.0,,,,Trustee,True,City University of New York System
+2007,Valerie Lancaster Beal,Trustee,City University Of New York,,Georgetown BA; Wharton MBA,174216632.0,,,,Trustee,True,City University of New York System
+2007,Philip A. Berry,Trustee,City University Of New York,,Queens Col (NY) BA; Xavier (OH) MBA; Columbia MSW,174216632.0,,,,Trustee,True,City University of New York System
+2007,Rev. John S. Bonnici,Trustee,City University Of New York,,St John's U (NY) BS,174216632.0,,,,Trustee,True,City University of New York System
+2007,Wellington Z. Chen,Trustee,City University Of New York,,,174216632.0,,,,Trustee,True,City University of New York System
+2007,Kenneth E. Cook,Trustee,City University Of New York,,Brooklyn BS; Long Island MS,174216632.0,,,,Trustee,True,City University of New York System
+2007,Freida Foster-Tolbert,Trustee,City University Of New York,,Hofstra BA; Wisconsin (Whitewater) MS,174216632.0,,,,Trustee,True,City University of New York System
+2007,Carol A. Robles-Roman,Trustee,City University Of New York,,Fordham 1983 BA; NYU 1989 JD,174216632.0,,,,Trustee,True,City University of New York System
+2007,Randy M. Mastro,Trustee,City University Of New York,,Yale 1978 BA; Pennsylvania 1981 JD,174216632.0,,,,Trustee,True,City University of New York System
+2007,Hugo M. Morales,Trustee,City University Of New York,,,174216632.0,,,,Trustee,True,City University of New York System
+2007,Kathleen M. Pesile,Trustee,City University Of New York,,"Baruch Col 1975 BBA, 1977 MBA",174216632.0,,,,Trustee,True,City University of New York System
+2007,Manfred Philipp,Ex Officio Trustee,City University Of New York,,Michigan Tech BS; Northwestern PhD,174216632.0,,,,"Trustee, Ex Officio",True,City University of New York System
+2007,"Benno C. Schmidt, Jr.",Chairman,City University Of New York,,"Yale 1963 BA, 1966 LLB",174216632.0,,,,Board President,True,City University of New York System
+2007,Marc V. Shaw,Trustee,City University Of New York,,"SUNY (Buffalo) 1976 BA, 1978 MA",174216632.0,,,,Trustee,True,City University of New York System
+2007,Carlos Sierra,Ex Officio Trustee,City University Of New York,,,174216632.0,,,,"Trustee, Ex Officio",True,City University of New York System
+2007,Jeffrey S. Wiesenfeld,Trustee,City University Of New York,,Queens Col (NY) BA,174216632.0,,,,Trustee,True,City University of New York System
+2007,Joseph J. Lhota,Trustee,City University Of New York,,Georgetown 1976 BSBA; Harvard 1980 MBA,174216632.0,,,,Trustee,True,City University of New York System
 2007,Charles S. Ackerman,Trustee,Clark Atlanta University,,,52064589.0,138947.0,,,Trustee,True,
 2007,Delores P. Aldridge,Secretary,Clark Atlanta University,,,52064589.0,138947.0,,,Other Board Member,True,
 2007,Judy M. Anderson,Trustee,Clark Atlanta University,,Troy State BS,52064589.0,138947.0,,,Trustee,True,
@@ -766,6 +869,22 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,E. Guy Hendrix,Board Member,Clemson University,,,8078737.0,217882.0,,,Member,True,
 2007,Jack Kelly,Board Member,Clemson University,,,8078737.0,217882.0,,,Member,True,
 2007,Samuel Dozier,Board Member,Clemson University,,,8078737.0,217882.0,,,Member,True,
+2007,Sonali B. Wilson,Secretary,Cleveland State University,,,102607778.0,202134.0,,,Other Board Member,True,University System of Ohio
+2007,Ernest L. Wilkerson,Trustee,Cleveland State University,,,102607778.0,202134.0,,,Trustee,True,University System of Ohio
+2007,Edward G. Thomas,Faculty Representative,Cleveland State University,,,102607778.0,202134.0,,,Other Board Member,True,University System of Ohio
+2007,Samuel H. Miller,Trustee,Cleveland State University,,Case Western 1941 BA; Harvard 1943 MBA,102607778.0,202134.0,,,Trustee,True,University System of Ohio
+2007,Ronald E. Weinberg,Treasurer,Cleveland State University,,,102607778.0,202134.0,,,Other Board Member,True,University System of Ohio
+2007,Alex Machaskee,Vice Chairman,Cleveland State University,,"Cleveland State, LHD",102607778.0,202134.0,,,Board Vice President,True,University System of Ohio
+2007,Katherine Cheng Li,Student Representative,Cleveland State University,,,102607778.0,202134.0,,,Other Board Member,True,University System of Ohio
+2007,Vijay K. Konangi,Faculty Representative,Cleveland State University,,,102607778.0,202134.0,,,Other Board Member,True,University System of Ohio
+2007,Vijay K. Konangi,"President, Faculty Senate",Cleveland State University,,,102607778.0,202134.0,,,Board President,True,University System of Ohio
+2007,Brendan Healy,Student Representative,Cleveland State University,,,102607778.0,202134.0,,,Other Board Member,True,University System of Ohio
+2007,Carl D. Glickman,Trustee,Cleveland State University,,,102607778.0,202134.0,,,Trustee,True,University System of Ohio
+2007,Sally Florkiewicz,Trustee,Cleveland State University,,,102607778.0,202134.0,,,Trustee,True,University System of Ohio
+2007,Timothy J. Cosgrove,Chairman,Cleveland State University,,Cleveland State 1987 JD,102607778.0,202134.0,,,Board President,True,University System of Ohio
+2007,Peter Cavanagh,Trustee,Cleveland State University,,Loughborough Col: U London. DSc,102607778.0,202134.0,,,Trustee,True,University System of Ohio
+2007,Edward G. Thomas,Professor Of Marketing,Cleveland State University,,,102607778.0,202134.0,,,Trustee,True,University System of Ohio
+2007,Vir K. Sondhi,Trustee,Cleveland State University,,,102607778.0,202134.0,,,Trustee,True,University System of Ohio
 2007,Michael K. Powell,Rector,College Of William And Mary,,William & Mary 1985 AB; Georgetown 1993 JD,16285277.0,231624.0,,,Other Board Member,True,
 2007,Anita O. Poston,Board Member,College Of William And Mary,,,16285277.0,231624.0,,,Member,True,
 2007,Joseph J. Plumeri II,Board Member,College Of William And Mary,,William & Mary 1966 BA,16285277.0,231624.0,,,Member,True,
@@ -792,6 +911,17 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Michael S. Nyikos,Trustee,Colorado School Of Mines,,New Mexico Highlands; Michigan PhD,167576493.0,126775.0,,,Trustee,True,
 2007,Terrance G. Tschatschula,Trustee,Colorado School Of Mines,,Texas 1980 BS,167576493.0,126775.0,,,Trustee,True,
 2007,David J. Wagner,Trustee,Colorado School Of Mines,,,167576493.0,126775.0,,,Trustee,True,
+2007,Chad C. McWhinney,Treasurer,Colorado State University System,,,4210131357.0,,,,Other Board Member,True,
+2007,Joe Blake,Voting Member,Colorado State University System,,,4210131357.0,,,,Member,True,
+2007,Douglas L. Jones,Vice Chairman,Colorado State University System,,,4210131357.0,,,,Board Vice President,True,
+2007,Donald Hamstra,Voting Member,Colorado State University System,,,4210131357.0,,,,Member,True,
+2007,"Phyllis ""Diane"" Evans",Secretary,Colorado State University System,,,4210131357.0,,,,Other Board Member,True,
+2007,Patrick Grant,Chairman,Colorado State University System,,,4210131357.0,,,,Board President,True,
+2007,Ed Haselden,Voting Member,Colorado State University System,,,4210131357.0,,,,Member,True,
+2007,Judy DePalma,Faculty Representative,Colorado State University System,,,4210131357.0,,,,Other Board Member,True,
+2007,"Bonifacio ""Boney"" Cosyleon",Voting Member,Colorado State University System,,Southern Colorado State,4210131357.0,,,,Member,True,
+2007,Jason Green,Student Representative,Colorado State University System,,,4210131357.0,,,,Other Board Member,True,
+2007,Jeff Shoemaker,Voting Member,Colorado State University System,,,4210131357.0,,,,Member,True,
 2007,"Harold F. ""Gerry"" Lenfest",Trustee,Columbia University,,Washington and Lee 1953 BA; Columbia 1958 LLB,78577930.0,190150.0,,,Trustee,True,
 2007,Ann F. Kaplan,Trustee,Columbia University,,Columbia 1977 MBA,78577930.0,190150.0,,,Trustee,True,
 2007,Mark E. Kingdon,Trustee,Columbia University,,,78577930.0,190150.0,,,Trustee,True,
@@ -881,7 +1011,7 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Jeffrey W. Greenberg,Board Member,Cornell University,Weill Cornell Medical College,,205783295.0,190415.0,,,Trustee,True,
 2007,Barbara Benioff Friedman,Board Member,Cornell University,Weill Cornell Medical College,Brown 1973 AB; Georgetown 1976 JD,205783295.0,190415.0,,,Trustee,True,
 2007,Barbara Benioff Friedman,"Vice Chairman, College",Cornell University,Weill Cornell Medical College,Brown 1973 AB; Georgetown 1976 JD,205783295.0,190415.0,,,Board Vice President,True,
-2007,Gerald R. Ford,Board Member,Cornell University,Weill Cornell Medical College,,205783295.0,190415.0,,,Trustee,True,
+2007,Gerald J. Ford,Board Member,Cornell University,Weill Cornell Medical College,,205783295.0,190415.0,,,Trustee,True,
 2007,Charlotte M. Ford,Board Member,Cornell University,Weill Cornell Medical College,,205783295.0,190415.0,,,Trustee,True,
 2007,Jeffrey J. Feil,Board Member,Cornell University,Weill Cornell Medical College,,205783295.0,190415.0,,,Trustee,True,
 2007,Eleanor T. Elliott,Board Member,Cornell University,Weill Cornell Medical College,,205783295.0,190415.0,,,Trustee,True,
@@ -916,7 +1046,7 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Mary G. Opperman,"Vice President, Human Resources",Cornell University,,,205783295.0,190415.0,,,Board Vice President,True,
 2007,Polley A. McClure,"Vice President, Information Technologies",Cornell University,,,205783295.0,190415.0,,,Board Vice President,True,
 2007,James J. Mingle,University Counsel,Cornell University,,,205783295.0,190415.0,,,Other Board Member,True,
-2007,James H. Walsh,Chief Investment Officer,Cornell University,,Brunel 1989; U London 1991,205783295.0,190415.0,,,Other Board Member,True,
+2007,James M. Walsh,Chief Investment Officer,Cornell University,,Brunel 1989; U London 1991,205783295.0,190415.0,,,Other Board Member,True,
 2007,Stephen Philip Johnson,"Assistant Vice President, Government Affairs",Cornell University,,,205783295.0,190415.0,,,Board Vice President,True,
 2007,Laura Toy,"Associate Vice President, Alumni Affairs and Development",Cornell University,,SUNY (Cortland); Penn State,205783295.0,190415.0,,,Board Vice President,True,
 2007,Stephen F. Hamilton,"Associate Provost, Outreach",Cornell University,,"Swarthmore 1967 BA; Harvard 1969 MA, 1975 PhD",205783295.0,190415.0,,,Trustee,True,
@@ -1159,6 +1289,19 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,"Rev. Francis X. Hanley, CSSp",Director,Duquesne University,,,165102784.0,212106.0,87.0,7687.0,Director,True,
 2007,James F. O'Day,Director,Duquesne University,,,165102784.0,212106.0,97.0,7697.0,Director,True,
 2007,Patricia D. Yoder,Director,Duquesne University,,,165102784.0,212106.0,104.0,7704.0,Director,True,
+2007,E. David Redwine,Trustee,East Carolina University,,,186335123.0,198464.0,,,Trustee,True,University of North Carolina System
+2007,Stephen D. Showfety,Chairman,East Carolina University,,,186335123.0,198464.0,,,Board President,True,University of North Carolina System
+2007,Michael E. Kelly,Trustee,East Carolina University,,,186335123.0,198464.0,,,Trustee,True,University of North Carolina System
+2007,Margaret C. Ward,Officio Trustee,East Carolina University,,,186335123.0,198464.0,,,Trustee,True,University of North Carolina System
+2007,Robert V. Lucas,Trustee,East Carolina University,,,186335123.0,198464.0,,,Trustee,True,University of North Carolina System
+2007,Mark E. Tipton,Trustee,East Carolina University,,,186335123.0,198464.0,,,Trustee,True,University of North Carolina System
+2007,M. Cole Jones,Student Government Association President and Ex,East Carolina University,,,186335123.0,198464.0,,,Board President,True,University of North Carolina System
+2007,"William H. Bodenhamer, Jr",Trustee,East Carolina University,,,186335123.0,198464.0,,,Trustee,True,University of North Carolina System
+2007,"Robert J. Greczyn, Jr",Vice Chairman,East Carolina University,,East Carolina 1973: North Carolina 1977 MPA,186335123.0,198464.0,,,Board Vice President,True,University of North Carolina System
+2007,Joel K. Butler,Trustee,East Carolina University,,,186335123.0,198464.0,,,Trustee,True,University of North Carolina System
+2007,David S. Brody,Trustee,East Carolina University,,,186335123.0,198464.0,,,Trustee,True,University of North Carolina System
+2007,Bruce N. Austin,Trustee,East Carolina University,,,186335123.0,198464.0,,,Trustee,True,University of North Carolina System
+2007,"Robert O. Hill, Jr",Trustee,East Carolina University,,,186335123.0,198464.0,,,Trustee,True,University of North Carolina System
 2007,Roy E. Wilbanks,Regent,Eastern Michigan University,,,138216421.0,169798.0,,,Regent,True,
 2007,Karen Q. Valvo,Chairperson,Eastern Michigan University,,,138216421.0,169798.0,,,Board President,True,
 2007,Thomas W. Sidlik,Vice Chairman,Eastern Michigan University,,,138216421.0,169798.0,,,Board Vice President,True,
@@ -1206,6 +1349,32 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,J. Neal Purcell,Alumni Elected Trustee,Emory University,,Emory BBA,150468666.0,139658.0,,,Trustee,True,
 2007,J. David Allen,Board Elected Trustee,Emory University,,,150468666.0,139658.0,,,Trustee,True,
 2007,"Marvin S. Arrington, Sr",Board Elected Trustee,Emory University,,,150468666.0,139658.0,,,Trustee,True,
+2007,"Leerie Jenkins, Jr.",Trustee,Florida Agricultural And Mechanical University,,Georgia BS; Michigan MLA,8248082.0,133650.0,,,Trustee,True,Florida State University System
+2007,C. William Jennings,Vice Chairman,Florida Agricultural And Mechanical University,,Florida A&M 1969 BS,8248082.0,133650.0,,,Board Vice President,True,Florida State University System
+2007,Challis M. Lowe,Trustee,Florida Agricultural And Mechanical University,,Kellogg MBA,8248082.0,133650.0,,,Trustee,True,Florida State University System
+2007,Pamela Duncan,Chairperson,Florida Agricultural And Mechanical University,,Florida A&M BS. MS,8248082.0,133650.0,,,Board President,True,Florida State University System
+2007,Mary B. Diallo,Faculty Trustee,Florida Agricultural And Mechanical University,,"Georgia BA, MA: Emory PhD",8248082.0,133650.0,,,Trustee,True,Florida State University System
+2007,"Rev. Robert B. Holmes, Jr.",Trustee,Florida Agricultural And Mechanical University,,Malone BA; Methodist Theol Ohio MS; Virginia Union DM,8248082.0,133650.0,,,Trustee,True,Florida State University System
+2007,Laura Branker,Trustee,Florida Agricultural And Mechanical University,,Florida A&M BS,8248082.0,133650.0,,,Trustee,True,Florida State University System
+2007,"Regina M. Benjamin, M.D.",Trustee,Florida Agricultural And Mechanical University,College Of Medicine University Of South Alabama,Xavier (OH) BS; Alabama Birmingham MD; Tulane MBA,8248082.0,133650.0,,,Trustee,True,Florida State University System
+2007,W. George Allen,Trustee,Florida Agricultural And Mechanical University,,,8248082.0,133650.0,,,Trustee,True,Florida State University System
+2007,Philip Agnew,"President, Student Government Association",Florida Agricultural And Mechanical University,,,8248082.0,133650.0,,,Board President,True,Florida State University System
+2007,Philip Agnew,Student Trustee,Florida Agricultural And Mechanical University,,,8248082.0,133650.0,,,Trustee,True,Florida State University System
+2007,Alberto R. Cardenas,Trustee,Florida Agricultural And Mechanical University,,Florida Atlantic 1969 BA; Seton Hall 1974 JD,8248082.0,133650.0,,,Trustee,True,Florida State University System
+2007,Virginia Miller,Trustee,Florida Atlantic University,,,63772739.0,133669.0,,,Trustee,True,Florida State University System
+2007,Roy Levow,Faculty Trustee,Florida Atlantic University,,,63772739.0,133669.0,,,Trustee,True,Florida State University System
+2007,Lalita Janke,Trustee,Florida Atlantic University,,,63772739.0,133669.0,,,Trustee,True,Florida State University System
+2007,Rajendra Gupta,Trustee,Florida Atlantic University,,,63772739.0,133669.0,,,Trustee,True,Florida State University System
+2007,Armand Grossman,Trustee,Florida Atlantic University,,,63772739.0,133669.0,,,Trustee,True,Florida State University System
+2007,George C. Zoley,Trustee,Florida Atlantic University,,Florida Atlantic,63772739.0,133669.0,,,Trustee,True,Florida State University System
+2007,Robert Stilley,Trustee,Florida Atlantic University,,,63772739.0,133669.0,,,Trustee,True,Florida State University System
+2007,Norman Tripp,Vice Chairman,Florida Atlantic University,,,63772739.0,133669.0,,,Board Vice President,True,Florida State University System
+2007,Sherry Plymale,Chairman,Florida Atlantic University,,St Leo,63772739.0,133669.0,,,Board President,True,Florida State University System
+2007,David Feder,Trustee,Florida Atlantic University,,,63772739.0,133669.0,,,Trustee,True,Florida State University System
+2007,Bill Bryant,Trustee,Florida Atlantic University,,,63772739.0,133669.0,,,Trustee,True,Florida State University System
+2007,Nancy Blosser,Trustee,Florida Atlantic University,,Miami MBA,63772739.0,133669.0,,,Trustee,True,Florida State University System
+2007,Scott Adams,Trustee,Florida Atlantic University,,Florida Atlantic,63772739.0,133669.0,,,Trustee,True,Florida State University System
+2007,Dan Wilson,Student Trustee,Florida Atlantic University,,,63772739.0,133669.0,,,Trustee,True,Florida State University System
 2007,Scott J. Seymour,Trustee,Florida Institute Of Technology,,Polytechnic U BSWestern State U San Diego JD,106959904.0,133881.0,,,Trustee,True,
 2007,Raymond A. Armstrong,Trustee,Florida Institute Of Technology,,,106959904.0,133881.0,,,Trustee,True,
 2007,Howard L. Lance,Trustee,Florida Institute Of Technology,,Bradley BSIE; Purdue MS,106959904.0,133881.0,,,Trustee,True,
@@ -1241,6 +1410,18 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,John T. Hartley,Trustee,Florida Institute Of Technology,,Auburn,106959904.0,133881.0,,,Trustee,True,
 2007,Henry Heflich,Trustee,Florida Institute Of Technology,,,106959904.0,133881.0,,,Trustee,True,
 2007,Dale Dettmer,Secretary,Florida Institute Of Technology,,,106959904.0,133881.0,,,Other Board Member,True,
+2007,Richard McFarlain,Trustee,Florida State University,,,103163165.0,134097.0,,,Trustee,True,Florida State University System
+2007,Jim Smith,Chairman,Florida State University,,Florida State 1962 BS: Stetson 1967 JD,103163165.0,134097.0,,,Board President,True,Florida State University System
+2007,"Leslie Pantin, Jr",Trustee,Florida State University,,Oklahoma State; Florida State,103163165.0,134097.0,,,Trustee,True,Florida State University System
+2007,E. Ann McGee,Trustee,Florida State University,,"Florida State 1970, 1971",103163165.0,134097.0,,,Trustee,True,Florida State University System
+2007,"M. A. ""Manny"" Garcia III",Trustee,Florida State University,,Cornell 1965,103163165.0,134097.0,,,Trustee,True,Florida State University System
+2007,Harold Knowles,Vice Chairman,Florida State University,,"Florida State 1970, 1973",103163165.0,134097.0,,,Board Vice President,True,Florida State University System
+2007,Christopher Sean Evans,Student Trustee,Florida State University,,,103163165.0,134097.0,,,Trustee,True,Florida State University System
+2007,Emily Fleming Duda,Trustee,Florida State University,,,103163165.0,134097.0,,,Trustee,True,Florida State University System
+2007,James Cobbe,Faculty Trustee,Florida State University,,Cambridge (UK) BA: Yale PhD,103163165.0,134097.0,,,Trustee,True,Florida State University System
+2007,Susie Busch-Transou,Trustee,Florida State University,,,103163165.0,134097.0,,,Trustee,True,Florida State University System
+2007,Derrick Brooks,Trustee,Florida State University,,"Florida State 1995, 1999",103163165.0,134097.0,,,Trustee,True,Florida State University System
+2007,David B. Ford,Trustee,Florida State University,,Florida State 1968; Pennsylvania 1970 MBA,103163165.0,134097.0,,,Trustee,True,Florida State University System
 2007,"Thomas McCain, S.J.",Trustee,Fordham University,,Michigan,164389053.0,191241.0,,,Trustee,True,
 2007,Sylvester McClearn,Trustee,Fordham University,,"Fordham 1986 BS, 1988 MBA",164389053.0,191241.0,,,Trustee,True,
 2007,Stephen J. McGuiness,Trustee,Fordham University,,"Fordham 1982 BS, 1991 MBA",164389053.0,191241.0,,,Trustee,True,
@@ -1281,6 +1462,24 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Peter W. Howe,Trustee,Fordham University,,Fordham 1970 BS,164389053.0,191241.0,,,Trustee,True,
 2007,Darlene Luccio Jordan,Trustee,Fordham University,,Fordham 1989 BA,164389053.0,191241.0,,,Trustee,True,
 2007,"Vincent J. Duminuco, S.J",Rector,Fordham University,,"Fordham 1957 BA, 1960 MAT; Stanford 1967 MA, 1969 PhD; Woodstock Col STL",164389053.0,191241.0,,,Other Board Member,True,
+2007,Ken Levinson,Trustee,Gallaudet University,,,66108857.0,131450.0,,,Trustee,True,
+2007,Lynn C. Woolsey,Trustee,Gallaudet University,,,66108857.0,131450.0,,,Trustee,True,
+2007,Charles A. Williams,Trustee,Gallaudet University,,,66108857.0,131450.0,,,Trustee,True,
+2007,Christopher Sullivan III,Trustee,Gallaudet University,,,66108857.0,131450.0,,,Trustee,True,
+2007,"Benjamin J. Soukup, Jr",Trustee,Gallaudet University,,,66108857.0,131450.0,,,Trustee,True,
+2007,Frank Ross,Trustee,Gallaudet University,,,66108857.0,131450.0,,,Trustee,True,
+2007,Pamela Lloyd,Trustee,Gallaudet University,,,66108857.0,131450.0,,,Trustee,True,
+2007,Ray H. LaHood,Trustee,Gallaudet University,,,66108857.0,131450.0,,,Trustee,True,
+2007,Frank H. Wu,Trustee,Gallaudet University,,Johns Hopkins; Michigan 1991,66108857.0,131450.0,,,Trustee,True,
+2007,Nancy Kelly-Jones,Trustee,Gallaudet University,,,66108857.0,131450.0,,,Trustee,True,
+2007,Cynthia Ashby,Trustee,Gallaudet University,,,66108857.0,131450.0,,,Trustee,True,
+2007,Susan J. Elliott,Trustee,Gallaudet University,,,66108857.0,131450.0,,,Trustee,True,
+2007,Harvey Goodstein,Trustee,Gallaudet University,,,66108857.0,131450.0,,,Trustee,True,
+2007,L. Richard Kinney,Trustee,Gallaudet University,,,66108857.0,131450.0,,,Trustee,True,
+2007,Cheryl Heppner,Trustee,Gallaudet University,,,66108857.0,131450.0,,,Trustee,True,
+2007,Pamela Holmes,Trustee,Gallaudet University,,,66108857.0,131450.0,,,Trustee,True,
+2007,Tom Humphries,Trustee,Gallaudet University,,,66108857.0,131450.0,,,Trustee,True,
+2007,Bill Graham,Trustee,Gallaudet University,,,66108857.0,131450.0,,,Trustee,True,
 2007,William Soza,Board Member,George Mason University,,,162714631.0,232186.0,,,Member,True,
 2007,Katherine Clark,Board Member,George Mason University,,,162714631.0,232186.0,,,Member,True,
 2007,Kathleen deLaski,Board Member,George Mason University,,,162714631.0,232186.0,,,Member,True,
@@ -1353,7 +1552,7 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Paul J. Tagliabue,Director,Georgetown University,,,184565670.0,131496.0,141.0,9424.0,Director,True,
 2007,Michael A. Todman,Director,Georgetown University,,,184565670.0,131496.0,142.0,9425.0,Director,True,
 2007,Edmond D. Villani,Chairman,Georgetown University,,Georgetown 1968 BA; Pennsylvania PhD,184565670.0,131496.0,143.0,9426.0,Board President,True,
-2007,"Rev. Robert L. ""Bob"" Niehoff, S.J.",Director,Georgetown University,,"U Washington BA, MBA; Gonzaga PhD",184565670.0,131496.0,133.0,9416.0,Director,True,
+2007,"Rev. Robert L. ""Bob"" Niehoff, S.J",Director,Georgetown University,,"U Washington BA, MBA; Gonzaga PhD",184565670.0,131496.0,133.0,9416.0,Director,True,
 2007,Catherine R. Kinney,Director,Georgetown University,,Iona BA,184565670.0,131496.0,122.0,9405.0,Director,True,
 2007,James F. Higgins,Director,Georgetown University,,,184565670.0,131496.0,118.0,9401.0,Director,True,
 2007,Franco Imoda,Director,Georgetown University,,,184565670.0,131496.0,120.0,9403.0,Director,True,
@@ -1505,6 +1704,26 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Richard Bonds,Secretary,Indiana State University,,Indiana State 1970,86420138.0,151324.0,,,Other Board Member,True,
 2007,Grant Scharton,Student Trustee,Indiana State University,,,86420138.0,151324.0,,,Trustee,True,
 2007,Ron Duke Carpenter,Vice President,Indiana State University,,"Indiana State 1977, 1982",86420138.0,151324.0,,,Board Vice President,True,
+2007,Susan S. Delaney,Secretary,Indiana University Of Pennsylvania,,,200885203.0,213020.0,,,Other Board Member,True,Pennsylvania State System
+2007,Gealy W. Wallwork,Trustee,Indiana University Of Pennsylvania,,Lehigh BS,200885203.0,213020.0,,,Trustee,True,Pennsylvania State System
+2007,Samuel H. Smith,Trustee,Indiana University Of Pennsylvania,,Penn State 1978 BA,200885203.0,213020.0,,,Trustee,True,Pennsylvania State System
+2007,Timothy M. Pulte,Trustee,Indiana University Of Pennsylvania,,Indiana (PA) BS,200885203.0,213020.0,,,Trustee,True,Pennsylvania State System
+2007,David Osikowicz,Chairman,Indiana University Of Pennsylvania,,Clarion BS,200885203.0,213020.0,,,Board President,True,Pennsylvania State System
+2007,James C. Millertrustee,Trustee,Indiana University Of Pennsylvania,,Penn State,200885203.0,213020.0,,,Trustee,True,Pennsylvania State System
+2007,Kim E. Lyttle,Vice Chairman,Indiana University Of Pennsylvania,,"Indiana (PA) 1972 BA, 1974 MA; Delaware",200885203.0,213020.0,,,Board Vice President,True,Pennsylvania State System
+2007,David L. Johnson,Trustee,Indiana University Of Pennsylvania,,Indiana (PA) BS; NYU MA,200885203.0,213020.0,,,Trustee,True,Pennsylvania State System
+2007,Judy G. Hample,Ex Officio Trustee,Indiana University Of Pennsylvania,,,200885203.0,213020.0,,,"Trustee, Ex Officio",True,Pennsylvania State System
+2007,Judy G. Hample,Chancellor,Indiana University Of Pennsylvania,,,200885203.0,213020.0,,,Board President,True,Pennsylvania State System
+2007,Mark A. Holman,Trustee,Indiana University Of Pennsylvania,,,200885203.0,213020.0,,,Trustee,True,Pennsylvania State System
+2007,Robert M. Hovanec,Treasurer,Indiana University Of Pennsylvania,,,200885203.0,213020.0,,,Other Board Member,True,Pennsylvania State System
+2007,"Amir I. Arbisser, M.D",Regent,Iowa Board of Regents,,Princeton AB; Baylor Col Medicine MD,126307644.0,153658.0,,,Regent,True,Iowa Board of Regents
+2007,Mary Ellen Becker,Regent,Iowa Board of Regents,,"Marygrove BA; Iowa MA, PhD",126307644.0,153658.0,,,Regent,True,Iowa Board of Regents
+2007,Jenny L. Connolly,Student Regent,Iowa Board of Regents,,Northern Iowa BA,126307644.0,153658.0,,,Regent,True,Iowa Board of Regents
+2007,Robert N. Downer,President Pro lem,Iowa Board of Regents,,"Iowa 1961 BA, 1963 JD",126307644.0,153658.0,,,Board President,True,Iowa Board of Regents
+2007,Michael G. Gartner,President,Iowa Board of Regents,,Carleton BA; NYU JD,126307644.0,153658.0,,,Board President,True,Iowa Board of Regents
+2007,Ruth R. Harkin,Regent,Iowa Board of Regents,,Minnesota BA; Catholic U 1972 jD,126307644.0,153658.0,,,Regent,True,Iowa Board of Regents
+2007,Rose A. Vasquez,Regent,Iowa Board of Regents,,Iowa BA; Drake JD,126307644.0,153658.0,,,Regent,True,Iowa Board of Regents
+2007,Teresa A. Wahlert,Regent,Iowa Board of Regents,,St Mary's Col (IN) BS; MIT MS; Creighton MBA,126307644.0,153658.0,,,Regent,True,Iowa Board of Regents
 2007,Donna L. Harper,Secretary,James Madison University,,,11883440.0,232423.0,,,Other Board Member,True,
 2007,Linda Zecher,Board Member,James Madison University,,,11883440.0,232423.0,,,Member,True,
 2007,Judith Strickler,Board Member,James Madison University,,James Madison 1960 BS; Tennessee 1961 MS,11883440.0,232423.0,,,Member,True,
@@ -1593,6 +1812,25 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Sanford D. Greenberg,Trustee,Johns Hopkins University,,,145311948.0,162928.0,,,Trustee,True,
 2007,Stephen Goutman,Trustee,Johns Hopkins University,,Johns Hopkins 2002,145311948.0,162928.0,,,Trustee,True,
 2007,Lee Meyerhoff Hendler,Trustee,Johns Hopkins University,,,145311948.0,162928.0,,,Trustee,True,
+2007,Nelson D. Galle,Chairman,Kansas Board of Regents,,Kansas State 1964 MS,39587148.0,156125.0,,,Board President,True,Kansas Board of Regents
+2007,Janie Perkins,Regent,Kansas Board of Regents,,"Newman U 1998 BA, 2000 MA",39587148.0,156125.0,,,Regent,True,Kansas Board of Regents
+2007,Dan Lykins,Regent,Kansas Board of Regents,,Kansas State 1968 BA; Washburn 1972 JD,39587148.0,156125.0,,,Regent,True,Kansas Board of Regents
+2007,James R. Grier III,Regent,Kansas Board of Regents,,Kansas State 1960 BS,39587148.0,156125.0,,,Regent,True,Kansas Board of Regents
+2007,Franklin Gaines,Regent,Kansas Board of Regents,,Washburn 1960 JD,39587148.0,156125.0,,,Regent,True,Kansas Board of Regents
+2007,Christine Downey-Schmidt,Vice Chairman,Kansas Board of Regents,,"Wichita State 1980 BA, 1986 MA",39587148.0,156125.0,,,Board Vice President,True,Kansas Board of Regents
+2007,Janice B. DeBauge,Regent,Kansas Board of Regents,,Southern Methodist BM,39587148.0,156125.0,,,Regent,True,Kansas Board of Regents
+2007,Richard Bonds,Regent,Kansas Board of Regents,,Kansas 1960 JD,39587148.0,156125.0,,,Regent,True,Kansas Board of Regents
+2007,Donna L. Shank,Regent,Kansas Board of Regents,,Wichita State 1998 BS,39587148.0,156125.0,,,Regent,True,Kansas Board of Regents
+2007,James M. Biggar,Trustee,Kent State University,,Case Western,149910238.0,203517.0,,,Trustee,True,University System of Ohio
+2007,Andrew J. Banks,Trustee,Kent State University,,Cleveland State BA; Baldwin- Wallace MBA,149910238.0,203517.0,,,Trustee,True,University System of Ohio
+2007,Brian D. Tucker,Trustee,Kent State University,,Kent State BA,149910238.0,203517.0,,,Trustee,True,University System of Ohio
+2007,Jane Murphy Timken,Student Trustee,Kent State University,,,149910238.0,203517.0,,,Trustee,True,University System of Ohio
+2007,Patrick S. Mullin,Trustee,Kent State University,,Kent State BBA,149910238.0,203517.0,,,Trustee,True,University System of Ohio
+2007,Jacqueline F. Woods,Trustee,Kent State University,,Muskingum Col BABS,149910238.0,203517.0,,,Trustee,True,University System of Ohio
+2007,Sandra W. Harbrecht,Chairman,Kent State University,,"Kent State; Ohio State MA, MBA",149910238.0,203517.0,,,Board President,True,University System of Ohio
+2007,Emilio D. Ferraro,Trustee,Kent State University,,Case Western PhD,149910238.0,203517.0,,,Trustee,True,University System of Ohio
+2007,R. Douglas Cowan,Trustee,Kent State University,,Kent State BBA,149910238.0,203517.0,,,Trustee,True,University System of Ohio
+2007,Erin E. Kleman,Student Trustee,Kent State University,,Malone BA: Kent State MA,149910238.0,203517.0,,,Trustee,True,University System of Ohio
 2007,Michael D. Zisman,Trustee,Lehigh University,,"Lehigh; Pennsylvania 1973 MSE, 1977 PhD",186143895.0,213543.0,,,Trustee,True,
 2007,Wendell P. Weeks,Trustee,Lehigh University,,Lehigh 1981 BS; Harvard 1987 MBA,186143895.0,213543.0,,,Trustee,True,
 2007,D. Brooks Zug,Trustee,Lehigh University,,Lehigh 1967 BS; Harvard 1970 MBA,186143895.0,213543.0,,,Trustee,True,
@@ -1949,6 +2187,18 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Benjamin W. Griffith,Trustee,Mercer University,,,150149174.0,140447.0,,,Trustee,True,
 2007,James H. Hall III,Trustee,Mercer University,,,150149174.0,140447.0,,,Trustee,True,
 2007,James H. Cowart,Trustee,Mercer University,,,150149174.0,140447.0,,,Trustee,True,
+2007,Fred Wall,Chairman,Miami University,,Miami U (OH) BS,83328450.0,204024.0,,,Board President,True,University System of Ohio
+2007,Richard K. Smucker,Treasurer,Miami University,,Miami U (OH) 1970 BS; Wharton 1972 MBA,83328450.0,204024.0,,,Other Board Member,True,University System of Ohio
+2007,Lolita M. McDavid,Trustee,Miami University,,Miami U (OH) 1969 BA; SUNY (Albany) 1970 MPA; Case Western 1979 MD,83328450.0,204024.0,,,Trustee,True,University System of Ohio
+2007,David M. Shade,National Trustee,Miami University,,Miami U (OH) 1966 BS; Northwestern MBA,83328450.0,204024.0,,,Trustee,True,University System of Ohio
+2007,Tamika Y. Nunley,Student Trustee,Miami University,,,83328450.0,204024.0,,,Trustee,True,University System of Ohio
+2007,David Herche,Trustee,Miami University,,Miami U (OH) 1972,83328450.0,204024.0,,,Trustee,True,University System of Ohio
+2007,Kathleen M. Zouhary,Trustee,Miami University,,Miami U (OH) 1973 AB; Notre Dame 1976 JD,83328450.0,204024.0,,,Trustee,True,University System of Ohio
+2007,S. Kay Geiger,Secretary,Miami University,,Miami U (OH) 1978; Ohio State MBA,83328450.0,204024.0,,,Other Board Member,True,University System of Ohio
+2007,Laurel Dawson,Vice Chairman,Miami University,,Miami 1979 BA,83328450.0,204024.0,,,Board Vice President,True,University System of Ohio
+2007,Donald L. Crain,Trustee,Miami University,,Miami 1970 BS; Cincinnati 1973 JD,83328450.0,204024.0,,,Trustee,True,University System of Ohio
+2007,John S. Christie,Trustee,Miami University,,Miami U (OH); Emory MBA,83328450.0,204024.0,,,Trustee,True,University System of Ohio
+2007,Jay L. Henderson,National Trustee,Miami University,,Miami U (OH) 1977 BS,83328450.0,204024.0,,,Trustee,True,University System of Ohio
 2007,Percy A. Pierre,Trustee,Michigan State University,,,87216513.0,171100.0,,,Trustee,True,
 2007,Lou Anna K. Simon,Ex Officio Trustee,Michigan State University,,,87216513.0,171100.0,,,"Trustee, Ex Officio",True,
 2007,Lou Anna K. Simon,President,Michigan State University,,,87216513.0,171100.0,,,Board President,True,
@@ -1968,6 +2218,31 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Martha K. Richardson,Board Member,Michigan Technological University,,Michigan Tech MS,11957088.0,171128.0,,,Member,True,
 2007,"David J. Brule, Sr",Board Member,Michigan Technological University,,,11957088.0,171128.0,,,Member,True,
 2007,Kathryn I. Clark,Chairman,Michigan Technological University,,Michigan PhD,11957088.0,171128.0,,,Board President,True,
+2007,Bob Owens,Trustee,Mississippi Institutions Of Higher Learning,,Jackson State U BA; Florida State JD,4210141039.0,,,,Trustee,True,
+2007,"L. Stacy Davidson, Jr",Trustee,Mississippi Institutions Of Higher Learning,,"Mississippi BS, MD",4210141039.0,,,,Trustee,True,
+2007,Ed Blakeslee,Trustee,Mississippi Institutions Of Higher Learning,,Mississippi State BS,4210141039.0,,,,Trustee,True,
+2007,Scott Ross,Trustee,Mississippi Institutions Of Higher Learning,,Mississippi State BA; Mississippi JD,4210141039.0,,,,Trustee,True,
+2007,Robin Robinson,Trustee,Mississippi Institutions Of Higher Learning,,Southern Mississippi BS,4210141039.0,,,,Trustee,True,
+2007,Aubrey B. Patterson,Trustee,Mississippi Institutions Of Higher Learning,,Mississippi 1964 BBA; Michigan State 1969 MBA,4210141039.0,,,,Trustee,True,
+2007,Virginia Shanteau Newton,President,Mississippi Institutions Of Higher Learning,,Mississippi Women BS; Southern Mississippi MS,4210141039.0,,,,Board President,True,
+2007,Bettye H. Neely,Trustee,Mississippi Institutions Of Higher Learning,,Jackson State U MS; Mississippi State PhD; Delta State EdS; Mississippi Valley BS,4210141039.0,,,,Trustee,True,
+2007,Thomas W. Colbert,Trustee,Mississippi Institutions Of Higher Learning,,LSU; Mississippi BBA,4210141039.0,,,,Trustee,True,
+2007,Amy Whitten,Trustee,Mississippi Institutions Of Higher Learning,,"Mississippi BA, JD",4210141039.0,,,,Trustee,True,
+2007,Roy S. Estess,Trustee,Mississippi Institutions Of Higher Learning,,Mississippi State BS,4210141039.0,,,,Trustee,True,
+2007,"D. E. Magee, Jr",Trustee,Mississippi Institutions Of Higher Learning,,Central State BS; Howard U MS; Meharry Medical MD,4210141039.0,,,,Trustee,True,
+2007,J. Wayne Bland,Director,Mississippi Institutions of Higher Learning,,,99041443.0,176080.0,190.0,14217.0,Director,True,Mississippi Institutions of Higher Learning
+2007,J. Wayne Bland,"Controller, Treasurer'S Office",Mississippi Institutions of Higher Learning,,,99041443.0,176080.0,191.0,14218.0,Other Board Member,True,Mississippi Institutions of Higher Learning
+2007,David Easley,Associate Director,Mississippi Institutions of Higher Learning,Mississippi State University Foundation Inc,,99041443.0,176080.0,196.0,14233.0,Director,True,Mississippi Institutions of Higher Learning
+2007,Dennis A. Prescott,"Vice President, External Affairs",Mississippi Institutions of Higher Learning,,,99041443.0,176080.0,195.0,14232.0,Board Vice President,True,Mississippi Institutions of Higher Learning
+2007,Dennis A. Prescott,Chief Operating Officer,Mississippi Institutions of Higher Learning,,,99041443.0,176080.0,194.0,14231.0,Director,True,Mississippi Institutions of Higher Learning
+2007,Bennet E. George,Webmaster,Mississippi Institutions of Higher Learning,,,99041443.0,176080.0,193.0,14230.0,Director,True,Mississippi Institutions of Higher Learning
+2007,Georgia Lindley,"Chief, Police",Mississippi Institutions of Higher Learning,,,99041443.0,176080.0,192.0,14229.0,Director,True,Mississippi Institutions of Higher Learning
+2007,John A. Tomlinson,"Coordinator, Government Relations",Mississippi Institutions of Higher Learning,Mississippi State University Foundation Inc,,99041443.0,176080.0,197.0,14234.0,Director,True,Mississippi Institutions of Higher Learning
+2007,Leslie Taylor,Legal Counsel,Montana State University Bozeman,,,23732399.0,180461.0,200.0,14486.0,Other Board Member,True,Montana University System
+2007,Charles Nelson,Registrar,Montana State University Bozeman,,,23732399.0,180461.0,199.0,14482.0,Other Board Member,True,Montana University System
+2007,Charles Nelson,Director,Montana State University Bozeman,,,23732399.0,180461.0,198.0,14481.0,Director,True,Montana University System
+2007,Connie Talbott,Executive Director,Montana State University Bozeman,Montana State University Foundation,Education: Virginia BS,23732399.0,180461.0,202.0,14488.0,Director,True,Montana University System
+2007,Connie Talbott,President,Montana State University Bozeman,Montana State University Foundation,Education: Virginia BS,23732399.0,180461.0,201.0,14487.0,Board President,True,Montana University System
 2007,Douglas L. Kennedy,Executive Committee Member,Montclair State University,,"Sacred Heart U BSEc, MBA",166088655.0,185590.0,,,Other Board Member,True,
 2007,Douglas L. Kennedy,Vice Chairman,Montclair State University,,"Sacred Heart U BSEc, MBA",166088655.0,185590.0,,,Board Vice President,True,
 2007,George J. Hiltzik,Executive Committee Member,Montclair State University,,Cornell BS; Columbia JD,166088655.0,185590.0,,,Other Board Member,True,
@@ -1982,6 +2257,19 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Carlos G. Ortiz,Executive Committee Member-at-Large,Montclair State University,,CUNY BS; Brooklyn Law JD,166088655.0,185590.0,,,Other Board Member,True,
 2007,Christine L. Padilla,Trustee,Montclair State University,,,166088655.0,185590.0,,,Trustee,True,
 2007,Preston D. Pinkett III,Trustee,Montclair State University,,Pennsylvania MBA; Cornell 1984 BS,166088655.0,185590.0,,,Trustee,True,
+2007,Bret Whipple,Regent,Nevada System Of Higher Education,,Wharton 1987 BA; Arizona 1995 JD,68260882.0,,,,Regent,True,
+2007,Howard Rosenberg,Regent,Nevada System Of Higher Education,,"Massachusetts Art 1962 BS; Harvard 1965 EdM, MA",68260882.0,,,,Regent,True,
+2007,Mark Alden,Regent,Nevada System Of Higher Education,,Nevada (Reno) 1971 BS,68260882.0,,,,Regent,True,
+2007,Stavros Anthony,Chairman,Nevada System Of Higher Education,,"Wayne State 1980 BS; Nevada (Las Vegas) 1987 MA, 1999 PhD",68260882.0,,,,Board President,True,
+2007,Jill Talbot Derby,Vice Chairperson,Nevada System Of Higher Education,,"UC San Francisco 1962 BS; Nevada (Las Vegas) 1970 BA; UC Davis 1974 MA, 1988 PhD",68260882.0,,,,Board Vice President,True,
+2007,Thalia M. Dondero,Regent,Nevada System Of Higher Education,,,68260882.0,,,,Regent,True,
+2007,Dorothy Sewell Gallagher,Regent,Nevada System Of Higher Education,,Nevada (Reno) 1947 BA,68260882.0,,,,Regent,True,
+2007,Michael B. Wixom,Regent,Nevada System Of Higher Education,,,68260882.0,,,,Regent,True,
+2007,Steve Sisolak,Regent,Nevada System Of Higher Education,,,68260882.0,,,,Regent,True,
+2007,Jack Lund Schofield,Regent,Nevada System Of Higher Education,,Utah 1949 BS: Nevada (Reno) 1967 MEd: Nevada (Las Vegas) 1995 EdD,68260882.0,,,,Regent,True,
+2007,Jason Geddes,Regent,Nevada System Of Higher Education,,,68260882.0,,,,Regent,True,
+2007,James Dean Leavitt,Regent,Nevada System Of Higher Education,,Brigham Young 1985 BA; Idaho 1991 JD,68260882.0,,,,Regent,True,
+2007,Linda C. Howard,Regent,Nevada System Of Higher Education,,"Nevada (Las Vegas) BS, MPA",68260882.0,,,,Regent,True,
 2007,Randy L. Allen,Treasurer,New Jersey Institute Of Technology,Board Of Overseers,,118118575.0,185828.0,,,Other Board Member,True,
 2007,Raymond G. Chambers,Overseer,New Jersey Institute Of Technology,,,118118575.0,185828.0,,,Overseer,True,
 2007,"Daniel J. Carroll, Jr.",Overseer,New Jersey Institute Of Technology,,,118118575.0,185828.0,,,Overseer,True,
@@ -2026,6 +2314,13 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Robert W. Koar,Overseer,New Jersey Institute Of Technology,,,118118575.0,185828.0,,,Overseer,True,
 2007,Henry A. Mauermeyer,"Senior Vice President, Administration",New Jersey Institute Of Technology,,,118118575.0,185828.0,,,Board Vice President,True,
 2007,David C. Garfield,Overseer,New Jersey Institute Of Technology,,Iowa State 1950,118118575.0,185828.0,,,Overseer,True,
+2007,Sherry Kamali,Treasurer,New Mexico State University,,,10052268.0,188030.0,,,Other Board Member,True,
+2007,Blake Curtis,Regent,New Mexico State University,,,10052268.0,188030.0,,,Regent,True,
+2007,Sherry Kamali,Secretary,New Mexico State University,,,10052268.0,188030.0,,,Other Board Member,True,
+2007,Jennifer Ashley Burn,Student Government President,New Mexico State University,,New Mexico State,10052268.0,188030.0,,,Board President,True,
+2007,Larry S. Creider,Faculty Senate Chair and Ex Officio Regent,New Mexico State University,,,10052268.0,188030.0,,,"Regent, Ex Officio",True,
+2007,Laura M. Coniff,Vice President,New Mexico State University,,,10052268.0,188030.0,,,Board Vice President,True,
+2007,Jennifer Ashley Burn,Ex Officio Regent,New Mexico State University,,New Mexico State,10052268.0,188030.0,,,"Regent, Ex Officio",True,
 2007,J. Robert Kerrey,President,New School,,,102179633.0,193654.0,,,Board President,True,
 2007,Joshua W. Sapan,Trustee,New School,,,102179633.0,193654.0,,,Trustee,True,
 2007,J. Robert Kerrey,Trustee,New School,,,102179633.0,193654.0,,,Trustee,True,
@@ -2180,6 +2475,21 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Ralph C. Alexander,Deputy Chairman,New York University,,,57206974.0,193900.0,,,Board President,True,
 2007,Daniel H. Berry,Trustee,New York University,,,57206974.0,193900.0,,,Trustee,True,
 2007,Paul Soros,Trustee,New York University,,,57206974.0,193900.0,,,Trustee,True,
+2007,Wendell H. Murphy,Chairman,North Carolina State University,,North Carolina State 1960 BSEd,137902535.0,199193.0,,,Board President,True,University of North Carolina System
+2007,Cassius Stanley Williams,Trustee,North Carolina State University,,North Carolina State 1969 BS,137902535.0,199193.0,,,Trustee,True,University of North Carolina System
+2007,Steve F. Warren,Trustee,North Carolina State University,,North Carolina State 1968,137902535.0,199193.0,,,Trustee,True,University of North Carolina System
+2007,C. Richard Vaughn,Executive Committee Member,North Carolina State University,,North Carolina State 1961 BS,137902535.0,199193.0,,,Other Board Member,True,University of North Carolina System
+2007,C. Richard Vaughn,Trustee,North Carolina State University,,North Carolina State 1961 BS,137902535.0,199193.0,,,Trustee,True,University of North Carolina System
+2007,Will Quick,Ex Officio Trustee,North Carolina State University,,,137902535.0,199193.0,,,"Trustee, Ex Officio",True,University of North Carolina System
+2007,Will Quick,Student Body President,North Carolina State University,,,137902535.0,199193.0,,,Board President,True,University of North Carolina System
+2007,"Burley B. Mitchell, Jr",Trustee,North Carolina State University,,North Carolina State 1966 BA: North Carolina 1969 JD,137902535.0,199193.0,,,Trustee,True,University of North Carolina System
+2007,Suzanne Gordon,Trustee,North Carolina State University,,North Carolina State 1968 BA,137902535.0,199193.0,,,Trustee,True,University of North Carolina System
+2007,Robert B. Jordan,First Vice Chairman,North Carolina State University,,North Carolina State 1954,137902535.0,199193.0,,,Board Vice President,True,University of North Carolina System
+2007,Ann Baggett Goodnight,Second Vice Chairman,North Carolina State University,,,137902535.0,199193.0,,,Board Vice President,True,University of North Carolina System
+2007,S. Lawrence Davenport,Trustee,North Carolina State University,,"North Carolina State 1975 BS, 1980 MS",137902535.0,199193.0,,,Trustee,True,University of North Carolina System
+2007,Derick S. Close,Trustee,North Carolina State University,,North Carolina State 1982 BS; North Carolina MBA,137902535.0,199193.0,,,Trustee,True,University of North Carolina System
+2007,D. McQueen Campbell III,Secretary,North Carolina State University,,North Carolina State 1993 BA,137902535.0,199193.0,,,Other Board Member,True,University of North Carolina System
+2007,Bob L. Mattocks II,Trustee,North Carolina State University,,North Carolina State 1959 BS,137902535.0,199193.0,,,Trustee,True,University of North Carolina System
 2007,Charles Murphy,Board Member,North Dakota University System,,,4210127926.0,,,,Member,True,
 2007,Richie Smith,Board Member,North Dakota University System,,,4210127926.0,,,,Member,True,
 2007,John Q. Paulsen,President,North Dakota University System,,,4210127926.0,,,,Board President,True,
@@ -2235,6 +2545,49 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Dennis Pawley,Vice Chairman,Oakland University,,,177721651.0,171571.0,,,Board Vice President,True,
 2007,Penny M. Crissman,Chairman,Oakland University,,,177721651.0,171571.0,,,Board President,True,
 2007,"Rex E. Schlaybaugh, Jr",Trustee,Oakland University,,Albion 1971 BA; Detroit 1973 JD,177721651.0,171571.0,,,Trustee,True,
+2007,Daniel M. Slane,Chairman,Ohio State University,,"Ohio State 1964 BS, 1967 JD; Amsterdam 1970 MA",52357470.0,204796.0,,,Board President,True,University System of Ohio
+2007,Robert H. Schottenstein,Trustee,Ohio State University,,,52357470.0,204796.0,,,Trustee,True,University System of Ohio
+2007,Walden W. O'Dell,Trustee,Ohio State University,,"St Louis U 1967 BSEE, 1970 MSEE; Stanford 1972 MBA",52357470.0,204796.0,,,Trustee,True,University System of Ohio
+2007,Brian K. Hicks,Trustee,Ohio State University,,Ohio State 1987,52357470.0,204796.0,,,Trustee,True,University System of Ohio
+2007,Dimon R. McFerson,Trustee,Ohio State University,,UCLA 1959 BS; USC 1972 MPA,52357470.0,204796.0,,,Trustee,True,University System of Ohio
+2007,Yoonhee P. Ha,Student Trustee,Ohio State University,,,52357470.0,204796.0,,,Trustee,True,University System of Ohio
+2007,Chad A. Endsley,Student Trustee,Ohio State University,,Ohio State BS,52357470.0,204796.0,,,Trustee,True,University System of Ohio
+2007,The Hon. Robert M. Duncan,Trustee,Ohio State University,,"Ohio State BS, JD",52357470.0,204796.0,,,Trustee,True,University System of Ohio
+2007,Jo Ann Davidson,Trustee,Ohio State University,,,52357470.0,204796.0,,,Trustee,True,University System of Ohio
+2007,Douglas G. Borror,Trustee,Ohio State University,,Ohio State BA,52357470.0,204796.0,,,Trustee,True,University System of Ohio
+2007,Karen L. Hendricks,Trustee,Ohio State University,,,52357470.0,204796.0,,,Trustee,True,University System of Ohio
+2007,Micah Mitchell,Student Trustee,Ohio University,,,4210106879.0,204857.0,,,Trustee,True,University System of Ohio
+2007,Robert D. Walter,Trustee,Ohio University,,Ohio 1967 BSME; Harvard 1970 MBA,4210106879.0,204857.0,,,Trustee,True,University System of Ohio
+2007,C. David Snyder,Trustee,Ohio University,,Ohio 1974 BA,4210106879.0,204857.0,,,Trustee,True,University System of Ohio
+2007,Larry L. Schey,Trustee,Ohio University,,Duke 1976 BA; Harvard 1981 MBA,4210106879.0,204857.0,,,Trustee,True,University System of Ohio
+2007,M. Marnette Perry,Trustee,Ohio University,,,4210106879.0,204857.0,,,Trustee,True,University System of Ohio
+2007,Roderick J. McDavis,Trustee,Ohio University,,,4210106879.0,204857.0,,,Trustee,True,University System of Ohio
+2007,William R. Decatur,Treasurer,Ohio University,,Ohio 1971 BS,4210106879.0,204857.0,,,Other Board Member,True,University System of Ohio
+2007,Gene T. Harris,Trustee,Ohio University,,,4210106879.0,204857.0,,,Trustee,True,University System of Ohio
+2007,Lydia Gerthoffer,Student Trustee,Ohio University,,,4210106879.0,204857.0,,,Trustee,True,University System of Ohio
+2007,Alan H. Geiger,Secretary,Ohio University,,,4210106879.0,204857.0,,,Other Board Member,True,University System of Ohio
+2007,Alan H. Geiger,Assistant To The President,Ohio University,,,4210106879.0,204857.0,,,Board President,True,University System of Ohio
+2007,"Norman E. ""Ned"" Dewire",Trustee,Ohio University,,Ohio 1958 BS; Boston U 1962 MDiv; McCormick Sem 1979 DMin,4210106879.0,204857.0,,,Trustee,True,University System of Ohio
+2007,R. Gregory Browning,Chairman,Ohio University,,,4210106879.0,204857.0,,,Board President,True,University System of Ohio
+2007,C. Robert Kidder,Trustee,Ohio University,,Michigan 1966 BS; Iowa State 1968 MS,4210106879.0,204857.0,,,Trustee,True,University System of Ohio
+2007,Douglas Burns,Regent,Oklahoma State University,,,115475287.0,207388.0,,,Regent,True,Oklahoma State System
+2007,Calvin Anthony,Regent,Oklahoma State University,,,115475287.0,207388.0,,,Regent,True,Oklahoma State System
+2007,James D. Harrel,Regent,Oklahoma State University,,,115475287.0,207388.0,,,Regent,True,Oklahoma State System
+2007,Joe D. Hall,Chairman,Oklahoma State University,,,115475287.0,207388.0,,,Board President,True,Oklahoma State System
+2007,Burns Hargis,Regent,Oklahoma State University,,,115475287.0,207388.0,,,Regent,True,Oklahoma State System
+2007,Fred Harlan,Regent,Oklahoma State University,,,115475287.0,207388.0,,,Regent,True,Oklahoma State System
+2007,Jay Helm,Regent,Oklahoma State University,,,115475287.0,207388.0,,,Regent,True,Oklahoma State System
+2007,Terry L. Peach,Regent,Oklahoma State University,,,115475287.0,207388.0,,,Regent,True,Oklahoma State System
+2007,Lou Watkins,Vice Chairman,Oklahoma State University,,,115475287.0,207388.0,,,Board Vice President,True,Oklahoma State System
+2007,"Bill W. Burgess, Jr",Vice Chairman,Oklahoma State University,,,115475287.0,207388.0,,,Board Vice President,True,Oklahoma State System
+2007,Julie Carson,Regent,Oklahoma State University,,Vanderbilt; Tulsa JD,115475287.0,207388.0,,,Regent,True,Oklahoma State System
+2007,Cheryl P. Hunter,Regent,Oklahoma State University,,,115475287.0,207388.0,,,Regent,True,Oklahoma State System
+2007,John Massey,Chairman,Oklahoma State University,,,115475287.0,207388.0,,,Board President,True,Oklahoma State System
+2007,Joseph L. Parker,Regent,Oklahoma State University,,Nebraska 1969; Oklahoma 1971 MBA,115475287.0,207388.0,,,Regent,True,Oklahoma State System
+2007,William Stuart Price,Assistant Secretary,Oklahoma State University,,,115475287.0,207388.0,,,Other Board Member,True,Oklahoma State System
+2007,Carl R. Renfro,Regent,Oklahoma State University,,,115475287.0,207388.0,,,Regent,True,Oklahoma State System
+2007,Ronald H. White,Secretary,Oklahoma State University,,,115475287.0,207388.0,,,Other Board Member,True,Oklahoma State System
+2007,Claud D. Evans,Regent,Oklahoma State University,,,115475287.0,207388.0,,,Regent,True,Oklahoma State System
 2007,Michael Gimbitsky,Student Representative,Old Dominion University,,,81365321.0,232982.0,,,Other Board Member,True,
 2007,Patricia WoolseySecretary,Board Member,Old Dominion University,,,81365321.0,232982.0,,,Member,True,
 2007,"Harold W. Gehman, Jr., US",Board Member,Old Dominion University,,Penn State BSIE,81365321.0,232982.0,,,Member,True,
@@ -2253,6 +2606,17 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Mark E. Strome,Board Member,Old Dominion University,,,81365321.0,232982.0,,,Member,True,
 2007,Katherine A. Treherne,Board Member,Old Dominion University,,,81365321.0,232982.0,,,Member,True,
 2007,Pamela C. Kirk,Board Member,Old Dominion University,,,81365321.0,232982.0,,,Member,True,
+2007,Mark O. Hatfield,Director,Oregon Health & Science University,,Willamette 1943; Stanford 1948,165690674.0,209490.0,205.0,16624.0,Director,True,
+2007,Keith Thomson,Chairman,Oregon Health & Science University,,,165690674.0,209490.0,211.0,16630.0,Board President,True,
+2007,Meredith Wilson,Director,Oregon Health & Science University,,,165690674.0,209490.0,213.0,16632.0,Director,True,
+2007,Charles Wilhoite,Director,Oregon Health & Science University,,,165690674.0,209490.0,212.0,16631.0,Director,True,
+2007,Kathryn Smith,Medical Resident and Student Director,Oregon Health & Science University,,,165690674.0,209490.0,210.0,16629.0,Director,True,
+2007,Peter O. Kohler,Ex Officio Director,Oregon Health & Science University,,Virginia 1959 BA; Duke 1963 MD,165690674.0,209490.0,209.0,16628.0,"Director, Ex Officio",True,
+2007,Peter O. Kohler,President,Oregon Health & Science University,,Virginia 1959 BA; Duke 1963 MD,165690674.0,209490.0,208.0,16627.0,Board President,True,
+2007,Henry H. Hewitt,Director,Oregon Health & Science University,,Yale 1963 BA; Willamette 1969 JD,165690674.0,209490.0,207.0,16626.0,Director,True,
+2007,Roman D. Hernandez,Director,Oregon Health & Science University,,Oregon State 1992 BS; Lewis & Clark 2000 JD,165690674.0,209490.0,206.0,16625.0,Director,True,
+2007,C. Scott Gibson,Vice Chairman,Oregon Health & Science University,,,165690674.0,209490.0,204.0,16623.0,Board Vice President,True,
+2007,Kirby A. Dyess,Director,Oregon Health & Science University,,Idaho 1968 BS,165690674.0,209490.0,203.0,16622.0,Director,True,
 2007,Ivan G. Seidenberg,Trustee,Pace University,,CUNY 1972 BS; Pace 1980 MBA,126863827.0,194310.0,,,Trustee,True,
 2007,Geroge A.W. Bundschuch,Trustee,Pace University,,,126863827.0,194310.0,,,Trustee,True,
 2007,David A. Caputo,President,Pace University,,,126863827.0,194310.0,,,Board President,True,
@@ -2413,7 +2777,7 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Carl E. saren,Trustee,Rice University,,Rice 1961 BA,74775410.0,227757.0,,,Trustee,True,
 2007,"Robert B. ""Bobby"" Tudor III",Trustee,Rice University,,Rice 1982 BA; Tulane 1987 JD,74775410.0,227757.0,,,Trustee,True,
 2007,L. E. Simmons,Trustee,Rice University,,Utah 1969 BS; London School Econ (UK) 1970; Harvard 1972 MBA,74775410.0,227757.0,,,Trustee,True,
-2007,Marc Shapiro,Trustee,Rice University,,Harvard 1969 AB; Stanford 1971 MBA,74775410.0,227757.0,,,Trustee,True,
+2007,Marc J. Shapiro,Trustee,Rice University,,Harvard 1969 AB; Stanford 1971 MBA,74775410.0,227757.0,,,Trustee,True,
 2007,M. Kenneth Oshman,Trustee,Rice University,,"Rice 1962 BA, 1963 BS; Stanford 1965 MS, 1967 PhD",74775410.0,227757.0,,,Trustee,True,
 2007,Steven L. Miller,Trustee,Rice University,,Illinois 1967 BS,74775410.0,227757.0,,,Trustee,True,
 2007,Robert R. Maxfield,Trustee,Rice University,,"Rice 1963 BA, 1964 BS; Stanford 1966 MS, 1969 PhD",74775410.0,227757.0,,,Trustee,True,
@@ -2429,7 +2793,7 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Vicki Whamond Bretthauer,Trustee,Rice University,,Rice 1979 BA: Northwestern MM,74775410.0,227757.0,,,Trustee,True,
 2007,Alfredo Brener,Trustee,Rice University,,Newbury 1974 BBA,74775410.0,227757.0,,,Trustee,True,
 2007,Albert Y. Chao,Trustee,Rice University,,Brandeis 1970 BA: Columbia 1972 MBA,74775410.0,227757.0,,,Trustee,True,
-2007,Robert L. Clarke,Trustee,Rice University,,Rice 1963 BA; Harvard 1966 LLB,74775410.0,227757.0,,,Trustee,True,
+2007,Robert G. Clark,Trustee,Rice University,,Rice 1963 BA; Harvard 1966 LLB,74775410.0,227757.0,,,Trustee,True,
 2007,Edward A. Dominguez,Trustee,Rice University,,Rice 1982; Baylor 1986 MD,74775410.0,227757.0,,,Trustee,True,
 2007,Bruce W. Dunlevie,Trustee,Rice University,,Rice 1979 BA: Stanford 1984 MBA,74775410.0,227757.0,,,Trustee,True,
 2007,Robert Theron Brockman,Trustee,Rice University,,Florida 1963 BSBA,74775410.0,227757.0,,,Trustee,True,
@@ -2487,6 +2851,45 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,B. Thomas Golisano,Trustee,Rochester Institute Of Technology,,,155173764.0,195003.0,,,Trustee,True,
 2007,Nancy L. Fein,Trustee,Rochester Institute Of Technology,,,155173764.0,195003.0,,,Trustee,True,
 2007,Susan R. Holliday,Trustee,Rochester Institute Of Technology,,,155173764.0,195003.0,,,Trustee,True,
+2007,David H. Koch,Trustee,Rockefeller University,,MIT 1963 MEng,83399316.0,195049.0,,,Trustee,True,
+2007,Henry R. Kravis,Vice Chairman,Rockefeller University,,"Claremont McKenna 1967, Columbia 1967 MBA",83399316.0,195049.0,,,Board Vice President,True,
+2007,Thomas H. Lee,Trustee,Rockefeller University,,Harvard 1965 AB,83399316.0,195049.0,,,Trustee,True,
+2007,Nancy M. Kissinger,Trustee,Rockefeller University,,,83399316.0,195049.0,,,Trustee,True,
+2007,Robin Chemers Neustein,Trustee,Rockefeller University,,"Brown 1975 AB; Northwestern 1979 MBA, 1979 JD",83399316.0,195049.0,,,Trustee,True,
+2007,"Willard J. ""Mike"" Overlock, Jr",Trustee,Rockefeller University,,Columbia 1973 MBA,83399316.0,195049.0,,,Trustee,True,
+2007,Marnie S. Pillsbury,Vice Chairman,Rockefeller University,,,83399316.0,195049.0,,,Board Vice President,True,
+2007,Sidney R. Shuman,Trustee,Rockefeller University,,,83399316.0,195049.0,,,Trustee,True,
+2007,David Rockefeller,Honorary Chairman,Rockefeller University,,,83399316.0,195049.0,,,Board President,True,
+2007,David Rockefeller,Life Trustee,Rockefeller University,,,83399316.0,195049.0,,,Trustee,True,
+2007,Richard G. Rockefeller,Trustee,Rockefeller University,,,83399316.0,195049.0,,,Trustee,True,
+2007,Richard E. Salomon,Vice Chairman,Rockefeller University,,Yale 1964 BA: Columbia 1967 MBA,83399316.0,195049.0,,,Board Vice President,True,
+2007,James H. Simons,Trustee,Rockefeller University,,,83399316.0,195049.0,,,Trustee,True,
+2007,"Frederick A. Terry, Jr",Trustee,Rockefeller University,,,83399316.0,195049.0,,,Trustee,True,
+2007,Lulu Chow Wang,Trustee,Rockefeller University,,Columbia 1983 MS,83399316.0,195049.0,,,Trustee,True,
+2007,"Julian H. Robertson, Jr.",Trustee,Rockefeller University,,,83399316.0,195049.0,,,Trustee,True,
+2007,Sandra J. Horbach,Trustee,Rockefeller University,,Wellesley 1982 BA: Stanford 1987 MBA,83399316.0,195049.0,,,Trustee,True,
+2007,Frank H. Pearl,Trustee,Rockefeller University,,,83399316.0,195049.0,,,Trustee,True,
+2007,Marlene Hess,Trustee,Rockefeller University,,,83399316.0,195049.0,,,Trustee,True,
+2007,David I. Hirsh,Vice Chairman,Rockefeller University,,Rockefeller 1968,83399316.0,195049.0,,,Board Vice President,True,
+2007,Allen R. Adler,Trustee,Rockefeller University,,,83399316.0,195049.0,,,Trustee,True,
+2007,Brooke Astor,Life Trustee,Rockefeller University,,,83399316.0,195049.0,,,Trustee,True,
+2007,Robert Muse Bass,Trustee,Rockefeller University,,Yale 1971: Stanford 1974,83399316.0,195049.0,,,Trustee,True,
+2007,"Edward J. Benz, Jr",Trustee,Rockefeller University,,,83399316.0,195049.0,,,Trustee,True,
+2007,Judith Roth Berkowitz,Trustee,Rockefeller University,,,83399316.0,195049.0,,,Trustee,True,
+2007,David Botstein,Trustee,Rockefeller University,,,83399316.0,195049.0,,,Trustee,True,
+2007,Christopher H. Browne,Trustee,Rockefeller University,,,83399316.0,195049.0,,,Trustee,True,
+2007,Russell L. Carson,Chairman,Rockefeller University,,Dartmouth 1965 AB; Columbia 1967 MBA,83399316.0,195049.0,,,Board President,True,
+2007,Evelyn G. Lipper,Trustee,Rockefeller University,,,83399316.0,195049.0,,,Trustee,True,
+2007,Annette de la Renta,Trustee,Rockefeller University,,,83399316.0,195049.0,,,Trustee,True,
+2007,Anthony B. Evnin,Trustee,Rockefeller University,,Princeton 1962 AB; MIT PhD,83399316.0,195049.0,,,Trustee,True,
+2007,Michael D. Fascitelli,Trustee,Rockefeller University,,,83399316.0,195049.0,,,Trustee,True,
+2007,Peter A. Flaherty,Trustee,Rockefeller University,,,83399316.0,195049.0,,,Trustee,True,
+2007,J. Christopher Flowers,Trustee,Rockefeller University,,,83399316.0,195049.0,,,Trustee,True,
+2007,G. S. Beckwith Gilbert,Trustee,Rockefeller University,,,83399316.0,195049.0,,,Trustee,True,
+2007,Joseph L. Goldstein,Trustee,Rockefeller University,,,83399316.0,195049.0,,,Trustee,True,
+2007,Neva R. Goodwin,Trustee,Rockefeller University,,,83399316.0,195049.0,,,Trustee,True,
+2007,Margaret Ann Hamburg,Trustee,Rockefeller University,,"Harvard 1978 AB, 1983 MD",83399316.0,195049.0,,,Trustee,True,
+2007,D. Ronald Daniel,Trustee,Rockefeller University,,,83399316.0,195049.0,,,Trustee,True,
 2007,Nick L. Petroni,Trustee,Rowan University,,Notre Dame,44265643.0,184782.0,,,Trustee,True,
 2007,Mike Ward,Student Trustee,Rowan University,,,44265643.0,184782.0,,,Trustee,True,
 2007,Virginia Rowan Smith,Trustee,Rowan University,,Cornell BA; UC Berkeley MBA,44265643.0,184782.0,,,Trustee,True,
@@ -2533,7 +2936,7 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,John E. Wade,Trustee,Rutgers State University Of New Jersey,,West Virginia 1965 BS,102322142.0,186380.0,,,Trustee,True,New Jersey University System
 2007,Curtis M. Williams II,Trustee,Rutgers State University Of New Jersey,,,102322142.0,186380.0,,,Trustee,True,New Jersey University System
 2007,George R. Zoffinger,Trustee,Rutgers State University Of New Jersey,,,102322142.0,186380.0,,,Trustee,True,New Jersey University System
-2007,Patrick M. Ryan,Trustee,Rutgers State University Of New Jersey,,,102322142.0,186380.0,,,Trustee,True,New Jersey University System
+2007,Patrick G. Ryan,Trustee,Rutgers State University Of New Jersey,,,102322142.0,186380.0,,,Trustee,True,New Jersey University System
 2007,Iris Martinez-Campbell,Trustee,Rutgers State University Of New Jersey,,"Rutgers 1975 BA, 1981 MSW",102322142.0,186380.0,,,Trustee,True,New Jersey University System
 2007,Robert A. Laudicina,Trustee,Rutgers State University Of New Jersey,,,102322142.0,186380.0,,,Trustee,True,New Jersey University System
 2007,Kevin E. Kennedy,Trustee,Rutgers State University Of New Jersey,,Rutgers 1987 BA: Seton Hall 1990 JD,102322142.0,186380.0,,,Trustee,True,New Jersey University System
@@ -2568,6 +2971,48 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,John J. Hurley,Trustee,Rutgers State University Of New Jersey,,"Rutgers 1972 BA, 1975 MLS",102322142.0,186380.0,,,Trustee,True,New Jersey University System
 2007,Kimberly Banks MacKay,Trustee,Rutgers State University Of New Jersey,,Princeton 1987 AB; Rutgers (Newark) 1995 JD,102322142.0,186380.0,,,Trustee,True,New Jersey University System
 2007,Jeffrey M. Isaacs,Trustee,Rutgers State University Of New Jersey,,Rutgers 1974 BA,102322142.0,186380.0,,,Trustee,True,New Jersey University System
+2007,Mary V. Longrais,Trustee,Saint Louis University,,,47838141.0,179159.0,,,Trustee,True,
+2007,John K. Pruellage,Trustee,Saint Louis University,,,47838141.0,179159.0,,,Trustee,True,
+2007,Paul G. Lorenzini,Trustee,Saint Louis University,,,47838141.0,179159.0,,,Trustee,True,
+2007,"Keith F. Muccino, S.J",Trustee,Saint Louis University,,,47838141.0,179159.0,,,Trustee,True,
+2007,"Rev. Robert L. ""Bob"" Niehoff, S.J",Trustee,Saint Louis University,,,47838141.0,179159.0,,,Trustee,True,
+2007,Tony Novelly,Trustee,Saint Louis University,,,47838141.0,179159.0,,,Trustee,True,
+2007,"Francis O'Donnell, Jr",Trustee,Saint Louis University,,,47838141.0,179159.0,,,Trustee,True,
+2007,Michael D. O'Keefe,Trustee,Saint Louis University,,,47838141.0,179159.0,,,Trustee,True,
+2007,W. Michael Ross,Trustee,Saint Louis University,,,47838141.0,179159.0,,,Trustee,True,
+2007,Eva Frazer,Trustee,Saint Louis University,,,47838141.0,179159.0,,,Trustee,True,
+2007,Nancy Siwak,Trustee,Saint Louis University,,,47838141.0,179159.0,,,Trustee,True,
+2007,Patrick Sly,Trustee,Saint Louis University,,,47838141.0,179159.0,,,Trustee,True,
+2007,James T. Smith,Trustee,Saint Louis University,,,47838141.0,179159.0,,,Trustee,True,
+2007,Robin Smith,Vice Chairman,Saint Louis University,,,47838141.0,179159.0,,,Board Vice President,True,
+2007,Kenneth F. Teasdale,Trustee,Saint Louis University,,,47838141.0,179159.0,,,Trustee,True,
+2007,J. Kim Tucci,Trustee,Saint Louis University,,,47838141.0,179159.0,,,Trustee,True,
+2007,"Daniel P. White, S.J",Trustee,Saint Louis University,,,47838141.0,179159.0,,,Trustee,True,
+2007,"Joseph E. Hasten, Jr",Trustee,Saint Louis University,,,47838141.0,179159.0,,,Trustee,True,
+2007,"James G. Knapp, S.J",Trustee,Saint Louis University,,,47838141.0,179159.0,,,Trustee,True,
+2007,Rex A. Sinquefield,Trustee,Saint Louis University,,,47838141.0,179159.0,,,Trustee,True,
+2007,"E. Edward Kinerk, SJ",Trustee,Saint Louis University,,,47838141.0,179159.0,,,Trustee,True,
+2007,G. Keith Phoenix,Trustee,Saint Louis University,,,47838141.0,179159.0,,,Trustee,True,
+2007,"L. B. Eckelkamp, Jr",Trustee,Saint Louis University,,,47838141.0,179159.0,,,Trustee,True,
+2007,Shaun R. Hayes,Trustee,Saint Louis University,,,47838141.0,179159.0,,,Trustee,True,
+2007,J. Joseph Adorjan,Trustee,Saint Louis University,,,47838141.0,179159.0,,,Trustee,True,
+2007,"John S. AlbericiAndrew F. Alexander, S",Trustee,Saint Louis University,,,47838141.0,179159.0,,,Trustee,True,
+2007,Richard D. Baron,Trustee,Saint Louis University,,,47838141.0,179159.0,,,Trustee,True,
+2007,Barry H. Beracha,Trustee,Saint Louis University,,,47838141.0,179159.0,,,Trustee,True,
+2007,"Lawrence Biondi, SJ",President,Saint Louis University,,,47838141.0,179159.0,,,Board President,True,
+2007,"William A. Blase, Jr",Trustee,Saint Louis University,,,47838141.0,179159.0,,,Trustee,True,
+2007,Oliver C. Boileau,Trustee,Saint Louis University,,,47838141.0,179159.0,,,Trustee,True,
+2007,John M. Bray,Trustee,Saint Louis University,,,47838141.0,179159.0,,,Trustee,True,
+2007,"Lawrence Biondi, SJ",Trustee,Saint Louis University,,,47838141.0,179159.0,,,Trustee,True,
+2007,"Richard O. Buhler, S.J",Trustee,Saint Louis University,,,47838141.0,179159.0,,,Trustee,True,
+2007,"Thomas Dunne, Sr",Trustee,Saint Louis University,,,47838141.0,179159.0,,,Trustee,True,
+2007,"James J. Burshek, S.J",Trustee,Saint Louis University,,,47838141.0,179159.0,,,Trustee,True,
+2007,Robert G. Clark,Trustee,Saint Louis University,,,47838141.0,179159.0,,,Trustee,True,
+2007,Larry L. Cockell,Trustee,Saint Louis University,,,47838141.0,179159.0,,,Trustee,True,
+2007,John M. Cook,Trustee,Saint Louis University,,,47838141.0,179159.0,,,Trustee,True,
+2007,Gerald E. Daniels,Trustee,Saint Louis University,,,47838141.0,179159.0,,,Trustee,True,
+2007,"Thomas H. Brouster, Sr",Trustee,Saint Louis University,,,47838141.0,179159.0,,,Trustee,True,
+2007,"Charles L. Drury, Sr",Trustee,Saint Louis University,,,47838141.0,179159.0,,,Trustee,True,
 2007,The Most Reverend Andrew Pataki,Regent,Seton Hall University,,,12524447.0,186584.0,,,Regent,True,
 2007,Edward Quinn,Regent,Seton Hall University,,,12524447.0,186584.0,,,Regent,True,
 2007,Patrick P. Randazzo,Regent,Seton Hall University,,,12524447.0,186584.0,,,Regent,True,
@@ -2599,6 +3044,16 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Joseph P. La Sala,Regent,Seton Hall University,,,12524447.0,186584.0,,,Regent,True,
 2007,Richard F. Liebler,Regent,Seton Hall University,,,12524447.0,186584.0,,,Regent,True,
 2007,Patricia Cahill,Regent,Seton Hall University,,,12524447.0,186584.0,,,Regent,True,
+2007,"Tonnis H. ""Tony"" Venhuizen",Student Regent,South Dakota University System,,South Dakota State BS,177156846.0,219356.0,,,Regent,True,South Dakota University System
+2007,Randall K. Morris,Vice President,South Dakota University System,,North Dakota State BA; Black Hills State MA,177156846.0,219356.0,,,Board Vice President,True,South Dakota University System
+2007,"Robert T. ""Tad"" Perry",Executive Director,South Dakota University System,,"Central Methodist; Missouri MA, PhD",177156846.0,219356.0,,,Regent,True,South Dakota University System
+2007,Carole Pagones,Regent,South Dakota University System,,Northern State BA; Western Michigan MPA,177156846.0,219356.0,,,Regent,True,South Dakota University System
+2007,Dean M. Krogman,Secretary,South Dakota University System,,"South Dakota State BS, MEd",177156846.0,219356.0,,,Other Board Member,True,South Dakota University System
+2007,Richard G. Belatti,Regent,South Dakota University System,,Col St Thomas BS; South Dakota BS; Creighton MD,177156846.0,219356.0,,,Regent,True,South Dakota University System
+2007,Harvey C. Jewett IV,President,South Dakota University System,,"South Dakota 1970 BA, 1973 JD",177156846.0,219356.0,,,Board President,True,South Dakota University System
+2007,James O. Hansen,Regent,South Dakota University System,,Black Hills State BA: Northern Colorado MA; South Dakota EdD,177156846.0,219356.0,,,Regent,True,South Dakota University System
+2007,Terry D. Baloun,Regent,South Dakota University System,,"Northern State BA, MA",177156846.0,219356.0,,,Regent,True,South Dakota University System
+2007,Kathryn Johnson,Regent,South Dakota University System,,Black Hills State BS; South Dakota Mines PhD,177156846.0,219356.0,,,Regent,True,South Dakota University System
 2007,Stephen Wigginton,Trustee,Southern Illinois University System,,,2801502357.0,149222.0,,,Trustee,True,
 2007,Roger B. Tedrick,Chairman,Southern Illinois University System,,,2801502357.0,149222.0,,,Board President,True,
 2007,John D. Simmons,Secretary,Southern Illinois University System,,,2801502357.0,149222.0,,,Other Board Member,True,
@@ -2608,6 +3063,51 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Christine Guerra,Student Trustee,Southern Illinois University System,,,2801502357.0,149222.0,,,Trustee,True,
 2007,Samuel Goldman,Trustee,Southern Illinois University System,,,2801502357.0,149222.0,,,Trustee,True,
 2007,Jesse Phelps,Student Trustee,Southern Illinois University System,,,2801502357.0,149222.0,,,Trustee,True,
+2007,Alan D. Feld,Trustee,Southern Methodist University,,"Southern Methodist 1957 BA, 1960 LLB",178169726.0,228246.0,,,Trustee,True,
+2007,Gerald J. Ford,Trustee,Southern Methodist University,,"Southern Methodist 1966 BA, 1969 JD",178169726.0,228246.0,,,Trustee,True,
+2007,James R. Gibbs,Trustee,Southern Methodist University,,,178169726.0,228246.0,,,Trustee,True,
+2007,Milledge A. Hart III,Trustee,Southern Methodist University,,,178169726.0,228246.0,,,Trustee,True,
+2007,Liz Healy,Student Representative,Southern Methodist University,,,178169726.0,228246.0,,,Other Board Member,True,
+2007,Liz Healy,Ex Officio Trustee,Southern Methodist University,,,178169726.0,228246.0,,,"Trustee, Ex Officio",True,
+2007,"Ward L. Huey, Jr.",Trustee,Southern Methodist University,,,178169726.0,228246.0,,,Trustee,True,
+2007,Lamar Hunt,Trustee,Southern Methodist University,,,178169726.0,228246.0,,,Trustee,True,
+2007,Ray L. Hunt,Trustee,Southern Methodist University,,,178169726.0,228246.0,,,Trustee,True,
+2007,Gene C. Jones,Trustee,Southern Methodist University,,,178169726.0,228246.0,,,Trustee,True,
+2007,Bishop Scott J. Jones,Trustee,Southern Methodist University,,,178169726.0,228246.0,,,Trustee,True,
+2007,Thomas J. Engibous,Trustee,Southern Methodist University,,,178169726.0,228246.0,,,Trustee,True,
+2007,"Frederick B. Hegi, Jr",Trustee,Southern Methodist University,,,178169726.0,228246.0,,,Trustee,True,
+2007,Juan L. EleK.,Trustee,Southern Methodist University,,,178169726.0,228246.0,,,Trustee,True,
+2007,"Paul B. Loyd, Jr",Trustee,Southern Methodist University,,,178169726.0,228246.0,,,Trustee,True,
+2007,"Robert H. Dedman, Jr",Trustee,Southern Methodist University,,,178169726.0,228246.0,,,Trustee,True,
+2007,Linda Pitts Custard,Trustee,Southern Methodist University,,,178169726.0,228246.0,,,Trustee,True,
+2007,Gary T. Crum,Trustee,Southern Methodist University,,"Southern Methodist 1969 BBA, 1972 MBA",178169726.0,228246.0,,,Trustee,True,
+2007,Rev. W. Mark Craig,Trustee,Southern Methodist University,,,178169726.0,228246.0,,,Trustee,True,
+2007,Jeanne Tower Cox,Trustee,Southern Methodist University,,,178169726.0,228246.0,,,Trustee,True,
+2007,"Donald J. Carty, Jr",Trustee,Southern Methodist University,,Queen's U (Canada) 1968 BA; Harvard 1971 MBA,178169726.0,228246.0,,,Trustee,True,
+2007,Rev. Kirbyjon H. Caldwell,Trustee,Southern Methodist University,,Carleton 1975 BA; Pennsylvania 1977 MBA; Southern Methodist 1981 MTh; Huston-Tillotson 1994 DL; Carleton 1999 DL,178169726.0,228246.0,,,Trustee,True,
+2007,Laura Welch Bush,Trustee,Southern Methodist University,,Southern Methodist BA; Texas MLS,178169726.0,228246.0,,,Trustee,True,
+2007,Bradley W. Brookshire,Trustee,Southern Methodist University,,,178169726.0,228246.0,,,Trustee,True,
+2007,Michael M. Boone,Trustee,Southern Methodist University,,,178169726.0,228246.0,,,Trustee,True,
+2007,Rhonda Blair,Ex Officio Trustee,Southern Methodist University,,,178169726.0,228246.0,,,"Trustee, Ex Officio",True,
+2007,Rhonda Blair,Faculty Representative,Southern Methodist University,,,178169726.0,228246.0,,,Other Board Member,True,
+2007,Ruth Collins Sharp Altshuler,Trustee,Southern Methodist University,,,178169726.0,228246.0,,,Trustee,True,
+2007,Robert A. Leach,Trustee,Southern Methodist University,,,178169726.0,228246.0,,,Trustee,True,
+2007,Frank M. Dunlevy,Trustee,Southern Methodist University,,,178169726.0,228246.0,,,Trustee,True,
+2007,Marcus Malonson,"President, Alumni Association",Southern Methodist University,,,178169726.0,228246.0,,,Board President,True,
+2007,"H. Ross Perot, Jr",Trustee,Southern Methodist University,,,178169726.0,228246.0,,,Trustee,True,
+2007,Marcus Malonson,Ex Officio Trustee,Southern Methodist University,,,178169726.0,228246.0,,,"Trustee, Ex Officio",True,
+2007,Richard J. Wood,Trustee,Southern Methodist University,,,178169726.0,228246.0,,,Trustee,True,
+2007,Richard Ware II,Vice Chairman,Southern Methodist University,,,178169726.0,228246.0,,,Board Vice President,True,
+2007,R. Gerald Turner,Ex Officio Trustee,Southern Methodist University,,,178169726.0,228246.0,,,"Trustee, Ex Officio",True,
+2007,John C. Tolleson,Trustee,Southern Methodist University,,,178169726.0,228246.0,,,Trustee,True,
+2007,Helmut R. Sohmen,Trustee,Southern Methodist University,,,178169726.0,228246.0,,,Trustee,True,
+2007,R. Gerald Turner,President,Southern Methodist University,,,178169726.0,228246.0,,,Board President,True,
+2007,"Carl L. Sewell, Jr.",Chairman,Southern Methodist University,,,178169726.0,228246.0,,,Board President,True,
+2007,William Joel Rainer,Trustee,Southern Methodist University,,,178169726.0,228246.0,,,Trustee,True,
+2007,Caren H. Prothro,Trustee,Southern Methodist University,,,178169726.0,228246.0,,,Trustee,True,
+2007,Jeanne L. Phillips,Trustee,Southern Methodist University,,Southern Methodist BA,178169726.0,228246.0,,,Trustee,True,
+2007,Mark A. Nerio,Secretary,Southern Methodist University,,,178169726.0,228246.0,,,Other Board Member,True,
+2007,Bishop Ann B. Sherer,Trustee,Southern Methodist University,,,178169726.0,228246.0,,,Trustee,True,
 2007,Thomas E. McInerney,Trustee,St Johns University,,St John's U (NY) 1963; NYU,142823887.0,195809.0,,,Trustee,True,
 2007,"Rev. Thomas F. McKenna, CM",Vice Chairman,St Johns University,,,142823887.0,195809.0,,,Board Vice President,True,
 2007,William J. Montgoris,"Career: Chief Operating Officer, Bear Stearns & Co",St Johns University,,,142823887.0,195809.0,,,Trustee,True,
@@ -2683,6 +3183,14 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,"William M. Barnum, Jr",Trustee,Stanford University,,,97018004.0,243744.0,,,Trustee,True,
 2007,Robert Muse Bass,Trustee,Stanford University,,Yale 1971; Stanford 1974,97018004.0,243744.0,,,Trustee,True,
 2007,Peter S. Bing,Trustee,Stanford University,,,97018004.0,243744.0,,,Trustee,True,
+2007,Thomas Doty,Council Member,State University Of New York At Binghamton,,,123946342.0,196079.0,,,Member,True,State University of New York System
+2007,Albert Nocciolino,Council Member,State University Of New York At Binghamton,,,123946342.0,196079.0,,,Member,True,State University of New York System
+2007,James W. Orband,Council Member,State University Of New York At Binghamton,,,123946342.0,196079.0,,,Member,True,State University of New York System
+2007,Brian M. Prew,Council Member,State University Of New York At Binghamton,,Washington U (MO),123946342.0,196079.0,,,Member,True,State University of New York System
+2007,Catherine Schaewe,Council Member,State University Of New York At Binghamton,,,123946342.0,196079.0,,,Member,True,State University of New York System
+2007,Daniel Schofield,Council Member,State University Of New York At Binghamton,,,123946342.0,196079.0,,,Member,True,State University of New York System
+2007,John J. Corrado,Council Member,State University Of New York At Stony Brook,,SUNY (Albany) BS: Denver MA,59553526.0,196097.0,,,Member,True,State University of New York System
+2007,Robert H. Flynn,Council Member,State University Of New York At Stony Brook,,,59553526.0,196097.0,,,Member,True,State University of New York System
 2007,Alyssa Amyotte,"President, Student Assembly",State University Of New York System,,SUNY (Plattsburgh) BA,1327163397.0,,,,Board President,True,State University of New York System
 2007,Alyssa Amyotte,Trustee,State University Of New York System,,SUNY (Plattsburgh) BA,1327163397.0,,,,Trustee,True,State University of New York System
 2007,Aminy I. Audi,Trustee,State University Of New York System,,,1327163397.0,,,,Trustee,True,State University of New York System
@@ -2757,6 +3265,22 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Susanna E. Lachs,Trustee,Temple University,,,84392919.0,216339.0,,,Trustee,True,
 2007,Michael J. Stack III,Commonwealth Trustee,Temple University,,,84392919.0,216339.0,,,Trustee,True,
 2007,Edna S. Tuttleman,Trustee,Temple University,,,84392919.0,216339.0,,,Trustee,True,
+2007,J. Stanley Rogers,Regent,Tennessee Board of Regents,,Mid Tennessee State BS; Vanderbilt JD,63920570.0,221847.0,,,Regent,True,Tennessee Board of Regents
+2007,Judy Gooch,Regent,Tennessee Board of Regents,,,63920570.0,221847.0,,,Regent,True,Tennessee Board of Regents
+2007,Frank Barnett,Regent,Tennessee Board of Regents,,Tennessee JD,63920570.0,221847.0,,,Regent,True,Tennessee Board of Regents
+2007,Agenia Clark,Regent,Tennessee Board of Regents,,"Tennessee BS, MBA",63920570.0,221847.0,,,Regent,True,Tennessee Board of Regents
+2007,Noble Cody,Regent,Tennessee Board of Regents,,,63920570.0,221847.0,,,Regent,True,Tennessee Board of Regents
+2007,Ken Givens,Ex Officio Regent,Tennessee Board of Regents,,"East Tennessee State BA, MA",63920570.0,221847.0,,,"Regent, Ex Officio",True,Tennessee Board of Regents
+2007,Jonas Kisber,Regent,Tennessee Board of Regents,,,63920570.0,221847.0,,,Regent,True,Tennessee Board of Regents
+2007,Fran Marcum,Vice Chairman,Tennessee Board of Regents,,Vanderbilt BS,63920570.0,221847.0,,,Board Vice President,True,Tennessee Board of Regents
+2007,Leslie Parks Pope,Regent,Tennessee Board of Regents,,,63920570.0,221847.0,,,Regent,True,Tennessee Board of Regents
+2007,Richard G. Rhoda,Ex Officio Regent,Tennessee Board of Regents,,"Vanderbilt BA, MA, 1985 PhD",63920570.0,221847.0,,,"Regent, Ex Officio",True,Tennessee Board of Regents
+2007,Howard Roddy,Regent,Tennessee Board of Regents,,Austin Peay State BS; East Tennessee State MS,63920570.0,221847.0,,,Regent,True,Tennessee Board of Regents
+2007,Lana Seivers,Ex Officio Regent,Tennessee Board of Regents,,"Mid Tennessee State BA; Tennessee MA, PhD",63920570.0,221847.0,,,"Regent, Ex Officio",True,Tennessee Board of Regents
+2007,Phil Bredesen,Ex Officio Chairman,Tennessee Board of Regents,,Harvard 1967 AB,63920570.0,221847.0,,,"Board President, Ex Officio",True,Tennessee Board of Regents
+2007,Robert P. Thomas,Regent,Tennessee Board of Regents,,"Vanderbilt 1963 BA, 1965 MA, 1970 JD",63920570.0,221847.0,,,Regent,True,Tennessee Board of Regents
+2007,"William H. Watkins, Jr",Regent,Tennessee Board of Regents,,U Memphis,63920570.0,221847.0,,,Regent,True,Tennessee Board of Regents
+2007,Maxine A. Smith,Regent,Tennessee Board of Regents,,,63920570.0,221847.0,,,Regent,True,Tennessee Board of Regents
 2007,Patricia Penrose Schieffer,Trustee,Texas Christian University,,,128956969.0,228875.0,,,Trustee,True,
 2007,Edgar H. Schollmaier,Trustee,Texas Christian University,,,128956969.0,228875.0,,,Trustee,True,
 2007,Jan Tucker Scully,Alumni Association Trustee,Texas Christian University,,,128956969.0,228875.0,,,Trustee,True,
@@ -2814,6 +3338,45 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Lou Halsell Rodenberger,Regent,Texas Womans University,,,150913223.0,229179.0,,,Regent,True,
 2007,Therese Bartholomew Bevers,Presiding Officer,Texas Womans University,,,150913223.0,229179.0,,,Regent,True,
 2007,Ann Claire Williams,Regent,Texas Womans University,,,150913223.0,229179.0,,,Regent,True,
+2007,Stephen Slogoff,Alumni Trustee,Thomas Jefferson University,,,149251103.0,216366.0,,,Trustee,True,
+2007,Charles J. Stahl III,Alumni Trustee,Thomas Jefferson University,,,149251103.0,216366.0,,,Trustee,True,
+2007,James W. Stratton,Trustee,Thomas Jefferson University,,,149251103.0,216366.0,,,Trustee,True,
+2007,Brian P. Tierney,Trustee,Thomas Jefferson University,,Pennsylvania; Widener JD,149251103.0,216366.0,,,Trustee,True,
+2007,Michael A. Wall,Global Advisory Board Trustee,Thomas Jefferson University,,,149251103.0,216366.0,,,Trustee,True,
+2007,Cuyler H. Walker,Commonwealth Trustee,Thomas Jefferson University,,,149251103.0,216366.0,,,Trustee,True,
+2007,Leslie W. Whitney,Trustee,Thomas Jefferson University,,,149251103.0,216366.0,,,Trustee,True,
+2007,Mrs. Isadore M. Scott,Trustee,Thomas Jefferson University,,,149251103.0,216366.0,,,Trustee,True,
+2007,W. Jeffrey Wadsworth,Trustee,Thomas Jefferson University,,,149251103.0,216366.0,,,Trustee,True,
+2007,Robert Scandone,Commonwealth Trustee,Thomas Jefferson University,,,149251103.0,216366.0,,,Trustee,True,
+2007,Joseph J. McLaughlin,Trustee,Thomas Jefferson University,,,149251103.0,216366.0,,,Trustee,True,
+2007,Alan Rutherford,Trustee,Thomas Jefferson University,,,149251103.0,216366.0,,,Trustee,True,
+2007,Charles G. Kopp,Trustee,Thomas Jefferson University,,,149251103.0,216366.0,,,Trustee,True,
+2007,Rhonda Karp,Alumni Trustee,Thomas Jefferson University,,,149251103.0,216366.0,,,Trustee,True,
+2007,"Ernest E. Jones, Jr.",Trustee,Thomas Jefferson University,,,149251103.0,216366.0,,,Trustee,True,
+2007,Brian G. Harrison,Chairman of the Board and Executive Committee,Thomas Jefferson University,,,149251103.0,216366.0,,,Board President,True,
+2007,Mrs. Samuel M.V. Hamilton,Trustee,Thomas Jefferson University,,,149251103.0,216366.0,,,Trustee,True,
+2007,Jack Farber,Trustee,Thomas Jefferson University,,,149251103.0,216366.0,,,Trustee,True,
+2007,Leonard I. Korman,Trustee,Thomas Jefferson University,,,149251103.0,216366.0,,,Trustee,True,
+2007,Edward C. Driscoll,Trustee,Thomas Jefferson University,,,149251103.0,216366.0,,,Trustee,True,
+2007,Ira Brind,Trustee,Thomas Jefferson University,,,149251103.0,216366.0,,,Trustee,True,
+2007,Kenneth H. Boone,Trustee,Thomas Jefferson University,,Hampton BA; William & Mary JD; Harvard MBA,149251103.0,216366.0,,,Trustee,True,
+2007,Lennox K. Black,Trustee,Thomas Jefferson University,,McGill (Canada) 1952,149251103.0,216366.0,,,Trustee,True,
+2007,David R. Binswanger,Trustee,Thomas Jefferson University,,,149251103.0,216366.0,,,Trustee,True,
+2007,Robert L. Barchi,Trustee,Thomas Jefferson University,,,149251103.0,216366.0,,,Trustee,True,
+2007,Robert L. Barchi,President,Thomas Jefferson University,,,149251103.0,216366.0,,,Board President,True,
+2007,Allen E. Chandler,Alumni Trustee,Thomas Jefferson University,,,149251103.0,216366.0,,,Trustee,True,
+2007,John A. Salvatore,Commonwealth Trustee,Thomas Jefferson University,,,149251103.0,216366.0,,,Trustee,True,
+2007,James E. Ksansnak,Trustee,Thomas Jefferson University,,St Joseph's U 1962 BS,149251103.0,216366.0,,,Trustee,True,
+2007,Josephine C. Mandeville,Trustee,Thomas Jefferson University,,,149251103.0,216366.0,,,Trustee,True,
+2007,Pablo A. Puildo,Global Advisory Board Trustee,Thomas Jefferson University,,,149251103.0,216366.0,,,Trustee,True,
+2007,Jeffrey P. Orleans,Trustee,Thomas Jefferson University,,,149251103.0,216366.0,,,Trustee,True,
+2007,"Thomas B. Morris, Jr",Trustee,Thomas Jefferson University,,,149251103.0,216366.0,,,Trustee,True,
+2007,Tai Joon Moon,Global Advisory Board Trustee,Thomas Jefferson University,,,149251103.0,216366.0,,,Trustee,True,
+2007,Joon S. Moon,Trustee,Thomas Jefferson University,,,149251103.0,216366.0,,,Trustee,True,
+2007,Peter M. Mattoon,Trustee,Thomas Jefferson University,,Dartmouth AB; Harvard 1959 LLB,149251103.0,216366.0,,,Trustee,True,
+2007,John J. Leonard,Commonwealth Trustee,Thomas Jefferson University,,,149251103.0,216366.0,,,Trustee,True,
+2007,Frederick Breitenfeld,Trustee,Thomas Jefferson University,,,149251103.0,216366.0,,,Trustee,True,
+2007,"Douglas J. MacMaster, Jr",Trustee,Thomas Jefferson University,,,149251103.0,216366.0,,,Trustee,True,
 2007,Seth I. Merrin,Trustee,Tufts University,,,121934306.0,168148.0,,,Trustee,True,
 2007,David I. McGrath III,Trustee,Tufts University,,,121934306.0,168148.0,,,Trustee,True,
 2007,Karen Basil Mavrides,Trustee,Tufts University,,,121934306.0,168148.0,,,Trustee,True,
@@ -2854,6 +3417,47 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Brian M. Golden,Trustee,Tufts University,,,121934306.0,168148.0,,,Trustee,True,
 2007,Bernard M. Gordon,Trustee,Tufts University,,,121934306.0,168148.0,,,Trustee,True,
 2007,Peter R. Dolan,Trustee,Tufts University,,,121934306.0,168148.0,,,Trustee,True,
+2007,Radford V. Ewing,Trustee,Union Institute & University,,,204669301.0,206279.0,,,Trustee,True,
+2007,Cheryl M. Foley,Chairman,Union Institute & University,,,204669301.0,206279.0,,,Board President,True,
+2007,Leo Goodman-Malamuth II,Trustee,Union Institute & University,,,204669301.0,206279.0,,,Trustee,True,
+2007,Lisa Lorimer,Trustee,Union Institute & University,,,204669301.0,206279.0,,,Trustee,True,
+2007,Virginia Ruehlmann Wiltse,Trustee,Union Institute & University,,,204669301.0,206279.0,,,Trustee,True,
+2007,George Pruitt,Trustee,Union Institute & University,,Union Inst U PhD,204669301.0,206279.0,,,Trustee,True,
+2007,Roger H. Sublett,President,Union Institute & University,,,204669301.0,206279.0,,,Board President,True,
+2007,Roger H. Sublett,Trustee,Union Institute & University,,,204669301.0,206279.0,,,Trustee,True,
+2007,Christine Van Duelman,Trustee,Union Institute & University,,,204669301.0,206279.0,,,Trustee,True,
+2007,Richard Aft,Trustee,Union Institute & University,,Knox (IL); Chicago; Union Inst U 2000 PhD,204669301.0,206279.0,,,Trustee,True,
+2007,Gerald L. Von Deylen,Trustee,Union Institute & University,,,204669301.0,206279.0,,,Trustee,True,
+2007,Martha Bidez,Trustee,Union Institute & University,,,204669301.0,206279.0,,,Trustee,True,
+2007,Betty J. Overton-Adkins,Trustee,Union Institute & University,,"Tennessee State BA, MA; Vanderbilt PhD",204669301.0,206279.0,,,Trustee,True,
+2007,Kevin M. Bronner,Council Member,University At Albany Suny,,,392282.0,196060.0,,,Member,True,State University of New York System
+2007,Pierre L. Alric,Council Member,University At Albany Suny,,,392282.0,196060.0,,,Member,True,State University of New York System
+2007,Daniel C. Tomson,Council Member,University At Albany Suny,,,392282.0,196060.0,,,Member,True,State University of New York System
+2007,George M. Philip,Chairman,University At Albany Suny,,"SUNY (Albany) BA, MA; Western New England JD",392282.0,196060.0,,,Board President,True,State University of New York System
+2007,"John R. Fallon, Jr",Council Member,University At Albany Suny,,,392282.0,196060.0,,,Member,True,State University of New York System
+2007,Thomas J. Malesky,Council Member,University At Albany Suny,,,392282.0,196060.0,,,Member,True,State University of New York System
+2007,Jeffrey Luks,Alumni Representative,University At Albany Suny,,,392282.0,196060.0,,,Other Board Member,True,State University of New York System
+2007,"Frank T. Gargano, Jr",Council Member,University At Albany Suny,,,392282.0,196060.0,,,Member,True,State University of New York System
+2007,Michael A. Montario,Council Member,University At Albany Suny,,,392282.0,196060.0,,,Member,True,State University of New York System
+2007,Cynthia Ambres,Council Member,University At Buffalo State University Of New York,,,63190737.0,196088.0,,,Member,True,State University of New York System
+2007,Mark J. Czarnecki,Council Member,University At Buffalo State University Of New York,,,63190737.0,196088.0,,,Member,True,State University of New York System
+2007,Jonathan A. Dandes,Council Member,University At Buffalo State University Of New York,,,63190737.0,196088.0,,,Member,True,State University of New York System
+2007,Edmond J. Gicewicz,Council Member,University At Buffalo State University Of New York,,,63190737.0,196088.0,,,Member,True,State University of New York System
+2007,Jeremy M. Jacobs,Council Chairman,University At Buffalo State University Of New York,,,63190737.0,196088.0,,,Board President,True,State University of New York System
+2007,Gerald S. Lippes,Council Member,University At Buffalo State University Of New York,,,63190737.0,196088.0,,,Member,True,State University of New York System
+2007,Victor A. Rice,Council Member,University At Buffalo State University Of New York,,,63190737.0,196088.0,,,Member,True,State University of New York System
+2007,Randall L. Clark,Council Member,University At Buffalo State University Of New York,,,63190737.0,196088.0,,,Member,True,State University of New York System
+2007,Richard W. Pogue,Trustee,University Of Akron,,Cornell BA; Michigan JD,110152177.0,200800.0,,,Trustee,True,University System of Ohio
+2007,"Jack Morrison, Jr.",Trustee,University Of Akron,,,110152177.0,200800.0,,,Trustee,True,University System of Ohio
+2007,Roland H. Bauer,Trustee,University Of Akron,,Wake Forest BA; Ohio State JD,110152177.0,200800.0,,,Trustee,True,University System of Ohio
+2007,Edward L. Bittle,Trustee,University Of Akron,,Akron,110152177.0,200800.0,,,Trustee,True,University System of Ohio
+2007,Ann Amer Brennan,Trustee,University Of Akron,,"Akron BA, JD",110152177.0,200800.0,,,Trustee,True,University System of Ohio
+2007,Howard L. Calhoun,Trustee,University Of Akron,,"Ohio State BS, JD",110152177.0,200800.0,,,Trustee,True,University System of Ohio
+2007,Joe Crawford,Student Trustee,University Of Akron,,,110152177.0,200800.0,,,Trustee,True,University System of Ohio
+2007,William F. Demas,Chairman,University Of Akron,,SUNY (Brooklyn) MD,110152177.0,200800.0,,,Board President,True,University System of Ohio
+2007,Philip S. Kaufmann,Vice Chairman,University Of Akron,,Akron JD,110152177.0,200800.0,,,Board Vice President,True,University System of Ohio
+2007,Deneal Michaels,Student Trustee,University Of Akron,,,110152177.0,200800.0,,,Trustee,True,University System of Ohio
+2007,Chander Mohan,Trustee,University Of Akron,,,110152177.0,200800.0,,,Trustee,True,University System of Ohio
 2007,Frances H. Rose,Regent,University Of Alaska System,,Alaska MA,2802090665.0,,,,Regent,True,University of Alaska System
 2007,Timothy C. Brady,Regent,University Of Alaska System,,Arizona State BA,2802090665.0,,,,Regent,True,University of Alaska System
 2007,Jacob Gondek,Student Regent,University Of Alaska System,,,2802090665.0,,,,Regent,True,University of Alaska System
@@ -2880,6 +3484,12 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Jane Rogers,Secretary,University Of Arkansas System,,,2799691083.0,,,,Other Board Member,True,University of Arkansas System
 2007,Charles EScharlau Ill,Chairman,University Of Arkansas System,,,2799691083.0,,,,Board President,True,University of Arkansas System
 2007,Jim von Gremp,Trustee,University Of Arkansas System,,,2799691083.0,,,,Trustee,True,University of Arkansas System
+2007,Amir Dan Rubin,Chief Operating Officer,University Of California Los Angeles,Ucla Healthcare,,161318765.0,110662.0,233.0,24988.0,Director,True,University of California System
+2007,Vacant,Chief Information Officer,University Of California Los Angeles,Ucla Healthcare,,161318765.0,110662.0,232.0,24986.0,Director,True,University of California System
+2007,David L. Callender,Director,University Of California Los Angeles,Ucla Healthcare,,161318765.0,110662.0,230.0,24982.0,Director,True,University of California System
+2007,Paul Staton,Chief Financial Officer,University Of California Los Angeles,Ucla Healthcare,,161318765.0,110662.0,231.0,24984.0,Director,True,University of California System
+2007,Peter Whybrow,Director,University Of California Los Angeles,Ucla Neuropsychiatric Institute And Hospital,,161318765.0,110662.0,235.0,24994.0,Director,True,University of California System
+2007,Edward R. B. McCabe,Physician-in-Chief,University Of California Los Angeles,Mattel Childrens Hospital,,161318765.0,110662.0,234.0,24993.0,Director,True,University of California System
 2007,Bruce D. Varner,Regent,University Of California System,,,2803209242.0,110398.0,,,Regent,True,University of California System
 2007,Paul D. Wachter,Regent,University Of California System,,UC Santa Barbara 1958 BA; Hastings 1962 JD,2803209242.0,110398.0,,,Regent,True,University of California System
 2007,Arnold Schwarzenegger,President of the Board and Ex Officio,University Of California System,,Wisconsin (Superior) 1980 BA,2803209242.0,110398.0,,,"Board President, Ex Officio",True,University of California System
@@ -2909,6 +3519,19 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Michael L. Browne,Faculty Regent,University Of California System,,,2803209242.0,110398.0,,,Regent,True,University of California System
 2007,Cruz M. Bustamante,Ex Officio Regent,University Of California System,,Cal State (Fresno) BA,2803209242.0,110398.0,,,"Regent, Ex Officio",True,University of California System
 2007,Jefferson Coombs,Ex Officio Regent,University Of California System,,,2803209242.0,110398.0,,,"Regent, Ex Officio",True,University of California System
+2007,Conrad Santiago,Trustee,University Of Central Florida,,Bentley 1983; Col Financial Planning 2000,106165777.0,132903.0,,,Trustee,True,Florida State University System
+2007,Thomas H. Yochum,Vice Chairman,University Of Central Florida,,Rollins 1974 BA,106165777.0,132903.0,,,Board Vice President,True,Florida State University System
+2007,Mark W. White,Student Trustee,University Of Central Florida,,,106165777.0,132903.0,,,Trustee,True,Florida State University System
+2007,Al Weiss,Trustee,University Of Central Florida,,Central Florida 1976 BA: Rollins MA,106165777.0,132903.0,,,Trustee,True,Florida State University System
+2007,Rick Walsh,Trustee,University Of Central Florida,,,106165777.0,132903.0,,,Trustee,True,Florida State University System
+2007,Harris Rosen,Trustee,University Of Central Florida,,Cornell 1961,106165777.0,132903.0,,,Trustee,True,Florida State University System
+2007,Dick Nunis,Chairman,University Of Central Florida,,USC 1955,106165777.0,132903.0,,,Board President,True,Florida State University System
+2007,Phyllis Klock,Trustee,University Of Central Florida,,Bridgewater State 1967,106165777.0,132903.0,,,Trustee,True,Florida State University System
+2007,Alan Florez,Trustee,University Of Central Florida,,,106165777.0,132903.0,,,Trustee,True,Florida State University System
+2007,"Patrick T. ""Pat"" Christiansen",Trustee,University Of Central Florida,,Notre Dame 1969; Harvard 1972 JD,106165777.0,132903.0,,,Trustee,True,Florida State University System
+2007,Manoj Chopra,Trustee,University Of Central Florida,,,106165777.0,132903.0,,,Trustee,True,Florida State University System
+2007,Olga Calvet,Trustee,University Of Central Florida,,Central Florida 1971,106165777.0,132903.0,,,Trustee,True,Florida State University System
+2007,Judy Albertson,Trustee,University Of Central Florida,,Oklahoma 1960,106165777.0,132903.0,,,Trustee,True,Florida State University System
 2007,Harvey B. Plotnick,Trustee,University Of Chicago,,Chicago 1963 BA,40347166.0,144050.0,,,Trustee,True,
 2007,Emily Nicklin,Trustee,University Of Chicago,,"Chicago 1975 BA, 1977 JD",40347166.0,144050.0,,,Trustee,True,
 2007,Joseph Neubauer,Trustee,University Of Chicago,,Tufts 1963 BS: Chicago 1965 MBA,40347166.0,144050.0,,,Trustee,True,
@@ -2960,6 +3583,17 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Mary Louise Gorno,Trustee,University Of Chicago,,St Mary's Col (IN) BA; Northwestern MS; Chicago 1976 MBA,40347166.0,144050.0,,,Trustee,True,
 2007,Rodney L. Goldstein,Trustee,University Of Chicago,,Princeton: Wharton MBA,40347166.0,144050.0,,,Trustee,True,
 2007,King W. Harris,Trustee,University Of Chicago,,"Harvard 1965 BA, 1969 MBA",40347166.0,144050.0,,,Trustee,True,
+2007,Nicholas Furtwengler,Undergraduate Student Trustee,University Of Cincinnati,,,63135867.0,201885.0,,,Trustee,True,University System of Ohio
+2007,C. Francis Barrett,Trustee,University Of Cincinnati,,,63135867.0,201885.0,,,Trustee,True,University System of Ohio
+2007,Anant R. Bhati,Secretary,University Of Cincinnati,,,63135867.0,201885.0,,,Other Board Member,True,University System of Ohio
+2007,Margaret E. Buchanan,Trustee,University Of Cincinnati,,,63135867.0,201885.0,,,Trustee,True,University System of Ohio
+2007,Phillip R. Cox,Chairman,University Of Cincinnati,,Xavier (OH) 1968 BS; Mount St Joseph; Cincinnati Tech,63135867.0,201885.0,,,Board President,True,University System of Ohio
+2007,Daisy Malloy Hamburg,Graduate Student Trustee,University Of Cincinnati,,,63135867.0,201885.0,,,Trustee,True,University System of Ohio
+2007,Gary Heiman,Trustee,University Of Cincinnati,,,63135867.0,201885.0,,,Trustee,True,University System of Ohio
+2007,Sandra W. Heimann,Trustee,University Of Cincinnati,,,63135867.0,201885.0,,,Trustee,True,University System of Ohio
+2007,Thomas H. Humes,Trustee,University Of Cincinnati,,,63135867.0,201885.0,,,Trustee,True,University System of Ohio
+2007,H. C. Niehoff,Trustee,University Of Cincinnati,,,63135867.0,201885.0,,,Trustee,True,University System of Ohio
+2007,Jeffrey L. Wyler,Trustee,University Of Cincinnati,,,63135867.0,201885.0,,,Trustee,True,University System of Ohio
 2007,Christopher L. Bittman,Chief Investment Officer,University Of Colorado System,,,2802236040.0,,,,Other Board Member,True,
 2007,Wayne Hutchens,President,University Of Colorado System,,Colorado 1967,2802236040.0,,,,Board President,True,
 2007,Peter F. Steinhauer,Regent,University Of Colorado System,,Colorado 1958; Missouri (Kansas City) 1962 DDS,2802236040.0,,,,Regent,True,
@@ -3068,6 +3702,19 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Cynthia Primo Martin,Trustee,University Of Delaware,,,86501945.0,130943.0,,,Trustee,True,
 2007,"Robert A. Fischer, Jr",Vice Chairman,University Of Delaware,,,86501945.0,130943.0,,,Board Vice President,True,
 2007,John A. Krol,Trustee,University Of Delaware,,"Education: Tufts 1958 BS, 1959 MS",86501945.0,130943.0,,,Trustee,True,
+2007,Courtney Cunningham,Trustee,University Of Florida,,Howard U 1968,33213144.0,134130.0,,,Trustee,True,Florida State University System
+2007,C. David Brown II,Trustee,University Of Florida,,"Florida 1973 BS, 1978 JD",33213144.0,134130.0,,,Trustee,True,Florida State University System
+2007,Mac McGriff III,Trustee,University Of Florida,,Florida 1969,33213144.0,134130.0,,,Trustee,True,Florida State University System
+2007,Carlos Alfonso,Trustee,University Of Florida,,"Florida 1979, 1985",33213144.0,134130.0,,,Trustee,True,Florida State University System
+2007,Roland Daniels,Trustee,University Of Florida,,,33213144.0,134130.0,,,Trustee,True,Florida State University System
+2007,John Boyles,Student Trustee,University Of Florida,,,33213144.0,134130.0,,,Trustee,True,Florida State University System
+2007,Dianna Morgan,Trustee,University Of Florida,,Rollins 1986,33213144.0,134130.0,,,Trustee,True,Florida State University System
+2007,Cynthia O'Connell,Trustee,University Of Florida,,Florida State 1978,33213144.0,134130.0,,,Trustee,True,Florida State University System
+2007,Earl W. Powell,Trustee,University Of Florida,,Miami 1964,33213144.0,134130.0,,,Trustee,True,Florida State University System
+2007,Kim Tanzer,Faculty Trustee,University Of Florida,,,33213144.0,134130.0,,,Trustee,True,Florida State University System
+2007,Alfred C. Warrington IV,Trustee,University Of Florida,,Florida 1958 BBA,33213144.0,134130.0,,,Trustee,True,Florida State University System
+2007,Joelen Merkel,Trustee,University Of Florida,,Florida 1973,33213144.0,134130.0,,,Trustee,True,Florida State University System
+2007,Manuel A. Fernandez,Trustee,University Of Florida,,"Florida 1967, 1969",33213144.0,134130.0,,,Trustee,True,Florida State University System
 2007,Bobbi McNeil,Regent,University Of Hartford,,Hartford 1994,162281398.0,129525.0,,,Regent,True,
 2007,Stephen F. Moseley,Regent,University Of Hartford,,Hartford 1967,162281398.0,129525.0,,,Regent,True,
 2007,"Joseph E. Mulready, Jr",Regent,University Of Hartford,,Hartford 1971,162281398.0,129525.0,,,Regent,True,
@@ -3134,6 +3781,32 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,"Andres Albano, Jr",Regent,University Of Hawaii System,,"Hawaii BS, MBA",1331384533.0,,,,Regent,True,University of Hawaii System
 2007,Alvin A. Tanaka,Vice Chairman,University Of Hawaii System,,"Hawaii BA, MBA",1331384533.0,,,,Board Vice President,True,University of Hawaii System
 2007,Jane B. Tatibouet,Regent,University Of Hawaii System,,Cornell BS,1331384533.0,,,,Regent,True,University of Hawaii System
+2007,"W. Wilson, Sr",Regent,University Of Houston System,,Houston 1949 BBA,2801525821.0,,,,Regent,True,University of Houston System
+2007,Calvin Stephens,Regent,University Of Houston System,,Houston 1972; Southern Methodist MBA,2801525821.0,,,,Regent,True,University of Houston System
+2007,Lynden B. Rose,Regent,University Of Houston System,,"Houston 1983, 1989 JD",2801525821.0,,,,Regent,True,University of Houston System
+2007,Morgan Dunn O'Connor,Regent,University Of Houston System,,Southern Methodist BBA; St Mary's U JD,2801525821.0,,,,Regent,True,University of Houston System
+2007,L. Robert Johnson,Student Regent,University Of Houston System,,,2801525821.0,,,,Regent,True,University of Houston System
+2007,Leroy L. Hermes,Chairman,University Of Houston System,,Houston 1966 BS,2801525821.0,,,,Board President,True,University of Houston System
+2007,Raul A. Gonzalez,Regent,University Of Houston System,,Texas 1963; Houston 1966 JD; Virginia 1986 MLaws,2801525821.0,,,,Regent,True,University of Houston System
+2007,Michael J. Cemo,Vice Chairman,University Of Houston System,,Houston 1968 BS,2801525821.0,,,,Board Vice President,True,University of Houston System
+2007,Dennis D. Golden,Secretary,University Of Houston System,,"Houston 1976 BS, 1977 DO",2801525821.0,,,,Other Board Member,True,University of Houston System
+2007,Jim P. Wise,Regent,University Of Houston System,,Houston 1966,2801525821.0,,,,Regent,True,University of Houston System
+2007,Robert Vickery,Trustee,University Of Illinois System,,,2801919071.0,,,,Trustee,True,University of Illinois System
+2007,Robert Y. Sperling,Trustee,University Of Illinois System,,,2801919071.0,,,,Trustee,True,University of Illinois System
+2007,Marge Sodemann,Trustee,University Of Illinois System,,,2801919071.0,,,,Trustee,True,University of Illinois System
+2007,Niranjan S. Shah,Trustee,University Of Illinois System,,,2801919071.0,,,,Trustee,True,University of Illinois System
+2007,Umair Mamsa,UIC Student Trustee,University Of Illinois System,,,2801919071.0,,,,Trustee,True,University of Illinois System
+2007,Kenneth M. Schmidt,Trustee,University Of Illinois System,,,2801919071.0,,,,Trustee,True,University of Illinois System
+2007,Lawrence C. Eppley,Chairman,University Of Illinois System,,,2801919071.0,,,,Board President,True,University of Illinois System
+2007,Sarah Doyle,UIS Student Trustee,University Of Illinois System,,,2801919071.0,,,,Trustee,True,University of Illinois System
+2007,David V. Dorris,Trustee,University Of Illinois System,,,2801919071.0,,,,Trustee,True,University of Illinois System
+2007,Frances G. Carroll,Trustee,University Of Illinois System,,,2801919071.0,,,,Trustee,True,University of Illinois System
+2007,Devon C. Bruce,Trustee,University Of Illinois System,,,2801919071.0,,,,Trustee,True,University of Illinois System
+2007,Rod R. Blagojevich,Ex Officio Trustee,University Of Illinois System,,Northwestern 1979 BA; Pepperdine 1983 JD,2801919071.0,,,,"Trustee, Ex Officio",True,University of Illinois System
+2007,Christopher A. Kantas,UIUC Student Trustee,University Of Illinois System,,,2801919071.0,,,,Trustee,True,University of Illinois System
+2007,Sidney S. Micek,President,University Of Illinois System,,,2801919071.0,,,,Board President,True,University of Illinois System
+2007,Penelepe C. Hunt,Vice President,University Of Illinois System,,Northwestern MBA; Pomona BA,2801919071.0,,,,Board Vice President,True,University of Illinois System
+2007,Penelepe C. Hunt,"Associate Chancellor, University Of Illinois At Chicago",University Of Illinois System,,Northwestern MBA; Pomona BA,2801919071.0,,,,Board President,True,University of Illinois System
 2007,Roy L. Moore,Faculty Trustee,University Of Kentucky,,"Kentucky BA, MA, JD",143302722.0,157085.0,,,Trustee,True,
 2007,Barbara Young,Trustee,University Of Kentucky,,Sweet Briar BA,143302722.0,157085.0,,,Trustee,True,
 2007,Russell Williams,Staff Trustee,University Of Kentucky,,"Kentucky BA, MSW",143302722.0,157085.0,,,Trustee,True,
@@ -3230,6 +3903,96 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Lyndel J. Wishcamper,Trustee,University Of Maine System,,Yale BA; Harvard JD,2802397601.0,,,,Trustee,True,University of Maine System
 2007,James D. Mullen,Trustee,University Of Maine System,,"Maine 1972 BA, MBA",2802397601.0,,,,Trustee,True,University of Maine System
 2007,Charles J. O'Leary,Trustee,University Of Maine System,,"Maine BA, MA",2802397601.0,,,,Trustee,True,University of Maine System
+2007,"Ruben Jose King-Shaw, Jr",Trustee,University Of Massachusetts System,,,2802841742.0,,,,Trustee,True,University of Massachusetts System
+2007,Marisha Leiblum,Non-Voting Student,University Of Massachusetts System,,,2802841742.0,,,,Other Board Member,True,University of Massachusetts System
+2007,Robert M. Mahoney,Trustee,University Of Massachusetts System,,Massachusetts 1970: Columbia 1971 MBA,2802841742.0,,,,Trustee,True,University of Massachusetts System
+2007,Aleksandar Kulenovic,Non-Voting Student,University Of Massachusetts System,,,2802841742.0,,,,Other Board Member,True,University of Massachusetts System
+2007,Robert K. Sheridan,Trustee,University Of Massachusetts System,,,2802841742.0,,,,Trustee,True,University of Massachusetts System
+2007,Brian R. Silver,Vice Chairman,University Of Massachusetts System,,,2802841742.0,,,,Board Vice President,True,University of Massachusetts System
+2007,Janet D. Pearl,Trustee,University Of Massachusetts System,,,2802841742.0,,,,Trustee,True,University of Massachusetts System
+2007,William T. O'Shea,Trustee,University Of Massachusetts System,,Northeastern MA,2802841742.0,,,,Trustee,True,University of Massachusetts System
+2007,Robert B. McCarthy,Trustee,University Of Massachusetts System,,,2802841742.0,,,,Trustee,True,University of Massachusetts System
+2007,James J. Karam,Chairman,University Of Massachusetts System,,,2802841742.0,,,,Board President,True,University of Massachusetts System
+2007,Heather M. Makrez,Non-Voting Student,University Of Massachusetts System,,,2802841742.0,,,,Other Board Member,True,University of Massachusetts System
+2007,Karl E. White,Trustee,University Of Massachusetts System,,,2802841742.0,,,,Trustee,True,University of Massachusetts System
+2007,Tamara Endich,Voting Student,University Of Massachusetts System,,,2802841742.0,,,,Other Board Member,True,University of Massachusetts System
+2007,William F. Kennedy,Trustee,University Of Massachusetts System,,,2802841742.0,,,,Trustee,True,University of Massachusetts System
+2007,"Christine K. Cassel, M.D",Trustee,University Of Massachusetts System,,Chicago 1967 AB: Massachusetts 1976 MD,2802841742.0,,,,Trustee,True,University of Massachusetts System
+2007,Matthew E. Carlin,Trustee,University Of Massachusetts System,,,2802841742.0,,,,Trustee,True,University of Massachusetts System
+2007,Lawrence F. Boyle,Trustee,University Of Massachusetts System,,Massachusetts 1973 BA; Suffolk 1978 JD,2802841742.0,,,,Trustee,True,University of Massachusetts System
+2007,Dennis G. Austin,Trustee,University Of Massachusetts System,,,2802841742.0,,,,Trustee,True,University of Massachusetts System
+2007,John A. Armstrong,Trustee,University Of Massachusetts System,,,2802841742.0,,,,Trustee,True,University of Massachusetts System
+2007,John A. DiBiaggio,Trustee,University Of Massachusetts System,,,2802841742.0,,,,Trustee,True,University of Massachusetts System
+2007,"James R. Julian, Jr",Chief Operating Officer (Interim),University Of Massachusetts System,,,2802841742.0,,,,Trustee,True,University of Massachusetts System
+2007,"James R. Julian, Jr",Executive Vice President,University Of Massachusetts System,,,2802841742.0,,,,Board Vice President,True,University of Massachusetts System
+2007,Jorge M. Perez,Trustee,University Of Miami,,Long Island; Michigan,145608581.0,135726.0,,,Trustee,True,
+2007,M. Lee Pearce,Trustee,University Of Miami,,,145608581.0,135726.0,,,Trustee,True,
+2007,Lee J. Osiason,Ex Officio Trustee,University Of Miami,,,145608581.0,135726.0,,,"Trustee, Ex Officio",True,
+2007,Judi Prokop Newman,Trustee,University Of Miami,,,145608581.0,135726.0,,,Trustee,True,
+2007,Jacqueline Nespral,Ex Officio Trustee,University Of Miami,,,145608581.0,135726.0,,,"Trustee, Ex Officio",True,
+2007,William L. Morrison,Trustee,University Of Miami,,,145608581.0,135726.0,,,Trustee,True,
+2007,Rudolph Moise,Ex Officio Trustee,University Of Miami,,,145608581.0,135726.0,,,"Trustee, Ex Officio",True,
+2007,Randall C. Johnson,Alumni Representative,University Of Miami,,,145608581.0,135726.0,,,Other Board Member,True,
+2007,Roger J. Medel,Trustee,University Of Miami,,,145608581.0,135726.0,,,Trustee,True,
+2007,Manuel Kadre,Trustee,University Of Miami,,,145608581.0,135726.0,,,Trustee,True,
+2007,Michael R. Klein,Trustee,University Of Miami,,,145608581.0,135726.0,,,Trustee,True,
+2007,"Bernard J. Kosar, Jr",Trustee,University Of Miami,,,145608581.0,135726.0,,,Trustee,True,
+2007,Robert A. Mann,Trustee,University Of Miami,,,145608581.0,135726.0,,,Trustee,True,
+2007,Aaron Podhurst,Trustee,University Of Miami,,,145608581.0,135726.0,,,Trustee,True,
+2007,Stuart A. Miller,Trustee,University Of Miami,,,145608581.0,135726.0,,,Trustee,True,
+2007,Lois B. Pope,Trustee,University Of Miami,,,145608581.0,135726.0,,,Trustee,True,
+2007,"Steven ""Steve"" Sonberg",Trustee,University Of Miami,,NYU 1969 BS; Miami 1972 JD; NYU 1973 LLM,145608581.0,135726.0,,,Trustee,True,
+2007,Alex E. Rodriguez,Trustee,University Of Miami,,,145608581.0,135726.0,,,Trustee,True,
+2007,Barbara A. Weintraub,Trustee,University Of Miami,,,145608581.0,135726.0,,,Trustee,True,
+2007,Rev. Marta S. Weeks,Vice Chairman,University Of Miami,,,145608581.0,135726.0,,,Board Vice President,True,
+2007,Patricia W. Toppel,Trustee,University Of Miami,,,145608581.0,135726.0,,,Trustee,True,
+2007,Robert C. Strauss,Trustee,University Of Miami,,,145608581.0,135726.0,,,Trustee,True,
+2007,Ronald G. Stone,Trustee,University Of Miami,,,145608581.0,135726.0,,,Trustee,True,
+2007,E. Roe Stamps IV,Trustee,University Of Miami,,"Georgia Tech BS, MS; Harvard MBA",145608581.0,135726.0,,,Trustee,True,
+2007,Dany Garcia Johnson,Trustee,University Of Miami,,Miami 1992,145608581.0,135726.0,,,Trustee,True,
+2007,Harold T. Smith,Trustee,University Of Miami,,Miami 1973 JD,145608581.0,135726.0,,,Trustee,True,
+2007,Laurie S. Silvers,Alumni Representative,University Of Miami,,Miami JD,145608581.0,135726.0,,,Other Board Member,True,
+2007,Donna E. Shalala,Ex Officio Trustee,University Of Miami,,,145608581.0,135726.0,,,"Trustee, Ex Officio",True,
+2007,Donna E. Shalala,President,University Of Miami,,,145608581.0,135726.0,,,Board President,True,
+2007,Frank P. Scruggs II,Trustee,University Of Miami,,,145608581.0,135726.0,,,Trustee,True,
+2007,Eduardo M. Sardina,Trustee,University Of Miami,,,145608581.0,135726.0,,,Trustee,True,
+2007,Carlos A. Saladrigas,Vice Chairman,University Of Miami,,Miami 1971 BBA; Harvard 1975 MBA,145608581.0,135726.0,,,Board Vice President,True,
+2007,Steven J. Saiontz,Trustee,University Of Miami,,Miami 1984 MBA,145608581.0,135726.0,,,Trustee,True,
+2007,Fredric G. Reynolds,Trustee,University Of Miami,,,145608581.0,135726.0,,,Trustee,True,
+2007,Marilyn J. Holifield,Trustee,University Of Miami,,,145608581.0,135726.0,,,Trustee,True,
+2007,Arva Parks McCabe,Trustee,University Of Miami,,,145608581.0,135726.0,,,Trustee,True,
+2007,Barbara Hecht Havenick,Trustee,University Of Miami,,,145608581.0,135726.0,,,Trustee,True,
+2007,"Leonard L. Abess, Jr",Trustee,University Of Miami,,,145608581.0,135726.0,,,Trustee,True,
+2007,Michael I. Abrams,Trustee,University Of Miami,,,145608581.0,135726.0,,,Trustee,True,
+2007,Nittin Aggarwal,Student Trustee,University Of Miami,,,145608581.0,135726.0,,,Trustee,True,
+2007,Stewart L. Appelrouth,Trustee,University Of Miami,,,145608581.0,135726.0,,,Trustee,True,
+2007,Betty G. Amos,Trustee,University Of Miami,,,145608581.0,135726.0,,,Trustee,True,
+2007,Hilarie Bass,Trustee,University Of Miami,,George Washington 1972 BA; Miami 1981 JD,145608581.0,135726.0,,,Trustee,True,
+2007,Joaquin F. Blaya,Trustee,University Of Miami,,,145608581.0,135726.0,,,Trustee,True,
+2007,Norman Braman,Trustee,University Of Miami,,,145608581.0,135726.0,,,Trustee,True,
+2007,Nicholas A. Buoniconti,Trustee,University Of Miami,,,145608581.0,135726.0,,,Trustee,True,
+2007,Alfred R. Camner,Trustee,University Of Miami,,,145608581.0,135726.0,,,Trustee,True,
+2007,Paul L. Cejas,Trustee,University Of Miami,,"Chief Executive Officer, PIC Investments, Inc",145608581.0,135726.0,,,Trustee,True,
+2007,Lewis Hay III,Trustee,University Of Miami,,Lehigh 1977 BS; Carnegie Mellon 1982 MBA,145608581.0,135726.0,,,Trustee,True,
+2007,Wayne E. Chaplin,Trustee,University Of Miami,C Colson,,145608581.0,135726.0,,,Trustee,True,
+2007,Laura G. Coulter-Jones,Chairman,University Of Miami,,,145608581.0,135726.0,,,Board President,True,
+2007,Edward A. Dauer,Trustee,University Of Miami,,,145608581.0,135726.0,,,Trustee,True,
+2007,Gregory M. Cesarano,Ex Officio Trustee,University Of Miami,,Florida 1968 BA; Miami 1976 JD,145608581.0,135726.0,,,"Trustee, Ex Officio",True,
+2007,Paul J. DiMare,Trustee,University Of Miami,,,145608581.0,135726.0,,,Trustee,True,
+2007,Brain A. Hart,Ex Officio Trustee,University Of Miami,,,145608581.0,135726.0,,,"Trustee, Ex Officio",True,
+2007,Rose Ellen Greene,Trustee,University Of Miami,,,145608581.0,135726.0,,,Trustee,True,
+2007,Steven J. Green,Trustee,University Of Miami,,,145608581.0,135726.0,,,Trustee,True,
+2007,Ernesto J. D'Escoubet II,Alumni Representative,University Of Miami,,Miami MS,145608581.0,135726.0,,,Other Board Member,True,
+2007,Phillip T. George,Trustee,University Of Miami,,,145608581.0,135726.0,,,Trustee,True,
+2007,David I. Fuente,Trustee,University Of Miami,,,145608581.0,135726.0,,,Trustee,True,
+2007,Thelma V. A. Gibson,Trustee,University Of Miami,,,145608581.0,135726.0,,,Trustee,True,
+2007,George Feldenkreis,Trustee,University Of Miami,,,145608581.0,135726.0,,,Trustee,True,
+2007,"Enrique C. Falla, Sr",Trustee,University Of Miami,,,145608581.0,135726.0,,,Trustee,True,
+2007,Richard D. Fain,Trustee,University Of Miami,,,145608581.0,135726.0,,,Trustee,True,
+2007,Gloria Estefan,Trustee,University Of Miami,,,145608581.0,135726.0,,,Trustee,True,
+2007,David L. Epstein,Trustee,University Of Miami,,,145608581.0,135726.0,,,Trustee,True,
+2007,Edward W. Easton,Trustee,University Of Miami,,,145608581.0,135726.0,,,Trustee,True,
+2007,Michael B. Fernandez,Trustee,University Of Miami,,,145608581.0,135726.0,,,Trustee,True,
 2007,Katherine E. White,Regent,University Of Michigan,,,27837315.0,170976.0,,,Regent,True,
 2007,S. Martin Taylor,Regent,University Of Michigan,,Western Michigan BS; Detroit Law JD,27837315.0,170976.0,,,Regent,True,
 2007,Andrew C. Richner,Regent,University Of Michigan,,"Michigan 1982 BBA, 1986 JD",27837315.0,170976.0,,,Regent,True,
@@ -3240,6 +4003,16 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Mary Sue Coleman,President,University Of Michigan,,,27837315.0,170976.0,,,Board President,True,
 2007,David A. Brandon,Regent,University Of Michigan,,Michigan 1974 BA,27837315.0,170976.0,,,Regent,True,
 2007,Mary Sue Coleman,Ex Officio Regent,University Of Michigan,,,27837315.0,170976.0,,,"Regent, Ex Officio",True,
+2007,Thomas E. Atkins,Curator,University Of Missouri System,,Southwest Missouri State 1971 BS; Missouri 1974 JD; Miami 1975 LLM,4777552.0,,,,Curator,True,University of Missouri System
+2007,Angela M. Bennett,President,University Of Missouri System,,,4777552.0,,,,Board President,True,University of Missouri System
+2007,Marion H. Cairns,Curator,University Of Missouri System,,,4777552.0,,,,Curator,True,University of Missouri System
+2007,John M. Carnahan III,Curator,University Of Missouri System,,,4777552.0,,,,Curator,True,University of Missouri System
+2007,Maria Curtis,Student Representative to the Board,University Of Missouri System,,,4777552.0,,,,Other Board Member,True,University of Missouri System
+2007,Anne C. Ream,Curator,University Of Missouri System,,,4777552.0,,,,Curator,True,University of Missouri System
+2007,Doug Russell,Curator,University Of Missouri System,,,4777552.0,,,,Curator,True,University of Missouri System
+2007,Don Walsworth,Vice President,University Of Missouri System,,,4777552.0,,,,Board Vice President,True,University of Missouri System
+2007,Cheryl D.S. Walker,Curator,University Of Missouri System,,,4777552.0,,,,Curator,True,University of Missouri System
+2007,David G. Wasinger,Curator,University Of Missouri System,,,4777552.0,,,,Curator,True,University of Missouri System
 2007,"Randolph M. Ferlic, M.D.",Regent,University Of Nebraska System,,,2802450327.0,,,,Regent,True,University of Nebraska System
 2007,Chuck Hassebrook,Regent,University Of Nebraska System,,,2802450327.0,,,,Regent,True,University of Nebraska System
 2007,Clarence Castner,Chief Development Officer,University Of Nebraska System,,,2802450327.0,,,,Regent,True,University of Nebraska System
@@ -3262,6 +4035,49 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Rosalyn Nguyen,Student Regent,University Of New Mexico,,,169521973.0,187985.0,,,Regent,True,
 2007,Sandra K. Begay-Campbell,Treasurer,University Of New Mexico,,,169521973.0,187985.0,,,Other Board Member,True,
 2007,Raymond G. Sanchez,Regent,University Of New Mexico,,,169521973.0,187985.0,,,Regent,True,
+2007,"Charles E. Zeigler, Jr",Trustee,University Of North Carolina At Charlotte,University Of North Carolina At Greensboro,,102149020.0,199139.0,,,Trustee,True,University of North Carolina System
+2007,Ross William McCanless,Trustee,University Of North Carolina At Charlotte,,North Carolina Charlotte BS; Wake Forest JD,102149020.0,199139.0,,,Trustee,True,University of North Carolina System
+2007,Stephanie Hodgin,Ex Officio Trustee,University Of North Carolina At Charlotte,,,102149020.0,199139.0,,,"Trustee, Ex Officio",True,University of North Carolina System
+2007,Stephanie Hodgin,Student Body President,University Of North Carolina At Charlotte,,,102149020.0,199139.0,,,Board President,True,University of North Carolina System
+2007,Dale F. Halton,Trustee,University Of North Carolina At Charlotte,,,102149020.0,199139.0,,,Trustee,True,University of North Carolina System
+2007,Lucinda B. Gantt,Trustee,University Of North Carolina At Charlotte,,,102149020.0,199139.0,,,Trustee,True,University of North Carolina System
+2007,Fredric J. Figge II,Trustee,University Of North Carolina At Charlotte,,,102149020.0,199139.0,,,Trustee,True,University of North Carolina System
+2007,Malcolm E. Everett III,Trustee,University Of North Carolina At Charlotte,,,102149020.0,199139.0,,,Trustee,True,University of North Carolina System
+2007,Lisa Crutchfield,Trustee,University Of North Carolina At Charlotte,,,102149020.0,199139.0,,,Trustee,True,University of North Carolina System
+2007,John G. Cotham,Trustee,University Of North Carolina At Charlotte,,,102149020.0,199139.0,,,Trustee,True,University of North Carolina System
+2007,Norman R. Cohen,Trustee,University Of North Carolina At Charlotte,,,102149020.0,199139.0,,,Trustee,True,University of North Carolina System
+2007,Craig J. Caskie,Trustee,University Of North Carolina At Charlotte,,,102149020.0,199139.0,,,Trustee,True,University of North Carolina System
+2007,Howard C. Bissell,Trustee,University Of North Carolina At Charlotte,,,102149020.0,199139.0,,,Trustee,True,University of North Carolina System
+2007,Irwin Belk,Chairman,University Of North Carolina At Charlotte,,,102149020.0,199139.0,,,Board President,True,University of North Carolina System
+2007,Theresa M. Stone,Trustee,University Of North Carolina At Greensboro,,Wellesley 1966 BA; MIT 1976 SM,169335092.0,199148.0,,,Trustee,True,University of North Carolina System
+2007,Richard L. Moore,Secretary,University Of North Carolina At Greensboro,,Davidson 1972 BA; North Carolina 1975 JD,169335092.0,199148.0,,,Other Board Member,True,University of North Carolina System
+2007,"Thomas Warren Ross, Sr",Chairman,University Of North Carolina At Greensboro,,,169335092.0,199148.0,,,Board President,True,University of North Carolina System
+2007,Jane Preyer,Trustee,University Of North Carolina At Greensboro,,,169335092.0,199148.0,,,Trustee,True,University of North Carolina System
+2007,"William J. Pratt, Jr.",Trustee,University Of North Carolina At Greensboro,,,169335092.0,199148.0,,,Trustee,True,University of North Carolina System
+2007,Richard L. Moore,Trustee,University Of North Carolina At Greensboro,,,169335092.0,199148.0,,,Trustee,True,University of North Carolina System
+2007,Karen McNeil-Miller,Trustee,University Of North Carolina At Greensboro,,"North Carolina Greensboro BS, MEd; Vanderbilt EdD",169335092.0,199148.0,,,Trustee,True,University of North Carolina System
+2007,Stephen C. Hassenfelt,Trustee,University Of North Carolina At Greensboro,,,169335092.0,199148.0,,,Trustee,True,University of North Carolina System
+2007,Carolyn Ferree,Trustee,University Of North Carolina At Greensboro,,,169335092.0,199148.0,,,Trustee,True,University of North Carolina System
+2007,Exandra Dempsey,Trustee,University Of North Carolina At Greensboro,,North Carolina BS; Duke 1985 MBA,169335092.0,199148.0,,,Trustee,True,University of North Carolina System
+2007,Jean E. Davis,Trustee,University Of North Carolina At Greensboro,,,169335092.0,199148.0,,,Trustee,True,University of North Carolina System
+2007,Earlene Hardie Cox,Trustee,University Of North Carolina At Greensboro,,,169335092.0,199148.0,,,Trustee,True,University of North Carolina System
+2007,"F. Hudnall Christopher, Jr.",Trustee,University Of North Carolina At Greensboro,,,169335092.0,199148.0,,,Trustee,True,University of North Carolina System
+2007,Kate R. Barrett,Trustee,University Of North Carolina At Greensboro,,,169335092.0,199148.0,,,Trustee,True,University of North Carolina System
+2007,Wendy F. Murphy,Secretary,University Of North Carolina At Wilmington,,,153901656.0,199218.0,,,Other Board Member,True,University of North Carolina System
+2007,Dennis Worley,Trustee,University Of North Carolina At Wilmington,,Georgia State BS; Georgia Tech MS,153901656.0,199218.0,,,Trustee,True,University of North Carolina System
+2007,Krista S. Tillman,Chairman,University Of North Carolina At Wilmington,,,153901656.0,199218.0,,,Board President,True,University of North Carolina System
+2007,George Teague,Trustee,University Of North Carolina At Wilmington,,,153901656.0,199218.0,,,Trustee,True,University of North Carolina System
+2007,"R. Allen Rippy, Sr",Trustee,University Of North Carolina At Wilmington,,,153901656.0,199218.0,,,Trustee,True,University of North Carolina System
+2007,Linda M. Pearce,Trustee,University Of North Carolina At Wilmington,,,153901656.0,199218.0,,,Trustee,True,University of North Carolina System
+2007,"John A. McNeill, Jr.",Secretary,University Of North Carolina At Wilmington,,,153901656.0,199218.0,,,Other Board Member,True,University of North Carolina System
+2007,M. Terry Coffey,Trustee,University Of North Carolina At Wilmington,,Georgia,153901656.0,199218.0,,,Trustee,True,University of North Carolina System
+2007,Mark W. Lanier,Special Assistant To The Chancellor,University Of North Carolina At Wilmington,,,153901656.0,199218.0,,,Board President,True,University of North Carolina System
+2007,Bradley Ballou,"President, Student Government Association and Ex",University Of North Carolina At Wilmington,,,153901656.0,199218.0,,,Board President,True,University of North Carolina System
+2007,"Jeff D. Etheridge, Jr.",Trustee,University Of North Carolina At Wilmington,,,153901656.0,199218.0,,,Trustee,True,University of North Carolina System
+2007,Mark W. Lanier,Assistant,University Of North Carolina At Wilmington,,,153901656.0,199218.0,,,Trustee,True,University of North Carolina System
+2007,Lee Garret,Trustee,University Of North Carolina At Wilmington,,,153901656.0,199218.0,,,Trustee,True,University of North Carolina System
+2007,Robert S. King,Trustee,University Of North Carolina At Wilmington,,,153901656.0,199218.0,,,Trustee,True,University of North Carolina System
+2007,Charles D. Evans,Vice Chairman,University Of North Carolina At Wilmington,,,153901656.0,199218.0,,,Board Vice President,True,University of North Carolina System
 2007,"Charles H. Mercer, Jr.",Governor,University Of North Carolina System,,Harvard 1984 MPA; Miami 1974 JD; North Carolina 1969 BA; NYU 1977 LLM,4210158053.0,,,,Governor,True,University of North Carolina System
 2007,Fred G. Mills,Governor,University Of North Carolina System,,Wake Forest 1964 BA,4210158053.0,,,,Governor,True,University of North Carolina System
 2007,"Charles S. Norwood, Jr.",Governor,University Of North Carolina System,,North Carolina 1956 BS,4210158053.0,,,,Governor,True,University of North Carolina System
@@ -3295,6 +4111,19 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Hiram Frank Grainger,Governor,University Of North Carolina System,,,4210158053.0,,,,Governor,True,University of North Carolina System
 2007,Peter D. Hans,Governor,University Of North Carolina System,,North Carolina 1991 BA,4210158053.0,,,,Governor,True,University of North Carolina System
 2007,John F. Davis III,Governor,University Of North Carolina System,,Guilford Col 1965 BA; Wake Forest MA,4210158053.0,,,,Governor,True,University of North Carolina System
+2007,Wanyonyi J. Kendrick,Vice Chairman,University Of North Florida,,,11874761.0,136172.0,,,Board Vice President,True,Florida State University System
+2007,Kevin M. Twomey,Trustee,University Of North Florida,,,11874761.0,136172.0,,,Trustee,True,Florida State University System
+2007,R. Bruce Taylor,Chairman,University Of North Florida,,,11874761.0,136172.0,,,Board President,True,Florida State University System
+2007,Joan Wellhouse Newton,Trustee,University Of North Florida,,,11874761.0,136172.0,,,Trustee,True,Florida State University System
+2007,William Klostermeyer,Faculty Trustee,University Of North Florida,,,11874761.0,136172.0,,,Trustee,True,Florida State University System
+2007,Ann C. Hicks,Trustee,University Of North Florida,,,11874761.0,136172.0,,,Trustee,True,Florida State University System
+2007,Carol C. Thompson,Trustee,University Of North Florida,,,11874761.0,136172.0,,,Trustee,True,Florida State University System
+2007,Wilfredo J. Gonzalez,Trustee,University Of North Florida,,Puerto Rico BA,11874761.0,136172.0,,,Trustee,True,Florida State University System
+2007,Edythe M. Abdullah,Trustee,University Of North Florida,,,11874761.0,136172.0,,,Trustee,True,Florida State University System
+2007,Luther W. Coggin,Trustee,University Of North Florida,,,11874761.0,136172.0,,,Trustee,True,Florida State University System
+2007,Steve T. Halverson,Trustee,University Of North Florida,,,11874761.0,136172.0,,,Trustee,True,Florida State University System
+2007,Justin Damiano,Student Trustee,University Of North Florida,,,11874761.0,136172.0,,,Trustee,True,Florida State University System
+2007,Toni Crawford,Trustee,University Of North Florida,,,11874761.0,136172.0,,,Trustee,True,Florida State University System
 2007,Gary M. Reiff,Trustee,University Of Northern Colorado,,"1981 BA, 1981 MA; Harvard 1984 JD",71966907.0,127741.0,,,Trustee,True,
 2007,Jerry Bryant,Vice Chairman,University Of Northern Colorado,,Missouri BS,71966907.0,127741.0,,,Board Vice President,True,
 2007,Gil Carbajal,Trustee,University Of Northern Colorado,,Northern Colorado BA: Colorado State MAPhD,71966907.0,127741.0,,,Trustee,True,
@@ -3357,6 +4186,22 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Marye Anne Fox,Trustee,University Of Notre Dame,,Notre Dame Col (OH) 1969 BSChem; Cleveland State 1970 MS: Dartmouth 1974 PhD,107639228.0,152080.0,,,Trustee,True,
 2007,W. Douglas Ford,Trustee,University Of Notre Dame,,Notre Dame; Northwestern PhD,107639228.0,152080.0,,,Trustee,True,
 2007,William M. Goodyear,Trustee,University Of Notre Dame,,Notre Dame; Dartmouth MBA,107639228.0,152080.0,,,Trustee,True,
+2007,James D. Harrel,Regent,University Of Oklahoma,,,8692664.0,207500.0,,,Regent,True,Oklahoma State System
+2007,Carl R. Renfro,Regent,University Of Oklahoma,,,8692664.0,207500.0,,,Regent,True,Oklahoma State System
+2007,William Stuart Price,Assistant Secretary,University Of Oklahoma,,,8692664.0,207500.0,,,Other Board Member,True,Oklahoma State System
+2007,Joseph L. Parker,Regent,University Of Oklahoma,,Nebraska 1969; Oklahoma 1971 MBA,8692664.0,207500.0,,,Regent,True,Oklahoma State System
+2007,Phil Moss,Interim Chancellor,University Of Oklahoma,,Oklahoma MEd. PhD,8692664.0,207500.0,,,Board President,True,Oklahoma State System
+2007,John Massey,Chairman,University Of Oklahoma,,,8692664.0,207500.0,,,Board President,True,Oklahoma State System
+2007,Cheryl P. Hunter,Regent,University Of Oklahoma,,,8692664.0,207500.0,,,Regent,True,Oklahoma State System
+2007,Julie Carson,Regent,University Of Oklahoma,,Vanderbilt: Tulsa JD,8692664.0,207500.0,,,Regent,True,Oklahoma State System
+2007,John M. Bell,Regent,University Of Oklahoma,,"Oklahoma 1983 BS, 1987 MD",8692664.0,207500.0,,,Regent,True,Oklahoma State System
+2007,A. Max Weitzenhoffer,Regent,University Of Oklahoma,,Oklahoma BFA,8692664.0,207500.0,,,Regent,True,Oklahoma State System
+2007,Larry Wade,Regent,University Of Oklahoma,,Oklahoma BA,8692664.0,207500.0,,,Regent,True,Oklahoma State System
+2007,Jon Rolf Stuart,Regent,University Of Oklahoma,,,8692664.0,207500.0,,,Regent,True,Oklahoma State System
+2007,Leslie J. Rainbolt-Forbes,Regent,University Of Oklahoma,,Tulane 1980 BA; Thunderbird 1984 MBA; Oklahoma 1994,8692664.0,207500.0,,,Regent,True,Oklahoma State System
+2007,Tom Clark,Vice Chairman,University Of Oklahoma,,Oklahoma 1963 BBA,8692664.0,207500.0,,,Board Vice President,True,Oklahoma State System
+2007,Paul D. Austin,Chairman,University Of Oklahoma,,"Oklahoma 1961 BBA, 1963 MBA",8692664.0,207500.0,,,Board President,True,Oklahoma State System
+2007,"Bill W. Burgess, Jr",Vice Chairman,University Of Oklahoma,,,8692664.0,207500.0,,,Board Vice President,True,Oklahoma State System
 2007,Steven F. Leer,Regent,University Of Pacific,,U Pacific 1975 BS; Washington U (MO) 1977 MBA,119942576.0,120883.0,,,Regent,True,
 2007,Robert T. Monagan,Regent,University Of Pacific,,,119942576.0,120883.0,,,Regent,True,
 2007,Hayne R. Moyer,Regent,University Of Pacific,,,119942576.0,120883.0,,,Regent,True,
@@ -3387,6 +4232,122 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Steven J. Goulart,Regent,University Of Pacific,,,119942576.0,120883.0,,,Regent,True,
 2007,Kathleen Lagorio Janssen,Treasurer,University Of Pacific,,,119942576.0,120883.0,,,Other Board Member,True,
 2007,Robert Corkern,Regent,University Of Pacific,,,119942576.0,120883.0,,,Regent,True,
+2007,Jay S. Fishman,Trustee,University Of Pennsylvania,,"Pennsylvania 1974 BS, 1976 MS",79576946.0,215062.0,,,Trustee,True,
+2007,"Robert A. Gleason, Jr.",Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,Amy Gutmann,President,University Of Pennsylvania,,,79576946.0,215062.0,,,Board President,True,
+2007,Amy Gutmann,Ex Officio Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,"Trustee, Ex Officio",True,
+2007,"Jon M. Huntsman, Jr",Vice Chairman,University Of Pennsylvania,,Pennsylvania BS,79576946.0,215062.0,,,Board Vice President,True,
+2007,Andrew R. Heyer,Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,Wendy Evans Joseph,Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,Michael A. Karp,Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,Paul K. Kelly- True,Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,William P. Egan Il,Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,Alan G. Hassenfeld,Trustee,University Of Pennsylvania,,Pennsylvania 1970 BA,79576946.0,215062.0,,,Trustee,True,
+2007,"James D. Dunning, Jr",Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,Scott L. Bok,Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,Susan F. Danilow,Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,David L. Cohen,Trustee,University Of Pennsylvania,,Swarthmore 1977 BA; Pennsylvania 1981 JD,79576946.0,215062.0,,,Trustee,True,
+2007,L. John Clark,Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,Susan W. Catherwood,Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,Mitchell J. Blutt,Trustee,University Of Pennsylvania,,"Pennsylvania BA, MD; Wharton MBA",79576946.0,215062.0,,,Trustee,True,
+2007,Laurie J. Landeau,Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,Gilbert F. Casellas,Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,Robert S. Blank,Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,Ann Pfeifer,"Residency Coordinator, Library",University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,Arthur H. Rubenstein,"Executive Vice President, Health System",University Of Pennsylvania,School Of Medicine,,79576946.0,215062.0,,,Board Vice President,True,
+2007,Arthur H. Rubenstein,"Executive Vice President, Health System",University Of Pennsylvania,University Of Pennsylvania Medical Center,,79576946.0,215062.0,,,Board Vice President,True,
+2007,Ralph W. Muller,"Chief Executive Officer, University of Pennsylvania Medical Center, Health System and Hospital",University Of Pennsylvania,University Of Pennsylvania Medical Center,Syracuse BA: Harvard MA,79576946.0,215062.0,,,Other Board Member,True,
+2007,Lee Spelman Doty,Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,William P. Lauder,Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,Edward J. Mathias,Trustee,University Of Pennsylvania,,Pennsylvania; Harvard MBA,79576946.0,215062.0,,,Trustee,True,
+2007,Robert M. Levy,Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,Mark O. Winkelman,Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,Paul C. Williams,Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,George A. Weiss,Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,Susan C. Taylor,Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,David W. Sweet,Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,J. Peter Skirkanich,Trustee,University Of Pennsylvania,,Wharton,79576946.0,215062.0,,,Trustee,True,
+2007,Henry R. Silverman,Trustee,University Of Pennsylvania,,Williams 1961 BA; Pennsylvania 1964 JD,79576946.0,215062.0,,,Trustee,True,
+2007,David M. Silfen,Trustee,University Of Pennsylvania,,Columbia 1968 MBA,79576946.0,215062.0,,,Trustee,True,
+2007,Alvin V. Shoemaker,Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,Leonard A. Shapiro,Trustee,University Of Pennsylvania,,Wharton 1960 BS,79576946.0,215062.0,,,Trustee,True,
+2007,Marie A. Savard,Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,Katherine Stein Sachs,Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,Paul F. Levy,Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,James S. Riepe,Chairman,University Of Pennsylvania,,"Pennsylvania 1965 BS, 1967 MBA",79576946.0,215062.0,,,Board President,True,
+2007,"Andrew S. ""Andy"" Rachleff",Trustee,University Of Pennsylvania,,Pennsylvania 1980 BS; Stanford 1984 MBA,79576946.0,215062.0,,,Trustee,True,
+2007,Julie Beren Platt,Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,Richard C. Perry,Trustee,University Of Pennsylvania,,Wharton 1977 BS; Stern 1980 MBA,79576946.0,215062.0,,,Trustee,True,
+2007,Egbert L. J. Perry,Trustee,University Of Pennsylvania,,Pennsylvania 1976 BSCE; Wharton 1978 MBA; Pennsylvania 1979 MSCE,79576946.0,215062.0,,,Trustee,True,
+2007,Ronald O. Perelman,Trustee,University Of Pennsylvania,,"Pennsylvania 1964 BA, 1966 MBA",79576946.0,215062.0,,,Trustee,True,
+2007,Andrea Mitchell,Trustee,University Of Pennsylvania,,Pennsylvania BA,79576946.0,215062.0,,,Trustee,True,
+2007,Vanda McMurtry,"Vice President, Government and Community Affairs",University Of Pennsylvania,,"UC Irvine 1972 BA; Cornell 1976 MA, 1979 PhD; Johns Hopkins 1980 MAS; Georgetown 1984 JD",79576946.0,215062.0,,,Board Vice President,True,
+2007,Deborah Marrow,Trustee,University Of Pennsylvania,,Pennsylvania BA; Johns Hopkins MA; Pennsylvania PhD,79576946.0,215062.0,,,Trustee,True,
+2007,Howard S. Marks,Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,Arthur Makadon,Trustee,University Of Pennsylvania,,Penn State 1964 BA; Pennsylvania 1967 LLB,79576946.0,215062.0,,,Trustee,True,
+2007,William L. Mack,Trustee,University Of Pennsylvania,,NYU BSBA; Pennsylvania 1961,79576946.0,215062.0,,,Trustee,True,
+2007,Carolyn Hoff Lynch,Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,Edward G. Rendell,Ex Officio Trustee,University Of Pennsylvania,,Pennsvlvania 1965 BA; Villanova 1968 JD,79576946.0,215062.0,,,"Trustee, Ex Officio",True,
+2007,Leslie Laird Kruhly,Secretary of the University,University Of Pennsylvania,,,79576946.0,215062.0,,,Other Board Member,True,
+2007,Mitchell I. Quain,Trustee,University Of Pennsylvania,,Pennsylvania 1973; Harvard MBA,79576946.0,215062.0,,,Trustee,True,
+2007,Paul Cribbins,"Assistant Vice President, Commonwealth Relations",University Of Pennsylvania,,,79576946.0,215062.0,,,Board Vice President,True,
+2007,Brett E. Wilcox,Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,"Harriett ""Tee"" Taggart",Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,Alice Larkin Steiner,Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,Gary E. Rieschel,Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,Roger M. Perlmutter,Trustee,University Of Pennsylvania,,"Reed 1973; Washington U (MO) 1979 MD, 1979 PhD",79576946.0,215062.0,,,Trustee,True,
+2007,Marshall W. Pagon,Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,Margaret HIll Noto!,Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,Peter Norton,Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,Steven D. McGeady,Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,Sally M. McCracken,Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,Linda H. Matthews,Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,Alex J. Martinez,Trustee,University Of Pennsylvania,,"Colorado 1973 BA, 1976 JD",79576946.0,215062.0,,,Trustee,True,
+2007,Richard H. Wollenberg,Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,Anna Hayes Levin,Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,Jeffrey L. Kenner,Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,George M. James,Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,Barbara S. Isgur,Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,Linda C. Howard,Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,Philip M. Hawley,Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,Daniel B. Greenberg,Chairman,University Of Pennsylvania,,,79576946.0,215062.0,,,Board President,True,
+2007,Morris J. Galen,Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,Michele L. Jonsson Funk,Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,Donald M. Engelman,Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,Donald M. Engelman,President,University Of Pennsylvania,,,79576946.0,215062.0,,,Board President,True,
+2007,Colin S. Diver,Trustee,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,Kristin A. Gilbertson,Chief Investment Officer,University Of Pennsylvania,,Harvard 1987 BA; Stanford 1992 MBA,79576946.0,215062.0,,,Other Board Member,True,
+2007,E. Randolph Labbe,Secretary,University Of Pennsylvania,,,79576946.0,215062.0,,,Other Board Member,True,
+2007,Amy Gutmann,President,University Of Pennsylvania,,Radcliffe 1971 BA; London School Econ (UK) 1972 MSc; Harvard 1976 PhD,79576946.0,215062.0,,,Board President,True,
+2007,Stephen R. McCarthy,Vice Chairman,University Of Pennsylvania,,,79576946.0,215062.0,,,Board Vice President,True,
+2007,Joann Mitchell,Vice President,University Of Pennsylvania,,Davidson; Vanderbilt,79576946.0,215062.0,,,Board Vice President,True,
+2007,Glenn Bryan,"Director, Community Relations",University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,Joann Mitchell,Chief Of Staff,University Of Pennsylvania,,Davidson; Vanderbilt,79576946.0,215062.0,,,Trustee,True,
+2007,Mary Lee Brown,"Associate Vice President, Audit, Compliance and Privacy",University Of Pennsylvania,,,79576946.0,215062.0,,,Board Vice President,True,
+2007,Ira Harkavy,"Director, Center For Community Partnerships",University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,Ira Harkavy,Associate Vice President,University Of Pennsylvania,,,79576946.0,215062.0,,,Board Vice President,True,
+2007,Michael E. Harris,Associate Vice President,University Of Pennsylvania,,,79576946.0,215062.0,,,Board Vice President,True,
+2007,Jo Ann McCarthy,Assistant Provost. International Affairs,University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,Valarie Swain Cade McCoullum,"Vice Provost, University Life",University Of Pennsylvania,,,79576946.0,215062.0,,,Trustee,True,
+2007,H. Carton Rogers I.,"Director, Libraries",University Of Pennsylvania,,Drexel 1973 MLS; Marietta 1970 BA,79576946.0,215062.0,,,Trustee,True,
+2007,H. Carton Rogers I.,Vice Provost,University Of Pennsylvania,,Drexel 1973 MLS; Marietta 1970 BA,79576946.0,215062.0,,,Trustee,True,
+2007,Lori Doyle,"Vice President, University Communications",University Of Pennsylvania,,,79576946.0,215062.0,,,Board Vice President,True,
+2007,Maureen Rush,"Vice President, Public Safety",University Of Pennsylvania,,,79576946.0,215062.0,,,Board Vice President,True,
+2007,Robin Beck,"Vice President, Information Systems and Computing",University Of Pennsylvania,,,79576946.0,215062.0,,,Board Vice President,True,
+2007,Glenn Bryan,Assistant Vice President,University Of Pennsylvania,,,79576946.0,215062.0,,,Board Vice President,True,
+2007,Scott R. Douglass,Treasurer,University Of Pennsylvania,,Delaware,79576946.0,215062.0,,,Other Board Member,True,
+2007,John J. Heuer,"Vice President, Human Resources",University Of Pennsylvania,,,79576946.0,215062.0,,,Board Vice President,True,
+2007,"Dr. Ronald Joel ""Ron"" Daniels",Provost,University Of Pennsylvania,,"Toronto 1982 BA, 1986 JD; Yale 1988 LLM",79576946.0,215062.0,,,Trustee,True,
+2007,Arthur H. Rubenstein,"Executive Vice President, Health System",University Of Pennsylvania,School Of Medicine,U Witwatersrand (South Africa) MD,79576946.0,215062.0,,,Board Vice President,True,
+2007,Arthur H. Rubenstein,Dean,University Of Pennsylvania,School Of Medicine,U Witwatersrand (South Africa) MD,79576946.0,215062.0,,,Trustee,True,
+2007,Wendy S. White,Senior Vice President,University Of Pennsylvania,,,79576946.0,215062.0,,,Board Vice President,True,
+2007,Wendy S. White,General Counsel,University Of Pennsylvania,,,79576946.0,215062.0,,,Other Board Member,True,
+2007,Craig R. Carnaroli,Executive Vice President,University Of Pennsylvania,,Wharton 1985 BS; Stanford MBA,79576946.0,215062.0,,,Board Vice President,True,
+2007,Marie Witt,"Vice President, Business Services",University Of Pennsylvania,,Pennsylvania,79576946.0,215062.0,,,Board Vice President,True,
+2007,John H. Zeller,"Vice President, Development and Alumni Relations",University Of Pennsylvania,,Elmira,79576946.0,215062.0,,,Board Vice President,True,
+2007,Anne Papageorge,"Vice President, Facilities and Real Estate Services",University Of Pennsylvania,,SUNY Environmental BLA; Baruch Col MBA,79576946.0,215062.0,,,Board Vice President,True,
+2007,Scott R. Douglass,"Vice President, Finance",University Of Pennsylvania,,Delaware,79576946.0,215062.0,,,Board Vice President,True,
+2007,Bonnie C. Gibson,"Vice President, Budget and Management Analysis",University Of Pennsylvania,,Muhlenberg AB; NYU MA; Temple MBA,79576946.0,215062.0,,,Board Vice President,True,
 2007,William E. Trueheart,Trustee,University Of Pittsburgh,,Connecticut BA: Harvard 1973 MPA 1979 EdD,170201317.0,215293.0,,,Trustee,True,
 2007,"George L. Miles, Jr.",Trustee,University Of Pittsburgh,,,170201317.0,215293.0,,,Trustee,True,
 2007,Marlee Myers,Trustee,University Of Pittsburgh,,,170201317.0,215293.0,,,Trustee,True,
@@ -3495,6 +4456,52 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Darlene Marcos Shiley,Trustee,University Of San Diego,,,160856358.0,122436.0,,,Trustee,True,
 2007,Frank D. Alessio,Trustee,University Of San Diego,,,160856358.0,122436.0,,,Trustee,True,
 2007,Manuel Barba,Trustee,University Of San Diego,,,160856358.0,122436.0,,,Trustee,True,
+2007,Alfonso T. Yuchengco,Trustee,University Of San Francisco,,Columbia 1950 MBA,76766440.0,122612.0,,,Trustee,True,
+2007,Lawrence R. O'Connor,Trustee,University Of San Francisco,,,76766440.0,122612.0,,,Trustee,True,
+2007,"Rev. Patrick B. O'Leary, S.J",Trustee,University Of San Francisco,,,76766440.0,122612.0,,,Trustee,True,
+2007,"Rev. Mario J. Prietto, S.J",Rector,University Of San Francisco,,,76766440.0,122612.0,,,Other Board Member,True,
+2007,"Rev. Mario J. Prietto, S.J",Trustee,University Of San Francisco,,,76766440.0,122612.0,,,Trustee,True,
+2007,"Rev. Stephen A. Privett, S.J",President,University Of San Francisco,,,76766440.0,122612.0,,,Board President,True,
+2007,"Rev. Stephen A. Privett, S.J",Trustee,University Of San Francisco,,,76766440.0,122612.0,,,Trustee,True,
+2007,"Mark Ravizza, S.J",Trustee,University Of San Francisco,,Stanford; Yale PhD; Jesuit Berkeley MDiv,76766440.0,122612.0,,,Trustee,True,
+2007,"Gregory Chisholm, S.J",Trustee,University Of San Francisco,,,76766440.0,122612.0,,,Trustee,True,
+2007,Steven Read,Trustee,University Of San Francisco,,,76766440.0,122612.0,,,Trustee,True,
+2007,Maria P. Rivera,Trustee,University Of San Francisco,,Smith BA; U San Francisco JD,76766440.0,122612.0,,,Trustee,True,
+2007,"Rev. Thomas J. Scirghi, S.J",Trustee,University Of San Francisco,,,76766440.0,122612.0,,,Trustee,True,
+2007,"Rev. Michael J. Sheeran, S.J.",Trustee,University Of San Francisco,,"St Louis U 1963 AB, 1964, 1967 AM, 1971 AM; Princeton 1977 PhD",76766440.0,122612.0,,,Trustee,True,
+2007,Charles H. Smith,Trustee,University Of San Francisco,,,76766440.0,122612.0,,,Trustee,True,
+2007,Suzanne Troxel,Trustee,University Of San Francisco,,,76766440.0,122612.0,,,Trustee,True,
+2007,Steven P. Westly,Trustee,University Of San Francisco,,"Stanford BA, MBA",76766440.0,122612.0,,,Trustee,True,
+2007,Teresa J. Win,Trustee,University Of San Francisco,,,76766440.0,122612.0,,,Trustee,True,
+2007,"John J. O'Callaghan, S.J",Trustee,University Of San Francisco,,,76766440.0,122612.0,,,Trustee,True,
+2007,Claudio M. Chiuchiarelli,Vice Chairman,University Of San Francisco,,U San Francisco 1979,76766440.0,122612.0,,,Board Vice President,True,
+2007,John F. Nicolai,Trustee,University Of San Francisco,,,76766440.0,122612.0,,,Trustee,True,
+2007,Joan M. McGrath,Trustee,University Of San Francisco,,,76766440.0,122612.0,,,Trustee,True,
+2007,Francis Butler,Trustee,University Of San Francisco,,U San Francisco 1970 MA; Catholic U PhD,76766440.0,122612.0,,,Trustee,True,
+2007,Alfred S. Chuang,Trustee,University Of San Francisco,,U San Francisco 1982 BS; UC Davis 1986 MS,76766440.0,122612.0,,,Trustee,True,
+2007,Arthur A. Ciocca,Trustee,University Of San Francisco,,,76766440.0,122612.0,,,Trustee,True,
+2007,Jeanne M. Cunicelli,Trustee,University Of San Francisco,,,76766440.0,122612.0,,,Trustee,True,
+2007,Ricky J. Curotto,Trustee,University Of San Francisco,,,76766440.0,122612.0,,,Trustee,True,
+2007,"Rev. John P. Fitzgibbons, SJ",Trustee,University Of San Francisco,,,76766440.0,122612.0,,,Trustee,True,
+2007,"Rev. Jon D. Fuller, S.J",Trustee,University Of San Francisco,,,76766440.0,122612.0,,,Trustee,True,
+2007,Charles M. Geschke,Chairman,University Of San Francisco,,Xavier (OH); Carnegie Mellon PhD,76766440.0,122612.0,,,Board President,True,
+2007,Patrick McNicholas,Trustee,University Of San Francisco,,U San Francisco 1983,76766440.0,122612.0,,,Trustee,True,
+2007,Suzanne M. Giraudo,Trustee,University Of San Francisco,,,76766440.0,122612.0,,,Trustee,True,
+2007,"Brother Jim Holub, S.J.",Trustee,University Of San Francisco,,,76766440.0,122612.0,,,Trustee,True,
+2007,Martin J. Jenkins,Trustee,University Of San Francisco,,Santa Clara 1976 BA; U San Francisco 1980 JD,76766440.0,122612.0,,,Trustee,True,
+2007,Wayne E. Jerves,Trustee,University Of San Francisco,,,76766440.0,122612.0,,,Trustee,True,
+2007,Oliver T. Johnson,Trustee,University Of San Francisco,,U San Francisco 1965,76766440.0,122612.0,,,Trustee,True,
+2007,Peter K. Maier,Trustee,University Of San Francisco,,,76766440.0,122612.0,,,Trustee,True,
+2007,Antoinette Malveaux,Trustee,University Of San Francisco,,U San Francisco 1981; Wharton MBA,76766440.0,122612.0,,,Trustee,True,
+2007,Susan G. Marineau,Trustee,University Of San Francisco,,,76766440.0,122612.0,,,Trustee,True,
+2007,Putra Masagung,Trustee,University Of San Francisco,,,76766440.0,122612.0,,,Trustee,True,
+2007,Rose Guilbault,Trustee,University Of San Francisco,,,76766440.0,122612.0,,,Trustee,True,
+2007,"J. Dean Brackley, S.J",Trustee,University Of San Francisco,,Chicago 1980 PhD,76766440.0,122612.0,,,Trustee,True,
+2007,J. Malcolm Visbal,Trustee,University Of San Francisco,,U San Francisco 1952,76766440.0,122612.0,,,Trustee,True,
+2007,Joseph J. Bonocore,Trustee,University Of San Francisco,,,76766440.0,122612.0,,,Trustee,True,
+2007,David Agger,Trustee,University Of San Francisco,,,76766440.0,122612.0,,,Trustee,True,
+2007,"Rev. Philip L. Boroughs, S.J",Trustee,University Of San Francisco,,,76766440.0,122612.0,,,Trustee,True,
+2007,Richard Bechelli,Trustee,University Of San Francisco,,U San Francisco 1955,76766440.0,122612.0,,,Trustee,True,
 2007,"Robert R. ""Bob"" Riley",President,University Of South Alabama,,,83809506.0,102094.0,,,Board President,True,
 2007,Mayer Mitchell,Executive Committee Member,University Of South Alabama,,,83809506.0,102094.0,,,Other Board Member,True,
 2007,John M. Peek,Trustee,University Of South Alabama,,,83809506.0,102094.0,,,Trustee,True,
@@ -3537,6 +4544,18 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,William C. Hubbard,Trustee,University Of South Carolina,,"South Carolina 1974 BA, 1977 JD",155781252.0,218663.0,,,Trustee,True,
 2007,William W. Jones,Trustee,University Of South Carolina,,Citadel 1968; South Carolina 1971 JD,155781252.0,218663.0,,,Trustee,True,
 2007,Toney J. Lister,Trustee,University Of South Carolina,,"South Carolina 1968 BS, 1974 JD",155781252.0,218663.0,,,Trustee,True,
+2007,Kiran C. Patel,Trustee,University Of South Florida,,,2613432.0,137351.0,,,Trustee,True,Florida State University System
+2007,"Lee E. Arnold, Jr",Trustee,University Of South Florida,,South Florida 1969,2613432.0,137351.0,,,Trustee,True,Florida State University System
+2007,Michael J. Barber,Trustee,University Of South Florida,,,2613432.0,137351.0,,,Trustee,True,Florida State University System
+2007,"Richard A. ""Dick"" Beard III",Trustee,University Of South Florida,,Georgia Tech 1967,2613432.0,137351.0,,,Trustee,True,Florida State University System
+2007,Margarita R. Cancio,Trustee,University Of South Florida,,"South Florida 1979, 1982 MD",2613432.0,137351.0,,,Trustee,True,Florida State University System
+2007,Sonja W. Garcia,Trustee,University Of South Florida,,Florida A&M; South Florida,2613432.0,137351.0,,,Trustee,True,Florida State University System
+2007,Frank S Harrison,Student Trustee,University Of South Florida,,,2613432.0,137351.0,,,Trustee,True,Florida State University System
+2007,John B. Ramil,Vice Chairman,University Of South Florida,,"South Florida 1978 BS, 2000",2613432.0,137351.0,,,Board Vice President,True,Florida State University System
+2007,Rhea F. LawChairman,Trustee,University Of South Florida,,South Florida 1977 BA; Stetson 1979 JD,2613432.0,137351.0,,,Trustee,True,Florida State University System
+2007,Debbie Nye Sembler,Trustee,University Of South Florida,,,2613432.0,137351.0,,,Trustee,True,Florida State University System
+2007,Jan E. Smith,Trustee,University Of South Florida,,,2613432.0,137351.0,,,Trustee,True,Florida State University System
+2007,Robert L. Soran,Trustee,University Of South Florida,,,2613432.0,137351.0,,,Trustee,True,Florida State University System
 2007,John F. King,Trustee,University Of Southern California,,,1174212.0,123961.0,,,Trustee,True,
 2007,Gregory P. Brakovich,Trustee,University Of Southern California,,,1174212.0,123961.0,,,Trustee,True,
 2007,Stanley P. Gold,Chairman,University Of Southern California,,,1174212.0,123961.0,,,Board President,True,
@@ -3658,6 +4677,13 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Johnnie Amonette,Trustee,University Of Tennessee System,,,2799495847.0,,,,Trustee,True,University of Tennessee System
 2007,Jerry L. Jackson,Trustee,University Of Tennessee System,,,2799495847.0,,,,Trustee,True,University of Tennessee System
 2007,Joseph M. Sturdivant,Student Trustee,University Of Tennessee System,,,2799495847.0,,,,Trustee,True,University of Tennessee System
+2007,Roberto Robles,Trustee,University Of Texas At Brownsville/Texas Southmost College,,,2802326326.0,227368.0,,,Trustee,True,University of Texas System
+2007,Dolly Zimmerman,Trustee,University Of Texas At Brownsville/Texas Southmost College,,,2802326326.0,227368.0,,,Trustee,True,University of Texas System
+2007,Rosemary Breedlove,Vice Chairman,University Of Texas At Brownsville/Texas Southmost College,,,2802326326.0,227368.0,,,Board Vice President,True,University of Texas System
+2007,"Roman ""Dino"" Esparza",Trustee,University Of Texas At Brownsville/Texas Southmost College,,,2802326326.0,227368.0,,,Trustee,True,University of Texas System
+2007,Chester R. Gonzalez,Chairman,University Of Texas At Brownsville/Texas Southmost College,,,2802326326.0,227368.0,,,Board President,True,University of Texas System
+2007,David G. Oliveira,Trustee,University Of Texas At Brownsville/Texas Southmost College,,,2802326326.0,227368.0,,,Trustee,True,University of Texas System
+2007,Eduardo Campirano,Secretary,University Of Texas At Brownsville/Texas Southmost College,,,2802326326.0,227368.0,,,Other Board Member,True,University of Texas System
 2007,"H. Scott Caven, Jr",Regent,University Of Texas System,,,16452829.0,,,,Regent,True,University of Texas System
 2007,Rita C. Clements,Vice Chairman,University Of Texas System,,Texas,16452829.0,,,,Board Vice President,True,University of Texas System
 2007,"John W. Barnhill, Jr",Regent,University Of Texas System,,,16452829.0,,,,Regent,True,University of Texas System
@@ -3673,6 +4699,16 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Robert A. Estrada,Regent,University Of Texas System,,"Texas BS, JD",16452829.0,,,,Regent,True,University of Texas System
 2007,Judith L. Craven,Regent,University Of Texas System,,Bowling Green State; Baylor Col Medicine MD; Texas (Houston) MPH,16452829.0,,,,Regent,True,University of Texas System
 2007,Barry R. McBee,"Vice Chancellor, Governmental Relations",University Of Texas System,,,16452829.0,,,,Board Vice President,True,University of Texas System
+2007,Hernan A. Vasquez,Trustee,University Of Toledo,,Toledo,90871651.0,206084.0,,,Trustee,True,University System of Ohio
+2007,Robert C. Redmond,Trustee,University Of Toledo,,,90871651.0,206084.0,,,Trustee,True,University System of Ohio
+2007,Olivia K. Summons,Trustee,University Of Toledo,,,90871651.0,206084.0,,,Trustee,True,University System of Ohio
+2007,"Richard B. Stansley, Jr.",Chairman,University Of Toledo,,Toledo; Lourdes,90871651.0,206084.0,,,Board President,True,University System of Ohio
+2007,Susan Palmer,Trustee,University Of Toledo,,"Howard U BA, MA",90871651.0,206084.0,,,Trustee,True,University System of Ohio
+2007,"Richard B. McQuade, Jr",Trustee,University Of Toledo,,"Toledo 1962 BA, 1965 JD",90871651.0,206084.0,,,Trustee,True,University System of Ohio
+2007,William C. Koester,Trustee,University Of Toledo,,Toledo 1960,90871651.0,206084.0,,,Trustee,True,University System of Ohio
+2007,Nicholas King,Student Trustee,University Of Toledo,,,90871651.0,206084.0,,,Trustee,True,University System of Ohio
+2007,C. William Fall,Trustee,University Of Toledo,,,90871651.0,206084.0,,,Trustee,True,University System of Ohio
+2007,Joel Todd,Student Trustee,University Of Toledo,,,90871651.0,206084.0,,,Trustee,True,University System of Ohio
 2007,Michael D. Case,Trustee,University Of Tulsa,,,87208437.0,207971.0,,,Trustee,True,
 2007,L. Duane Wilson,Trustee,University Of Tulsa,,,87208437.0,207971.0,,,Trustee,True,
 2007,Julian A. Carr,Trustee,University Of Tulsa,,,87208437.0,207971.0,,,Trustee,True,
@@ -3824,6 +4860,25 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,James R. Jolly,Tenth District Regent,University System Of Georgia,,Georgia Tech BS,1289702989.0,,,,Regent,True,University System of Georgia
 2007,"W. Mansfield Jennings, Jr",First District Regent,University System Of Georgia,,Georgia Tech BS; Emory MBA,1289702989.0,,,,Regent,True,University System of Georgia
 2007,Wanda Yancey Rodwell,Fourth District Regent,University System Of Georgia,,Spelman BA,1289702989.0,,,,Regent,True,University System of Georgia
+2007,Robert L. Mitchell,Regent,University System Of Maryland,,,1317227900.0,,,,Regent,True,University System of Maryland
+2007,David H. Nevins,Regent,University System Of Maryland,,Towson U 1975 BA; Johns Hopkins MA,1317227900.0,,,,Regent,True,University System of Maryland
+2007,A. Dwight Pettit,Regent,University System Of Maryland,,Howard U 1970 JD,1317227900.0,,,,Regent,True,University System of Maryland
+2007,Robert L. Pevenstein,Vice Chairman,University System Of Maryland,,Maryland 1976 BA; Catholic U 1979 JD,1317227900.0,,,,Board Vice President,True,University System of Maryland
+2007,Lewis R. Riley,Ex Officio Regent,University System Of Maryland,,,1317227900.0,,,,"Regent, Ex Officio",True,University System of Maryland
+2007,Clifford M. Kendall,Regent,University System Of Maryland,,Iowa State 1977 BS,1317227900.0,,,,Regent,True,University System of Maryland
+2007,Clifford M. Kendall,Chairman,University System Of Maryland,,Iowa State 1977 BS,1317227900.0,,,,Board President,True,University System of Maryland
+2007,Caitlin E. Heidemann,Student Regent,University System Of Maryland,,,1317227900.0,,,,Regent,True,University System of Maryland
+2007,Alicia Coro Hoffman,Regent,University System Of Maryland,,,1317227900.0,,,,Regent,True,University System of Maryland
+2007,Alicia Coro Hoffman,Assistant Secretary,University System Of Maryland,,,1317227900.0,,,,Other Board Member,True,University System of Maryland
+2007,R. Michael Gill,Regent,University System Of Maryland,,Towson U BBA,1317227900.0,,,,Regent,True,University System of Maryland
+2007,R. Michael Gill,Treasurer,University System Of Maryland,,Towson U BBA,1317227900.0,,,,Other Board Member,True,University System of Maryland
+2007,Patricia S. Florestano,Regent,University System Of Maryland,,"Maryland 1958 BA, 1970 MA, 1974 PhD",1317227900.0,,,,Regent,True,University System of Maryland
+2007,"Thomas B. Finan, Jr",Regent,University System Of Maryland,,Iona 1962 BBA,1317227900.0,,,,Regent,True,University System of Maryland
+2007,James T. Brady,Regent,University System Of Maryland,,,1317227900.0,,,,Regent,True,University System of Maryland
+2007,"The Honorable Francis X. Kelly, Jr",Regent,University System Of Maryland,,,1317227900.0,,,,Regent,True,University System of Maryland
+2007,Patricia S. Florestano,Assistant Treasurer,University System Of Maryland,,"Maryland 1958 BA, 1970 MA, 1974 PhD",1317227900.0,,,,Other Board Member,True,University System of Maryland
+2007,Marvin Mandel,Regent,University System Of Maryland,,Marvland 1942 LiB,1317227900.0,,,,Regent,True,University System of Maryland
+2007,Robert L. Mitchell,Secretary,University System Of Maryland,,,1317227900.0,,,,Other Board Member,True,University System of Maryland
 2007,Andrew E. Lietz,Chairman,University System Of New Hampshire,,Wayne State 1961 BS,2800453862.0,,,,Board President,True,University System of New Hampshire
 2007,Andrew E. Lietz,Trustee,University System Of New Hampshire,,Wayne State 1961 BS,2800453862.0,,,,Trustee,True,University System of New Hampshire
 2007,John H. Lynch,Ex Officio Trustee,University System Of New Hampshire,,New Hampshire BA; Harvard MBA; Georgetown JD,2800453862.0,,,,"Trustee, Ex Officio",True,University System of New Hampshire
@@ -3885,6 +4940,25 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,"Clyde E. Allen, Jr",Regent,University of Minnesota System,,Yale BA,130238516.0,174066.0,,,Regent,True,University of Minnesota System
 2007,Steven Hunter,Regent,University of Minnesota System,,Minnesota BA,130238516.0,174066.0,,,Regent,True,University of Minnesota System
 2007,Peter W. Bell,Regent,University of Minnesota System,,Metropolitan State U BA,130238516.0,174066.0,,,Regent,True,University of Minnesota System
+2007,Greg W. Haws,Regent,Utah University System,,,223532165.0,230764.0,,,Regent,True,Utah University System
+2007,James S. Jardine,Regent,Utah University System,,Utah 1971 BA; Harvard 1974 JD,223532165.0,230764.0,,,Regent,True,Utah University System
+2007,Jed H. Pitcher,Chairman,Utah University System,,,223532165.0,230764.0,,,Board President,True,Utah University System
+2007,Richard E. Kendell,Utah Commissioner of Higher Education,Utah University System,,"Weber State BS; Utah MEd, PhD",223532165.0,230764.0,,,Regent,True,Utah University System
+2007,Nolan E. Karras,Regent,Utah University System,,,223532165.0,230764.0,,,Regent,True,Utah University System
+2007,David J. Jordan,Regent,Utah University System,,,223532165.0,230764.0,,,Regent,True,Utah University System
+2007,Michael R. Jensen,Regent,Utah University System,,,223532165.0,230764.0,,,Regent,True,Utah University System
+2007,Marion O. Snow,Regent,Utah University System,,,223532165.0,230764.0,,,Regent,True,Utah University System
+2007,Meghan Holbrook,Regent,Utah University System,,,223532165.0,230764.0,,,Regent,True,Utah University System
+2007,Ali Hasnain,Student Regent,Utah University System,,,223532165.0,230764.0,,,Regent,True,Utah University System
+2007,David J. Grant,Regent,Utah University System,,,223532165.0,230764.0,,,Regent,True,Utah University System
+2007,Katharine Bagley Garff,Regent,Utah University System,,,223532165.0,230764.0,,,Regent,True,Utah University System
+2007,Rosanita Cespedes,Regent,Utah University System,,,223532165.0,230764.0,,,Regent,True,Utah University System
+2007,Janet A. Cannon,Regent,Utah University System,,,223532165.0,230764.0,,,Regent,True,Utah University System
+2007,Bonnie Jean Beesley,Regent,Utah University System,,,223532165.0,230764.0,,,Regent,True,Utah University System
+2007,Daryl C. Barrett,Regent,Utah University System,,,223532165.0,230764.0,,,Regent,True,Utah University System
+2007,Jerry C. Atkin,Regent,Utah University System,,,223532165.0,230764.0,,,Regent,True,Utah University System
+2007,Josh M. Reid,Regent,Utah University System,,,223532165.0,230764.0,,,Regent,True,Utah University System
+2007,"Sara V. Sinclair, RN, CNHA, FACHCA",Regent,Utah University System,,,223532165.0,230764.0,,,Regent,True,Utah University System
 2007,Catherine B. Reynolds,Trustee,Vanderbilt University,,,200719446.0,221999.0,,,Trustee,True,
 2007,Frederick B. Renschler,Trustee,Vanderbilt University,,,200719446.0,221999.0,,,Trustee,True,
 2007,Judson G. Randolph,Trustee,Vanderbilt University,,,200719446.0,221999.0,,,Trustee,True,
@@ -4008,7 +5082,7 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,"Robert L. Freeman, Jr",Board Member,Virginia Polytechnic Institute And State University,,,859038795.0,233921.0,,,Member,True,
 2007,Marvin D. Gentry,Trustee,Wake Forest University,,,47251452.0,199847.0,,,Trustee,True,
 2007,Ranlet S. Bell,Trustee,Wake Forest University,,,47251452.0,199847.0,,,Trustee,True,
-2007,William L. Marks,Trustee,Wake Forest University,,Wake Forest 1966 BA,47251452.0,199847.0,,,Trustee,True,
+2007,William L. Marks.,Trustee,Wake Forest University,,Wake Forest 1966 BA,47251452.0,199847.0,,,Trustee,True,
 2007,Douglas F. Manchester,Trustee,Wake Forest University,,,47251452.0,199847.0,,,Trustee,True,
 2007,John R. Lowden,Trustee,Wake Forest University,,,47251452.0,199847.0,,,Trustee,True,
 2007,Dee Hughes Leroy,Trustee,Wake Forest University,,,47251452.0,199847.0,,,Trustee,True,
@@ -4114,6 +5188,28 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Richard F. Ford,Trustee,Washington University,,,204465549.0,179867.0,,,Trustee,True,
 2007,Thomas J. Feichtinger,Trustee,Washington University,,,204465549.0,179867.0,,,Trustee,True,
 2007,Hugh Grant*,Trustee,Washington University,,,204465549.0,179867.0,,,Trustee,True,
+2007,Paul Massaron,Governor,Wayne State University,,Detroit 1966 BA,185443292.0,172644.0,,,Governor,True,
+2007,Julie H. Miller,Secretary,Wayne State University,,,185443292.0,172644.0,,,Other Board Member,True,
+2007,Annetta Miller,Governor,Wayne State University,,Wayne State 1995 BA,185443292.0,172644.0,,,Governor,True,
+2007,Elizabeth P. Hardy,Governor,Wayne State University,,George Washington 1978; Wayne State 1984 JD,185443292.0,172644.0,,,Governor,True,
+2007,Jacquelin Washington,Chairman,Wayne State University,,Fisk BA; Wayne State MSW,185443292.0,172644.0,,,Board President,True,
+2007,Eugene Driker,Vice Chairman,Wayne State University,,"Wayne State 1959 BA, 1961 JD; George Washington 1962 LLM",185443292.0,172644.0,,,Board Vice President,True,
+2007,John L. Davis,Treasurer,Wayne State University,,,185443292.0,172644.0,,,Other Board Member,True,
+2007,Richard H. Bernstein,Governor,Wayne State University,,Michigan; Northwestern JD,185443292.0,172644.0,,,Governor,True,
+2007,Tina Abbott,Governor,Wayne State University,,Wayne State,185443292.0,172644.0,,,Governor,True,
+2007,Diane L. Dunaskiss,Governor,Wayne State University,,Wayne State 1974 BS; Oakland 1984,185443292.0,172644.0,,,Governor,True,
+2007,Alan Novak,Trustee,West Chester University Of Pennsylvania,,,161171246.0,216764.0,,,Trustee,True,Pennsylvania State System
+2007,Don Taylor,Trustee,West Chester University Of Pennsylvania,,West Chester 1943 BS; Temple 1958 MEd,161171246.0,216764.0,,,Trustee,True,Pennsylvania State System
+2007,Elinor Z. Taylor,Trustee,West Chester University Of Pennsylvania,,,161171246.0,216764.0,,,Trustee,True,Pennsylvania State System
+2007,Jessie Pincus,Secretary,West Chester University Of Pennsylvania,,,161171246.0,216764.0,,,Other Board Member,True,Pennsylvania State System
+2007,Charles Liedike,Trustee,West Chester University Of Pennsylvania,,,161171246.0,216764.0,,,Trustee,True,Pennsylvania State System
+2007,Thomas A. Fillippo,Trustee,West Chester University Of Pennsylvania,,,161171246.0,216764.0,,,Trustee,True,Pennsylvania State System
+2007,Laurence Harmelin,Trustee,West Chester University Of Pennsylvania,,,161171246.0,216764.0,,,Trustee,True,Pennsylvania State System
+2007,Judy G. Hample,Ex Officio Trustee,West Chester University Of Pennsylvania,,,161171246.0,216764.0,,,"Trustee, Ex Officio",True,Pennsylvania State System
+2007,Judy G. Hample,Chancellor,West Chester University Of Pennsylvania,,,161171246.0,216764.0,,,Board President,True,Pennsylvania State System
+2007,Barry C. Dozer,Trustee,West Chester University Of Pennsylvania,,,161171246.0,216764.0,,,Trustee,True,Pennsylvania State System
+2007,Bernard J. Carrozza,Vice Chairman,West Chester University Of Pennsylvania,,,161171246.0,216764.0,,,Board Vice President,True,Pennsylvania State System
+2007,David James,Trustee,West Chester University Of Pennsylvania,,,161171246.0,216764.0,,,Trustee,True,Pennsylvania State System
 2007,Douglas J. Leech,Chairman,West Virginia University,,,12097938.0,238032.0,,,Board President,True,
 2007,Robert Wells,Governor,West Virginia University,,,12097938.0,238032.0,,,Governor,True,
 2007,Parry G. Petroplus,Governor,West Virginia University,,,12097938.0,238032.0,,,Governor,True,
@@ -4203,6 +5299,16 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,John L. LaMattina,Trustee,Worcester Polytechnic Institute,,Boston Col; New Hampshire PhD,107077323.0,168421.0,,,Trustee,True,
 2007,Paul A. Lacouture,Trustee,Worcester Polytechnic Institute,,Worcester Polytech 1972 BS; Northeastern 1984 MBA,107077323.0,168421.0,,,Trustee,True,
 2007,Carleton F. Kilmer,Trustee Emeritus,Worcester Polytechnic Institute,,Worcester Polytech 1964 BS,107077323.0,168421.0,,,Trustee,True,
+2007,J. Thomas Young,Trustee,Wright State University,,,19648265.0,206604.0,,,Trustee,True,University System of Ohio
+2007,Matthew Watson,Student Trustee,Wright State University,,,19648265.0,206604.0,,,Trustee,True,University System of Ohio
+2007,Meagan R. Buxton,Student Trustee,Wright State University,,,19648265.0,206604.0,,,Trustee,True,University System of Ohio
+2007,Don R. Graber,Vice Chairman,Wright State University,,"Ohio State 1966 BS, 1968 MBA",19648265.0,206604.0,,,Board Vice President,True,University System of Ohio
+2007,Martin J. Jenkins,Secretary,Wright State University,,,19648265.0,206604.0,,,Other Board Member,True,University System of Ohio
+2007,Jaimie King,Trustee,Wright State University,,,19648265.0,206604.0,,,Trustee,True,University System of Ohio
+2007,Bonnie G. Langdon,Chairman,Wright State University,,,19648265.0,206604.0,,,Board President,True,University System of Ohio
+2007,Lester L. Lyles,Trustee,Wright State University,,Howard U 1968 BSME; New Mexico State 1969 MS,19648265.0,206604.0,,,Trustee,True,University System of Ohio
+2007,Robert Nevin,Trustee,Wright State University,,,19648265.0,206604.0,,,Trustee,True,University System of Ohio
+2007,Michael Adams,Trustee,Wright State University,,,19648265.0,206604.0,,,Trustee,True,University System of Ohio
 2007,Jeffrey L. Bewkes,Fellow,Yale University,,Yale 1974 BA; Stanford 1977 MBA,32971472.0,130794.0,,,Fellow,True,
 2007,Indra K. Nooyi,Fellow,Yale University,,Madras Christian Col (India) BChem; Indian Inst Mgmt (India) MBA; Yale 1980 MPPM,32971472.0,130794.0,,,Fellow,True,
 2007,Margaret G. Warner,Fellow,Yale University,,Yale 1971 BA,32971472.0,130794.0,,,Fellow,True,
