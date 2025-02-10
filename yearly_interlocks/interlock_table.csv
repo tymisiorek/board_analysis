@@ -1,776 +1,803 @@
 Source,Target,board_size_source,board_size_target,shared_members,Year
-Adelphi University,State University Of New York At Albany,17,10,1,1999
-Andrews University,Loma Linda University,36,24,2,1999
-Arizona State University,Northern Arizona University,11,11,10,1999
-Arizona State University,University Of Arizona,11,10,8,1999
-Auburn University,University Of Alabama,12,16,1,1999
-Auburn University,University Of South Alabama,12,19,1,1999
-Boston University,Massachusetts Institute Of Technology,51,53,1,1999
-Brandeis University,Fordham University,46,34,1,1999
-Brandeis University,Tufts University,46,35,1,1999
-Brown University,Johns Hopkins University,54,61,1,1999
-Brown University,University Of Rhode Island,54,16,1,1999
-California Institute Of Technology,Harvard University,48,37,1,1999
-California Institute Of Technology,Pepperdine University,48,39,1,1999
-Carnegie Mellon University,Duquesne University,93,45,3,1999
-Carnegie Mellon University,University Of Oklahoma,93,14,1,1999
-Carnegie Mellon University,University Of Pittsburgh,93,51,1,1999
-Carnegie Mellon University,University Of Southern California,93,42,1,1999
-Carnegie Mellon University,University Of Tulsa,93,36,1,1999
-Carnegie Mellon University,Worcester Polytechnic Institute,93,38,1,1999
-Case Western Reserve University,Columbia University,51,25,1,1999
-Case Western Reserve University,Ohio State University,51,13,1,1999
-Catholic University Of America,Seton Hall University,41,32,1,1999
-Clark Atlanta University,Emory University,28,41,1,1999
-Cleveland State University,Kent State University,24,19,10,1999
-Cleveland State University,Ohio State University,24,13,3,1999
-Cleveland State University,Ohio University,24,21,10,1999
-Cleveland State University,University Of Akron,24,17,10,1999
-Cleveland State University,University Of Cincinnati,24,20,9,1999
-Cleveland State University,University Of Toledo,24,22,10,1999
-Dartmouth College,New School University,16,51,1,1999
-Depaul University,University Of Illinois At Urbana Champaign,84,13,1,1999
-Fordham University,Georgetown University,34,42,1,1999
-George Washington University,Marquette University,43,32,1,1999
-George Washington University,Massachusetts Institute Of Technology,43,53,1,1999
-George Washington University,Pepperdine University,43,39,1,1999
-Georgetown University,New York University,42,45,1,1999
-Georgetown University,University Of Delaware,42,31,1,1999
-Hampton University,Old Dominion University,22,16,1,1999
-Hofstra University,University Of Pittsburgh,39,51,1,1999
-Hofstra University,Yeshiva University,39,97,1,1999
-Howard University,Johns Hopkins University,26,61,1,1999
-Idaho State University,University Of Idaho,7,4,2,1999
-Illinois Institute Of Technology,Loyola University Chicago,59,4,1,1999
-Illinois Institute Of Technology,University Of Chicago,59,48,1,1999
-Indiana University Of Pennsylvania,West Chester University Of Pennsylvania,11,11,1,1999
-Iowa State University,University Of Iowa,9,9,9,1999
-Johns Hopkins University,University Of Rochester,61,58,1,1999
-Kansas State University,University Of Kansas,9,9,8,1999
-Kansas State University,Wichita State University,9,9,8,1999
-Kent State University,Ohio State University,19,13,4,1999
-Kent State University,Ohio University,19,21,11,1999
-Kent State University,University Of Akron,19,17,11,1999
-Kent State University,University Of Cincinnati,19,20,10,1999
-Kent State University,University Of Toledo,19,22,11,1999
-Lehigh University,Seton Hall University,38,32,1,1999
-Loyola Marymount University,University Of Southern California,51,42,1,1999
-Marquette University,University Of Chicago,32,48,1,1999
-Marquette University,University Of St Thomas Minnesota,32,38,1,1999
-Marshall University,West Virginia University,16,18,15,1999
-Massachusetts Institute Of Technology,Yeshiva University,53,97,1,1999
-Middle Tennessee State University,University Of North Texas,10,9,1,1999
-Mississippi State University,University Of Mississippi,12,11,9,1999
-Mississippi State University,University Of Southern Mississippi,12,11,10,1999
-New Jersey Institute Of Technology,Princeton University,59,40,1,1999
-New Jersey Institute Of Technology,University Of Notre Dame,59,54,1,1999
-New Jersey Institute Of Technology,University Of Pittsburgh,59,51,1,1999
-New Mexico State University,University Of New Mexico,7,8,1,1999
-New School University,University Of Chicago,51,48,1,1999
-New York University,University Of Notre Dame,45,54,1,1999
-New York University,Yeshiva University,45,97,1,1999
-Northern Arizona University,University Of Arizona,11,10,7,1999
-Ohio State University,Ohio University,13,21,4,1999
-Ohio State University,University Of Akron,13,17,4,1999
-Ohio State University,University Of Cincinnati,13,20,4,1999
-Ohio State University,University Of Toledo,13,22,4,1999
-Ohio University,University Of Akron,21,17,11,1999
-Ohio University,University Of Cincinnati,21,20,10,1999
-Ohio University,University Of Toledo,21,22,11,1999
-Oklahoma State University,University Of Oklahoma,20,14,3,1999
-Pennsylvania State University,Temple University,39,40,2,1999
-Polytechnic University,Rensselaer Polytechnic Institute,31,33,1,1999
-Princeton University,Rice University,40,19,1,1999
-Rochester Institute Of Technology,University Of Rochester,44,58,1,1999
-Seton Hall University,Villanova University,32,26,1,1999
-South Dakota State University,University Of South Dakota,9,10,5,1999
-Thomas Jefferson University,Widener University,32,26,1,1999
-Tufts University,University Of Chicago,35,48,1,1999
-Tufts University,University Of Delaware,35,31,1,1999
-University Of Akron,University Of Cincinnati,17,20,10,1999
-University Of Akron,University Of Toledo,17,22,11,1999
-University Of Alabama,University Of South Alabama,16,19,1,1999
-University Of Chicago,University Of Rochester,48,58,1,1999
-University Of Cincinnati,University Of Toledo,20,22,10,1999
-University Of Connecticut,Yale University,17,19,1,1999
-University Of Kansas,Wichita State University,9,9,9,1999
-University Of Mississippi,University Of Southern Mississippi,11,11,10,1999
-University Of North Carolina At Greensboro,Wake Forest University,6,42,1,1999
-University Of Notre Dame,University Of St Thomas Minnesota,54,38,1,1999
-University Of Oklahoma,University Of Tulsa,14,36,1,1999
-University Of Utah,Utah State University,29,27,14,1999
-Andrews University,Loma Linda University,36,23,2,2000
-Arizona State University,Northern Arizona University,11,11,10,2000
-Arizona State University,University Of Arizona,11,10,8,2000
-Auburn University,New School University,12,42,1,2000
-Auburn University,Tennessee State University,12,34,1,2000
-Auburn University,Tennessee Technological University,12,34,1,2000
-Auburn University,University Of South Alabama,12,20,2,2000
-Auburn University,University Of Texas At Brownsville/Texas Southmost College,12,7,1,2000
-Boston College,Loyola University Chicago,45,30,1,2000
-Boston University,Massachusetts Institute Of Technology,53,53,1,2000
-Brandeis University,Fordham University,49,36,1,2000
-Brown University,Johns Hopkins University,52,65,1,2000
-Brown University,Tufts University,52,35,1,2000
-Brown University,University Of Rhode Island,52,16,1,2000
-California Institute Of Technology,Chapman University,51,46,1,2000
-California Institute Of Technology,Harvard University,51,31,1,2000
-Carnegie Mellon University,Duquesne University,99,43,3,2000
-Carnegie Mellon University,University Of Pittsburgh,99,51,1,2000
-Carnegie Mellon University,Worcester Polytechnic Institute,99,42,1,2000
-Case Western Reserve University,Ohio State University,50,21,1,2000
-Catholic University Of America,Seton Hall University,41,39,1,2000
-Cleveland State University,Kent State University,21,21,8,2000
-Cleveland State University,Ohio State University,21,21,7,2000
-Cleveland State University,Ohio University,21,22,8,2000
-Cleveland State University,University Of Akron,21,19,8,2000
-Cleveland State University,University Of Cincinnati,21,21,8,2000
-Cleveland State University,University Of Toledo,21,21,8,2000
-Columbia University,Yeshiva University,24,96,1,2000
-Cornell University,University Of Tulsa,46,35,1,2000
-Creighton University,Loyola University Chicago,35,30,1,2000
-Dartmouth College,Rockefeller University,16,31,1,2000
-East Tennessee State University,Middle Tennessee State University,19,19,19,2000
-East Tennessee State University,Tennessee State University,19,34,18,2000
-East Tennessee State University,Tennessee Technological University,19,34,13,2000
-East Tennessee State University,University Of Memphis,19,33,18,2000
-Fordham University,Georgetown University,36,34,1,2000
-George Washington University,Marquette University,43,35,1,2000
-Georgetown University,New York University,34,51,1,2000
-Georgetown University,Rockefeller University,34,31,1,2000
-Georgetown University,Saint Louis University,34,49,1,2000
-Georgetown University,University Of Connecticut,34,18,1,2000
-Georgetown University,University Of Delaware,34,32,1,2000
-Hampton University,Old Dominion University,23,17,1,2000
-Harvard University,Rockefeller University,31,31,1,2000
-Hofstra University,University Of Pittsburgh,31,51,1,2000
-Hofstra University,Yeshiva University,31,96,1,2000
-Howard University,Johns Hopkins University,18,65,1,2000
-Idaho State University,University Of Idaho,8,4,2,2000
-Illinois Institute Of Technology,Loyola University Chicago,62,30,1,2000
-Illinois Institute Of Technology,University Of Chicago,62,49,1,2000
-Indiana University Of Pennsylvania,West Chester University Of Pennsylvania,11,10,1,2000
-Iowa State University,University Of Iowa,8,7,7,2000
-Johns Hopkins University,Massachusetts Institute Of Technology,65,53,1,2000
-Kansas State University,University Of Kansas,9,9,9,2000
-Kansas State University,Wichita State University,9,9,7,2000
-Kent State University,Ohio State University,21,21,9,2000
-Kent State University,Ohio University,21,22,10,2000
-Kent State University,University Of Akron,21,19,10,2000
-Kent State University,University Of Cincinnati,21,21,10,2000
-Kent State University,University Of Toledo,21,21,10,2000
-Lehigh University,Seton Hall University,38,39,1,2000
-Loyola Marymount University,Loyola University Chicago,84,30,1,2000
-Loyola Marymount University,University Of Notre Dame,84,55,1,2000
-Loyola Marymount University,University Of Southern California,84,44,1,2000
-Loyola University Chicago,University Of San Diego,30,35,1,2000
-Loyola University Chicago,University Of San Francisco,30,43,1,2000
-Marquette University,University Of Chicago,35,49,1,2000
-Marquette University,University Of Dayton,35,33,1,2000
-Marquette University,University Of St Thomas Minnesota,35,42,1,2000
-Marshall University,West Virginia University,17,17,12,2000
-Massachusetts Institute Of Technology,University Of North Carolina At Greensboro,53,13,1,2000
-Massachusetts Institute Of Technology,Yeshiva University,53,96,1,2000
-Middle Tennessee State University,Tennessee State University,19,34,18,2000
-Middle Tennessee State University,Tennessee Technological University,19,34,13,2000
-Middle Tennessee State University,University Of Memphis,19,33,18,2000
-Mississippi State University,University Of Mississippi,11,11,10,2000
-Mississippi State University,University Of Southern Mississippi,11,11,11,2000
-New Jersey Institute Of Technology,University Of Notre Dame,59,55,1,2000
-New Jersey Institute Of Technology,University Of Pittsburgh,59,51,1,2000
-New Mexico State University,University Of New Mexico,5,11,1,2000
-New School University,Tennessee State University,42,34,1,2000
-New School University,Tennessee Technological University,42,34,1,2000
-New School University,University Of Chicago,42,49,1,2000
-New School University,University Of Texas At Brownsville/Texas Southmost College,42,7,1,2000
-New School University,Yale University,42,18,1,2000
-New York University,Rockefeller University,51,31,1,2000
-New York University,University Of Connecticut,51,18,1,2000
-New York University,University Of Pennsylvania,51,60,1,2000
-New York University,Yeshiva University,51,96,1,2000
-Northern Arizona University,University Of Arizona,11,10,9,2000
-Ohio State University,Ohio University,21,22,9,2000
-Ohio State University,University Of Akron,21,19,9,2000
-Ohio State University,University Of Cincinnati,21,21,9,2000
-Ohio State University,University Of Toledo,21,21,9,2000
-Ohio University,University Of Akron,22,19,10,2000
-Ohio University,University Of Cincinnati,22,21,10,2000
-Ohio University,University Of Toledo,22,21,10,2000
-Oklahoma State University,University Of Oklahoma,20,12,2,2000
-Pennsylvania State University,University Of Pittsburgh,35,51,1,2000
-Polytechnic University,Rensselaer Polytechnic Institute,33,33,1,2000
-Princeton University,Rockefeller University,39,31,1,2000
-Rice University,Stanford University,18,34,1,2000
-Rockefeller University,Stanford University,31,34,1,2000
-Rockefeller University,University Of Pennsylvania,31,60,1,2000
-Seton Hall University,Villanova University,39,26,1,2000
-South Dakota State University,University Of South Dakota,8,9,3,2000
-Stevens Institute Of Technology,Worcester Polytechnic Institute,36,42,1,2000
-Tennessee State University,Tennessee Technological University,34,34,26,2000
-Tennessee State University,University Of Memphis,34,33,30,2000
-Tennessee State University,University Of Texas At Brownsville/Texas Southmost College,34,7,1,2000
-Tennessee Technological University,University Of Memphis,34,33,27,2000
-Tennessee Technological University,University Of Texas At Brownsville/Texas Southmost College,34,7,1,2000
-Thomas Jefferson University,Widener University,37,26,1,2000
-Tufts University,University Of Chicago,35,49,1,2000
-Tufts University,University Of Delaware,35,32,1,2000
-University Of Akron,University Of Cincinnati,19,21,10,2000
-University Of Akron,University Of Toledo,19,21,10,2000
-University Of Cincinnati,University Of Toledo,21,21,10,2000
-University Of Connecticut,Yale University,18,18,1,2000
-University Of Kansas,Wichita State University,9,9,7,2000
-University Of Mississippi,University Of Southern Mississippi,11,11,10,2000
-University Of Notre Dame,University Of St Thomas Minnesota,55,42,1,2000
-University Of Utah,Utah State University,24,26,15,2000
-Andrews University,Loma Linda University,32,22,4,2005
-Arizona State University,Northern Arizona University,10,10,9,2005
-Arizona State University,University Of Arizona,10,10,10,2005
-Auburn University,University Of South Alabama,29,15,1,2005
-Boston College,Loyola Marymount University,44,83,2,2005
-Boston College,Loyola University Chicago,44,66,2,2005
-Brandeis University,Rockefeller University,51,37,1,2005
-Brown University,Rockefeller University,56,37,1,2005
-Brown University,Tufts University,56,36,1,2005
-California Institute Of Technology,Chapman University,54,48,1,2005
-California Institute Of Technology,Harvard University,54,41,2,2005
-California Institute Of Technology,Massachusetts Institute Of Technology,54,49,2,2005
-Carnegie Mellon University,Duquesne University,98,35,2,2005
-Carnegie Mellon University,Princeton University,98,40,1,2005
-Carnegie Mellon University,University Of Pittsburgh,98,52,1,2005
-Clarkson University,Polytechnic University,28,37,1,2005
-Columbia University,Yeshiva University,54,95,1,2005
-Cornell University,Massachusetts Institute Of Technology,66,49,1,2005
-Cornell University,New School University,66,47,2,2005
-Cornell University,Rochester Institute Of Technology,66,54,1,2005
-Creighton University,Georgetown University,35,45,1,2005
-Dartmouth College,New School University,17,47,1,2005
-Dartmouth College,Rockefeller University,17,37,1,2005
-Drexel University,Villanova University,41,27,1,2005
-Duke University,Emory University,36,35,1,2005
-East Tennessee State University,Middle Tennessee State University,18,18,15,2005
-East Tennessee State University,Tennessee State University,18,18,16,2005
-East Tennessee State University,Tennessee Technological University,18,18,17,2005
-East Tennessee State University,University Of Memphis,18,19,17,2005
-Fordham University,Georgetown University,38,45,1,2005
-Fordham University,Loyola Marymount University,38,83,1,2005
-Fordham University,Loyola University Chicago,38,66,1,2005
-Fordham University,Yeshiva University,38,95,1,2005
-George Washington University,Washington State University,33,10,1,2005
-Georgetown University,New York University,45,62,1,2005
-Georgetown University,Rensselaer Polytechnic Institute,45,30,1,2005
-Georgetown University,Rockefeller University,45,37,1,2005
-Georgetown University,University Of Connecticut,45,20,1,2005
-Georgetown University,Yale University,45,17,1,2005
-Harvard University,Massachusetts Institute Of Technology,41,49,1,2005
-Harvard University,Vanderbilt University,41,64,1,2005
-Hofstra University,New York University,30,62,1,2005
-Hofstra University,Yeshiva University,30,95,1,2005
-Howard University,Massachusetts Institute Of Technology,26,49,1,2005
-Idaho State University,University Of Idaho,8,8,8,2005
-Illinois Institute Of Technology,University Of Chicago,60,50,1,2005
-Indiana University Of Pennsylvania,West Chester University Of Pennsylvania,11,21,1,2005
-Iowa State University,University Of Iowa,8,8,7,2005
-Johns Hopkins University,Loyola Marymount University,71,83,1,2005
-Johns Hopkins University,Rockefeller University,71,37,1,2005
-Kansas State University,University Of Kansas,9,9,7,2005
-Kansas State University,Wichita State University,9,9,7,2005
-Lehigh University,West Virginia University,33,15,1,2005
-Loyola Marymount University,Loyola University Chicago,83,66,1,2005
-Loyola Marymount University,University Of San Diego,83,36,1,2005
-Loyola Marymount University,University Of San Francisco,83,44,1,2005
-Loyola Marymount University,University Of Southern California,83,46,3,2005
-Loyola University Chicago,Marquette University,66,40,1,2005
-Massachusetts Institute Of Technology,New School University,49,47,1,2005
-Massachusetts Institute Of Technology,Rockefeller University,49,37,1,2005
-Massachusetts Institute Of Technology,University Of North Carolina At Greensboro,49,12,1,2005
-Massachusetts Institute Of Technology,Yale University,49,17,1,2005
-Middle Tennessee State University,Tennessee State University,18,18,15,2005
-Middle Tennessee State University,Tennessee Technological University,18,18,15,2005
-Middle Tennessee State University,University Of Memphis,18,19,16,2005
-New Jersey Institute Of Technology,Princeton University,54,40,1,2005
-New Jersey Institute Of Technology,University Of Notre Dame,54,57,1,2005
-New School University,New York University,47,62,1,2005
-New School University,University Of Chicago,47,50,1,2005
-New York University,University Of Connecticut,62,20,1,2005
-New York University,University Of Pennsylvania,62,61,1,2005
-New York University,Yeshiva University,62,95,1,2005
-Northern Arizona University,University Of Arizona,10,10,9,2005
-Oklahoma State University,University Of Oklahoma,19,16,7,2005
-Pennsylvania State University,Temple University,40,44,1,2005
-Pennsylvania State University,University Of Pennsylvania,40,61,1,2005
-Pennsylvania State University,University Of Pittsburgh,40,52,1,2005
-Princeton University,Rockefeller University,40,37,1,2005
-Princeton University,University Of Chicago,40,50,1,2005
-Princeton University,University Of Virginia,40,17,1,2005
-Rockefeller University,Stanford University,37,37,1,2005
-Rockefeller University,University Of Pennsylvania,37,61,2,2005
-South Dakota State University,University Of South Dakota,10,10,9,2005
-Temple University,University Of Pennsylvania,44,61,1,2005
-Temple University,University Of Pittsburgh,44,52,2,2005
-Tennessee State University,Tennessee Technological University,18,18,16,2005
-Tennessee State University,University Of Memphis,18,19,17,2005
-Tennessee Technological University,University Of Memphis,18,19,17,2005
-Tufts University,University Of Chicago,36,50,1,2005
-Tufts University,University Of New Mexico,36,9,1,2005
-University Of Kansas,Wichita State University,9,9,9,2005
-University Of Notre Dame,University Of St Thomas Minnesota,57,34,1,2005
-University Of Pennsylvania,University Of Pittsburgh,61,52,1,2005
-University Of San Diego,Wake Forest University,36,44,1,2005
-University Of Utah,Utah State University,28,27,16,2005
-Andrews University,Loma Linda University,38,22,6,2007
-Auburn University,Duquesne University,27,25,1,2007
-Auburn University,University Of California Los Angeles,27,6,1,2007
-Auburn University,University Of South Alabama,27,17,1,2007
-Boston College,Loyola Marymount University,39,92,1,2007
-Brandeis University,Rockefeller University,47,38,2,2007
-Brown University,Cornell University,57,171,1,2007
-California Institute Of Technology,Chapman University,59,48,1,2007
-California Institute Of Technology,Harvard University,59,35,1,2007
-California Institute Of Technology,Massachusetts Institute Of Technology,59,50,2,2007
-California Institute Of Technology,University Of Pennsylvania,59,104,1,2007
-Carnegie Mellon University,University Of Pittsburgh,97,51,2,2007
-Chapman University,University Of San Diego,48,38,1,2007
-Clarkson University,Polytechnic University,28,31,1,2007
-Clemson University,Cleveland State University,83,14,2,2007
-Clemson University,Mercer University,83,47,1,2007
-Columbia University,Cornell University,50,171,1,2007
-Columbia University,New Jersey Institute Of Technology,50,51,1,2007
-Columbia University,New York University,50,57,1,2007
-Columbia University,Yeshiva University,50,98,1,2007
-Cornell University,Duke University,171,40,1,2007
-Cornell University,Long Island University,171,41,1,2007
-Cornell University,Massachusetts Institute Of Technology,171,50,1,2007
-Cornell University,New School,171,55,2,2007
-Cornell University,New York University,171,57,1,2007
-Cornell University,Rochester Institute Of Technology,171,53,1,2007
-Cornell University,Rockefeller University,171,38,1,2007
-Cornell University,University Of Southern California,171,51,1,2007
-Cornell University,University Of Tulsa,171,39,1,2007
-Cornell University,Yeshiva University,171,98,1,2007
-Dartmouth College,Rockefeller University,18,38,1,2007
-Drexel University,Thomas Jefferson University,40,38,1,2007
-Duke University,Johns Hopkins University,40,67,1,2007
-Duquesne University,University Of California Los Angeles,25,6,1,2007
-East Tennessee State University,Middle Tennessee State University,16,16,16,2007
-East Tennessee State University,Tennessee State University,16,16,15,2007
-East Tennessee State University,Tennessee Technological University,16,16,15,2007
-East Tennessee State University,University Of Memphis,16,16,14,2007
-Fordham University,Georgetown University,38,38,2,2007
-Fordham University,Loyola University Chicago,38,40,1,2007
-Fordham University,Yeshiva University,38,98,1,2007
-George Washington University,Washington State University,33,10,1,2007
-Howard University,Massachusetts Institute Of Technology,29,50,1,2007
-Idaho State University,University Of Idaho,7,3,3,2007
-Illinois Institute Of Technology,University Of Chicago,25,50,1,2007
-Indiana University Of Pennsylvania,West Chester University Of Pennsylvania,11,11,1,2007
-Iowa State University,University Of Iowa,8,8,8,2007
-Johns Hopkins University,Loyola Marymount University,67,92,1,2007
-Johns Hopkins University,Rockefeller University,67,38,1,2007
-Johns Hopkins University,Yeshiva University,67,98,1,2007
-Kansas State University,University Of Kansas,9,9,9,2007
-Kansas State University,Wichita State University,9,9,9,2007
-Loyola Marymount University,University Of San Diego,92,38,1,2007
-Loyola Marymount University,University Of Southern California,92,51,2,2007
-Massachusetts Institute Of Technology,New School,50,55,1,2007
-Massachusetts Institute Of Technology,Rockefeller University,50,38,1,2007
-Massachusetts Institute Of Technology,University Of North Carolina At Greensboro,50,13,1,2007
-Massachusetts Institute Of Technology,Yale University,50,18,1,2007
-Middle Tennessee State University,Tennessee State University,16,16,15,2007
-Middle Tennessee State University,Tennessee Technological University,16,16,15,2007
-Middle Tennessee State University,University Of Memphis,16,16,14,2007
-New Jersey Institute Of Technology,Princeton University,51,30,1,2007
-New Jersey Institute Of Technology,University Of Chicago,51,50,1,2007
-New Jersey Institute Of Technology,University Of Notre Dame,51,52,1,2007
-New School,New York University,55,57,1,2007
-New School,Princeton University,55,30,1,2007
-New School,University Of Chicago,55,50,1,2007
-New York University,University Of Pennsylvania,57,104,1,2007
-New York University,Vanderbilt University,57,58,1,2007
-New York University,Virginia Commonwealth University,57,16,1,2007
-Northern Arizona University,University Of Arizona,13,13,13,2007
-Oklahoma State University,University Of Oklahoma,18,16,8,2007
-Pennsylvania State University,University Of Pennsylvania,33,104,1,2007
-Pennsylvania State University,University Of Pittsburgh,33,51,2,2007
-Princeton University,Rockefeller University,30,38,1,2007
-Princeton University,University Of Chicago,30,50,2,2007
-Princeton University,University Of Virginia,30,17,1,2007
-Rensselaer Polytechnic Institute,St Johns University,32,39,1,2007
-Rice University,Stanford University,23,34,1,2007
-Rockefeller University,Stanford University,38,34,1,2007
-Rockefeller University,Yeshiva University,38,98,1,2007
-South Dakota State University,University Of South Dakota,10,10,9,2007
-Tennessee State University,Tennessee Technological University,16,16,14,2007
-Tennessee State University,University Of Memphis,16,16,13,2007
-Tennessee Technological University,University Of Memphis,16,16,15,2007
-Tufts University,University Of Chicago,39,50,1,2007
-Tufts University,University Of New Mexico,39,8,1,2007
-University Of Connecticut,Yale University,22,18,1,2007
-University Of Kansas,Wichita State University,9,9,9,2007
-University Of Pennsylvania,University Of Pittsburgh,104,51,1,2007
-University Of Pennsylvania,Widener University,104,26,1,2007
-University Of San Diego,Wake Forest University,38,43,1,2007
-University Of St Thomas Minnesota,Vanderbilt University,41,58,1,2007
-University Of Utah,Utah State University,28,26,15,2007
-Andrews University,Loma Linda University,38,21,5,2008
-Arizona State University,Northern Arizona University,13,13,13,2008
-Arizona State University,University Of Arizona,13,13,13,2008
-Auburn University,University Of South Alabama,25,16,1,2008
-Baylor College Of Medicine,Baylor University,47,31,1,2008
-Baylor College Of Medicine,Rice University,47,25,1,2008
-Baylor College Of Medicine,Southern Methodist University,47,42,1,2008
-Boise State University,Idaho State University,7,6,6,2008
-Boise State University,University Of Idaho,7,2,2,2008
-Boston College,Loyola Marymount University,45,92,1,2008
-Boston College,Loyola University Chicago,45,38,1,2008
-Boston College,Worcester Polytechnic Institute,45,36,1,2008
-Brandeis University,Columbia University,48,74,1,2008
-Brandeis University,Rockefeller University,48,37,1,2008
-Brown University,Rockefeller University,51,37,1,2008
-Brown University,Tufts University,51,40,1,2008
-California Institute Of Technology,Chapman University,60,48,1,2008
-California Institute Of Technology,Harvard University,60,36,1,2008
-California Institute Of Technology,Massachusetts Institute Of Technology,60,51,1,2008
-California Institute Of Technology,University Of Southern California,60,53,1,2008
-Carnegie Mellon University,University Of Pittsburgh,100,55,2,2008
-Catholic University Of America,Seton Hall University,50,40,1,2008
-Catholic University Of America,University Of St Thomas Minnesota,50,41,1,2008
-Chapman University,University Of San Diego,48,41,1,2008
-Clarkson University,Polytechnic University,29,40,1,2008
-Clemson University,Mercer University,70,46,1,2008
-Columbia University,New Jersey Institute Of Technology,74,50,1,2008
-Columbia University,Yeshiva University,74,92,1,2008
-Cornell University,Massachusetts Institute Of Technology,51,51,1,2008
-Cornell University,New School,51,58,1,2008
-Cornell University,University Of Southern California,51,53,1,2008
-Cornell University,University Of Tulsa,51,39,1,2008
-Creighton University,University Of Notre Dame,36,55,1,2008
-Dartmouth College,Rockefeller University,18,37,1,2008
-Depaul University,University Of North Carolina At Charlotte,38,13,1,2008
-Drexel University,Thomas Jefferson University,39,41,1,2008
-Duke University,Johns Hopkins University,39,67,1,2008
-Duke University,University Of Chicago,39,49,1,2008
-East Tennessee State University,Middle Tennessee State University,14,14,13,2008
-East Tennessee State University,Tennessee State University,14,14,14,2008
-East Tennessee State University,Tennessee Technological University,14,14,13,2008
-East Tennessee State University,University Of Memphis,14,14,13,2008
-Fordham University,Georgetown University,39,41,2,2008
-Fordham University,Loyola University Chicago,39,38,1,2008
-Fordham University,Yeshiva University,39,92,1,2008
-Gallaudet University,Rochester Institute Of Technology,22,53,1,2008
-Georgetown University,New York University,41,49,1,2008
-Georgetown University,Pepperdine University,41,39,1,2008
-Georgetown University,Saint Louis University,41,42,1,2008
-Georgetown University,University Of St Thomas Minnesota,41,41,1,2008
-Hofstra University,Yeshiva University,26,92,1,2008
-Howard University,Massachusetts Institute Of Technology,33,51,1,2008
-Idaho State University,University Of Idaho,6,2,2,2008
-Illinois Institute Of Technology,University Of Chicago,46,49,1,2008
-Illinois Institute Of Technology,University Of Connecticut,46,21,1,2008
-Indiana University Of Pennsylvania,West Chester University Of Pennsylvania,10,12,1,2008
-Iowa State University,University Of Iowa,9,9,9,2008
-Johns Hopkins University,Loyola Marymount University,67,92,1,2008
-Johns Hopkins University,Rockefeller University,67,37,1,2008
-Johns Hopkins University,University Of Chicago,67,49,1,2008
-Johns Hopkins University,Yeshiva University,67,92,1,2008
-Kansas State University,University Of Kansas,10,10,10,2008
-Kansas State University,Wichita State University,10,10,8,2008
-Loyola Marymount University,University Of San Diego,92,41,1,2008
-Loyola Marymount University,University Of Southern California,92,53,1,2008
-Loyola University Chicago,Northwestern University,38,74,1,2008
-Massachusetts Institute Of Technology,New School,51,58,1,2008
-Massachusetts Institute Of Technology,Rockefeller University,51,37,1,2008
-Massachusetts Institute Of Technology,Yale University,51,20,1,2008
-Middle Tennessee State University,Tennessee State University,14,14,13,2008
-Middle Tennessee State University,Tennessee Technological University,14,14,12,2008
-Middle Tennessee State University,University Of Memphis,14,14,12,2008
-New Jersey Institute Of Technology,Princeton University,50,41,1,2008
-New Jersey Institute Of Technology,University Of Notre Dame,50,55,1,2008
-New School,New York University,58,49,1,2008
-New School,Princeton University,58,41,1,2008
-New York University,Vanderbilt University,49,60,1,2008
-Northern Arizona University,University Of Arizona,13,13,13,2008
-Oklahoma State University,University Of Oklahoma,16,14,5,2008
-Pennsylvania State University,Thomas Jefferson University,33,41,1,2008
-Pennsylvania State University,University Of Pennsylvania,33,54,1,2008
-Pennsylvania State University,University Of Pittsburgh,33,55,2,2008
-Princeton University,University Of Chicago,41,49,1,2008
-Rensselaer Polytechnic Institute,St Johns University,32,25,1,2008
-Rice University,Stanford University,25,35,1,2008
-Rockefeller University,Yeshiva University,37,92,1,2008
-Seton Hall University,University Of St Thomas Minnesota,40,41,1,2008
-South Dakota State University,University Of South Dakota,10,10,10,2008
-Syracuse University,Temple University,29,35,1,2008
-Tennessee State University,Tennessee Technological University,14,14,13,2008
-Tennessee State University,University Of Memphis,14,14,13,2008
-Tennessee Technological University,University Of Memphis,14,14,12,2008
-Tufts University,University Of Chicago,40,49,1,2008
-Tufts University,University Of New Mexico,40,8,1,2008
-University Of Connecticut,Yale University,21,20,1,2008
-University Of Kansas,Wichita State University,10,10,8,2008
-University Of Pennsylvania,University Of Pittsburgh,54,55,1,2008
-University Of St Thomas Minnesota,Vanderbilt University,41,60,1,2008
-University Of Utah,Utah State University,30,31,18,2008
-Andrews University,Loma Linda University,38,20,5,2009
-Arizona State University,Northern Arizona University,12,12,12,2009
-Arizona State University,University Of Arizona,12,12,11,2009
-Baylor College Of Medicine,Rice University,46,24,1,2009
-Boston College,Loyola Marymount University,46,88,1,2009
-Brandeis University,Columbia University,44,54,1,2009
-Brandeis University,New York University,44,52,1,2009
-Brandeis University,Ohio State University,44,19,1,2009
-Brandeis University,Rockefeller University,44,39,1,2009
-Brown University,Howard University,59,33,1,2009
-Brown University,Rockefeller University,59,39,1,2009
-Brown University,Tufts University,59,43,1,2009
-California Institute Of Technology,Chapman University,51,49,1,2009
-California Institute Of Technology,Harvard University,51,36,1,2009
-California Institute Of Technology,Massachusetts Institute Of Technology,51,50,1,2009
-California Institute Of Technology,Princeton University,51,41,1,2009
-California Institute Of Technology,University Of Southern California,51,52,1,2009
-Carnegie Mellon University,University Of Pittsburgh,39,51,2,2009
-Catholic University Of America,Seton Hall University,50,43,2,2009
-Catholic University Of America,St Johns University,50,29,1,2009
-Catholic University Of America,University Of St Thomas Minnesota,50,40,1,2009
-Columbia University,New Jersey Institute Of Technology,54,46,1,2009
-Columbia University,Yeshiva University,54,44,1,2009
-Cornell University,Massachusetts Institute Of Technology,47,50,1,2009
-Cornell University,New School,47,58,1,2009
-Cornell University,University Of Southern California,47,52,1,2009
-Creighton University,University Of Notre Dame,36,54,1,2009
-Drexel University,Thomas Jefferson University,33,32,1,2009
-Duke University,Johns Hopkins University,37,67,1,2009
-Duke University,University Of Chicago,37,49,1,2009
-East Tennessee State University,Middle Tennessee State University,18,17,14,2009
-East Tennessee State University,Tennessee State University,18,17,15,2009
-East Tennessee State University,Tennessee Technological University,18,18,15,2009
-East Tennessee State University,University Of Memphis,18,12,9,2009
-Florida State University,Mercer University,13,41,1,2009
-Florida State University,New School,13,58,1,2009
-Fordham University,Georgetown University,39,43,2,2009
-Georgetown University,Loyola University Chicago,43,45,1,2009
-Georgetown University,New York University,43,52,1,2009
-Georgetown University,University Of St Thomas Minnesota,43,40,1,2009
-Hofstra University,Yeshiva University,30,44,1,2009
-Howard University,Massachusetts Institute Of Technology,33,50,1,2009
-Idaho State University,University Of Idaho,7,10,7,2009
-Illinois Institute Of Technology,University Of Chicago,44,49,1,2009
-Illinois Institute Of Technology,University Of Connecticut,44,21,1,2009
-Indiana University Of Pennsylvania,North Dakota State University,10,6,1,2009
-Iowa State University,University Of Iowa,9,8,7,2009
-Johns Hopkins University,Loyola Marymount University,67,88,1,2009
-Johns Hopkins University,Rockefeller University,67,39,1,2009
-Johns Hopkins University,University Of Chicago,67,49,1,2009
-Kansas State University,University Of Kansas,10,10,10,2009
-Kansas State University,Wichita State University,10,10,10,2009
-Loyola Marymount University,University Of Notre Dame,88,54,1,2009
-Loyola Marymount University,University Of San Diego,88,41,1,2009
-Loyola Marymount University,University Of Southern California,88,52,3,2009
-Loyola University Chicago,Marquette University,45,33,1,2009
-Massachusetts Institute Of Technology,New School,50,58,1,2009
-Massachusetts Institute Of Technology,Rockefeller University,50,39,1,2009
-Massachusetts Institute Of Technology,Yale University,50,18,1,2009
-Middle Tennessee State University,Tennessee State University,17,17,15,2009
-Middle Tennessee State University,Tennessee Technological University,17,18,15,2009
-Middle Tennessee State University,University Of Memphis,17,12,12,2009
-New Jersey Institute Of Technology,Princeton University,46,41,1,2009
-New School,New York University,58,52,1,2009
-New York University,Vanderbilt University,52,55,1,2009
-Northern Arizona University,University Of Arizona,12,12,11,2009
-Oklahoma State University,University Of Oklahoma,15,14,6,2009
-Pennsylvania State University,Thomas Jefferson University,33,32,1,2009
-Pennsylvania State University,University Of Pennsylvania,33,56,1,2009
-Pennsylvania State University,University Of Pittsburgh,33,51,2,2009
-Princeton University,University Of Chicago,41,49,1,2009
-Rensselaer Polytechnic Institute,St Johns University,32,29,1,2009
-Rice University,Stanford University,24,31,1,2009
-Rochester Institute Of Technology,Syracuse University,49,72,1,2009
-Rockefeller University,Stanford University,39,31,1,2009
-Rockefeller University,University Of Pennsylvania,39,56,1,2009
-Seton Hall University,University Of St Thomas Minnesota,43,40,1,2009
-South Dakota State University,University Of South Dakota,10,10,9,2009
-Syracuse University,Temple University,72,32,1,2009
-Tennessee State University,Tennessee Technological University,17,18,16,2009
-Tennessee State University,University Of Memphis,17,12,10,2009
-Tennessee Technological University,University Of Memphis,18,12,11,2009
-Tufts University,University Of Chicago,43,49,1,2009
-Tufts University,University Of New Mexico,43,8,1,2009
-University Of Connecticut,Yale University,21,18,1,2009
-University Of Kansas,Wichita State University,10,10,10,2009
-University Of Pennsylvania,University Of Pittsburgh,56,51,1,2009
-University Of St Thomas Minnesota,Vanderbilt University,40,55,1,2009
-University Of Utah,Utah State University,29,28,17,2009
-Andrews University,Loma Linda University,39,20,1,2011
-Auburn University,University Of South Alabama,12,17,1,2011
-Baylor College Of Medicine,Rice University,41,24,2,2011
-Baylor College Of Medicine,Southern Methodist University,41,42,1,2011
-Boston College,Fordham University,71,47,1,2011
-Brandeis University,Cornell University,47,54,1,2011
-Brandeis University,New York University,47,54,1,2011
-Brown University,Howard University,53,33,1,2011
-Brown University,Rockefeller University,53,36,1,2011
-California Institute Of Technology,Harvard University,56,37,1,2011
-California Institute Of Technology,University Of Southern California,56,46,1,2011
-Carnegie Mellon University,University Of Pittsburgh,45,57,1,2011
-Carnegie Mellon University,West Virginia University,45,15,1,2011
-Catholic University Of America,Fordham University,47,47,1,2011
-Catholic University Of America,Seton Hall University,47,45,1,2011
-Catholic University Of America,St Johns University,47,29,1,2011
-Chapman University,University Of San Diego,51,32,1,2011
-Clark Atlanta University,Emory University,26,41,1,2011
-Cornell University,New School,54,51,1,2011
-Cornell University,University Of Southern California,54,46,1,2011
-Dartmouth College,Texas Christian University,22,44,1,2011
-Duke University,Johns Hopkins University,38,57,1,2011
-Duke University,University Of Chicago,38,47,1,2011
-Fordham University,New School,47,51,1,2011
-Fordham University,Northwestern University,47,75,1,2011
-George Washington University,Northeastern University,38,24,1,2011
-Georgetown University,University Of Chicago,34,47,1,2011
-Georgetown University,University Of St Thomas Minnesota,34,43,1,2011
-Howard University,New School,33,51,1,2011
-Howard University,University Of Delaware,33,33,1,2011
-Howard University,University Of Virginia,33,13,1,2011
-Illinois Institute Of Technology,Northwestern University,34,75,1,2011
-Illinois Institute Of Technology,University Of Chicago,34,47,1,2011
-Johns Hopkins University,University Of Chicago,57,47,1,2011
-Loyola Marymount University,University Of Southern California,90,46,2,2011
-Loyola University Chicago,University Of Chicago,45,47,1,2011
-Massachusetts Institute Of Technology,Yale University,50,19,1,2011
-New School,New York University,51,54,1,2011
-New School,University Of Virginia,51,13,1,2011
-New York University,Polytechnic Institute Of New York University,54,32,3,2011
-Pennsylvania State University,Thomas Jefferson University,35,28,1,2011
-Pennsylvania State University,University Of Pennsylvania,35,53,1,2011
-Pennsylvania State University,University Of Pittsburgh,35,57,1,2011
-Pepperdine University,University Of Pacific,40,29,1,2011
-Rensselaer Polytechnic Institute,St Johns University,29,29,1,2011
-Rochester Institute Of Technology,Syracuse University,53,67,1,2011
-Rockefeller University,Stanford University,36,30,1,2011
-St Johns University,University Of St Thomas Minnesota,29,43,1,2011
-University Of Connecticut,Yale University,20,19,1,2011
-University Of Pacific,Washington University,29,55,1,2011
-University Of Pennsylvania,University Of Pittsburgh,53,57,1,2011
-University Of San Diego,University Of St Thomas Minnesota,32,43,1,2011
-University Of St Thomas Minnesota,Vanderbilt University,43,55,1,2011
-Andrews University,Loma Linda University,41,20,4,2013
-Baylor College Of Medicine,Baylor University,47,25,1,2013
-Baylor College Of Medicine,Rice University,47,25,2,2013
-Boston College,Creighton University,54,39,2,2013
-Boston College,Fordham University,54,37,1,2013
-Boston College,Loyola University Chicago,54,44,1,2013
-Boston College,Marquette University,54,30,1,2013
-Brandeis University,Cornell University,44,47,1,2013
-Brandeis University,George Washington University,44,37,1,2013
-Brown University,Carnegie Mellon University,54,48,1,2013
-Brown University,Howard University,54,34,1,2013
-Brown University,Princeton University,54,39,1,2013
-Carnegie Mellon University,Rensselaer Polytechnic Institute,48,30,1,2013
-Carnegie Mellon University,University Of Notre Dame,48,47,1,2013
-Carnegie Mellon University,University Of Pittsburgh,48,59,1,2013
-Carnegie Mellon University,West Virginia University,48,17,1,2013
-Catholic University Of America,Fordham University,47,37,1,2013
-Chapman University,University Of San Diego,53,32,1,2013
-Clark Atlanta University,Emory University,28,43,1,2013
-Cornell University,New School,47,41,1,2013
-Cornell University,University Of Southern California,47,52,1,2013
-Creighton University,Marquette University,39,30,1,2013
-Dartmouth College,Rockefeller University,42,45,1,2013
-Dartmouth College,Texas Christian University,42,48,1,2013
-Dartmouth College,University Of Notre Dame,42,47,1,2013
-Depaul University,St Johns University,43,28,1,2013
-Duke University,Johns Hopkins University,40,55,1,2013
-Duke University,University Of Chicago,40,51,1,2013
-Emory University,Washington University,43,54,1,2013
-Fordham University,Loyola University Chicago,37,44,1,2013
-Fordham University,New School,37,41,1,2013
-Fordham University,Northwestern University,37,75,1,2013
-Georgetown University,New York University,34,60,1,2013
-Harvard University,Massachusetts Institute Of Technology,48,72,1,2013
-Howard University,Princeton University,34,39,1,2013
-Illinois Institute Of Technology,Northwestern University,33,75,1,2013
-Illinois Institute Of Technology,University Of Chicago,33,51,1,2013
-Johns Hopkins University,University Of Chicago,55,51,1,2013
-Long Island University,New York University,38,60,1,2013
-Loyola University Chicago,University Of Chicago,44,51,1,2013
-Massachusetts Institute Of Technology,Rockefeller University,72,45,1,2013
-Massachusetts Institute Of Technology,University Of Rochester,72,48,1,2013
-Massachusetts Institute Of Technology,West Virginia University,72,17,1,2013
-New Jersey Institute Of Technology,Princeton University,52,39,1,2013
-New School,Rockefeller University,41,45,1,2013
-New York University,Polytechnic Institute Of New York University,60,28,3,2013
-Pennsylvania State University,University Of Pennsylvania,25,56,1,2013
-Pennsylvania State University,University Of Pittsburgh,25,59,1,2013
-Rensselaer Polytechnic Institute,St Johns University,30,28,1,2013
-Rensselaer Polytechnic Institute,Syracuse University,30,73,1,2013
-Rochester Institute Of Technology,University Of Rochester,56,48,2,2013
-Rockefeller University,Stanford University,45,32,1,2013
-Seton Hall University,St Johns University,45,28,1,2013
-St Johns University,University Of St Thomas Minnesota,28,49,1,2013
-Syracuse University,Temple University,73,35,1,2013
-Syracuse University,University Of Rochester,73,48,1,2013
-University Of Denver,Washington University,28,54,1,2013
-University Of Pacific,Washington University,27,54,1,2013
-University Of Pennsylvania,University Of Pittsburgh,56,59,1,2013
-University Of San Diego,University Of St Thomas Minnesota,32,49,1,2013
-University Of St Thomas Minnesota,Vanderbilt University,49,55,1,2013
-Adelphi University,University Of Rochester,27,48,1,2018
-Andrews University,Loma Linda University,37,35,5,2018
-Auburn University,University Of South Alabama,16,16,1,2018
-Baylor College Of Medicine,Baylor University,51,36,3,2018
-Baylor College Of Medicine,Rice University,51,25,1,2018
-Boston College,Creighton University,52,38,2,2018
-Boston University,University Of Louisville,40,12,1,2018
-Brown University,Rockefeller University,58,49,1,2018
-Carnegie Mellon University,University Of Notre Dame,50,49,1,2018
-Carnegie Mellon University,University Of Pittsburgh,50,53,3,2018
-Case Western Reserve University,Emory University,42,39,1,2018
-Catholic University Of America,Seton Hall University,47,45,1,2018
-Clark Atlanta University,Emory University,30,39,1,2018
-Cornell University,Rockefeller University,59,49,1,2018
-Cornell University,University Of Southern California,59,57,1,2018
-Drexel University,Fordham University,49,40,1,2018
-Drexel University,New Jersey Institute Of Technology,49,56,1,2018
-Duke University,Northwestern University,38,63,2,2018
-Emory University,Washington University,39,61,1,2018
-Georgetown University,St Johns University,39,28,1,2018
-Georgetown University,University Of St Thomas Minnesota,39,38,1,2018
-Harvard University,University Of Chicago,43,52,1,2018
-Illinois Institute Of Technology,Loyola University Chicago,35,31,1,2018
-Illinois Institute Of Technology,Northwestern University,35,63,1,2018
-Illinois Institute Of Technology,University Of Chicago,35,52,1,2018
-Johns Hopkins University,Rockefeller University,36,49,1,2018
-Long Island University,New York University,31,74,1,2018
-Loyola Marymount University,Marquette University,86,53,1,2018
-Loyola University Chicago,Saint Louis University,31,45,1,2018
-Loyola University Chicago,University Of Chicago,31,52,1,2018
-Loyola University Chicago,University Of St Thomas Minnesota,31,38,1,2018
-Marquette University,Oregon Health & Science University,53,8,1,2018
-Marquette University,University Of Denver,53,25,1,2018
-Marquette University,University Of South Carolina,53,22,1,2018
-Marquette University,University Of Virginia,53,20,1,2018
-Massachusetts Institute Of Technology,Rensselaer Polytechnic Institute,76,25,1,2018
-New Jersey Institute Of Technology,Princeton University,56,66,1,2018
-Northwestern University,Rutgers State University Of New Jersey,63,66,1,2018
-Northwestern University,University Of Denver,63,25,1,2018
-Northwestern University,Vanderbilt University,63,24,1,2018
-Oregon Health & Science University,University Of Denver,8,25,1,2018
-Oregon Health & Science University,University Of South Carolina,8,22,1,2018
-Oregon Health & Science University,University Of Virginia,8,20,1,2018
-Pennsylvania State University,Temple University,38,37,2,2018
-Pennsylvania State University,University Of Pennsylvania,38,55,1,2018
-Pennsylvania State University,University Of Pittsburgh,38,53,2,2018
-Rice University,Rockefeller University,25,49,1,2018
-Rochester Institute Of Technology,University Of Rochester,45,48,2,2018
-Rockefeller University,Stanford University,49,33,1,2018
-Rockefeller University,University Of Pennsylvania,49,55,1,2018
-Rockefeller University,University Of Southern California,49,57,1,2018
-Rowan University,Widener University,18,25,1,2018
-Saint Louis University,Washington University,45,61,2,2018
-Temple University,University Of Pennsylvania,37,55,1,2018
-Temple University,University Of Pittsburgh,37,53,2,2018
-University Of Connecticut,Yale University,20,19,1,2018
-University Of Denver,University Of South Carolina,25,22,1,2018
-University Of Denver,University Of Virginia,25,20,1,2018
-University Of Pennsylvania,University Of Pittsburgh,55,53,1,2018
-University Of South Carolina,University Of Virginia,22,20,1,2018
-Vanderbilt University,Yeshiva University,24,38,1,2018
+Case Western Reserve University,Columbia University,51,25,0.013333333333333334,1999
+Carnegie Mellon University,Duquesne University,93,45,0.022222222222222223,1999
+Clark Atlanta University,Emory University,28,41,0.029850746268656716,1999
+Brandeis University,Fordham University,46,34,0.012658227848101266,1999
+Fordham University,Georgetown University,34,42,0.013333333333333334,1999
+California Institute Of Technology,Harvard University,48,37,0.011904761904761904,1999
+Brown University,Johns Hopkins University,54,61,0.008771929824561403,1999
+Howard University,Johns Hopkins University,26,61,0.011627906976744186,1999
+Andrews University,Loma Linda University,36,24,0.034482758620689655,1999
+Illinois Institute Of Technology,Loyola University Chicago,59,4,0.016129032258064516,1999
+George Washington University,Marquette University,43,32,0.013513513513513514,1999
+Boston University,Massachusetts Institute Of Technology,51,53,0.009708737864077669,1999
+George Washington University,Massachusetts Institute Of Technology,43,53,0.010526315789473684,1999
+Dartmouth College,New School University,16,51,0.015151515151515152,1999
+Georgetown University,New York University,42,45,0.011627906976744186,1999
+Arizona State University,Northern Arizona University,11,11,0.8333333333333334,1999
+Case Western Reserve University,Ohio State University,51,13,0.015873015873015872,1999
+Kent State University,Ohio University,19,21,0.3793103448275862,1999
+Hampton University,Old Dominion University,22,16,0.02702702702702703,1999
+California Institute Of Technology,Pepperdine University,48,39,0.011627906976744186,1999
+George Washington University,Pepperdine University,43,39,0.012345679012345678,1999
+Polytechnic University,Rensselaer Polytechnic Institute,31,33,0.015873015873015872,1999
+Princeton University,Rice University,40,19,0.017241379310344827,1999
+Lehigh University,Seton Hall University,38,32,0.014492753623188406,1999
+Adelphi University,State University Of New York At Albany,17,10,0.038461538461538464,1999
+Pennsylvania State University,Temple University,39,40,0.025974025974025976,1999
+Brandeis University,Tufts University,46,35,0.0125,1999
+Ohio University,University Of Akron,21,17,0.4074074074074074,1999
+Kent State University,University Of Akron,19,17,0.44,1999
+Auburn University,University Of Alabama,12,16,0.037037037037037035,1999
+Northern Arizona University,University Of Arizona,11,10,0.75,1999
+Arizona State University,University Of Arizona,11,10,0.9090909090909091,1999
+Tufts University,University Of Chicago,35,48,0.012195121951219513,1999
+Illinois Institute Of Technology,University Of Chicago,59,48,0.009433962264150943,1999
+Marquette University,University Of Chicago,32,48,0.012658227848101266,1999
+New School University,University Of Chicago,51,48,0.01020408163265306,1999
+University Of Akron,University Of Cincinnati,17,20,0.4230769230769231,1999
+Ohio University,University Of Cincinnati,21,20,0.36666666666666664,1999
+Kent State University,University Of Cincinnati,19,20,0.39285714285714285,1999
+Tufts University,University Of Delaware,35,31,0.015384615384615385,1999
+Georgetown University,University Of Delaware,42,31,0.013888888888888888,1999
+Idaho State University,University Of Idaho,7,4,0.2222222222222222,1999
+Depaul University,University Of Illinois At Urbana Champaign,84,13,0.010416666666666666,1999
+Iowa State University,University Of Iowa,9,9,1.0,1999
+Kansas State University,University Of Kansas,9,9,0.8,1999
+Mississippi State University,University Of Mississippi,12,11,0.7692307692307693,1999
+New Mexico State University,University Of New Mexico,7,8,0.07142857142857142,1999
+Middle Tennessee State University,University Of North Texas,10,9,0.05555555555555555,1999
+New York University,University Of Notre Dame,45,54,0.01020408163265306,1999
+New Jersey Institute Of Technology,University Of Notre Dame,59,54,0.008928571428571428,1999
+Carnegie Mellon University,University Of Oklahoma,93,14,0.009433962264150943,1999
+Oklahoma State University,University Of Oklahoma,20,14,0.13333333333333333,1999
+Hofstra University,University Of Pittsburgh,39,51,0.011235955056179775,1999
+Carnegie Mellon University,University Of Pittsburgh,93,51,0.006993006993006993,1999
+Temple University,University Of Pittsburgh,40,51,0.011111111111111112,1999
+Pennsylvania State University,University Of Pittsburgh,39,51,0.011235955056179775,1999
+New Jersey Institute Of Technology,University Of Pittsburgh,59,51,0.009174311926605505,1999
+Rochester Institute Of Technology,University Of Rochester,44,58,0.009900990099009901,1999
+Johns Hopkins University,University Of Rochester,61,58,0.00847457627118644,1999
+University Of Chicago,University Of Rochester,48,58,0.009523809523809525,1999
+Auburn University,University Of South Alabama,12,19,0.06896551724137931,1999
+University Of Alabama,University Of South Alabama,16,19,0.029411764705882353,1999
+South Dakota State University,University Of South Dakota,9,10,0.35714285714285715,1999
+Carnegie Mellon University,University Of Southern California,93,42,0.007462686567164179,1999
+Loyola Marymount University,University Of Southern California,51,42,0.010869565217391304,1999
+Mississippi State University,University Of Southern Mississippi,12,11,0.9166666666666666,1999
+University Of Mississippi,University Of Southern Mississippi,11,11,0.8333333333333334,1999
+Marquette University,University Of St Thomas Minnesota,32,38,0.014492753623188406,1999
+University Of Notre Dame,University Of St Thomas Minnesota,54,38,0.01098901098901099,1999
+University Of Oklahoma,University Of Tulsa,14,36,0.02040816326530612,1999
+Carnegie Mellon University,University Of Tulsa,93,36,0.0078125,1999
+University Of Utah,Utah State University,29,27,0.3333333333333333,1999
+Seton Hall University,Villanova University,32,26,0.017543859649122806,1999
+University Of North Carolina At Greensboro,Wake Forest University,6,42,0.02127659574468085,1999
+Indiana University Of Pennsylvania,West Chester University Of Pennsylvania,11,11,0.047619047619047616,1999
+Marshall University,West Virginia University,16,18,0.7894736842105263,1999
+University Of Kansas,Wichita State University,9,9,1.0,1999
+Kansas State University,Wichita State University,9,9,0.8,1999
+Thomas Jefferson University,Widener University,32,26,0.017543859649122806,1999
+Carnegie Mellon University,Worcester Polytechnic Institute,93,38,0.007692307692307693,1999
+University Of Connecticut,Yale University,17,19,0.02857142857142857,1999
+Brown University,University Of Rhode Island,54,16,0.014492753623188406,1999
+Cleveland State University,University Of Akron,24,17,0.3225806451612903,1999
+Cleveland State University,University Of Cincinnati,24,20,0.29411764705882354,1999
+Cleveland State University,Ohio University,24,21,0.2857142857142857,1999
+Cleveland State University,Kent State University,24,19,0.30303030303030304,1999
+New Jersey Institute Of Technology,Princeton University,59,40,0.01020408163265306,1999
+Ohio State University,University Of Akron,13,17,0.15384615384615385,1999
+Ohio State University,University Of Cincinnati,13,20,0.13793103448275862,1999
+Ohio State University,Ohio University,13,21,0.13333333333333333,1999
+Kent State University,Ohio State University,19,13,0.14285714285714285,1999
+Cleveland State University,Ohio State University,24,13,0.08823529411764706,1999
+Catholic University Of America,Seton Hall University,41,32,0.013888888888888888,1999
+Ohio University,University Of Toledo,21,22,0.34375,1999
+University Of Akron,University Of Toledo,17,22,0.39285714285714285,1999
+Kent State University,University Of Toledo,19,22,0.36666666666666664,1999
+University Of Cincinnati,University Of Toledo,20,22,0.3548387096774194,1999
+Ohio State University,University Of Toledo,13,22,0.12903225806451613,1999
+Cleveland State University,University Of Toledo,24,22,0.2777777777777778,1999
+New York University,Yeshiva University,45,97,0.0070921985815602835,1999
+Hofstra University,Yeshiva University,39,97,0.007407407407407408,1999
+Massachusetts Institute Of Technology,Yeshiva University,53,97,0.006711409395973154,1999
+California Institute Of Technology,Chapman University,51,46,0.010416666666666666,2000
+Carnegie Mellon University,Duquesne University,99,43,0.02158273381294964,2000
+Brandeis University,Fordham University,49,36,0.011904761904761904,2000
+Fordham University,Georgetown University,36,34,0.014492753623188406,2000
+California Institute Of Technology,Harvard University,51,31,0.012345679012345678,2000
+Howard University,Johns Hopkins University,18,65,0.012195121951219513,2000
+Brown University,Johns Hopkins University,52,65,0.008620689655172414,2000
+Cleveland State University,Kent State University,21,21,0.2727272727272727,2000
+Andrews University,Loma Linda University,36,23,0.03508771929824561,2000
+Boston College,Loyola University Chicago,45,30,0.013513513513513514,2000
+Illinois Institute Of Technology,Loyola University Chicago,62,30,0.022222222222222223,2000
+Creighton University,Loyola University Chicago,35,30,0.015625,2000
+George Washington University,Marquette University,43,35,0.012987012987012988,2000
+Johns Hopkins University,Massachusetts Institute Of Technology,65,53,0.008547008547008548,2000
+Boston University,Massachusetts Institute Of Technology,53,53,0.009523809523809525,2000
+East Tennessee State University,Middle Tennessee State University,19,19,1.0,2000
+Georgetown University,New York University,34,51,0.011904761904761904,2000
+Arizona State University,Northern Arizona University,11,11,0.8333333333333334,2000
+Case Western Reserve University,Ohio State University,50,21,0.014285714285714285,2000
+Hampton University,Old Dominion University,23,17,0.02564102564102564,2000
+Polytechnic University,Rensselaer Polytechnic Institute,33,33,0.03125,2000
+Dartmouth College,Rockefeller University,16,31,0.021739130434782608,2000
+Georgetown University,Rockefeller University,34,31,0.015625,2000
+Princeton University,Rockefeller University,39,31,0.014492753623188406,2000
+New York University,Rockefeller University,51,31,0.012345679012345678,2000
+Georgetown University,Saint Louis University,34,49,0.012195121951219513,2000
+Lehigh University,Seton Hall University,38,38,0.013333333333333334,2000
+Catholic University Of America,Seton Hall University,41,38,0.01282051282051282,2000
+Rice University,Stanford University,18,34,0.0196078431372549,2000
+Rockefeller University,Stanford University,31,34,0.015625,2000
+Pennsylvania State University,Temple University,35,41,0.013333333333333334,2000
+Middle Tennessee State University,Tennessee State University,19,33,0.5757575757575758,2000
+East Tennessee State University,Tennessee State University,19,33,0.5757575757575758,2000
+Middle Tennessee State University,Tennessee Technological University,19,33,0.5294117647058824,2000
+Tennessee State University,Tennessee Technological University,33,33,0.8333333333333334,2000
+East Tennessee State University,Tennessee Technological University,19,33,0.5294117647058824,2000
+Brown University,Tufts University,52,35,0.011627906976744186,2000
+Cleveland State University,University Of Akron,21,19,0.2903225806451613,2000
+Kent State University,University Of Akron,21,19,0.3333333333333333,2000
+Northern Arizona University,University Of Arizona,11,10,0.9090909090909091,2000
+Arizona State University,University Of Arizona,11,10,0.75,2000
+Tufts University,University Of Chicago,35,49,0.012048192771084338,2000
+Illinois Institute Of Technology,University Of Chicago,62,49,0.00909090909090909,2000
+Marquette University,University Of Chicago,35,49,0.012048192771084338,2000
+New School University,University Of Chicago,41,49,0.011235955056179775,2000
+New York University,University Of Connecticut,51,18,0.014705882352941176,2000
+Georgetown University,University Of Connecticut,34,18,0.0196078431372549,2000
+Marquette University,University Of Dayton,35,33,0.014925373134328358,2000
+Tufts University,University Of Delaware,35,32,0.015151515151515152,2000
+Georgetown University,University Of Delaware,34,32,0.015384615384615385,2000
+Idaho State University,University Of Idaho,8,4,0.2,2000
+Iowa State University,University Of Iowa,8,7,0.875,2000
+Kansas State University,University Of Kansas,9,9,1.0,2000
+Middle Tennessee State University,University Of Memphis,19,33,0.5757575757575758,2000
+Tennessee State University,University Of Memphis,33,33,0.8857142857142857,2000
+East Tennessee State University,University Of Memphis,19,33,0.5757575757575758,2000
+Tennessee Technological University,University Of Memphis,33,33,0.9411764705882353,2000
+Mississippi State University,University Of Mississippi,11,11,1.0,2000
+New Mexico State University,University Of New Mexico,5,11,0.06666666666666667,2000
+Massachusetts Institute Of Technology,University Of North Carolina At Greensboro,53,13,0.015384615384615385,2000
+New York University,University Of Notre Dame,51,55,0.009523809523809525,2000
+New Jersey Institute Of Technology,University Of Notre Dame,59,55,0.008849557522123894,2000
+Carnegie Mellon University,University Of Oklahoma,99,12,0.00909090909090909,2000
+Oklahoma State University,University Of Oklahoma,20,12,0.14285714285714285,2000
+New York University,University Of Pennsylvania,51,60,0.00909090909090909,2000
+Rockefeller University,University Of Pennsylvania,31,60,0.011111111111111112,2000
+Pennsylvania State University,University Of Pittsburgh,35,51,0.023809523809523808,2000
+Hofstra University,University Of Pittsburgh,31,51,0.012345679012345678,2000
+New Jersey Institute Of Technology,University Of Pittsburgh,59,51,0.009174311926605505,2000
+Temple University,University Of Pittsburgh,41,51,0.01098901098901099,2000
+Carnegie Mellon University,University Of Pittsburgh,99,51,0.013513513513513514,2000
+Loyola University Chicago,University Of San Diego,30,35,0.015625,2000
+Loyola University Chicago,University Of San Francisco,30,43,0.013888888888888888,2000
+Auburn University,University Of South Alabama,11,20,0.06896551724137931,2000
+South Dakota State University,University Of South Dakota,8,9,0.21428571428571427,2000
+Mississippi State University,University Of Southern Mississippi,11,11,1.0,2000
+University Of Mississippi,University Of Southern Mississippi,11,11,1.0,2000
+Marquette University,University Of St Thomas Minnesota,35,42,0.013157894736842105,2000
+University Of Notre Dame,University Of St Thomas Minnesota,55,42,0.010416666666666666,2000
+Cornell University,University Of Tulsa,46,35,0.0125,2000
+University Of Utah,Utah State University,24,26,0.42857142857142855,2000
+Seton Hall University,Villanova University,38,26,0.015873015873015872,2000
+Indiana University Of Pennsylvania,West Chester University Of Pennsylvania,11,10,0.05,2000
+Marshall University,West Virginia University,17,17,0.5454545454545454,2000
+University Of Kansas,Wichita State University,9,9,1.0,2000
+Kansas State University,Wichita State University,9,9,1.0,2000
+Thomas Jefferson University,Widener University,37,26,0.016129032258064516,2000
+Carnegie Mellon University,Worcester Polytechnic Institute,99,42,0.007142857142857143,2000
+Stevens Institute Of Technology,Worcester Polytechnic Institute,36,42,0.012987012987012988,2000
+New School University,Yale University,41,18,0.017241379310344827,2000
+University Of Connecticut,Yale University,18,18,0.02857142857142857,2000
+Hofstra University,Yeshiva University,31,96,0.007936507936507936,2000
+Massachusetts Institute Of Technology,Yeshiva University,53,96,0.006756756756756757,2000
+Columbia University,Yeshiva University,24,96,0.008403361344537815,2000
+New York University,Yeshiva University,51,96,0.00684931506849315,2000
+Brown University,University Of Rhode Island,52,16,0.014925373134328358,2000
+Harvard University,Rockefeller University,31,31,0.01639344262295082,2000
+Loyola Marymount University,University Of Notre Dame,84,55,0.007246376811594203,2000
+Loyola Marymount University,University Of Southern California,84,44,0.007874015748031496,2000
+Loyola Marymount University,Loyola University Chicago,84,30,0.008849557522123894,2000
+Ohio State University,University Of Akron,21,19,0.2903225806451613,2000
+Cleveland State University,Ohio State University,21,21,0.23529411764705882,2000
+Kent State University,Ohio State University,21,21,0.2727272727272727,2000
+Ohio University,University Of Akron,22,19,0.3225806451612903,2000
+Ohio State University,Ohio University,21,22,0.2647058823529412,2000
+Cleveland State University,Ohio University,21,22,0.2647058823529412,2000
+Kent State University,Ohio University,21,22,0.30303030303030304,2000
+Cleveland State University,University Of Cincinnati,21,21,0.2727272727272727,2000
+Ohio University,University Of Cincinnati,22,21,0.30303030303030304,2000
+University Of Akron,University Of Cincinnati,19,21,0.3333333333333333,2000
+Kent State University,University Of Cincinnati,21,21,0.3125,2000
+Ohio State University,University Of Cincinnati,21,21,0.2727272727272727,2000
+Cleveland State University,University Of Toledo,21,21,0.2727272727272727,2000
+Ohio University,University Of Toledo,22,21,0.30303030303030304,2000
+University Of Akron,University Of Toledo,19,21,0.3333333333333333,2000
+Kent State University,University Of Toledo,21,21,0.3125,2000
+University Of Cincinnati,University Of Toledo,21,21,0.3125,2000
+Ohio State University,University Of Toledo,21,21,0.2727272727272727,2000
+California Institute Of Technology,Chapman University,54,48,0.009900990099009901,2005
+Carnegie Mellon University,Duquesne University,98,35,0.015267175572519083,2005
+Duke University,Emory University,36,35,0.014285714285714285,2005
+Creighton University,Georgetown University,35,44,0.01282051282051282,2005
+Fordham University,Georgetown University,38,44,0.012345679012345678,2005
+California Institute Of Technology,Harvard University,54,41,0.021505376344086023,2005
+Andrews University,Loma Linda University,32,22,0.10204081632653061,2005
+Boston College,Loyola Marymount University,44,83,0.016,2005
+Fordham University,Loyola University Chicago,38,66,0.009708737864077669,2005
+Creighton University,Loyola University Chicago,35,66,0.01,2005
+Boston College,Loyola University Chicago,44,66,0.018518518518518517,2005
+Loyola University Chicago,Marquette University,66,40,0.009523809523809525,2005
+Howard University,Massachusetts Institute Of Technology,26,49,0.013513513513513514,2005
+Cornell University,Massachusetts Institute Of Technology,66,49,0.008771929824561403,2005
+California Institute Of Technology,Massachusetts Institute Of Technology,54,49,0.019801980198019802,2005
+Harvard University,Massachusetts Institute Of Technology,41,49,0.011235955056179775,2005
+East Tennessee State University,Middle Tennessee State University,18,18,0.8,2005
+Dartmouth College,New School University,17,47,0.015873015873015872,2005
+Massachusetts Institute Of Technology,New School University,49,47,0.010526315789473684,2005
+Cornell University,New School University,66,47,0.018018018018018018,2005
+Columbia University,New York University,54,62,0.008695652173913044,2005
+New School University,New York University,47,62,0.009259259259259259,2005
+Georgetown University,New York University,44,62,0.009523809523809525,2005
+Hofstra University,New York University,30,62,0.01098901098901099,2005
+Arizona State University,Northern Arizona University,10,10,0.8181818181818182,2005
+Clarkson University,Polytechnic University,28,37,0.015625,2005
+Carnegie Mellon University,Princeton University,98,40,0.0072992700729927005,2005
+Georgetown University,Rensselaer Polytechnic Institute,44,30,0.0136986301369863,2005
+Cornell University,Rochester Institute Of Technology,66,54,0.008403361344537815,2005
+Johns Hopkins University,Rockefeller University,71,37,0.009345794392523364,2005
+Brown University,Rockefeller University,56,37,0.010869565217391304,2005
+Massachusetts Institute Of Technology,Rockefeller University,49,37,0.011764705882352941,2005
+Georgetown University,Rockefeller University,44,37,0.0125,2005
+Princeton University,Rockefeller University,40,37,0.013157894736842105,2005
+Dartmouth College,Rockefeller University,17,37,0.018867924528301886,2005
+Brandeis University,Rockefeller University,51,37,0.011494252873563218,2005
+Rockefeller University,Stanford University,37,37,0.0136986301369863,2005
+Pennsylvania State University,Temple University,40,44,0.012048192771084338,2005
+Middle Tennessee State University,Tennessee State University,18,18,0.7142857142857143,2005
+East Tennessee State University,Tennessee State University,18,18,0.8947368421052632,2005
+Middle Tennessee State University,Tennessee Technological University,18,18,0.8,2005
+Tennessee State University,Tennessee Technological University,18,18,0.8947368421052632,2005
+East Tennessee State University,Tennessee Technological University,18,18,1.0,2005
+Brown University,Tufts University,56,36,0.01098901098901099,2005
+Northern Arizona University,University Of Arizona,10,10,0.8181818181818182,2005
+Arizona State University,University Of Arizona,10,10,1.0,2005
+Tufts University,University Of Chicago,36,50,0.011764705882352941,2005
+New York University,University Of Chicago,62,50,0.009009009009009009,2005
+Princeton University,University Of Chicago,40,50,0.011235955056179775,2005
+New School University,University Of Chicago,47,50,0.010416666666666666,2005
+Illinois Institute Of Technology,University Of Chicago,60,50,0.009174311926605505,2005
+New York University,University Of Connecticut,62,20,0.012345679012345678,2005
+Georgetown University,University Of Connecticut,44,20,0.015873015873015872,2005
+Idaho State University,University Of Idaho,8,8,1.0,2005
+Iowa State University,University Of Iowa,8,8,0.7777777777777778,2005
+Kansas State University,University Of Kansas,9,9,0.6363636363636364,2005
+Tennessee Technological University,University Of Memphis,18,19,0.9473684210526315,2005
+Middle Tennessee State University,University Of Memphis,18,19,0.7619047619047619,2005
+Tennessee State University,University Of Memphis,18,19,0.85,2005
+East Tennessee State University,University Of Memphis,18,19,0.9473684210526315,2005
+Tufts University,University Of New Mexico,36,9,0.022727272727272728,2005
+Massachusetts Institute Of Technology,University Of North Carolina At Greensboro,49,12,0.016666666666666666,2005
+New Jersey Institute Of Technology,University Of Notre Dame,54,57,0.00909090909090909,2005
+Oklahoma State University,University Of Oklahoma,19,16,0.25,2005
+Rockefeller University,University Of Pennsylvania,37,61,0.020833333333333332,2005
+New York University,University Of Pennsylvania,62,61,0.00819672131147541,2005
+Temple University,University Of Pennsylvania,44,61,0.009615384615384616,2005
+Pennsylvania State University,University Of Pennsylvania,40,61,0.01,2005
+Temple University,University Of Pittsburgh,44,52,0.02127659574468085,2005
+Carnegie Mellon University,University Of Pittsburgh,98,52,0.006711409395973154,2005
+University Of Pennsylvania,University Of Pittsburgh,61,52,0.008928571428571428,2005
+Pennsylvania State University,University Of Pittsburgh,40,52,0.01098901098901099,2005
+Auburn University,University Of South Alabama,28,15,0.023809523809523808,2005
+South Dakota State University,University Of South Dakota,10,10,0.8181818181818182,2005
+University Of Notre Dame,University Of St Thomas Minnesota,57,34,0.011111111111111112,2005
+Princeton University,University Of Virginia,40,17,0.017857142857142856,2005
+University Of Utah,Utah State University,28,27,0.41025641025641024,2005
+Harvard University,Vanderbilt University,41,64,0.009615384615384616,2005
+University Of St Thomas Minnesota,Vanderbilt University,34,64,0.010309278350515464,2005
+University Of Notre Dame,Vanderbilt University,57,64,0.008333333333333333,2005
+Drexel University,Villanova University,41,27,0.014925373134328358,2005
+University Of San Diego,Wake Forest University,36,44,0.012658227848101266,2005
+George Washington University,Washington State University,33,10,0.023809523809523808,2005
+Indiana University Of Pennsylvania,West Chester University Of Pennsylvania,11,21,0.03225806451612903,2005
+Lehigh University,West Virginia University,33,15,0.02127659574468085,2005
+University Of Kansas,Wichita State University,9,9,1.0,2005
+Kansas State University,Wichita State University,9,9,0.6363636363636364,2005
+Massachusetts Institute Of Technology,Yale University,49,16,0.015625,2005
+Fordham University,Yeshiva University,38,95,0.007575757575757576,2005
+Hofstra University,Yeshiva University,30,95,0.008064516129032258,2005
+New York University,Yeshiva University,62,95,0.00641025641025641,2005
+Columbia University,Yeshiva University,54,95,0.006756756756756757,2005
+Johns Hopkins University,Loyola Marymount University,71,83,0.006535947712418301,2005
+Loyola Marymount University,University Of San Francisco,83,44,0.007936507936507936,2005
+Loyola Marymount University,Loyola University Chicago,83,66,0.006756756756756757,2005
+Fordham University,Loyola Marymount University,38,83,0.008333333333333333,2005
+Loyola Marymount University,University Of Southern California,83,46,0.023809523809523808,2005
+Loyola Marymount University,University Of Notre Dame,83,57,0.007194244604316547,2005
+Loyola Marymount University,University Of San Diego,83,36,0.00847457627118644,2005
+New Jersey Institute Of Technology,Princeton University,54,40,0.010752688172043012,2005
+California Institute Of Technology,Chapman University,59,48,0.009433962264150943,2007
+Brandeis University,Columbia University,47,50,0.010416666666666666,2007
+Brown University,Cornell University,57,169,0.0044444444444444444,2007
+Columbia University,Cornell University,50,169,0.0045871559633027525,2007
+Cornell University,Duke University,169,40,0.004807692307692308,2007
+Boston College,Georgetown University,39,38,0.013157894736842105,2007
+Fordham University,Georgetown University,38,38,0.02702702702702703,2007
+Duke University,Johns Hopkins University,40,67,0.009433962264150943,2007
+Andrews University,Loma Linda University,38,22,0.1111111111111111,2007
+Cornell University,Long Island University,169,41,0.004784688995215311,2007
+Boston College,Loyola Marymount University,39,91,0.007751937984496124,2007
+Boston College,Loyola University Chicago,39,40,0.01282051282051282,2007
+Fordham University,Loyola University Chicago,38,40,0.012987012987012988,2007
+Cornell University,Massachusetts Institute Of Technology,169,50,0.0045871559633027525,2007
+Howard University,Massachusetts Institute Of Technology,29,50,0.01282051282051282,2007
+California Institute Of Technology,Massachusetts Institute Of Technology,59,50,0.018691588785046728,2007
+Clemson University,Mercer University,83,47,0.007751937984496124,2007
+East Tennessee State University,Middle Tennessee State University,16,16,1.0,2007
+Massachusetts Institute Of Technology,New School,50,55,0.009615384615384616,2007
+Cornell University,New School,169,55,0.009009009009009009,2007
+Cornell University,New York University,169,57,0.0044444444444444444,2007
+New School,New York University,55,57,0.009009009009009009,2007
+Columbia University,New York University,50,57,0.009433962264150943,2007
+Brandeis University,New York University,47,57,0.009708737864077669,2007
+Clarkson University,Polytechnic University,28,31,0.017241379310344827,2007
+New School,Princeton University,55,30,0.011904761904761904,2007
+Cornell University,Rochester Institute Of Technology,169,53,0.004524886877828055,2007
+Johns Hopkins University,Rockefeller University,67,38,0.009615384615384616,2007
+Brandeis University,Rockefeller University,47,38,0.024096385542168676,2007
+Massachusetts Institute Of Technology,Rockefeller University,50,38,0.011494252873563218,2007
+Cornell University,Rockefeller University,169,38,0.0048543689320388345,2007
+Dartmouth College,Rockefeller University,18,38,0.01818181818181818,2007
+Princeton University,Rockefeller University,30,38,0.014925373134328358,2007
+Georgetown University,Saint Louis University,38,41,0.01282051282051282,2007
+Rensselaer Polytechnic Institute,St Johns University,32,39,0.014285714285714285,2007
+Rice University,Stanford University,23,34,0.017857142857142856,2007
+Rockefeller University,Stanford University,38,34,0.014084507042253521,2007
+Middle Tennessee State University,Tennessee State University,16,16,0.8823529411764706,2007
+East Tennessee State University,Tennessee State University,16,16,0.8823529411764706,2007
+Middle Tennessee State University,Tennessee Technological University,16,16,1.0,2007
+Tennessee State University,Tennessee Technological University,16,16,0.8823529411764706,2007
+East Tennessee State University,Tennessee Technological University,16,16,1.0,2007
+Drexel University,Thomas Jefferson University,40,38,0.012987012987012988,2007
+Northern Arizona University,University Of Arizona,13,13,1.0,2007
+Tufts University,University Of Chicago,39,50,0.011363636363636364,2007
+Princeton University,University Of Chicago,30,50,0.02564102564102564,2007
+Carnegie Mellon University,University Of Chicago,97,50,0.00684931506849315,2007
+Illinois Institute Of Technology,University Of Chicago,25,50,0.013513513513513514,2007
+New School,University Of Chicago,55,50,0.009615384615384616,2007
+Idaho State University,University Of Idaho,7,3,0.42857142857142855,2007
+Iowa State University,University Of Iowa,8,8,1.0,2007
+Kansas State University,University Of Kansas,9,9,1.0,2007
+Tennessee Technological University,University Of Memphis,16,16,0.8823529411764706,2007
+Middle Tennessee State University,University Of Memphis,16,16,0.8823529411764706,2007
+Tennessee State University,University Of Memphis,16,16,0.7777777777777778,2007
+East Tennessee State University,University Of Memphis,16,16,0.8823529411764706,2007
+Tufts University,University Of New Mexico,39,8,0.021739130434782608,2007
+Massachusetts Institute Of Technology,University Of North Carolina At Greensboro,50,13,0.016129032258064516,2007
+New Jersey Institute Of Technology,University Of Notre Dame,51,52,0.00980392156862745,2007
+Oklahoma State University,University Of Oklahoma,18,16,0.3076923076923077,2007
+New York University,University Of Pennsylvania,57,104,0.00625,2007
+Pennsylvania State University,University Of Pennsylvania,33,104,0.007352941176470588,2007
+California Institute Of Technology,University Of Pennsylvania,59,104,0.006172839506172839,2007
+Pennsylvania State University,University Of Pittsburgh,33,51,0.024390243902439025,2007
+University Of Pennsylvania,University Of Pittsburgh,104,51,0.006493506493506494,2007
+Carnegie Mellon University,University Of Pittsburgh,97,51,0.0136986301369863,2007
+Chapman University,University Of San Diego,48,38,0.011764705882352941,2007
+Auburn University,University Of South Alabama,25,17,0.024390243902439025,2007
+South Dakota State University,University Of South Dakota,10,10,0.8181818181818182,2007
+Cornell University,University Of Southern California,169,51,0.0045662100456621,2007
+Cornell University,University Of Tulsa,169,39,0.004830917874396135,2007
+Princeton University,University Of Virginia,30,17,0.021739130434782608,2007
+University Of Utah,Utah State University,28,26,0.38461538461538464,2007
+New York University,Vanderbilt University,57,58,0.008771929824561403,2007
+University Of St Thomas Minnesota,Vanderbilt University,41,58,0.01020408163265306,2007
+New York University,Virginia Commonwealth University,57,16,0.013888888888888888,2007
+University Of San Diego,Wake Forest University,38,43,0.0125,2007
+George Washington University,Washington State University,33,10,0.023809523809523808,2007
+Indiana University Of Pennsylvania,West Chester University Of Pennsylvania,11,11,0.047619047619047616,2007
+University Of Kansas,Wichita State University,9,9,1.0,2007
+Kansas State University,Wichita State University,9,9,1.0,2007
+University Of Pennsylvania,Widener University,104,26,0.007751937984496124,2007
+University Of Connecticut,Yale University,22,18,0.02564102564102564,2007
+Massachusetts Institute Of Technology,Yale University,50,18,0.014925373134328358,2007
+Fordham University,Yeshiva University,38,98,0.007407407407407408,2007
+Johns Hopkins University,Yeshiva University,67,98,0.006097560975609756,2007
+Cornell University,Yeshiva University,169,98,0.0037593984962406013,2007
+Columbia University,Yeshiva University,50,98,0.006802721088435374,2007
+Rockefeller University,Yeshiva University,38,98,0.007407407407407408,2007
+Clemson University,Cleveland State University,83,14,0.021052631578947368,2007
+California Institute Of Technology,Harvard University,59,35,0.010752688172043012,2007
+Johns Hopkins University,Loyola Marymount University,67,91,0.006369426751592357,2007
+Loyola Marymount University,University Of Notre Dame,91,52,0.007042253521126761,2007
+Loyola Marymount University,University Of Southern California,91,51,0.02158273381294964,2007
+Loyola Marymount University,University Of San Diego,91,38,0.0078125,2007
+Columbia University,New Jersey Institute Of Technology,50,51,0.01,2007
+New Jersey Institute Of Technology,University Of Chicago,51,50,0.01,2007
+New Jersey Institute Of Technology,Princeton University,51,30,0.0125,2007
+Baylor College Of Medicine,Baylor University,47,31,0.012987012987012988,2008
+California Institute Of Technology,Chapman University,60,48,0.009345794392523364,2008
+Brandeis University,Columbia University,48,74,0.008264462809917356,2008
+Fordham University,Georgetown University,39,41,0.02564102564102564,2008
+Boston College,Georgetown University,45,41,0.011764705882352941,2008
+Boise State University,Idaho State University,7,6,0.8571428571428571,2008
+Duke University,Johns Hopkins University,39,67,0.009523809523809525,2008
+Andrews University,Loma Linda University,38,21,0.09259259259259259,2008
+Boston College,Loyola University Chicago,45,38,0.012195121951219513,2008
+Fordham University,Loyola University Chicago,39,38,0.013157894736842105,2008
+Loyola University Chicago,Marquette University,38,40,0.012987012987012988,2008
+California Institute Of Technology,Massachusetts Institute Of Technology,60,51,0.00909090909090909,2008
+Howard University,Massachusetts Institute Of Technology,33,51,0.012048192771084338,2008
+Cornell University,Massachusetts Institute Of Technology,51,51,0.009900990099009901,2008
+Clemson University,Mercer University,70,46,0.008695652173913044,2008
+East Tennessee State University,Middle Tennessee State University,14,14,0.8666666666666667,2008
+Massachusetts Institute Of Technology,New School,51,58,0.009259259259259259,2008
+Cornell University,New School,51,58,0.009259259259259259,2008
+Georgetown University,New York University,41,49,0.011235955056179775,2008
+New School,New York University,58,49,0.009433962264150943,2008
+Columbia University,New York University,74,49,0.00819672131147541,2008
+Brandeis University,New York University,48,49,0.010416666666666666,2008
+Arizona State University,Northern Arizona University,13,13,1.0,2008
+Loyola University Chicago,Northwestern University,38,73,0.00909090909090909,2008
+Georgetown University,Pepperdine University,41,39,0.012658227848101266,2008
+Clarkson University,Polytechnic University,29,40,0.014705882352941176,2008
+New School,Princeton University,58,41,0.01020408163265306,2008
+Baylor College Of Medicine,Rice University,47,25,0.014084507042253521,2008
+Gallaudet University,Rochester Institute Of Technology,22,53,0.013513513513513514,2008
+Brandeis University,Rockefeller University,48,37,0.011904761904761904,2008
+Brown University,Rockefeller University,51,37,0.011494252873563218,2008
+Massachusetts Institute Of Technology,Rockefeller University,51,37,0.011494252873563218,2008
+Johns Hopkins University,Rockefeller University,67,37,0.009708737864077669,2008
+Dartmouth College,Rockefeller University,18,37,0.018518518518518517,2008
+Georgetown University,Saint Louis University,41,42,0.012195121951219513,2008
+Catholic University Of America,Seton Hall University,50,40,0.011235955056179775,2008
+Baylor College Of Medicine,Southern Methodist University,47,42,0.011363636363636364,2008
+Rensselaer Polytechnic Institute,St Johns University,32,25,0.017857142857142856,2008
+Rice University,Stanford University,25,35,0.01694915254237288,2008
+Rochester Institute Of Technology,Syracuse University,53,29,0.012345679012345678,2008
+Syracuse University,Temple University,29,35,0.015873015873015872,2008
+Middle Tennessee State University,Tennessee State University,14,14,0.8666666666666667,2008
+East Tennessee State University,Tennessee State University,14,14,1.0,2008
+Middle Tennessee State University,Tennessee Technological University,14,14,0.8666666666666667,2008
+Tennessee State University,Tennessee Technological University,14,14,1.0,2008
+East Tennessee State University,Tennessee Technological University,14,14,1.0,2008
+Pennsylvania State University,Thomas Jefferson University,33,41,0.0136986301369863,2008
+Drexel University,Thomas Jefferson University,39,41,0.012658227848101266,2008
+Brown University,Tufts University,51,40,0.011111111111111112,2008
+Northern Arizona University,University Of Arizona,13,13,1.0,2008
+Arizona State University,University Of Arizona,13,13,1.0,2008
+Tufts University,University Of Chicago,40,49,0.011363636363636364,2008
+Carnegie Mellon University,University Of Chicago,100,49,0.006756756756756757,2008
+Illinois Institute Of Technology,University Of Chicago,46,49,0.010638297872340425,2008
+Princeton University,University Of Chicago,41,49,0.011235955056179775,2008
+Johns Hopkins University,University Of Chicago,67,49,0.008695652173913044,2008
+Duke University,University Of Chicago,39,49,0.011494252873563218,2008
+Illinois Institute Of Technology,University Of Connecticut,46,21,0.015151515151515152,2008
+Idaho State University,University Of Idaho,6,2,0.3333333333333333,2008
+Boise State University,University Of Idaho,7,2,0.2857142857142857,2008
+Iowa State University,University Of Iowa,9,9,1.0,2008
+Kansas State University,University Of Kansas,10,10,1.0,2008
+Tennessee Technological University,University Of Memphis,14,14,1.0,2008
+Middle Tennessee State University,University Of Memphis,14,14,0.8666666666666667,2008
+Tennessee State University,University Of Memphis,14,14,1.0,2008
+East Tennessee State University,University Of Memphis,14,14,1.0,2008
+Tufts University,University Of New Mexico,40,8,0.02127659574468085,2008
+Depaul University,University Of North Carolina At Charlotte,38,13,0.02,2008
+Creighton University,University Of Notre Dame,36,55,0.011111111111111112,2008
+New Jersey Institute Of Technology,University Of Notre Dame,50,55,0.009615384615384616,2008
+Oklahoma State University,University Of Oklahoma,16,14,0.30434782608695654,2008
+Pennsylvania State University,University Of Pennsylvania,33,54,0.011627906976744186,2008
+University Of Pennsylvania,University Of Pittsburgh,54,55,0.009259259259259259,2008
+Pennsylvania State University,University Of Pittsburgh,33,55,0.023255813953488372,2008
+Carnegie Mellon University,University Of Pittsburgh,100,55,0.013071895424836602,2008
+Chapman University,University Of San Diego,48,41,0.011363636363636364,2008
+Auburn University,University Of South Alabama,24,16,0.02564102564102564,2008
+South Dakota State University,University Of South Dakota,10,10,1.0,2008
+California Institute Of Technology,University Of Southern California,60,53,0.008928571428571428,2008
+Cornell University,University Of Southern California,51,53,0.009708737864077669,2008
+Catholic University Of America,University Of St Thomas Minnesota,50,41,0.011111111111111112,2008
+Seton Hall University,University Of St Thomas Minnesota,40,41,0.0125,2008
+Georgetown University,University Of St Thomas Minnesota,41,41,0.012345679012345678,2008
+Cornell University,University Of Tulsa,51,39,0.011235955056179775,2008
+University Of Utah,Utah State University,30,30,0.42857142857142855,2008
+New York University,Vanderbilt University,49,60,0.009259259259259259,2008
+University Of St Thomas Minnesota,Vanderbilt University,41,60,0.01,2008
+University Of North Carolina At Charlotte,Wake Forest University,13,46,0.017241379310344827,2008
+Indiana University Of Pennsylvania,West Chester University Of Pennsylvania,10,12,0.047619047619047616,2008
+University Of Kansas,Wichita State University,10,10,0.6666666666666666,2008
+Kansas State University,Wichita State University,10,10,0.6666666666666666,2008
+Boston College,Worcester Polytechnic Institute,45,36,0.0125,2008
+Massachusetts Institute Of Technology,Yale University,51,20,0.014285714285714285,2008
+University Of Connecticut,Yale University,21,20,0.025,2008
+Johns Hopkins University,Yeshiva University,67,92,0.006329113924050633,2008
+Fordham University,Yeshiva University,39,92,0.007692307692307693,2008
+Rockefeller University,Yeshiva University,37,92,0.0078125,2008
+Columbia University,Yeshiva University,74,92,0.006060606060606061,2008
+California Institute Of Technology,Harvard University,60,36,0.010526315789473684,2008
+Johns Hopkins University,Loyola Marymount University,67,92,0.006329113924050633,2008
+Loyola Marymount University,University Of Notre Dame,92,55,0.00684931506849315,2008
+Boston College,Loyola Marymount University,45,92,0.007352941176470588,2008
+Loyola Marymount University,University Of Southern California,92,53,0.013986013986013986,2008
+Loyola Marymount University,University Of San Diego,92,41,0.007575757575757576,2008
+Columbia University,New Jersey Institute Of Technology,74,50,0.008130081300813009,2008
+New Jersey Institute Of Technology,Princeton University,50,41,0.011111111111111112,2008
+Hofstra University,Yeshiva University,26,92,0.008547008547008548,2008
+California Institute Of Technology,Chapman University,51,49,0.010101010101010102,2009
+Brandeis University,Columbia University,44,54,0.010309278350515464,2009
+Fordham University,Georgetown University,39,43,0.025,2009
+Boston College,Georgetown University,46,43,0.011363636363636364,2009
+Duke University,Johns Hopkins University,37,67,0.009708737864077669,2009
+Andrews University,Loma Linda University,38,20,0.09433962264150944,2009
+Boston College,Loyola Marymount University,46,88,0.007518796992481203,2009
+Georgetown University,Loyola University Chicago,43,45,0.011494252873563218,2009
+Boston College,Loyola University Chicago,46,45,0.011111111111111112,2009
+Fordham University,Loyola University Chicago,39,45,0.012048192771084338,2009
+Boston College,Marquette University,46,33,0.01282051282051282,2009
+Loyola University Chicago,Marquette University,45,33,0.012987012987012988,2009
+California Institute Of Technology,Massachusetts Institute Of Technology,51,50,0.01,2009
+Howard University,Massachusetts Institute Of Technology,33,50,0.012195121951219513,2009
+Cornell University,Massachusetts Institute Of Technology,47,50,0.010416666666666666,2009
+Florida State University,Mercer University,13,41,0.018867924528301886,2009
+East Tennessee State University,Middle Tennessee State University,18,17,0.8421052631578947,2009
+Massachusetts Institute Of Technology,New School,50,58,0.009345794392523364,2009
+Cornell University,New School,47,58,0.009615384615384616,2009
+Florida State University,New School,13,58,0.014285714285714285,2009
+Brandeis University,New York University,44,52,0.010526315789473684,2009
+Georgetown University,New York University,43,52,0.010638297872340425,2009
+New School,New York University,58,52,0.009174311926605505,2009
+Indiana University Of Pennsylvania,North Dakota State University,10,6,0.06666666666666667,2009
+Arizona State University,Northern Arizona University,12,12,1.0,2009
+Loyola University Chicago,Northwestern University,45,73,0.008547008547008548,2009
+Brandeis University,Ohio State University,44,19,0.016129032258064516,2009
+California Institute Of Technology,Princeton University,51,41,0.01098901098901099,2009
+Baylor College Of Medicine,Rice University,46,24,0.014492753623188406,2009
+Brandeis University,Rockefeller University,44,39,0.012195121951219513,2009
+Brown University,Rockefeller University,59,39,0.010309278350515464,2009
+Massachusetts Institute Of Technology,Rockefeller University,50,39,0.011363636363636364,2009
+Johns Hopkins University,Rockefeller University,67,39,0.009523809523809525,2009
+Georgetown University,Saint Louis University,43,49,0.01098901098901099,2009
+Catholic University Of America,Seton Hall University,50,43,0.02197802197802198,2009
+Rensselaer Polytechnic Institute,St Johns University,32,29,0.016666666666666666,2009
+Catholic University Of America,St Johns University,50,29,0.01282051282051282,2009
+Rockefeller University,Stanford University,39,31,0.014492753623188406,2009
+Rice University,Stanford University,24,31,0.018518518518518517,2009
+Rochester Institute Of Technology,Syracuse University,49,72,0.008333333333333333,2009
+Syracuse University,Temple University,72,32,0.009708737864077669,2009
+Middle Tennessee State University,Tennessee State University,17,17,0.8888888888888888,2009
+East Tennessee State University,Tennessee State University,18,17,0.8421052631578947,2009
+Middle Tennessee State University,Tennessee Technological University,17,18,0.8421052631578947,2009
+Tennessee State University,Tennessee Technological University,17,18,0.8421052631578947,2009
+East Tennessee State University,Tennessee Technological University,18,18,0.8,2009
+Pennsylvania State University,Thomas Jefferson University,33,32,0.015625,2009
+Drexel University,Thomas Jefferson University,33,32,0.015625,2009
+Brown University,Tufts University,59,43,0.009900990099009901,2009
+Northern Arizona University,University Of Arizona,12,12,0.8461538461538461,2009
+Arizona State University,University Of Arizona,12,12,0.8461538461538461,2009
+Tufts University,University Of Chicago,43,49,0.01098901098901099,2009
+Johns Hopkins University,University Of Chicago,67,49,0.008695652173913044,2009
+Duke University,University Of Chicago,37,49,0.011764705882352941,2009
+Illinois Institute Of Technology,University Of Chicago,44,49,0.010869565217391304,2009
+Princeton University,University Of Chicago,41,49,0.011235955056179775,2009
+Illinois Institute Of Technology,University Of Connecticut,44,21,0.015625,2009
+Idaho State University,University Of Idaho,7,10,0.7,2009
+Iowa State University,University Of Iowa,9,8,0.7,2009
+Kansas State University,University Of Kansas,10,10,1.0,2009
+Tennessee Technological University,University Of Memphis,18,12,0.6666666666666666,2009
+Middle Tennessee State University,University Of Memphis,17,12,0.7058823529411765,2009
+Tennessee State University,University Of Memphis,17,12,0.6111111111111112,2009
+East Tennessee State University,University Of Memphis,18,12,0.5789473684210527,2009
+Tufts University,University Of New Mexico,43,8,0.02,2009
+Creighton University,University Of Notre Dame,36,54,0.011235955056179775,2009
+Oklahoma State University,University Of Oklahoma,15,14,0.3181818181818182,2009
+Pennsylvania State University,University Of Pennsylvania,33,56,0.011363636363636364,2009
+Rockefeller University,University Of Pennsylvania,39,56,0.010638297872340425,2009
+Carnegie Mellon University,University Of Pittsburgh,39,51,0.022727272727272728,2009
+University Of Pennsylvania,University Of Pittsburgh,56,51,0.009433962264150943,2009
+Pennsylvania State University,University Of Pittsburgh,33,51,0.024390243902439025,2009
+South Dakota State University,University Of South Dakota,10,10,1.0,2009
+Cornell University,University Of Southern California,47,52,0.01020408163265306,2009
+California Institute Of Technology,University Of Southern California,51,52,0.00980392156862745,2009
+Georgetown University,University Of St Thomas Minnesota,43,40,0.012195121951219513,2009
+Catholic University Of America,University Of St Thomas Minnesota,50,40,0.011235955056179775,2009
+Seton Hall University,University Of St Thomas Minnesota,43,40,0.012195121951219513,2009
+University Of Utah,Utah State University,29,28,0.425,2009
+New York University,Vanderbilt University,52,55,0.009433962264150943,2009
+University Of St Thomas Minnesota,Vanderbilt University,40,55,0.010638297872340425,2009
+University Of Kansas,Wichita State University,10,10,1.0,2009
+Kansas State University,Wichita State University,10,10,1.0,2009
+University Of Connecticut,Yale University,21,18,0.02631578947368421,2009
+Massachusetts Institute Of Technology,Yale University,50,18,0.014925373134328358,2009
+Columbia University,Yeshiva University,54,44,0.010309278350515464,2009
+Hofstra University,Yeshiva University,30,44,0.0136986301369863,2009
+Brown University,Howard University,59,33,0.01098901098901099,2009
+California Institute Of Technology,Harvard University,51,36,0.011627906976744186,2009
+Johns Hopkins University,Loyola Marymount University,67,88,0.006493506493506494,2009
+Loyola Marymount University,University Of Notre Dame,88,54,0.0070921985815602835,2009
+Loyola Marymount University,University Of Southern California,88,52,0.021897810218978103,2009
+Loyola Marymount University,University Of San Diego,88,41,0.0078125,2009
+Columbia University,New Jersey Institute Of Technology,54,46,0.010101010101010102,2009
+New Jersey Institute Of Technology,Princeton University,46,41,0.011627906976744186,2009
+Baylor College Of Medicine,Baylor University,41,21,0.01639344262295082,2011
+Brandeis University,Cornell University,47,54,0.01,2011
+Clark Atlanta University,Emory University,26,41,0.015151515151515152,2011
+Catholic University Of America,Fordham University,47,47,0.010752688172043012,2011
+Boston College,Fordham University,71,47,0.008547008547008548,2011
+California Institute Of Technology,Harvard University,56,37,0.010869565217391304,2011
+Duke University,Johns Hopkins University,38,57,0.010638297872340425,2011
+Andrews University,Loma Linda University,39,20,0.017241379310344827,2011
+Boston College,Loyola University Chicago,71,45,0.008695652173913044,2011
+Fordham University,Loyola University Chicago,47,45,0.01098901098901099,2011
+Boston College,Marquette University,71,30,0.01,2011
+Boston University,Massachusetts Institute Of Technology,17,50,0.015151515151515152,2011
+Fordham University,New School,47,51,0.010309278350515464,2011
+Cornell University,New School,54,51,0.009615384615384616,2011
+Massachusetts Institute Of Technology,New School,50,51,0.01,2011
+Howard University,New School,33,51,0.012048192771084338,2011
+Brandeis University,New York University,47,54,0.01,2011
+New School,New York University,51,54,0.009615384615384616,2011
+George Washington University,Northeastern University,38,24,0.01639344262295082,2011
+Illinois Institute Of Technology,Northwestern University,34,74,0.009345794392523364,2011
+Fordham University,Northwestern University,47,74,0.008333333333333333,2011
+New York University,Polytechnic Institute Of New York University,54,32,0.03614457831325301,2011
+Baylor College Of Medicine,Rice University,41,24,0.031746031746031744,2011
+Brown University,Rockefeller University,53,36,0.011363636363636364,2011
+Georgetown University,Saint Louis University,34,51,0.011904761904761904,2011
+Catholic University Of America,Seton Hall University,47,45,0.01098901098901099,2011
+Baylor College Of Medicine,Southern Methodist University,41,42,0.012195121951219513,2011
+Rensselaer Polytechnic Institute,St Johns University,29,29,0.017543859649122806,2011
+Catholic University Of America,St Johns University,47,29,0.013333333333333334,2011
+Rockefeller University,Stanford University,36,30,0.015384615384615385,2011
+Rochester Institute Of Technology,Syracuse University,53,67,0.008403361344537815,2011
+Dartmouth College,Texas Christian University,22,44,0.015384615384615385,2011
+Pennsylvania State University,Thomas Jefferson University,35,28,0.016129032258064516,2011
+Georgetown University,University Of Chicago,34,47,0.0125,2011
+Loyola University Chicago,University Of Chicago,45,47,0.01098901098901099,2011
+Johns Hopkins University,University Of Chicago,57,47,0.009708737864077669,2011
+Duke University,University Of Chicago,38,47,0.011904761904761904,2011
+Illinois Institute Of Technology,University Of Chicago,34,47,0.0125,2011
+Howard University,University Of Delaware,33,33,0.015384615384615385,2011
+Pepperdine University,University Of Pacific,40,29,0.014705882352941176,2011
+Pennsylvania State University,University Of Pennsylvania,35,53,0.011494252873563218,2011
+University Of Pennsylvania,University Of Pittsburgh,53,57,0.009174311926605505,2011
+Pennsylvania State University,University Of Pittsburgh,35,57,0.01098901098901099,2011
+Carnegie Mellon University,University Of Pittsburgh,45,57,0.009900990099009901,2011
+Chapman University,University Of San Diego,51,32,0.012195121951219513,2011
+Auburn University,University Of South Alabama,12,17,0.03571428571428571,2011
+Cornell University,University Of Southern California,54,46,0.010101010101010102,2011
+California Institute Of Technology,University Of Southern California,56,46,0.009900990099009901,2011
+St Johns University,University Of St Thomas Minnesota,29,43,0.014084507042253521,2011
+Seton Hall University,University Of St Thomas Minnesota,45,43,0.011494252873563218,2011
+Georgetown University,University Of St Thomas Minnesota,34,43,0.013157894736842105,2011
+University Of San Diego,University Of St Thomas Minnesota,32,43,0.013513513513513514,2011
+Cornell University,University Of Tulsa,54,50,0.009708737864077669,2011
+New School,University Of Virginia,51,13,0.015873015873015872,2011
+Howard University,University Of Virginia,33,13,0.022222222222222223,2011
+University Of St Thomas Minnesota,Vanderbilt University,43,55,0.010309278350515464,2011
+University Of Pacific,Washington University,29,55,0.012048192771084338,2011
+Carnegie Mellon University,West Virginia University,45,15,0.01694915254237288,2011
+University Of Connecticut,Yale University,20,19,0.02631578947368421,2011
+Massachusetts Institute Of Technology,Yale University,50,19,0.014705882352941176,2011
+Brown University,Howard University,53,33,0.011764705882352941,2011
+Loyola Marymount University,Loyola University Chicago,90,45,0.007462686567164179,2011
+Loyola Marymount University,University Of Southern California,90,46,0.022556390977443608,2011
+Baylor College Of Medicine,Baylor University,47,25,0.014084507042253521,2013
+Brown University,Carnegie Mellon University,54,48,0.009900990099009901,2013
+Brandeis University,Cornell University,44,47,0.011111111111111112,2013
+Boston College,Creighton University,54,39,0.02197802197802198,2013
+Clark Atlanta University,Emory University,28,43,0.014285714285714285,2013
+Catholic University Of America,Fordham University,47,37,0.012048192771084338,2013
+Boston College,Fordham University,54,37,0.011111111111111112,2013
+Brandeis University,George Washington University,44,37,0.0125,2013
+Duke University,Johns Hopkins University,40,55,0.010638297872340425,2013
+Andrews University,Loma Linda University,41,20,0.08928571428571429,2013
+Boston College,Loyola University Chicago,54,44,0.010309278350515464,2013
+Fordham University,Loyola University Chicago,37,44,0.0125,2013
+Creighton University,Marquette University,39,30,0.014705882352941176,2013
+Boston College,Marquette University,54,30,0.012048192771084338,2013
+Harvard University,Massachusetts Institute Of Technology,48,72,0.008403361344537815,2013
+Boston University,Massachusetts Institute Of Technology,41,72,0.008928571428571428,2013
+Fordham University,New School,37,41,0.012987012987012988,2013
+Cornell University,New School,47,41,0.011494252873563218,2013
+Long Island University,New York University,38,60,0.010309278350515464,2013
+Georgetown University,New York University,34,60,0.010752688172043012,2013
+Illinois Institute Of Technology,Northwestern University,33,74,0.009433962264150943,2013
+Fordham University,Northwestern University,37,74,0.00909090909090909,2013
+New York University,Polytechnic Institute Of New York University,60,28,0.03529411764705882,2013
+Howard University,Princeton University,34,39,0.013888888888888888,2013
+Carnegie Mellon University,Rensselaer Polytechnic Institute,48,30,0.012987012987012988,2013
+Baylor College Of Medicine,Rice University,47,25,0.02857142857142857,2013
+New School,Rockefeller University,41,45,0.011764705882352941,2013
+Massachusetts Institute Of Technology,Rockefeller University,72,45,0.008620689655172414,2013
+Georgetown University,Saint Louis University,34,54,0.011494252873563218,2013
+Baylor University,Saint Louis University,25,54,0.01282051282051282,2013
+Seton Hall University,St Johns University,43,28,0.014285714285714285,2013
+Rensselaer Polytechnic Institute,St Johns University,30,28,0.017543859649122806,2013
+Depaul University,St Johns University,43,28,0.014285714285714285,2013
+Rockefeller University,Stanford University,45,32,0.013157894736842105,2013
+Rensselaer Polytechnic Institute,Syracuse University,30,73,0.00980392156862745,2013
+Syracuse University,Temple University,73,35,0.009345794392523364,2013
+Dartmouth College,Texas Christian University,42,48,0.011235955056179775,2013
+Johns Hopkins University,University Of Chicago,55,51,0.009523809523809525,2013
+Duke University,University Of Chicago,40,51,0.011111111111111112,2013
+Loyola University Chicago,University Of Chicago,44,51,0.010638297872340425,2013
+Illinois Institute Of Technology,University Of Chicago,33,51,0.012048192771084338,2013
+Carnegie Mellon University,University Of Notre Dame,48,47,0.010638297872340425,2013
+Dartmouth College,University Of Notre Dame,42,47,0.011363636363636364,2013
+Pennsylvania State University,University Of Pennsylvania,25,56,0.0125,2013
+Carnegie Mellon University,University Of Pittsburgh,48,59,0.009433962264150943,2013
+University Of Pennsylvania,University Of Pittsburgh,56,59,0.008771929824561403,2013
+Pennsylvania State University,University Of Pittsburgh,25,59,0.012048192771084338,2013
+Rochester Institute Of Technology,University Of Rochester,56,48,0.0196078431372549,2013
+Syracuse University,University Of Rochester,73,48,0.008333333333333333,2013
+Adelphi University,University Of Rochester,24,48,0.014084507042253521,2013
+Massachusetts Institute Of Technology,University Of Rochester,72,48,0.008403361344537815,2013
+Chapman University,University Of San Diego,53,32,0.011904761904761904,2013
+Cornell University,University Of Southern California,47,52,0.01020408163265306,2013
+Boston College,University Of St Thomas Minnesota,54,49,0.00980392156862745,2013
+Georgetown University,University Of St Thomas Minnesota,34,49,0.012195121951219513,2013
+University Of San Diego,University Of St Thomas Minnesota,32,49,0.0125,2013
+St Johns University,University Of St Thomas Minnesota,28,49,0.013157894736842105,2013
+University Of St Thomas Minnesota,Vanderbilt University,49,55,0.009708737864077669,2013
+University Of Pacific,Washington University,27,54,0.0125,2013
+Emory University,Washington University,43,54,0.010416666666666666,2013
+University Of Denver,Washington University,28,54,0.012345679012345678,2013
+Massachusetts Institute Of Technology,West Virginia University,72,17,0.011363636363636364,2013
+Carnegie Mellon University,West Virginia University,48,17,0.015625,2013
+Brown University,Howard University,54,34,0.011494252873563218,2013
+Brown University,Princeton University,54,39,0.010869565217391304,2013
+Dartmouth College,Rockefeller University,42,45,0.011627906976744186,2013
+New Jersey Institute Of Technology,Princeton University,52,39,0.011111111111111112,2013
+Baylor College Of Medicine,Baylor University,51,36,0.03571428571428571,2018
+Boston College,Creighton University,52,38,0.022727272727272728,2018
+Clark Atlanta University,Emory University,30,39,0.014705882352941176,2018
+Case Western Reserve University,Emory University,42,39,0.0125,2018
+Drexel University,Fordham University,49,40,0.011363636363636364,2018
+Andrews University,Loma Linda University,37,35,0.07462686567164178,2018
+Illinois Institute Of Technology,Loyola University Chicago,35,31,0.015384615384615385,2018
+Loyola Marymount University,Marquette University,86,52,0.0072992700729927005,2018
+Drexel University,New Jersey Institute Of Technology,49,56,0.009615384615384616,2018
+Long Island University,New York University,31,74,0.009615384615384616,2018
+Illinois Institute Of Technology,Northwestern University,35,63,0.010309278350515464,2018
+Duke University,Northwestern University,38,63,0.020202020202020204,2018
+Massachusetts Institute Of Technology,Rensselaer Polytechnic Institute,76,25,0.01,2018
+Baylor College Of Medicine,Rice University,51,25,0.013333333333333334,2018
+Cornell University,Rockefeller University,59,49,0.009345794392523364,2018
+Rice University,Rockefeller University,25,49,0.0136986301369863,2018
+Johns Hopkins University,Rockefeller University,36,49,0.011904761904761904,2018
+Loyola University Chicago,Saint Louis University,31,45,0.013333333333333334,2018
+Catholic University Of America,Seton Hall University,47,45,0.01098901098901099,2018
+Georgetown University,St Johns University,39,28,0.015151515151515152,2018
+Rockefeller University,Stanford University,49,33,0.012345679012345678,2018
+Pennsylvania State University,Temple University,38,37,0.0273972602739726,2018
+Loyola University Chicago,University Of Chicago,31,52,0.012195121951219513,2018
+Illinois Institute Of Technology,University Of Chicago,35,52,0.011627906976744186,2018
+Northwestern University,University Of Denver,63,24,0.011627906976744186,2018
+Boston University,University Of Louisville,40,12,0.0196078431372549,2018
+Carnegie Mellon University,University Of Notre Dame,50,49,0.01020408163265306,2018
+Rockefeller University,University Of Pennsylvania,49,55,0.009708737864077669,2018
+Temple University,University Of Pennsylvania,37,55,0.01098901098901099,2018
+Pennsylvania State University,University Of Pennsylvania,38,55,0.010869565217391304,2018
+Temple University,University Of Pittsburgh,37,53,0.022727272727272728,2018
+Pennsylvania State University,University Of Pittsburgh,38,53,0.02247191011235955,2018
+University Of Pennsylvania,University Of Pittsburgh,55,53,0.009345794392523364,2018
+Carnegie Mellon University,University Of Pittsburgh,50,53,0.03,2018
+Rochester Institute Of Technology,University Of Rochester,45,48,0.02197802197802198,2018
+Adelphi University,University Of Rochester,27,48,0.013513513513513514,2018
+Georgetown University,University Of San Francisco,39,41,0.012658227848101266,2018
+Auburn University,University Of South Alabama,16,16,0.03225806451612903,2018
+Cornell University,University Of Southern California,59,57,0.008695652173913044,2018
+Rockefeller University,University Of Southern California,49,57,0.009523809523809525,2018
+Loyola University Chicago,University Of St Thomas Minnesota,31,38,0.014705882352941176,2018
+Georgetown University,University Of St Thomas Minnesota,39,38,0.013157894736842105,2018
+Northwestern University,Vanderbilt University,63,24,0.011627906976744186,2018
+Emory University,Washington University,39,61,0.010101010101010102,2018
+Saint Louis University,Washington University,45,61,0.019230769230769232,2018
+Rowan University,Widener University,18,25,0.023809523809523808,2018
+University Of Connecticut,Yale University,20,19,0.02631578947368421,2018
+Vanderbilt University,Yeshiva University,24,38,0.01639344262295082,2018
+Brown University,Rockefeller University,58,49,0.009433962264150943,2018
+Harvard University,University Of Chicago,43,52,0.010638297872340425,2018
+New Jersey Institute Of Technology,Princeton University,56,64,0.008403361344537815,2018
+Northwestern University,Rutgers State University Of New Jersey,63,66,0.0078125,2018
