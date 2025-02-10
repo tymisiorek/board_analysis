@@ -1,0 +1,55 @@
+Id,Source,Target,Type,Weight,Year
+e_2009_1,Brandeis University,Columbia University,Undirected,1,2009
+e_2009_2,Fordham University,Georgetown University,Undirected,2,2009
+e_2009_3,Boston College,Georgetown University,Undirected,1,2009
+e_2009_4,Duke University,Johns Hopkins University,Undirected,1,2009
+e_2009_5,Andrews University,Loma Linda University,Undirected,5,2009
+e_2009_6,Boston College,Loyola Marymount University,Undirected,1,2009
+e_2009_7,Georgetown University,Loyola University Chicago,Undirected,1,2009
+e_2009_8,Boston College,Loyola University Chicago,Undirected,1,2009
+e_2009_9,Fordham University,Loyola University Chicago,Undirected,1,2009
+e_2009_10,Boston College,Marquette University,Undirected,1,2009
+e_2009_11,Loyola University Chicago,Marquette University,Undirected,1,2009
+e_2009_12,Howard University,Massachusetts Institute Of Technology,Undirected,1,2009
+e_2009_13,Cornell University,Massachusetts Institute Of Technology,Undirected,1,2009
+e_2009_14,Massachusetts Institute Of Technology,New School,Undirected,1,2009
+e_2009_15,Cornell University,New School,Undirected,1,2009
+e_2009_16,Brandeis University,New York University,Undirected,1,2009
+e_2009_17,Georgetown University,New York University,Undirected,1,2009
+e_2009_18,New School,New York University,Undirected,1,2009
+e_2009_19,Pennsylvania State System Of Higher Education,Pennsylvania State University,Undirected,2,2009
+e_2009_20,Catholic University Of America,Seton Hall University,Undirected,1,2009
+e_2009_21,Rensselaer Polytechnic Institute,St Johns University,Undirected,1,2009
+e_2009_22,Catholic University Of America,St Johns University,Undirected,1,2009
+e_2009_23,Rice University,Stanford University,Undirected,1,2009
+e_2009_24,Rensselaer Polytechnic Institute,State University Of New York System,Undirected,1,2009
+e_2009_25,St Johns University,State University Of New York System,Undirected,1,2009
+e_2009_26,Rochester Institute Of Technology,Syracuse University,Undirected,1,2009
+e_2009_27,Syracuse University,Temple University,Undirected,1,2009
+e_2009_28,Brown University,Tufts University,Undirected,1,2009
+e_2009_29,Chapman University,University Of California System,Undirected,1,2009
+e_2009_30,Tufts University,University Of Chicago,Undirected,1,2009
+e_2009_31,Duke University,University Of Chicago,Undirected,1,2009
+e_2009_32,Johns Hopkins University,University Of Chicago,Undirected,1,2009
+e_2009_33,University Of California System,University Of Chicago,Undirected,1,2009
+e_2009_34,Illinois Institute Of Technology,University Of Chicago,Undirected,1,2009
+e_2009_35,Princeton University,University Of Chicago,Undirected,1,2009
+e_2009_36,Illinois Institute Of Technology,University Of Connecticut,Undirected,1,2009
+e_2009_37,Tufts University,University Of New Mexico,Undirected,1,2009
+e_2009_38,Carnegie Mellon University,University Of Pittsburgh,Undirected,2,2009
+e_2009_39,Pennsylvania State System Of Higher Education,University Of Pittsburgh,Undirected,2,2009
+e_2009_40,Pennsylvania State University,University Of Pittsburgh,Undirected,2,2009
+e_2009_41,Cornell University,University Of Southern California,Undirected,1,2009
+e_2009_42,University Of California System,University Of Southern California,Undirected,1,2009
+e_2009_43,Georgetown University,University Of St Thomas Minnesota,Undirected,1,2009
+e_2009_44,Catholic University Of America,University Of St Thomas Minnesota,Undirected,1,2009
+e_2009_45,Seton Hall University,University Of St Thomas Minnesota,Undirected,1,2009
+e_2009_46,Dartmouth College,University System Of New Hampshire,Undirected,1,2009
+e_2009_47,Auburn University,University of Alabama System,Undirected,1,2009
+e_2009_48,New York University,Vanderbilt University,Undirected,1,2009
+e_2009_49,University Of St Thomas Minnesota,Vanderbilt University,Undirected,1,2009
+e_2009_50,University Of Alaska System,Worcester Polytechnic Institute,Undirected,1,2009
+e_2009_51,University Of Connecticut,Yale University,Undirected,1,2009
+e_2009_52,Massachusetts Institute Of Technology,Yale University,Undirected,1,2009
+e_2009_53,Columbia University,Yeshiva University,Undirected,1,2009
+e_2009_54,Hofstra University,Yeshiva University,Undirected,1,2009

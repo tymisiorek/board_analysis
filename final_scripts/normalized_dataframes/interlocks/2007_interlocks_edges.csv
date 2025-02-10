@@ -1,0 +1,61 @@
+Id,Source,Target,Type,Weight,Year
+e_2007_1,Brandeis University,Columbia University,Undirected,1,2007
+e_2007_2,Brown University,Cornell University,Undirected,1,2007
+e_2007_3,Columbia University,Cornell University,Undirected,1,2007
+e_2007_4,Cornell University,Duke University,Undirected,1,2007
+e_2007_5,Boston College,Georgetown University,Undirected,1,2007
+e_2007_6,Fordham University,Georgetown University,Undirected,2,2007
+e_2007_7,Duke University,Johns Hopkins University,Undirected,1,2007
+e_2007_8,Andrews University,Loma Linda University,Undirected,6,2007
+e_2007_9,Cornell University,Long Island University,Undirected,1,2007
+e_2007_10,Boston College,Loyola Marymount University,Undirected,2,2007
+e_2007_11,Boston College,Loyola University Chicago,Undirected,1,2007
+e_2007_12,Fordham University,Loyola University Chicago,Undirected,2,2007
+e_2007_13,Cornell University,Massachusetts Institute Of Technology,Undirected,2,2007
+e_2007_14,Howard University,Massachusetts Institute Of Technology,Undirected,1,2007
+e_2007_15,Clemson University,Mercer University,Undirected,1,2007
+e_2007_16,Massachusetts Institute Of Technology,New School,Undirected,1,2007
+e_2007_17,Cornell University,New School,Undirected,2,2007
+e_2007_18,Cornell University,New York University,Undirected,1,2007
+e_2007_19,New School,New York University,Undirected,1,2007
+e_2007_20,Columbia University,New York University,Undirected,1,2007
+e_2007_21,Brandeis University,New York University,Undirected,1,2007
+e_2007_22,Clarkson University,New York University,Undirected,1,2007
+e_2007_23,Pennsylvania State System Of Higher Education,Pennsylvania State University,Undirected,2,2007
+e_2007_24,New School,Princeton University,Undirected,1,2007
+e_2007_25,Cornell University,Rochester Institute Of Technology,Undirected,1,2007
+e_2007_26,Rensselaer Polytechnic Institute,St Johns University,Undirected,1,2007
+e_2007_27,Rice University,Stanford University,Undirected,1,2007
+e_2007_28,Tufts University,University Of Chicago,Undirected,1,2007
+e_2007_29,University Of California System,University Of Chicago,Undirected,1,2007
+e_2007_30,Princeton University,University Of Chicago,Undirected,2,2007
+e_2007_31,Carnegie Mellon University,University Of Chicago,Undirected,1,2007
+e_2007_32,Illinois Institute Of Technology,University Of Chicago,Undirected,1,2007
+e_2007_33,New School,University Of Chicago,Undirected,1,2007
+e_2007_34,Tufts University,University Of New Mexico,Undirected,1,2007
+e_2007_35,New Jersey Institute Of Technology,University Of Notre Dame,Undirected,1,2007
+e_2007_36,Pennsylvania State System Of Higher Education,University Of Pittsburgh,Undirected,2,2007
+e_2007_37,Pennsylvania State University,University Of Pittsburgh,Undirected,2,2007
+e_2007_38,Carnegie Mellon University,University Of Pittsburgh,Undirected,2,2007
+e_2007_39,Chapman University,University Of San Diego,Undirected,1,2007
+e_2007_40,Auburn University,University Of South Alabama,Undirected,1,2007
+e_2007_41,Cornell University,University Of Southern California,Undirected,1,2007
+e_2007_42,University Of California System,University Of Southern California,Undirected,1,2007
+e_2007_43,Cornell University,University Of Tulsa,Undirected,1,2007
+e_2007_44,Princeton University,University Of Virginia,Undirected,1,2007
+e_2007_45,Mercer University,University System Of Georgia,Undirected,1,2007
+e_2007_46,Clark Atlanta University,University System Of Georgia,Undirected,1,2007
+e_2007_47,Dartmouth College,University System Of New Hampshire,Undirected,1,2007
+e_2007_48,University Of South Alabama,University of Alabama System,Undirected,1,2007
+e_2007_49,Auburn University,University of Alabama System,Undirected,1,2007
+e_2007_50,New York University,Vanderbilt University,Undirected,1,2007
+e_2007_51,University Of St Thomas Minnesota,Vanderbilt University,Undirected,1,2007
+e_2007_52,New York University,Virginia Commonwealth University,Undirected,1,2007
+e_2007_53,University Of San Diego,Wake Forest University,Undirected,1,2007
+e_2007_54,George Washington University,Washington State University,Undirected,1,2007
+e_2007_55,University Of Connecticut,Yale University,Undirected,1,2007
+e_2007_56,Massachusetts Institute Of Technology,Yale University,Undirected,1,2007
+e_2007_57,Fordham University,Yeshiva University,Undirected,1,2007
+e_2007_58,Johns Hopkins University,Yeshiva University,Undirected,2,2007
+e_2007_59,Cornell University,Yeshiva University,Undirected,1,2007
+e_2007_60,Columbia University,Yeshiva University,Undirected,1,2007
