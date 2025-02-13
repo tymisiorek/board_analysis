@@ -153,7 +153,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2018,David Davenport,Chief Diversity Officer,Austin Peay State University,,,184692499.0,219602.0,False,21.0,16421.0,Tennessee Board of Regents,Director
 2018,Blayne Clements,Director,Austin Peay State University,,,184692499.0,219602.0,False,19.0,16415.0,Tennessee Board of Regents,Director
 2018,"Dr. Grace Moodt, RN",Director (Interim),Austin Peay State University,School Of Nursing,,184692499.0,219602.0,False,24.0,16426.0,Tennessee Board of Regents,Director
-2018,Blayne Clements,Internal Auditor,Austin Peay State University,,,184692499.0,219602.0,False,20.0,16416.0,Tennessee Board of Regents,Director
 2018,Dianne Sahenk,Trustee,Babson College,,,96062909.0,164580.0,False,,,,Trustee
 2018,Gary L. Zwerling,Trustee,Babson College,,SUNY (Albany) 1972 MBA,96062909.0,164580.0,False,,,,Trustee
 2018,Robert E. Weissman,Vice Chairman,Babson College,,Babson 1964 BS,96062909.0,164580.0,False,,,,Board Vice President
@@ -281,7 +280,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2018,Sister Patricia Siemen,Trustee,Barry University,,,151583259.0,132471.0,False,,,,Trustee
 2018,"James V. Stelniki, DPM",Trustee,Barry University,,,151583259.0,132471.0,False,,,,Trustee
 2018,Kevin W. Shaughnessy,Trustee,Barry University,,,151583259.0,132471.0,False,,,,Trustee
-2018,Noreen R. Virgin,"President, Alumni Board",Barry University,,,151583259.0,132471.0,False,,,,Board President
 2018,Dr. Luigi Salvaneschi,Trustee,Barry University,,,151583259.0,132471.0,False,,,,Trustee
 2018,"Sister Andrea J. Balconis, OP, MD",Trustee,Barry University,,,151583259.0,132471.0,False,,,,Trustee
 2018,"Joel H. Sharp, Jr., Esq",Trustee,Barry University,,Yale 1957 BS; Stanford 1960 LLB: NYU 1963 LLM,151583259.0,132471.0,False,,,,Trustee
@@ -529,7 +527,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2018,William D. Bloom,Ex Officio Trustee,Boston University,,Boston U 1982 BA,111088046.0,164988.0,True,,,,"Trustee, Ex Officio"
 2018,Bishop Sudarshana Devadhar,Trustee,Boston University,,,111088046.0,164988.0,True,,,,Trustee
 2018,Dr. J. Robb Dixon,Faculty Council Chairman,Boston University,,"Wesleyan U 1974 BA; Virginia 1981 MBA, 1987 PhD",111088046.0,164988.0,True,,,,Board President
-2018,Dr. J. Robb Dixon,Ex Officio Trustee,Boston University,,"Wesleyan U 1974 BA; Virginia 1981 MBA, 1987 PhD",111088046.0,164988.0,True,,,,"Trustee, Ex Officio"
 2018,"Stephen M. ""Steve"" Zide",Trustee,Boston University,,Rochester BA; Harvard 1997 MBA; Boston U JD,111088046.0,164988.0,True,,,,Trustee
 2018,Andrea L. Taylor,Trustee,Boston University,,Boston U 1968,111088046.0,164988.0,True,,,,Trustee
 2018,Nina C. Tassler,Trustee,Boston University,,Boston U 1979,111088046.0,164988.0,True,,,,Trustee
@@ -1373,8 +1370,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2018,Scott C. Johnson,Secretary,Colorado State University System,,Colorado State,4210131357.0,,False,,,,Other Board Member
 2018,Jake Harmon,Colorado State University-Pueblo Student Representative,Colorado State University System,,,4210131357.0,,False,,,,Other Board Member
 2018,Mark A. Gustafson,Voting Member,Colorado State University System,,Wyoming,4210131357.0,,False,,,,Member
-2018,Margarita Lenk,Non-Voting Member,Colorado State University System,,,4210131357.0,,False,,,,Member
-2018,Jake Harmon,Non-Voting Member,Colorado State University System,,,4210131357.0,,False,,,,Member
 2018,William E. Mosher,Voting Member,Colorado State University System,,Arizona,4210131357.0,,False,,,,Member
 2018,Nancy R. Tuor,Vice Chair,Colorado State University System,,,4210131357.0,,False,,,,Board Vice President
 2018,Jane Robbe Rhodes,Treasurer,Colorado State University System,,,4210131357.0,,False,,,,Other Board Member
@@ -1382,7 +1377,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2018,William Dean Singleton,Voting Member,Colorado State University System,,,4210131357.0,,False,,,,Member
 2018,David Volk,Colorado State University-Pueblo Faculty Representative,Colorado State University System,,,4210131357.0,,False,,,,Other Board Member
 2018,Tony Vrba,Colorado State University-Global Campus Faculty Representative,Colorado State University System,,,4210131357.0,,False,,,,Other Board Member
-2018,Tony Vrba,Non-Voting Member,Colorado State University System,,,4210131357.0,,False,,,,Member
 2018,Joseph C. Zimlich,Voting Member,Colorado State University System,,Iowa BBA,4210131357.0,,False,,,,Member
 2018,"Demetri E. ""Rico"" Munn",Chair,Colorado State University System,,Midland Lutheran 1993 BA; Denver 1996 JD,4210131357.0,,False,,,,Board President
 2018,Kyriakos Tsakopoulos,Trustee,Columbia University,,Columbia 1993 BA; McGeorge JD,78577930.0,190150.0,True,,,,Trustee
@@ -2337,7 +2331,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2018,Stephen Urrutia,Trustee,Illinois Institute Of Technology,,,180949307.0,145725.0,True,,,,Trustee
 2018,David E. Mendelsohn,Trustee,Illinois Institute Of Technology,,U Col London 1985 LLB; Chicago-Kent 1991 JD,180949307.0,145725.0,True,,,,Trustee
 2018,David A. Van Eekeren,Trustee,Illinois Institute Of Technology,,,180949307.0,145725.0,True,,,,Trustee
-2018,David J. Vitale,Vice Chairman,Illinois Institute Of Technology,,Harvard 1968 BA; Chicago 1976 MBA,180949307.0,145725.0,True,,,,Board Vice President
 2018,Brian C. Walker,Trustee,Illinois Institute Of Technology,,,180949307.0,145725.0,True,,,,Trustee
 2018,Robert J. Washlow,Trustee,Illinois Institute Of Technology,,Chicago-Kent 1970,180949307.0,145725.0,True,,,,Trustee
 2018,"Alan W. ""Bud"" Wendorf",Chairman,Illinois Institute Of Technology,,Illinois Tech 1971,180949307.0,145725.0,True,,,,Board President
@@ -2872,7 +2865,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2018,"Miguel B. ""Mike"" Fernandez",Trustee,Loyola University Maryland,,,165556055.0,163046.0,False,,,,Trustee
 2018,Kevin J. Finnerty,Trustee,Loyola University Maryland,,,165556055.0,163046.0,False,,,,Trustee
 2018,James D. Forbes,Secretary,Loyola University Maryland,,Loyola Col (MD) 1980 BA; Loyola U (Maryland) 1982 MBA,165556055.0,163046.0,False,,,,Other Board Member
-2018,James D. Forbes,Treasurer,Loyola University Maryland,,Loyola Col (MD) 1980 BA; Loyola U (Maryland) 1982 MBA,165556055.0,163046.0,False,,,,Other Board Member
 2018,Carrie Fox,Trustee,Loyola University Maryland,,Loyola U (Maryland) 2001 BA,165556055.0,163046.0,False,,,,Trustee
 2018,J. Richard Fredericks,Trustee,Loyola University Maryland,,Georgetown 1968 BSBA; Columbia MBA,165556055.0,163046.0,False,,,,Trustee
 2018,"Sister Sharon A. Euart, RSM",Trustee,Loyola University Maryland,,Mount St Agnes 1966,165556055.0,163046.0,False,,,,Trustee
@@ -3004,22 +2996,14 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2018,"David ""Dave"" Murphy","Vice President, Marketing and Communication",Marquette University,,,102461120.0,239105.0,True,,,,Board Vice President
 2018,"Octavio ""Cas"" Castro","Vice President, Human Resources",Marquette University,,,102461120.0,239105.0,True,,,,Board Vice President
 2018,Vacant,Treasurer,Marquette University,,,102461120.0,239105.0,True,,,,Other Board Member
-2018,Vacant,"Vice President, Finance",Marquette University,,,102461120.0,239105.0,True,,,,Board Vice President
 2018,Cynthia M. Bauer,General Counsel,Marquette University,,,102461120.0,239105.0,True,,,,Other Board Member
-2018,Cynthia M. Bauer,Vice President,Marquette University,,,102461120.0,239105.0,True,,,,Board Vice President
 2018,"David D. ""Dave"" Lawlor","Executive Vice President, Operations",Marquette University,,Cal State (Hayward) BBA,102461120.0,239105.0,True,,,,Board Vice President
 2018,Dr. Daniel J. Myers,"Executive Vice President, Academic Affairs",Marquette University,,Ohio State: Wisconsin 1997 PhD,102461120.0,239105.0,True,,,,Board Vice President
-2018,Dr. Daniel J. Myers,Provost,Marquette University,,Ohio State: Wisconsin 1997 PhD,102461120.0,239105.0,True,,,,Trustee
-2018,Steven W. Frieder,Corporate Secretary,Marquette University,,Marquette 1995 BA: Lehigh 1998 MA,102461120.0,239105.0,True,,,,Other Board Member
-2018,Steven W. Frieder,Assistant To The President,Marquette University,,Marquette 1995 BA: Lehigh 1998 MA,102461120.0,239105.0,True,,,,Board President
-2018,Dr. Michael R. Lovell,President,Marquette University,,"Pittsburgh 1989 BS, 1991 MS, 1994 PhD",102461120.0,239105.0,True,,,,Board President
 2018,"Rev. Gerald Thomas ""Tom"" Krettek, S.J",Trustee,Marquette University,,"Saint Louis U 1975 BA, 1977 MA; Regis Col (Canada) 1982 MDiv; Catholic U 1987 PhD",102461120.0,239105.0,True,,,,Trustee
 2018,Rana H. Altenburg,"Vice President, Public Affairs",Marquette University,,,102461120.0,239105.0,True,,,,Board Vice President
 2018,Dr. Jeanne Hossenlopp,"Vice President, Research and Innovation",Marquette University,,Colgate 1981 BA; Siena Heights 1982 MA: Syracuse 1987 PhD,102461120.0,239105.0,True,,,,Board Vice President
 2018,Dr. Xavier A. Cole,"Vice President, Student Affairs",Marquette University,,Mississippi BA; Miami U (OH) MA; Pennsylvania EdD,102461120.0,239105.0,True,,,,Board Vice President
-2018,"David D. ""Dave"" Lawlor","Vice President, University Advancement (Interim)",Marquette University,,,102461120.0,239105.0,True,,,,Board Vice President
 2018,"William ""Bill"" Scholl",Vice President,Marquette University,,Notre Dame 1979 BA,102461120.0,239105.0,True,,,,Board Vice President
-2018,"William ""Bill"" Scholl","Director, Athletics",Marquette University,,Notre Dame 1979 BA,102461120.0,239105.0,True,,,,Trustee
 2018,"Dr. Jennifer ""Jenny"" Watson","Vice Provost, Academic Planning",Marquette University,,,102461120.0,239105.0,True,,,,Trustee
 2018,Dr. Stephanie Quade,Dean of Students,Marquette University,,,102461120.0,239105.0,True,,,,Other Board Member
 2018,Dr. John M. Baworowsky,"Vice Provost, Enrollment Management",Marquette University,,Loyola U (Chicago) 1980 BS; Miami 1982 MSEd: Saint Louis U 2011 PhD,102461120.0,239105.0,True,,,,Trustee
@@ -3029,7 +3013,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2018,"Christopher ""Chris"" Stolarski",Senior Communications Specialist,Marquette University,,,102461120.0,239105.0,True,,,,Other Board Member
 2018,Paul Mascari,Chief of Police,Marquette University,,Wisconsin (Milwaukee); Marquette MPSA,102461120.0,239105.0,True,,,,Trustee
 2018,"Todd A. Adams, CPA",Trustee,Marquette University,,Eastern Illinois 1993 BS,102461120.0,239105.0,True,,,,Trustee
-2018,"Rev. Gerald Thomas ""Tom"" Krettek, S.J","Vice President, Mission and Ministry",Marquette University,,"Saint Louis U 1975 BA, 1977 MA; Regis Col (Canada) 1982 MDiv; Catholic U 1987 PhD",102461120.0,239105.0,True,,,,Board Vice President
 2018,Lora Strigens,"Vice President, Planning and Strategy",Marquette University,,,102461120.0,239105.0,True,,,,Board Vice President
 2018,Wyatt Scaggs,Chairman,Marshall University,,Marshall BSAcc,88694374.0,237525.0,True,,,,Board President
 2018,Gary G. White,Governor,Marshall University,,Marshall 1997 BA,88694374.0,237525.0,True,,,,Governor
@@ -3409,7 +3392,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2018,Norma B. Clayton,Overseer,New Jersey Institute Of Technology,,NJIT 1981,118118575.0,185828.0,True,,,,Overseer
 2018,Dr. Joel S. Bloom,Overseer,New Jersey Institute Of Technology,,,118118575.0,185828.0,True,,,,Overseer
 2018,"Edward J. Bishof, Sr",Secretary (Interim),New Jersey Institute Of Technology,,,118118575.0,185828.0,True,,,,Other Board Member
-2018,"Edward J. Bishof, Sr",Assistant Treasurer,New Jersey Institute Of Technology,,,118118575.0,185828.0,True,,,,Other Board Member
 2018,Steven Annunziato,Overseer,New Jersey Institute Of Technology,,NJIT 1982 BSIE; Boston U ME; Creighton MBA,118118575.0,185828.0,True,,,,Overseer
 2018,Nicholas M. DeNichilo,Overseer,New Jersey Institute Of Technology,,"NJIT 1973, 1978",118118575.0,185828.0,True,,,,Overseer
 2018,Dr. Fadi P. Deek,Overseer,New Jersey Institute Of Technology,,,118118575.0,185828.0,True,,,,Overseer
@@ -3442,7 +3424,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2018,Emil C. Herkert,Chairman Emeritus,New Jersey Institute Of Technology,,,118118575.0,185828.0,True,,,,Board President
 2018,Debra P. Hicks,Chair,New Mexico State University,,New Mexico State BSCE,10052268.0,188030.0,True,,,,Board President
 2018,Jerean Camunez Hutchinson,Secretary,New Mexico State University,,,10052268.0,188030.0,True,,,,Other Board Member
-2018,Jerean Camunez Hutchinson,Treasurer,New Mexico State University,,,10052268.0,188030.0,True,,,,Other Board Member
 2018,Kari Mitchell,Vice Chair,New Mexico State University,,,10052268.0,188030.0,True,,,,Board Vice President
 2018,Margie R. Vela,Student Regent,New Mexico State University,,"U Phoenix BS, MBA",10052268.0,188030.0,True,,,,Regent
 2018,Mike Cheney,Regent,New Mexico State University,,New Mexico State 1985,10052268.0,188030.0,True,,,,Regent
@@ -3719,7 +3700,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2018,Barbara Trebbi Landry,Trustee,Nova Southeastern University,,,203088144.0,136215.0,True,,,,Trustee
 2018,"Dr. Zachariah P. Zachariah, MD",Trustee,Nova Southeastern University,,,203088144.0,136215.0,True,,,,Trustee
 2018,Samuel F. Morrison,Secretary,Nova Southeastern University,,Cal State (Los Angeles) 1971 BA; Illinois 1972 MLS,203088144.0,136215.0,True,,,,Other Board Member
-2018,Paul M. Sallarulo,Trustee,Nova Southeastern University,,Baruch Col BBA; Nova Southeastern MBA,203088144.0,136215.0,True,,,,Trustee
 2018,Albert J. Miniaci,Trustee,Nova Southeastern University,,,203088144.0,136215.0,True,,,,Trustee
 2018,Susanne Hurowitz,Trustee,Nova Southeastern University,,,203088144.0,136215.0,True,,,,Trustee
 2018,Alan B. Levan,Trustee,Nova Southeastern University,,Tulane 1966 BA,203088144.0,136215.0,True,,,,Trustee
@@ -3752,7 +3732,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2018,"Dr. Glen D. Johnson, Jr",Chancellor,Oklahoma State System Of Higher Education,,,,,False,,,,Board President
 2018,"Jeffrey W. ""Jeff"" Hickman",Regent,Oklahoma State System Of Higher Education,,Oklahoma 1996 BA,,,False,,,,Regent
 2018,Jay L. Helm,Vice Chairman,Oklahoma State System Of Higher Education,,,,,False,,,,Board Vice President
-2018,"Dr. Glen D. Johnson, Jr",Chancellor,Oklahoma State System Of Higher Education,,"Oklahoma BA, JD",,,False,,,,Board President
 2018,"Andrew W. ""Andy"" Lester",Regent,Oklahoma State System Of Higher Education,,"Duke 1977 BA; Georgetown 1981 MSFS, 1981 JD",,,False,,,,Regent
 2018,Donna L. Scassera,Board Member,Old Dominion University,,,81365321.0,232982.0,True,,,,Member
 2018,Frank Reidy,Board Member,Old Dominion University,,Villanova (Cuba) 1963 BCE; Minnesota 1964,81365321.0,232982.0,True,,,,Member
@@ -3907,7 +3886,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2018,Eugene O. Zurbrugg,Trustee,Pacific University,,,4210149261.0,209612.0,False,,,,Trustee
 2018,Ryan P. Aument,Governor,Pennsylvania State System Of Higher Education,,,29957033.0,,False,,,Pennsylvania State System,Governor
 2018,Vacant,Student Governor,Pennsylvania State System Of Higher Education,,,29957033.0,,False,,,Pennsylvania State System,Governor
-2018,Vacant,Vice Chair,Pennsylvania State System Of Higher Education,,,29957033.0,,False,,,Pennsylvania State System,Board Vice President
 2018,"Thomas W. ""Tom"" Wolf",Governor,Pennsylvania State System Of Higher Education,,Dartmouth 1972 BA; U London 1978 MPhil; MIT 1981 PhD,29957033.0,,False,,,Pennsylvania State System,Governor
 2018,Brian Swatt,Student Governor,Pennsylvania State System Of Higher Education,,,29957033.0,,False,,,Pennsylvania State System,Governor
 2018,Harold C. Shields,Governor,Pennsylvania State System Of Higher Education,,,29957033.0,,False,,,Pennsylvania State System,Governor
@@ -3953,7 +3931,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2018,Kevin R. Steele,Alumni Association Trustee,Pennsylvania State University,,Penn State Law 1992 JD,130769515.0,495767.0,True,,,Pennsylvania State System,Trustee
 2018,William S. Shipley III,Ex Officio Trustee,Pennsylvania State University,,,130769515.0,495767.0,True,,,Pennsylvania State System,"Trustee, Ex Officio"
 2018,"Matthew W. ""Matt"" Schuyler",At-Large Trustee,Pennsylvania State University,,Penn State 1987 BS; Michigan 1995 MBA,130769515.0,495767.0,True,,,Pennsylvania State System,Trustee
-2018,Ira M. Lubert,Industrial Trustee,Pennsylvania State University,,Penn State 1973 BS,130769515.0,495767.0,True,,,Pennsylvania State System,Trustee
 2018,Pedro A. Rivera,Ex Officio Trustee,Pennsylvania State University,,,130769515.0,495767.0,True,,,Pennsylvania State System,"Trustee, Ex Officio"
 2018,Russell C. Redding,Ex Officio Trustee (Acting),Pennsylvania State University,,,130769515.0,495767.0,True,,,Pennsylvania State System,"Trustee, Ex Officio"
 2018,Mary Lee Schneider,Industrial Trustee,Pennsylvania State University,,Penn State BA; RIT MS; Northwestern MS; Kellogg MBA,130769515.0,495767.0,True,,,Pennsylvania State System,Trustee
@@ -4032,7 +4009,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2018,Laura Bilodeau Overdeck,Trustee,Princeton University,,Princeton 1991,20089843.0,186131.0,True,,,,Trustee
 2018,Azza C. Cohen,Young Alumni Trustee,Princeton University,,Princeton 2016,20089843.0,186131.0,True,,,,Trustee
 2018,Melanie Lawson,Trustee,Princeton University,,Princeton 1979,20089843.0,186131.0,True,,,,Trustee
-2018,Melanie Lawson,Trustee,Princeton University,,Princeton 1976,20089843.0,186131.0,True,,,,Trustee
 2018,Anthony H.P. Lee,Trustee,Princeton University,,,20089843.0,186131.0,True,,,,Trustee
 2018,Dr. Ann Kirschner,Trustee,Princeton University,,SUNY (Buffalo) BA; Virginia MA; Princeton 1978 PhD,20089843.0,186131.0,True,,,,Trustee
 2018,Derek C. Kilmer,Trustee,Princeton University,,Princeton 1996 BA; Oxford (UK) 1999 PhD,20089843.0,186131.0,True,,,,Trustee
@@ -4043,10 +4019,8 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2018,"Dr. James L. ""Jay"" Dominick","Vice President, Information Technology",Princeton University,,North Carolina BS; Georgetown 1988 MA; Wake Forest MBA; North Carolina PhD,20089843.0,186131.0,True,,,,Board Vice President
 2018,Lianne C. Sullivan-Crowley,"Vice President, Human Resources",Princeton University,,,20089843.0,186131.0,True,,,,Board Vice President
 2018,Carolyn N. Ainslie,Treasurer,Princeton University,,Bucknell; Rochester MBA,20089843.0,186131.0,True,,,,Other Board Member
-2018,Carolyn N. Ainslie,"Vice President, Finance",Princeton University,,Bucknell; Rochester MBA,20089843.0,186131.0,True,,,,Board Vice President
 2018,"KyuJung ""Kyu"" Whang","Vice President, Facilities",Princeton University,,Syracuse 1981 BARC,20089843.0,186131.0,True,,,,Board Vice President
 2018,W. Rochelle Calhoun,"Vice President, Campus Life",Princeton University,,Mount Holyoke BA; Columbia MFA,20089843.0,186131.0,True,,,,Board Vice President
-2018,"Dr. James L. ""Jay"" Dominick",Chief Information Officer,Princeton University,,North Carolina BS; Georgetown 1988 MA; Wake Forest MBA; North Carolina PhD,20089843.0,186131.0,True,,,,Trustee
 2018,Kevin J. Heaney,"Vice President, Advancement",Princeton University,,Cincinnati BA; Teachers Col Columbia U MEd; Boston Col JD,20089843.0,186131.0,True,,,,Board Vice President
 2018,Robert K. Durkee*,Vice President,Princeton University,,Princeton 1969 AB;,20089843.0,186131.0,True,,,,Board Vice President
 2018,"Charlotte ""Treby"" Williams",Executive Vice President,Princeton University,,Princeton 1984; NYU 1988 JD,20089843.0,186131.0,True,,,,Board Vice President
@@ -4054,7 +4028,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2018,Christopher Ludwig Eisgruber*,President,Princeton University,,Princeton 1983 AB; Oxford (UK) 1987 MLitt; Chicago 1988 JD,20089843.0,186131.0,True,,,,Board President
 2018,"Dr. Sanjeev R. ""Sanj"" Kulkarni",Trustee,Princeton University,Faculty,"Clarkson U 1983 BS, 1984 BSEE, 1985 MS; Stanford 1985 MSEE; MIT 1991 PhD",20089843.0,186131.0,True,,,,Trustee
 2018,Peter C. Wendell,Trustee,Princeton University,,Princeton 1972 BA; Harvard 1976 MBA,20089843.0,186131.0,True,,,,Trustee
-2018,Robert K. Durkee*,Secretary,Princeton University,,Princeton 1969 AB;,20089843.0,186131.0,True,,,,Other Board Member
 2018,Chad L. Klaus,"Vice President, University Services",Princeton University,,Oregon State,20089843.0,186131.0,True,,,,Board Vice President
 2018,Michele Minter,"Vice Provost, Institutional Equity and Diversity",Princeton University,,Yale; Brooklyn MFA,20089843.0,186131.0,True,,,,Trustee
 2018,Jed Marsh,"Vice Provost, Institutional Research",Princeton University,,,20089843.0,186131.0,True,,,,Trustee
@@ -4066,7 +4039,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2018,Ramona E. Romero,General Counsel,Princeton University,,Barnard 1985 BA; Harvard 1988 JD,20089843.0,186131.0,True,,,,Other Board Member
 2018,David J. Sherry,Chief Information Security Officer,Princeton University,,Providence BB; Northeastern MBA,20089843.0,186131.0,True,,,,Trustee
 2018,"Nilufer K. ""Nilu"" Shroff",Compliance Officer,Princeton University,,,20089843.0,186131.0,True,,,,Trustee
-2018,"Nilufer K. ""Nilu"" Shroff",Chief Audit,Princeton University,,,20089843.0,186131.0,True,,,,Trustee
 2018,"Timothy L""Tim"" McGowan","Assistant Vice President, Strategic Donor Engagement",Princeton University,,Utica Col,20089843.0,186131.0,True,,,,Board Vice President
 2018,Kerstin M. Larsen,"Assistant Vice President, Development",Princeton University,,"Princeton 1983, 1986",20089843.0,186131.0,True,,,,Board Vice President
 2018,"Daniel A. ""Dan"" Day","Assistant Vice President, Communications",Princeton University,,Holy Cross Col 1978 BA; Marquette 1979 MA,20089843.0,186131.0,True,,,,Board Vice President
@@ -4736,7 +4708,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2018,Douglas C. Smellage,Alumni Trustee,Southern Methodist University,,Southern Methodist 1977,178169726.0,228246.0,True,,,,Trustee
 2018,"Richard K. ""Rich"" Templeton",Trustee,Southern Methodist University,,Union Col (NY) 1980 BSEE,178169726.0,228246.0,True,,,,Trustee
 2018,Dr. Robert Gerald Turner,Ex Officio Trustee,Southern Methodist University,,,178169726.0,228246.0,True,,,,"Trustee, Ex Officio"
-2018,Andrew Bassey Udofa,Ex Officio Trustee,Southern Methodist University,,,178169726.0,228246.0,True,,,,"Trustee, Ex Officio"
 2018,Richard C. Ware II,Trustee,Southern Methodist University,,,178169726.0,228246.0,True,,,,Trustee
 2018,"Royce E. ""Ed"" Wilson",Trustee,Southern Methodist University,,,178169726.0,228246.0,True,,,,Trustee
 2018,Dr. Bobby B. Lyle,Trustee,Southern Methodist University,,,178169726.0,228246.0,True,,,,Trustee
@@ -4825,9 +4796,7 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2018,Marilyn O'Neill,Trustee,St Edwards University,,,9224006.0,227845.0,False,,,,Trustee
 2018,"Dr. Stephen J. Forman, FACP",Member,St Johns College,T Cell Immunotherapy Laboratory,St John's Col (MD) 1970 BA; USC 1974 MD,4210131395.0,245652.0,False,,,,Member
 2018,Ronald H. Fielding,Governors,St Johns College,,St John's Col (MD) 1970,4210131395.0,245652.0,False,,,,Member
-2018,Ronald H. Fielding,"Chairman, Board Of Visitors",St Johns College,,St John's Col (MD) 1970,4210131395.0,245652.0,False,,,,Board President
 2018,Stephen L. Feinberg,Governors,St Johns College,,,4210131395.0,245652.0,False,,,,Member
-2018,Stephen L. Feinberg,"Member, Board Of Visitors",St Johns College,,,4210131395.0,245652.0,False,,,,Member
 2018,John L. Gray,Member,St Johns College,National Museum Of American History,,4210131395.0,245652.0,False,,,,Member
 2018,Susana Martinez,Ex Officio Member,St Johns College,,Texas (El Paso) 1981 BA; Oklahoma 1986 JD,4210131395.0,245652.0,False,,,,"Member, Ex Officio"
 2018,Joan M. Haratani,Member,St Johns College,,,4210131395.0,245652.0,False,,,,Member
@@ -5052,7 +5021,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2018,Elliott I. Portnoy,Trustee,Syracuse University,,Syracuse 1986 BA; Oxford (UK) 1989 PhD; Harvard 1992 JD,70983195.0,196413.0,True,,,,Trustee
 2018,Kent D. Syverud,Ex Officio Executive Committee Member,Syracuse University,,,70983195.0,196413.0,True,,,,"Other Board Member, Ex Officio"
 2018,"Robert P. ""Rob"" Taishoff",Trustee,Syracuse University,,Syracuse 1986,70983195.0,196413.0,True,,,,Trustee
-2018,Michael G. Thonis,Executive Committee Member,Syracuse University,,Syracuse 1972 BS; MIT MS; Harvard 1976 MBA,70983195.0,196413.0,True,,,,Other Board Member
 2018,Michael Tirico,Trustee,Syracuse University,,Syracuse 1988,70983195.0,196413.0,True,,,,Trustee
 2018,"Kathleen A. ""Kathy"" Walters",Trustee,Syracuse University,,Syracuse 1973; Wharton 1978 MBA,70983195.0,196413.0,True,,,,Trustee
 2018,Michael D. Wohl,Trustee,Syracuse University,,,70983195.0,196413.0,True,,,,Trustee
@@ -5069,7 +5037,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2018,"Martin N. ""Marty"" Bandier",Trustee,Syracuse University,,Syracuse 1962,70983195.0,196413.0,True,,,,Trustee
 2018,Tracy M. Barash,Trustee,Syracuse University,,Syracuse 1989; Emory MBA,70983195.0,196413.0,True,,,,Trustee
 2018,"Steven W. ""Steve"" Barnes, CPA",Chairman,Syracuse University,,Syracuse 1982 BS,70983195.0,196413.0,True,,,,Board President
-2018,"Steven W. ""Steve"" Barnes, CPA",Executive Committee Member,Syracuse University,,Syracuse 1982 BS,70983195.0,196413.0,True,,,,Other Board Member
 2018,Andrew T. Berlin,Trustee,Syracuse University,,,70983195.0,196413.0,True,,,,Trustee
 2018,Lauren B. Cramer,Trustee,Syracuse University,,Northwestern 1987 BA; Syracuse 1994 JD,70983195.0,196413.0,True,,,,Trustee
 2018,Darlene T. DeRemer,Trustee,Syracuse University,,"Syracuse 1977 BS, 1979 MBA",70983195.0,196413.0,True,,,,Trustee
@@ -5083,7 +5050,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2018,David B. Falk,Trustee,Syracuse University,,,70983195.0,196413.0,True,,,,Trustee
 2018,Cliff Ensley,Trustee,Syracuse University,,,70983195.0,196413.0,True,,,,Trustee
 2018,Stephen L. Einhorn,Trustee,Syracuse University,,,70983195.0,196413.0,True,,,,Trustee
-2018,David G. Edelstein,Executive Committee Member,Syracuse University,,Syracuse 1978; Baruch Col MBA,70983195.0,196413.0,True,,,,Other Board Member
 2018,Shelly Lotman Fisher,Trustee,Syracuse University,,Syracuse 1980; North Carolina MEd,70983195.0,196413.0,True,,,,Trustee
 2018,Judith A. Felgoise,Trustee,Temple University,,,84392919.0,216339.0,True,,,,Trustee
 2018,Patrick V. Larkin,Commonwealth Trustee,Temple University,,,84392919.0,216339.0,True,,,,Trustee
@@ -5392,8 +5358,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2018,Sheffield Nelson,Trustee,University Of Arkansas System,,Central Arkansas; Arkansas (Little Rock) 1969 JD,2799691083.0,,False,,,University of Arkansas System,Director
 2018,"Charles C. ""Cliff"" Gibson III",Trustee,University Of Arkansas System,,Arkansas (Monticello): Arkansas (Little Rock) JD,2799691083.0,,False,,,University of Arkansas System,Director
 2018,Kelly Eichler,Assistant Secretary,University Of Arkansas System,,Arkansas; Arkansas (Little Rock) JD,2799691083.0,,False,,,University of Arkansas System,Other Board Member
-2018,Dr. Stephen Broughton,Trustee,University Of Arkansas System,,Arkansas (Pine Bluff); Arkansas Medical MD,2799691083.0,,False,,,University of Arkansas System,Director
-2018,"Thomas E. ""Tommy"" Boyer",Trustee,University Of Arkansas System,,Arkansas 1964 BSBA,2799691083.0,,False,,,University of Arkansas System,Director
 2018,Nate Hinkel,"Director, Communications",University Of Arkansas System,,,2799691083.0,,False,,,University of Arkansas System,Director
 2018,JoAnn C. Maxey,General Counsel,University Of Arkansas System,,Missouri 1977; Arkansas (Little Rock) 1982 JD,2799691083.0,,False,,,University of Arkansas System,Other Board Member
 2018,Jacob W. Flournoy,Chief Audit Executive,University Of Arkansas System,,,2799691083.0,,False,,,University of Arkansas System,Director
@@ -5574,7 +5538,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2018,Allison Burris Castellanos,Trustee,University Of Delaware,,,86501945.0,130943.0,True,,,,Trustee
 2018,Kenneth C. Whitney,Trustee,University Of Delaware,,Delaware BS,86501945.0,130943.0,True,,,,Trustee
 2018,Mary Jane Willis,Secretary,University Of Delaware,,West Virginia Wesleyan 1968 BS; West Virginia MA,86501945.0,130943.0,True,,,,Other Board Member
-2018,Mary Jane Willis,Treasurer,University Of Delaware,,West Virginia Wesleyan 1968 BS; West Virginia MA,86501945.0,130943.0,True,,,,Other Board Member
 2018,Sherman L. Townsend,Trustee,University Of Delaware,,,86501945.0,130943.0,True,,,,Trustee
 2018,Carol A. Ammon,Trustee,University Of Delaware,,,86501945.0,130943.0,True,,,,Trustee
 2018,Dr. Dennis N. Assanis,Trustee,University Of Delaware,,,86501945.0,130943.0,True,,,,Trustee
@@ -5588,7 +5551,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2018,Ray M. Robinson,Trustee,University Of Denver,,"Denver 1970 BS, 1971 MBA",131651094.0,127060.0,True,,,,Trustee
 2018,Catherine C. Shopneck,Trustee,University Of Denver,,,131651094.0,127060.0,True,,,,Trustee
 2018,Vacant,Vice Chair,University Of Denver,,,131651094.0,127060.0,True,,,,Board Vice President
-2018,Vacant,Trustee,University Of Denver,,,131651094.0,127060.0,True,,,,Trustee
 2018,John A. Miller,Trustee,University Of Denver,,"Denver 1975 BSBA, 1976 MBA",131651094.0,127060.0,True,,,,Trustee
 2018,Frederick T. Waldeck,Trustee,University Of Denver,,,131651094.0,127060.0,True,,,,Trustee
 2018,"Douglas G. ""Doug"" Scrivner",Chair,University Of Denver,,Duke BA; London School Econ (UK) MS; Denver 1977 JD,131651094.0,127060.0,True,,,,Board President
@@ -5777,7 +5739,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2018,Leslie I. Porras,Trustee,University Of La Verne,,,708430.0,117140.0,True,,,,Trustee
 2018,Deborah A. Proctor,Trustee,University Of La Verne,,UCLA 1973 BN; Cal State (Los Angeles) 1976 MN,708430.0,117140.0,True,,,,Trustee
 2018,Steven N. Reenders,Vice Chairman,University Of La Verne,,,708430.0,117140.0,True,,,,Board Vice President
-2018,Steven N. Reenders,Executive Committee Member,University Of La Verne,,,708430.0,117140.0,True,,,,Other Board Member
 2018,"Anthony R. ""Tony"" Revier",Trustee,University Of La Verne,,,708430.0,117140.0,True,,,,Trustee
 2018,Mary Ann Melleby,Executive Committee Member,University Of La Verne,,,708430.0,117140.0,True,,,,Other Board Member
 2018,Valerie C. Romero,Trustee,University Of La Verne,,,708430.0,117140.0,True,,,,Trustee
@@ -5788,16 +5749,12 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2018,"Owen R""Ray"" Skelton",Trustee,University Of La Verne,,,708430.0,117140.0,True,,,,Trustee
 2018,Emmett L. Terrell,Trustee,University Of La Verne,,,708430.0,117140.0,True,,,,Trustee
 2018,"Reginald ""Reggie"" Webb",Trustee,University Of La Verne,,,708430.0,117140.0,True,,,,Trustee
-2018,Susan M. Searing,Secretary,University Of La Verne,,,708430.0,117140.0,True,,,,Other Board Member
-2018,Mary Ann Melleby,Trustee,University Of La Verne,,,708430.0,117140.0,True,,,,Trustee
 2018,Stephen D. Phinney,Trustee,University Of La Verne,,La Verne 1979,708430.0,117140.0,True,,,,Trustee
 2018,James W. Long,Trustee,University Of La Verne,,,708430.0,117140.0,True,,,,Trustee
 2018,Dr. Kim J. Burchiel,Trustee,University Of La Verne,,,708430.0,117140.0,True,,,,Trustee
 2018,"Robert P. ""Bob"" Dyer",Trustee,University Of La Verne,,La Verne 1963,708430.0,117140.0,True,,,,Trustee
 2018,Dr. Peter D. Eckel,Trustee,University Of La Verne,,Maryland 1998 PhD,708430.0,117140.0,True,,,,Trustee
-2018,James W. Long,Executive Committee Member,University Of La Verne,,,708430.0,117140.0,True,,,,Other Board Member
 2018,Luis F. Faura,Chairman,University Of La Verne,,,708430.0,117140.0,True,,,,Board President
-2018,Luis F. Faura,Executive Committee Member,University Of La Verne,,,708430.0,117140.0,True,,,,Other Board Member
 2018,"Joseph V. ""Joe"" Fengler",Trustee,University Of La Verne,,,708430.0,117140.0,True,,,,Trustee
 2018,Benjamin C. Harris,Trustee,University Of La Verne,,,708430.0,117140.0,True,,,,Trustee
 2018,Zoila D. Escobar,Trustee,University Of La Verne,,La Verne BS,708430.0,117140.0,True,,,,Trustee
@@ -5808,7 +5765,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2018,Richard A. Lewis,Trustee,University Of La Verne,,,708430.0,117140.0,True,,,,Trustee
 2018,"Kenneth D. Little, CFA, CPA",Trustee,University Of La Verne,,La Verne 1989 BSAcc; Fuqua 1996 MBA,708430.0,117140.0,True,,,,Trustee
 2018,David Lizzaraga,Trustee,University Of La Verne,,,708430.0,117140.0,True,,,,Trustee
-2018,Benjamin C. Harris,Executive Committee Member,University Of La Verne,,,708430.0,117140.0,True,,,,Other Board Member
 2018,"Jimmie ""Beau"" Martin, Jr",Board Member,University Of Louisiana System,,,2799628689.0,,False,,,University of Louisiana System,Member
 2018,"Alejandro R. ""Al"" Perkins",Chair,University Of Louisiana System,,Xavier (LA) BA; Southern U Law JD,2799628689.0,,False,,,University of Louisiana System,Board President
 2018,"Elizabeth G. ""Liz"" Pierre",Board Member,University Of Louisiana System,,Louisiana (Lafayette) BS; Southern U Law JD,2799628689.0,,False,,,University of Louisiana System,Member
@@ -6039,7 +5995,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2018,Haley N. Leverett,Regent,University Of North Texas System,,,2802090120.0,,False,,,University of North Texas System,Regent
 2018,Donald Potts,Vice Chairman,University Of North Texas System,,North Texas,2802090120.0,,False,,,University of North Texas System,Board Vice President
 2018,Mike Mlinac,President,University Of North Texas System,University Of North Texas Foundation Inc,,2802090120.0,,False,,,University of North Texas System,Board President
-2018,Mike Mlinac,Chief Executive Officer,University Of North Texas System,University Of North Texas Foundation Inc,,2802090120.0,,False,,,University of North Texas System,Other Board Member
 2018,"T. J. ""Jack"" Morton","Vice Chancellor, Government Relations",University Of North Texas System,,,2802090120.0,,False,,,University of North Texas System,Board Vice President
 2018,Rey Rodriguez,"Associate Vice Chancellor, Governmental Relations",University Of North Texas System,,,2802090120.0,,False,,,University of North Texas System,Board Vice President
 2018,Milton B. Lee II,Regent,University Of North Texas System,,Texas,2802090120.0,,False,,,University of North Texas System,Regent
@@ -6105,7 +6060,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2018,Kevin P. Huber,Chair,University Of Pacific,,,119942576.0,120883.0,True,,,,Board President
 2018,Eve M. Kurtin,Regent,University Of Pacific,,,119942576.0,120883.0,True,,,,Regent
 2018,Gary M. Mitchell,Regent,University Of Pacific,,,119942576.0,120883.0,True,,,,Regent
-2018,Andrea Lynn Hoch,Secretary,University Of Pacific,,Stanford AB; McGeorge 1984 JD,119942576.0,120883.0,True,,,,Other Board Member
 2018,"Constance X. ""Connie"" Rishwain",Regent,University Of Pacific,,,119942576.0,120883.0,True,,,,Regent
 2018,Arthur G. Scotland,Regent,University Of Pacific,,UC Davis 1968 BA; McGeorge 1974 JD,119942576.0,120883.0,True,,,,Regent
 2018,"Donald H. ""Don"" Shalvey",Regent,University Of Pacific,,,119942576.0,120883.0,True,,,,Regent
@@ -6646,7 +6600,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2018,John N. Foy,Trustee,University Of Tennessee System,,Tennessee,2799495847.0,,False,,,University of Tennessee System,Trustee
 2018,D. Crawford Gallimore,Trustee,University Of Tennessee System,,Tennessee (Martin),2799495847.0,,False,,,University of Tennessee System,Trustee
 2018,Vicky B. Gregg,Trustee,University Of Tennessee System,,Tennessee (Chattanooga),2799495847.0,,False,,,University of Tennessee System,Trustee
-2018,"William Edward ""Bill"" Haslam",Chairman,University Of Tennessee System,,Emory 1980 BA,2799495847.0,,False,,,University of Tennessee System,Board President
 2018,"Spruell Driver, Jr",Trustee,University Of Tennessee System,,,2799495847.0,,False,,,University of Tennessee System,Trustee
 2018,"Jeffery D""Jeff"" Hildebrand",Vice Chairman,University Of Texas System,,"Texas 1981 BS, 1985 MS",16452829.0,,False,,,University of Texas System,Board Vice President
 2018,"James Conrad ""Rad"" Weaver",Regent,University Of Texas System,,Texas 1998 BBA,16452829.0,,False,,,University of Texas System,Regent
@@ -6767,7 +6720,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2018,"Robert B. ""Bob"" Atwell",Regent,University Of Wisconsin System,,Beloit BA: Yale MPPM,1304256225.0,,False,,,University of Wisconsin System,Regent
 2018,Tim Higgins,Regent,University Of Wisconsin System,,Wisconsin 1977 BA,1304256225.0,,False,,,University of Wisconsin System,Regent
 2018,"Dr. Michael M. ""Mike"" Knetter",President,University Of Wisconsin System,University Of Wisconsin Foundation,Wisconsin (Eau Claire) 1983 BA: Stanford 1988 PhD,1304256225.0,,False,,,University of Wisconsin System,Board President
-2018,"Dr. Michael M. ""Mike"" Knetter",Chief Executive Officer,University Of Wisconsin System,University Of Wisconsin Foundation,Wisconsin (Eau Claire) 1983 BA: Stanford 1988 PhD,1304256225.0,,False,,,University of Wisconsin System,Other Board Member
 2018,Kermit Brown,Trustee,University Of Wyoming,,"Wyoming BS, JD",12834331.0,240727.0,True,,,,Trustee
 2018,David R. Fall,Trustee,University Of Wyoming,,,12834331.0,240727.0,True,,,,Trustee
 2018,Larry Gubbels,Trustee,University Of Wyoming,,,12834331.0,240727.0,True,,,,Trustee
@@ -7084,7 +7036,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2018,Nicholas E. Somers,Trustee,Washington University,,,204465549.0,179867.0,True,,,,Trustee
 2018,Harry J. Seigle,Trustee,Washington University,,Washington U (MO) 1968 AB,204465549.0,179867.0,True,,,,Trustee
 2018,Steven Gary Segal,Ex Officio Trustee,Washington University,,,204465549.0,179867.0,True,,,,"Trustee, Ex Officio"
-2018,Steven Gary Segal,Alumni Board Of Governors Representative,Washington University,,,204465549.0,179867.0,True,,,,Trustee
 2018,Craig D. Schnuck,Chair,Washington University,,"Cornell 1970 BS, 1971 MBA",204465549.0,179867.0,True,,,,Board President
 2018,Rakesh Sachdev,Trustee,Washington University,,Indian Inst Tech BME; Indiana MBA; Illinois MS,204465549.0,179867.0,True,,,,Trustee
 2018,Scott Rudolph,Trustee,Washington University,,,204465549.0,179867.0,True,,,,Trustee
@@ -7253,7 +7204,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2018,James J. Mack III,Student Trustee,Widener University,,,138659443.0,216852.0,True,,,,Trustee
 2018,Scott Middleton,Alumni Elected Trustee,Winthrop University,,,169086405.0,218964.0,False,,,,Trustee
 2018,Glenn McCall,Legislature Elected Trustee,Winthrop University,,,169086405.0,218964.0,False,,,,Trustee
-2018,Glenn McCall,Vice Chairman,Winthrop University,,,169086405.0,218964.0,False,,,,Board Vice President
 2018,Dr. Michael Lipscomb,Faculty Representative Trustee,Winthrop University,,,169086405.0,218964.0,False,,,,Trustee
 2018,Jane L. LaRoche,Alumni Elected Trustee,Winthrop University,,,169086405.0,218964.0,False,,,,Trustee
 2018,Randy Imler,Legislature Elected Trustee,Winthrop University,,,169086405.0,218964.0,False,,,,Trustee
@@ -7261,7 +7211,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2018,Donna Glenn Holley,Legislature Elected Trustee,Winthrop University,,,169086405.0,218964.0,False,,,,Trustee
 2018,Donald G. Long,Governor Appointed Trustee,Winthrop University,,,169086405.0,218964.0,False,,,,Trustee
 2018,Karl Folkens,Gubernatorial Designee Trustee,Winthrop University,,Winthrop 1978,169086405.0,218964.0,False,,,,Trustee
-2018,Karl Folkens,Chairman,Winthrop University,,Winthrop 1978,169086405.0,218964.0,False,,,,Board President
 2018,Kathy Bigham,Legislature Elected Trustee,Winthrop University,,Winthrop 1973,169086405.0,218964.0,False,,,,Trustee
 2018,Tadean Page,Student Trustee,Winthrop University,,,169086405.0,218964.0,False,,,,Trustee
 2018,Tim Sease,Legislature Elected Trustee,Winthrop University,,,169086405.0,218964.0,False,,,,Trustee

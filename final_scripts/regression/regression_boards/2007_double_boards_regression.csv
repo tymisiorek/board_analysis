@@ -12,9 +12,7 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,David E. McKinney,Fellow,Brown University,,,27804330.0,217156.0,True,Trustee
 2007,Steven L. Rattner,Fellow,Brown University,,,27804330.0,217156.0,True,Trustee
 2007,Ruth J. Simmons,President,Brown University,,,27804330.0,217156.0,True,Board President
-2007,Ruth J. Simmons,Fellow,Brown University,,,27804330.0,217156.0,True,Trustee
 2007,Wendy J. Strothman,Secretary,Brown University,,,27804330.0,217156.0,True,Other Board Member
-2007,Wendy J. Strothman,Fellow,Brown University,,,27804330.0,217156.0,True,Trustee
 2007,Alva O. Way.,Fellow,Brown University,,,27804330.0,217156.0,True,Trustee
 2007,Brad Bielke,Regent,California Lutheran University,,,176611909.0,110413.0,False,Member
 2007,Michael Bradbury,Regent,California Lutheran University,,,176611909.0,110413.0,False,Member
@@ -31,7 +29,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Rev. Dean Nelson,Regent,California Lutheran University,,,176611909.0,110413.0,False,Member
 2007,Terry Noonan,Regent,California Lutheran University,,,176611909.0,110413.0,False,Member
 2007,"John R. Sladek, Jr",President,California Lutheran University,,,176611909.0,110413.0,False,Board President
-2007,"John R. Sladek, Jr",Regent,California Lutheran University,,,176611909.0,110413.0,False,Member
 2007,Dean Soiland,Regent,California Lutheran University,,,176611909.0,110413.0,False,Member
 2007,Karen B. Spies,Regent,California Lutheran University,,,176611909.0,110413.0,False,Member
 2007,Marvin J. Suomi,Regent,California Lutheran University,,,176611909.0,110413.0,False,Member
@@ -112,14 +109,12 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Michael Schwartz,President,Clemson University,,"Illinois BS, MA, PhD",8078737.0,217882.0,True,Board President
 2007,Tina Biasella,Special Assistant to the President,Clemson University,,,8078737.0,217882.0,True,Board President
 2007,E. Garrison Walters,Chancellor,Clemson University,,"Boston U 1967 BA, 1968 MA; Ohio State 1972 PhD",8078737.0,217882.0,True,Board President
-2007,E. Garrison Walters,Ohio Board Of Regents (Interim),Clemson University,,"Boston U 1967 BA, 1968 MA; Ohio State 1972 PhD",8078737.0,217882.0,True,Member
 2007,Mary Jane Saunders,Provost (Interim),Clemson University,,,8078737.0,217882.0,True,Member
 2007,John J. Boyle III.,"Vice President, Business Affairs and Finance",Clemson University,,,8078737.0,217882.0,True,Board Vice President
 2007,Edward W. Hill,"Vice President, Economic Development",Clemson University,,,8078737.0,217882.0,True,Board Vice President
 2007,Michael Droney,"Vice President, Information Services",Clemson University,,,8078737.0,217882.0,True,Board Vice President
 2007,Njeri Nuru-Holm,"Vice President, Student Affairs and Minority Affairs",Clemson University,,,8078737.0,217882.0,True,Board Vice President
 2007,William J. Spiker,"Vice President, University Advancement",Clemson University,,,8078737.0,217882.0,True,Board Vice President
-2007,William J. Spiker,"Executive Director, Cleveland State University Foundation, Inc",Clemson University,,,8078737.0,217882.0,True,Member
 2007,Vijaya K. Konangi,Vice Provost. Academic Affairs,Clemson University,,,8078737.0,217882.0,True,Member
 2007,Edward Mills,"Vice Provost, Enrollment Management and Services",Clemson University,,,8078737.0,217882.0,True,Member
 2007,Gitanjili Kaul,"Vice Provost, Planning, Assessment and Information Resource Management",Clemson University,,,8078737.0,217882.0,True,Member
@@ -127,7 +122,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Barbara E. Smith,"Coordinator, Special Events",Clemson University,,,8078737.0,217882.0,True,Other Board Member
 2007,Brian Cook,Controller,Clemson University,,,8078737.0,217882.0,True,Member
 2007,Sonali B. Wilson,Chief Legal Counsel,Clemson University,,,8078737.0,217882.0,True,Other Board Member
-2007,Sonali B. Wilson,Secretary Of The Board Of Trustees,Clemson University,,,8078737.0,217882.0,True,Other Board Member
 2007,Kevin Scott Bright,Trustee,Emerson College,,,87650153.0,165662.0,False,Overseer
 2007,Theodore Benard Cutler,Chairman,Emerson College,,,87650153.0,165662.0,False,Board President
 2007,Vincent J. Di Bona,Trustee,Emerson College,,,87650153.0,165662.0,False,Overseer
@@ -175,7 +169,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Michael A. Patterson,Chairman,Gonzaga University,,,119888943.0,235316.0,False,Board President
 2007,Gerald A. Schwalbach,Trustee,Gonzaga University,,Mankato State 1966 BA,119888943.0,235316.0,False,Regent
 2007,"Rev. Robert J. Spitzer, S.J",President,Gonzaga University,,,119888943.0,235316.0,False,Board President
-2007,"Rev. Robert J. Spitzer, S.J",Trustee,Gonzaga University,,,119888943.0,235316.0,False,Regent
 2007,Peter F. Stanton,Trustee,Gonzaga University,,,119888943.0,235316.0,False,Regent
 2007,John M. Stone,Trustee,Gonzaga University,,,119888943.0,235316.0,False,Regent
 2007,Edward Taylor,Trustee,Gonzaga University,,,119888943.0,235316.0,False,Regent
@@ -188,7 +181,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Patricia A. King,Fellow,Harvard University,,Wheaton (MA) 1963; Harvard 1969 JD,136199984.0,166027.0,True,Overseer
 2007,Robert D. Reischauer,Fellow,Harvard University,,"Harvard AB; Columbia MIA, PhD",136199984.0,166027.0,True,Overseer
 2007,James F. Rothenberg,Treasurer,Harvard University,,"Harvard 1968 AB, 1970 MBA",136199984.0,166027.0,True,Other Board Member
-2007,James F. Rothenberg,Fellow,Harvard University,,"Harvard 1968 AB, 1970 MBA",136199984.0,166027.0,True,Overseer
 2007,Robert E. Rubin,Fellow,Harvard University,,Harvard 1960 AB; Yale 1964 LLB; London School Econ (UK),136199984.0,166027.0,True,Overseer
 2007,William Blake,Regent,Louisiana State University System,,,107341208.0,,False,Member
 2007,Scott Brame,Regent,Louisiana State University System,,,107341208.0,,False,Member
@@ -230,7 +222,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Deborah Lanni,Trustee,Loyola Marymount University,,,35566140.0,117946.0,True,Regent
 2007,"Thomas E. Larkin, Jr.",Trustee,Loyola Marymount University,,Notre Dame 1961 BA,35566140.0,117946.0,True,Regent
 2007,"Father Robert B. Lawton, S.J.",President,Loyola Marymount University,,,35566140.0,117946.0,True,Board President
-2007,"Father Robert B. Lawton, S.J.",Trustee,Loyola Marymount University,,,35566140.0,117946.0,True,Regent
 2007,Kathleen L. McCarthy,Trustee,Loyola Marymount University,,,35566140.0,117946.0,True,Regent
 2007,Liam E. McGee,Trustee,Loyola Marymount University,,UC San Diego; Pepperdine MBA; Loyola Law JD,35566140.0,117946.0,True,Regent
 2007,John A. McMahon,Trustee,Loyola Marymount University,,,35566140.0,117946.0,True,Regent
@@ -255,7 +246,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Thomas J. Blumenthal,Trustee,Mount St Marys College,,,4210134096.0,163462.0,False,Regent
 2007,Monsignor Clement J. Connolly,Trustee,Mount St Marys College,,,4210134096.0,163462.0,False,Regent
 2007,Jacqueline Powers Doud,President,Mount St Marys College,,,4210134096.0,163462.0,False,Board President
-2007,Jacqueline Powers Doud,Trustee,Mount St Marys College,,,4210134096.0,163462.0,False,Regent
 2007,Kathleen McCarthy Duncan,Trustee,Mount St Marys College,,,4210134096.0,163462.0,False,Regent
 2007,William H. Elliott,Trustee,Mount St Marys College,,,4210134096.0,163462.0,False,Regent
 2007,Michael A. Enright,Chairman,Mount St Marys College,,,4210134096.0,163462.0,False,Board President
@@ -298,7 +288,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Paul L. Leath,Faculty Representative Governor,Rutgers State University Of New Jersey,,"Missouri 1961 BS, 1963 MS, 1966 PhD",102322142.0,186380.0,True,Other Board Member
 2007,Duncan L. MacMillan,Governor,Rutgers State University Of New Jersey,,Rutgers 1966 BA; Fordham 1967 MA; NYU 1971 MBA,102322142.0,186380.0,True,Trustee
 2007,Richard L. McCormick,President,Rutgers State University Of New Jersey,,,102322142.0,186380.0,True,Board President
-2007,Richard L. McCormick,Ex Officio Governor,Rutgers State University Of New Jersey,,,102322142.0,186380.0,True,"Trustee, Ex Officio"
 2007,Patricia Nachtigal,Governor,Rutgers State University Of New Jersey,,Montclair State Col 1968 BA; Rutgers (Newark) 1976 JD; NYU 1982 LLM,102322142.0,186380.0,True,Trustee
 2007,Eugene Michael O'Hara,Governor,Rutgers State University Of New Jersey,,Rutgers (Newark) 1962 BS,102322142.0,186380.0,True,Trustee
 2007,"John F. Russo, Sr.",Governor,Rutgers State University Of New Jersey,,Notre Dame 1955; Columbia 1958 JD,102322142.0,186380.0,True,Trustee
@@ -311,7 +300,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Sherie Dodsworth,Trustee,Saint Marys College Of California,,,177081203.0,123554.0,False,Regent
 2007,Robert Freed,Trustee,Saint Marys College Of California,,,177081203.0,123554.0,False,Regent
 2007,"Brother Ronald Gallagher, FSC",President,Saint Marys College Of California,,,177081203.0,123554.0,False,Board President
-2007,"Brother Ronald Gallagher, FSC",Trustee,Saint Marys College Of California,,,177081203.0,123554.0,False,Regent
 2007,Elizabeth R. Grossman,Trustee,Saint Marys College Of California,,,177081203.0,123554.0,False,Regent
 2007,Russell J. Harrison,Trustee,Saint Marys College Of California,,,177081203.0,123554.0,False,Regent
 2007,"Brother Jose Cervantes Hernandez, FSC",Trustee,Saint Marys College Of California,,,177081203.0,123554.0,False,Regent
@@ -350,11 +338,9 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Heidi Le Baron Leupp,Trustee,Santa Clara University,,Santa Clara,16269868.0,122931.0,False,Regent
 2007,"John C. ""Jack"" Lewis",Trustee,Santa Clara University,,Cal State (Fresno) 1957 BS,16269868.0,122931.0,False,Regent
 2007,"Paul L. Locatelli, S.J",President,Santa Clara University,,,16269868.0,122931.0,False,Board President
-2007,"Paul L. Locatelli, S.J",Trustee,Santa Clara University,,,16269868.0,122931.0,False,Regent
 2007,Lorry I. Lokey,Trustee,Santa Clara University,,,16269868.0,122931.0,False,Regent
 2007,Donald L. Lucas,Trustee,Santa Clara University,,"Stanford 1951 AB, 1953 MBA",16269868.0,122931.0,False,Regent
 2007,"Gerdenio M. ""Sonny"" Manuel, S.J",Rector,Santa Clara University,,U San Francisco 1971 BA; Jesuit Berkeley 1978 MDiv; Duke 1985 PhD,16269868.0,122931.0,False,Other Board Member
-2007,"Gerdenio M. ""Sonny"" Manuel, S.J",Ex Officio Trustee,Santa Clara University,,U San Francisco 1971 BA; Jesuit Berkeley 1978 MDiv; Duke 1985 PhD,16269868.0,122931.0,False,"Regent, Ex Officio"
 2007,"A. C. ""Mike"" Markkula, Jr",Chairman,Santa Clara University,,,16269868.0,122931.0,False,Board President
 2007,Michael T. McCarthy,Trustee,Santa Clara University,,,16269868.0,122931.0,False,Regent
 2007,Regis McKenna,Trustee,Santa Clara University,,,16269868.0,122931.0,False,Regent
@@ -375,7 +361,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Kurt T. Borowsky,Trustee,Seton Hall University,,,12524447.0,186584.0,True,Regent
 2007,Gerald P. Buccino,Trustee,Seton Hall University,,,12524447.0,186584.0,True,Regent
 2007,Monsignor Robert F. Coleman,Rector,Seton Hall University,Immaculate Conception Seminary School Of Theology,,12524447.0,186584.0,True,Other Board Member
-2007,Monsignor Robert F. Coleman,Dean,Seton Hall University,Immaculate Conception Seminary School Of Theology,,12524447.0,186584.0,True,Regent
 2007,Monsignor John J. Gilchrist,Trustee,Seton Hall University,,,12524447.0,186584.0,True,Regent
 2007,Rev. Anthony Kulig,Trustee,Seton Hall University,,,12524447.0,186584.0,True,Regent
 2007,Richard F. Liebler,Trustee,Seton Hall University,,,12524447.0,186584.0,True,Regent
@@ -383,7 +368,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Rev. Joseph Reilly,Trustee,Seton Hall University,,,12524447.0,186584.0,True,Regent
 2007,Thomas J. Sharkey,Trustee,Seton Hall University,,,12524447.0,186584.0,True,Regent
 2007,Monsignor Robert Sheeran,President,Seton Hall University,,,12524447.0,186584.0,True,Board President
-2007,Monsignor Robert Sheeran,Trustee,Seton Hall University,,,12524447.0,186584.0,True,Regent
 2007,William Blake,Regent,University Of Louisiana System,,,2799628689.0,,False,Member
 2007,Scott Brame,Regent,University Of Louisiana System,,,2799628689.0,,False,Member
 2007,Richard E. D'Aquin,Regent,University Of Louisiana System,,,2799628689.0,,False,Member
@@ -420,7 +404,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Herb Simon,Regent,University Of Washington,,,201448701.0,236948.0,True,Member
 2007,Shelly Yapp,Regent,University Of Washington,,,201448701.0,236948.0,True,Member
 2007,Lee H. Burke,Secretary,Utah State University,,,121980950.0,230728.0,True,Other Board Member
-2007,Lee H. Burke,"Assistant To The President, Government Relations",Utah State University,,,121980950.0,230728.0,True,Board President
 2007,David P Cook,Trustee,Utah State University,,,121980950.0,230728.0,True,Regent
 2007,Robert Foley,Trustee,Utah State University,,,121980950.0,230728.0,True,Regent
 2007,Suzanne Pierce Moore,Trustee,Utah State University,,,121980950.0,230728.0,True,Regent
@@ -433,7 +416,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,James R. Smith,Board Member,Virginia Polytechnic Institute And State University,,Virginia Tech 1974,859038795.0,233921.0,True,Member
 2007,"James W. Severt, Sr",Board Member,Virginia Polytechnic Institute And State University,,,859038795.0,233921.0,True,Member
 2007,Sarah Michelson,Overseer,Whitman College,,,138943879.0,237057.0,False,Trustee
-2007,Sarah Michelson,Vice Chairman,Whitman College,,,138943879.0,237057.0,False,Board Vice President
 2007,Michael C. Murr,Trustee,Whitman College,,,138943879.0,237057.0,False,Trustee
 2007,Dean Nichols,Overseer,Whitman College,,,138943879.0,237057.0,False,Trustee
 2007,Jayne G. Beker,Chairman Emeritus,Yeshiva University,Ferkauf Graduate School Of Psychology,,19772626.0,197708.0,True,Board President
@@ -456,7 +438,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Lisa Hershberg Striar,Governor,Yeshiva University,Ferkauf Graduate School Of Psychology,,19772626.0,197708.0,True,Overseer
 2007,Morry J. Weiss,Governor,Yeshiva University,Ferkauf Graduate School Of Psychology,,19772626.0,197708.0,True,Overseer
 2007,Joel Karpp,Career Development Coordinator,Yeshiva University,Wurzweiler School Of Social Work,,19772626.0,197708.0,True,Overseer
-2007,Joel Karpp,"Assistant Director, Admissions",Yeshiva University,Wurzweiler School Of Social Work,,19772626.0,197708.0,True,Overseer
 2007,Janet Adler,Governor,Yeshiva University,Wurzweiler School Of Social Work,,19772626.0,197708.0,True,Overseer
 2007,David A. Alpert,Governor,Yeshiva University,Wurzweiler School Of Social Work,,19772626.0,197708.0,True,Overseer
 2007,Edward Anfang,Governor,Yeshiva University,Wurzweiler School Of Social Work,,19772626.0,197708.0,True,Overseer
@@ -472,7 +453,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Joan Sadinoff Katz,Vice Chairman,Yeshiva University,Wurzweiler School Of Social Work,,19772626.0,197708.0,True,Board Vice President
 2007,Lawrence A. Kobrin,Governor,Yeshiva University,Wurzweiler School Of Social Work,,19772626.0,197708.0,True,Overseer
 2007,Meri Kraidman,Governor,Yeshiva University,Wurzweiler School Of Social Work,,19772626.0,197708.0,True,Overseer
-2007,Ira Kukin,Governor,Yeshiva University,Wurzweiler School Of Social Work,,19772626.0,197708.0,True,Overseer
 2007,Joan O'Donnell,Assistant Secretary,Yeshiva University,Wurzweiler School Of Social Work,,19772626.0,197708.0,True,Other Board Member
 2007,Eileen Rhulen,Governor,Yeshiva University,Wurzweiler School Of Social Work,,19772626.0,197708.0,True,Overseer
 2007,Peter Rhulen,Governor,Yeshiva University,Wurzweiler School Of Social Work,,19772626.0,197708.0,True,Overseer

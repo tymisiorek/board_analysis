@@ -21,7 +21,6 @@ Ernest Henry Ern,Fellow,Bates College,,,,,,37415318.0,160977.0,False,Overseer
 Barry Allan Greenfield,Fellow,Bates College,,,,,,37415318.0,160977.0,False,Overseer
 Burton Michael Harris,Fellow,Bates College,,,,,,37415318.0,160977.0,False,Overseer
 Donald West Harward,President,Bates College,,,,,,37415318.0,160977.0,False,Board President
-Donald West Harward,Ex Officio Fellow,Bates College,,,,,,37415318.0,160977.0,False,"Overseer, Ex Officio"
 William Steven Holt,Fellow,Bates College,,,,,,37415318.0,160977.0,False,Overseer
 "James Leander Moody, Jr",Chairman,Bates College,,,,,,37415318.0,160977.0,False,Board President
 M. Patricia Morse,Fellow,Bates College,,,,,,37415318.0,160977.0,False,Overseer
@@ -35,7 +34,6 @@ Barbara L. Chase,Fellow,Brown University,Board of Fellows,Brown 1976 AB,"Preside
 Timothy C. Forbes,Fellow,Brown University,Board of Fellows,,"President, American Heritage Forbes Bldg., 60 5th Ave., New York, NY 10011",,,27804330.0,217156.0,True,Trustee
 Carolyn Rafkin,Executive Secretary,Brown University,,,,,,27804330.0,217156.0,True,Other Board Member
 E. Gordon Gee,President,Brown University,,,,,,27804330.0,217156.0,True,Board President
-E. Gordon Gee,Fellow,Brown University,,,,,,27804330.0,217156.0,True,Trustee
 Steven R. Jordan,Fellow,Brown University,Board of Fellows,,,,,27804330.0,217156.0,True,Trustee
 Artemis A.W. Joukowsky,Fellow,Brown University,Board of Fellows,,,,,27804330.0,217156.0,True,Trustee
 Frederick Lippitt,Fellow,Brown University,Board of Fellows,,,,,27804330.0,217156.0,True,Trustee
@@ -60,7 +58,6 @@ Elizabeth L. Knox,Regent,California Lutheran University,,,,,,176611909.0,110413.
 Connie Levi,Regent,California Lutheran University,,,"President, Greater Minneapolis Chamber of Commerce; State Legislator, Minnesota House of Representatives",,,176611909.0,110413.0,False,Member
 Dames LIncOIn,Regent,California Lutheran University,,,"Owner and Operator, DeVille Homes Sacramento, CA",,,176611909.0,110413.0,False,Member
 Luther S. Luedtke,President,California Lutheran University,,,,,,176611909.0,110413.0,False,Board President
-Luther S. Luedtke,Regent,California Lutheran University,,,,,,176611909.0,110413.0,False,Member
 Rev. John A. Lundblad,Regent,California Lutheran University,,,"Planning Department, City of Oceanside, CA",,,176611909.0,110413.0,False,Member
 L. Karsten Lundring,Chairperson,California Lutheran University,,,,,,176611909.0,110413.0,False,Board President
 Lawrence Major,Regent,California Lutheran University,,,"Manager, Public Relations, Karsten Manufacturing CoPhoenix, AZ",,,176611909.0,110413.0,False,Member
@@ -68,14 +65,12 @@ Rev. Robert W. Mattheis,Regent,California Lutheran University,,,"Bishop, Sierra 
 Mildred Murray-Ward,Regent,California Lutheran University,,,"Professor, School of Education and Faculty Chair, Lutheran University",,,176611909.0,110413.0,False,Member
 Joyce Opjorden,Regent,California Lutheran University,,,"President, Women of the ELCA Southern California West Synod Ventura, CA",,,176611909.0,110413.0,False,Member
 Jon Park,Chairman,California Lutheran University,,,CDS Information Services of Los Angeles,,,176611909.0,110413.0,False,Board President
-Jon Park,Chief Executive Officer,California Lutheran University,,,CDS Information Services of Los Angeles,,,176611909.0,110413.0,False,Other Board Member
 Frances Kay Prince,Vice Chairperson,California Lutheran University,,,"Executive Director, Conejo Valley Senior Concerns",,,176611909.0,110413.0,False,Board Vice President
 Wayne F. Rickert,"Vice President, Employee Relations",California Lutheran University,,,"National Broadcasting Company, IncBurbank, CA",,,176611909.0,110413.0,False,Board Vice President
 Robert A. Samuelson,Partner,California Lutheran University,,,"Samuelson Brothers Los Angeles, CA",,,176611909.0,110413.0,False,Member
 Terry P. Sieck,Regent,California Lutheran University,,,"Director, Guiding Hands Foundation San Diego, CA",,,176611909.0,110413.0,False,Member
 Richard B. Stone.,Trustee,City University Of New York,,,"Wilbur H. Friedman Professor, Tax Law, Columbia UniversityCareer: Assistant to the Solicitor General, United States Department of Justice, 1969-73; Tax Counsel, Cleary, Gottlieb, Steen and Hamilton, 1982-84",,,174216632.0,,False,Trustee
 Bernard Sohmer,Ex Officio Trustee,City University Of New York,,,,,,174216632.0,,False,"Trustee, Ex Officio"
-Bernard Sohmer,"Chairman, University Faculty Senate",City University Of New York,,,,,,174216632.0,,False,Board President
 Bill L. Amick,Trustee,Clemson University,,,"Chairman and Chief Executive Officer, Amick Farms",,,8078737.0,217882.0,True,Member
 John J. Britton,Trustee,Clemson University,,,,,,8078737.0,217882.0,True,Member
 "Lawrence M. Gressette, Jr",Chairman,Clemson University,,,"Executive Committee Chairman, SCANA Corporation",,,8078737.0,217882.0,True,Board President
@@ -153,7 +148,6 @@ A. Ann Horton,Regent,Concordia University,Board of Regents (Concordia University
 Alan C. Klaas,Regent,Concordia University,Board of Regents (Concordia University),,,,,19406000.0,144351.0,False,Member
 Robert M. Knox,Regent,Concordia University,Board of Regents (Concordia University),,,,,19406000.0,144351.0,False,Member
 David L. Krause,President,Concordia University,Board of Regents (Concordia University),,,,,19406000.0,144351.0,False,Board President
-David L. Krause,Executive Officer,Concordia University,Board of Regents (Concordia University),,,,,19406000.0,144351.0,False,Member
 Robert F. Myers,Chairman,Concordia University,Board of Regents (Concordia University),,,,,19406000.0,144351.0,False,Board President
 David A. Steuernagel,Regent,Concordia University,,,,,,19406000.0,144351.0,False,Member
 Connie Strand,Regent,Concordia University,,,Board for Higher Education/Concordia,,,19406000.0,144351.0,False,Member
@@ -223,12 +217,10 @@ Thomas B. Tilford,Trustee,Gonzaga University,,,,,,119888943.0,235316.0,False,Reg
 "J. Kevin Waters, S.J",Trustee,Gonzaga University,,,,,,119888943.0,235316.0,False,Regent
 Patrick J. West,Trustee,Gonzaga University,,,,,,119888943.0,235316.0,False,Regent
 D. Ronald Daniel,Treasurer,Harvard University,Harvard Corporation,"Bryn Maw 1950 AB; Harvard 1957 PhD; Yale 1971 MA, 1978 LLD","Chairperson, The Andrew W. Mellon Foundation",,,136199984.0,166027.0,True,Other Board Member
-D. Ronald Daniel,Fellow,Harvard University,Harvard Corporation,"Bryn Maw 1950 AB; Harvard 1957 PhD; Yale 1971 MA, 1978 LLD","Chairperson, The Andrew W. Mellon Foundation",,,136199984.0,166027.0,True,Overseer
 Hanna H. Gray,Fellow,Harvard University,Harvard Corporation,,"Chairperson, The Andrew W. Mellon Foundation",,,136199984.0,166027.0,True,Overseer
 Judith Richards Hope,Fellow,Harvard University,Harvard Corporation,,"Senior Counsel, Paul, Hastings, Janofsky & Walker, LLP",,,136199984.0,166027.0,True,Overseer
 James R. Houghton,Fellow,Harvard University,Harvard Corporation,,"Chairman of the Board, Corning, , Inc",,,136199984.0,166027.0,True,Overseer
 Neil Leon Rudestine,President,Harvard University,Harvard Corporation,,"Chairman of the Board and Chief Executive Officer, Harcourt General, Inc27 Boylston St., Chestnut Hill, MA 02167",,,136199984.0,166027.0,True,Board President
-Neil Leon Rudestine,Fellow,Harvard University,Harvard Corporation,,"Chairman of the Board and Chief Executive Officer, Harcourt General, Inc27 Boylston St., Chestnut Hill, MA 02167",,,136199984.0,166027.0,True,Overseer
 Richard A. Smith,Fellow,Harvard University,Harvard Corporation,Harvard 1946; Boston Col 1988 LLD,"Chairman, Kirby Corporation",,,136199984.0,166027.0,True,Overseer
 "Robert G. Stone, Jr.",Fellow,Harvard University,Harvard Corporation,,"Chairman, Kirby Corporation",,,136199984.0,166027.0,True,Overseer
 James M. Biggar,Trustee,Kent State University,,,,,,149910238.0,203517.0,True,Regent
@@ -241,10 +233,8 @@ Vincent D. Pettinelli,Trustee,Kent State University,,,,,,149910238.0,203517.0,Tr
 Ronald A. Pizzuti,Trustee,Kent State University,,,,,,149910238.0,203517.0,True,Regent
 Stanley F. Barshay,Trustee,Long Island University,,,"Senior Vice President, American Home Products",,,138873065.0,192448.0,True,Overseer
 Mark A. Boyar,Trustee,Long Island University,,,"President, Mark Boyar & Company",,,138873065.0,192448.0,True,Overseer
-Mark A. Boyar,Executive Committee Member,Long Island University,,,"President, Mark Boyar & Company",,,138873065.0,192448.0,True,Other Board Member
 William F. de Neergaard,Trustee and Executive,Long Island University,,,"President and Owner, Neergaard Pharmacies",,,138873065.0,192448.0,True,Overseer
 Donald H. Elliott,Trustee,Long Island University,,,"Of Counsel, Hollyer, Brady, et al",,,138873065.0,192448.0,True,Overseer
-Donald H. Elliott,Executive Committee Member,Long Island University,,,"Of Counsel, Hollyer, Brady, et al",,,138873065.0,192448.0,True,Other Board Member
 Gary S. Feldstein,Trustee,Long Island University,,,"President and Chief Executive Officer, Manhattan Medical Care",,,138873065.0,192448.0,True,Overseer
 Irwin C. Gerson,Trustee,Long Island University,,,"Chairman, Lowe MAdams Healthcare",,,138873065.0,192448.0,True,Overseer
 Arthur I. Goldberg,Trustee,Long Island University,,,"Law Partner, Jacobson & Goldberg",,,138873065.0,192448.0,True,Overseer
@@ -252,49 +242,32 @@ Msgr. Thomas J. Hartman,Trustee and Executive,Long Island University,,,"Director
 Stephen P. Kaufman,Trustee,Long Island University,,,"Chairman and Chief Executive Officer, Arrow Electronics, Inc",,,138873065.0,192448.0,True,Overseer
 Steven A. Klar,Trustee,Long Island University,,,"President, The Klar Organization",,,138873065.0,192448.0,True,Overseer
 Eric Krasnoff,Trustee,Long Island University,,,"Chairman and Chief Executive Officer, Pall Corporation",,,138873065.0,192448.0,True,Overseer
-Eric Krasnoff,Executive Committee Member,Long Island University,,,"Chairman and Chief Executive Officer, Pall Corporation",,,138873065.0,192448.0,True,Other Board Member
 Steven J. Kumble,Secretary,Long Island University,,,"Chairman, Lincolnshire Management, Ltd",,,138873065.0,192448.0,True,Other Board Member
-Steven J. Kumble,Executive Committee Member,Long Island University,,,"Chairman, Lincolnshire Management, Ltd",,,138873065.0,192448.0,True,Other Board Member
 David H. Lipka,Trustee,Long Island University,,,"Principal, Chapman Partners LLP Investment Bankers",,,138873065.0,192448.0,True,Overseer
 Howard M. Lorber,Trustee,Long Island University,,,"Chairman, Hallman & Lorber Associates",,,138873065.0,192448.0,True,Overseer
-Howard M. Lorber,Executive Committee Member,Long Island University,,,"Chairman, Hallman & Lorber Associates",,,138873065.0,192448.0,True,Other Board Member
 Eugene H. Luntey,Chairman,Long Island University,,,"Chairman, Chief Executive Officer and President, Brooklyn Union Gas Company",,,138873065.0,192448.0,True,Board President
-Eugene H. Luntey,Executive Committee Member,Long Island University,,,"Chairman, Chief Executive Officer and President, Brooklyn Union Gas Company",,,138873065.0,192448.0,True,Other Board Member
 "William Lynch, Jr",Trustee,Long Island University,,,"Vice President, McAndrews & Forbes Holdings. Inc",,,138873065.0,192448.0,True,Overseer
-"William Lynch, Jr",Executive Committee Member,Long Island University,,,"Vice President, McAndrews & Forbes Holdings. Inc",,,138873065.0,192448.0,True,Other Board Member
 Joseph L. Mancino,Trustee,Long Island University,,,"Chairman, President and Chief Executive Officer, The Roslyn Savings Bank and Roslyn Bancorp, Inc",,,138873065.0,192448.0,True,Overseer
 John M. May,Trustee,Long Island University,,,,,,138873065.0,192448.0,True,Overseer
-John M. May,Executive Committee Member,Long Island University,,,,,,138873065.0,192448.0,True,Other Board Member
 William P. Miller,Trustee,Long Island University,,,"Owner, Miller Transmission Tower Company",,,138873065.0,192448.0,True,Overseer
 Theresa Mall Mullarkey,"Chancellor, C. W. Post Campus",Long Island University,C. W. Post Campus,,,,,138873065.0,192448.0,True,Board President
-Theresa Mall Mullarkey,Trustee,Long Island University,C. W. Post Campus,,,,,138873065.0,192448.0,True,Overseer
-Theresa Mall Mullarkey,Executive Committee Member,Long Island University,C. W. Post Campus,,,,,138873065.0,192448.0,True,Other Board Member
 David Pinter,Trustee,Long Island University,,,"President and Chief Executive Officer, Zwicker Electric Company, Inc",,,138873065.0,192448.0,True,Overseer
 Thomas L. Pulling,Trustee,Long Island University,,,"Managing Director, Private Portfolio Management, Saloman Smith Barney Holdings Inc",,,138873065.0,192448.0,True,Overseer
-Thomas L. Pulling,Executive Committee Member,Long Island University,,,"Managing Director, Private Portfolio Management, Saloman Smith Barney Holdings Inc",,,138873065.0,192448.0,True,Other Board Member
 Bruce C. Ratner,Trustee,Long Island University,,,"President and Chief Executive Officer, Forest City Ratner Companies",,,138873065.0,192448.0,True,Overseer
-Bruce C. Ratner,Executive Committee Member,Long Island University,,,"President and Chief Executive Officer, Forest City Ratner Companies",,,138873065.0,192448.0,True,Other Board Member
 Warren L. Schwerin,Trustee,Long Island University,,,President and Chief Executive Officer. Related Properties Corporation,,,138873065.0,192448.0,True,Overseer
 Terry Semel,Trustee,Long Island University,,,"Chairman and Co-Chief Executive Officer, Warner Bros4000 Warner Blvd., Burbank, CA 91505 Tel: (818) 954-6000 Fax: (818) 954-2464",,,138873065.0,192448.0,True,Overseer
 Robert EX. Sillerman,"Chancellor, Southampton Campus",Long Island University,Southampton Campus,,,,,138873065.0,192448.0,True,Board President
-Robert EX. Sillerman,Trustee,Long Island University,Southampton Campus,,,,,138873065.0,192448.0,True,Overseer
-Robert EX. Sillerman,Executive Committee Member,Long Island University,Southampton Campus,,,,,138873065.0,192448.0,True,Other Board Member
 Howard Silverman,Trustee,Long Island University,,,"Chairman, President and Chief Executive Officer, Gruntal and Company, Inc",,,138873065.0,192448.0,True,Overseer
 Marvin M. Sirota,Trustee,Long Island University,,,"President and Chairman, Interactive Health Management, Inc",,,138873065.0,192448.0,True,Overseer
 Howard M. Smith,Trustee,Long Island University,,,"President and Chief Executive Officer, Dr. Fabricant's Foot Health Products, Inc",,,138873065.0,192448.0,True,Overseer
 Rev. Paul Smith,Trustee,Long Island University,,,"Pastor, First Presbyterian Church Brooklyn Heights, NY",,,138873065.0,192448.0,True,Overseer
 David J. Steinberg,President,Long Island University,,,,,,138873065.0,192448.0,True,Board President
-David J. Steinberg,Ex Officio Trustee,Long Island University,,,,,,138873065.0,192448.0,True,"Overseer, Ex Officio"
 Ronald J. Sylvestri,Trustee,Long Island University,,,"Vice President, Fleet Investment Management",,,138873065.0,192448.0,True,Overseer
-Ronald J. Sylvestri,Executive Committee Member,Long Island University,,,"Vice President, Fleet Investment Management",,,138873065.0,192448.0,True,Other Board Member
 Roger B. Tilles,Senior Vice Chairman and Executive,Long Island University,,,"Chief Executive Officer, Tilles Committee Member Investment Company",,,138873065.0,192448.0,True,Board Vice President
 Edward Travaglianti,"Chancellor, Brooklyn Campus",Long Island University,Brooklyn Campus,,,,,138873065.0,192448.0,True,Board President
-Edward Travaglianti,Trustee,Long Island University,Brooklyn Campus,,,,,138873065.0,192448.0,True,Overseer
-Edward Travaglianti,Executive Committee Member,Long Island University,Brooklyn Campus,,,,,138873065.0,192448.0,True,Other Board Member
 John O. Utendahl,Trustee,Long Island University,,,"President and Chief Executive Officer. Utendahl Capital Partners, L.P",,,138873065.0,192448.0,True,Overseer
 William E. Viklund,Trustee,Long Island University,,,"President and Chief Executive Officer, Long Island Savings Bank",,,138873065.0,192448.0,True,Overseer
 Rosalind P. Walter,Trustee,Long Island University,,,,,,138873065.0,192448.0,True,Overseer
-Rosalind P. Walter,Executive Committee Member,Long Island University,,,,,,138873065.0,192448.0,True,Other Board Member
 Dan K. Wassong,Trustee,Long Island University,,,"Chairman, President and Chief Executive Officer, Del Laboratories, Inc",,,138873065.0,192448.0,True,Overseer
 Edward J. Yodowitz,Trustee,Long Island University,,,"Senior Partner, Skadden, Arps, Slate, Meagher & Flom LLP",,,138873065.0,192448.0,True,Overseer
 Robert M. Abell,Regent,Loyola Marymount University,Board of Regents,,,,,35566140.0,117946.0,True,Trustee
@@ -329,7 +302,6 @@ Roger K. Hughes,Trustee,Mount St Marys College,,,,,,4210134096.0,163462.0,False,
 Jane Luecke Johnson,Trustee,Mount St Marys College,,,Los Angeles Municipal Court,,,4210134096.0,163462.0,False,Regent
 "Sr. Mary Francis Johnson, C.S.J",Trustee,Mount St Marys College,,,,,,4210134096.0,163462.0,False,Regent
 "Sr. Karen M. Kennelly, C.S.J",President,Mount St Marys College,,,,,,4210134096.0,163462.0,False,Board President
-"Sr. Karen M. Kennelly, C.S.J",Trustee,Mount St Marys College,,,,,,4210134096.0,163462.0,False,Regent
 Sr. Miriam Therese Larkin,Trustee,Mount St Marys College,,,,,,4210134096.0,163462.0,False,Regent
 Thomas E. Larkin,Trustee,Mount St Marys College,,,Trust Company of the West,,,4210134096.0,163462.0,False,Regent
 Zelda Ann Marzec,Trustee,Mount St Marys College,,,"Bradford & Marzec, IncDavid L. Mcintyre",,,4210134096.0,163462.0,False,Regent
@@ -352,7 +324,6 @@ The Hon. Christine Todd Whitman,Ex Officio Trustee,New Jersey Institute Of Techn
 Richard F. Wehrli,Trustee,North Central College,,,"Chairman of the Board, Naperville Excavating * Member of the Board",,,45536552.0,147660.0,False,Trustee
 Judy G. Stevenson,Executive Committee Member-at-Large,North Central College,,,"President and Treasurer, Magnetrol International, IncDowners Grove, IL",,,45536552.0,147660.0,False,Other Board Member
 Harold R. Wilde,President,North Dakota University System,,,"Chairman, U.S. Equities Realty, IncChicago, IL",,,4210127926.0,,False,Board President
-Harold R. Wilde,Trustee,North Dakota University System,,,"Chairman, U.S. Equities Realty, IncChicago, IL",,,4210127926.0,,False,Member
 Robert A. Wislow,Executive Committee Member-at-Large Trustee,North Dakota University System,,,,,,4210127926.0,,False,Member
 Jeanette G. Grasselli Brown,Regent,Ohio State University,,,"Chairperson of the Board of Trustees, Ohio University",,,52357470.0,204796.0,True,Trustee
 Michael A. Fox,Ex Officio Regent,Ohio State University,,,,,,52357470.0,204796.0,True,"Trustee, Ex Officio"
@@ -362,9 +333,7 @@ Patricia A. Ackerman,Trustee,Ohio University,,,,,,4210106879.0,204857.0,True,Reg
 Gordon F. Brunner,Vice Chairman,Ohio University,,,"Senior Vice President, The Procter & Gamble Company",,,4210106879.0,204857.0,True,Board Vice President
 "Charles R. Emrick, Jr.",Trustee,Ohio University,,,"Calfee, Halter & Griswold Attorneys",,,4210106879.0,204857.0,True,Regent
 Alan H. Geiger,Assistant To The President,Ohio University,,,"Benesch, Friedlander, Coplan & Aronoff Attorneys",,,4210106879.0,204857.0,True,Board President
-Alan H. Geiger,Secretary,Ohio University,,,"Benesch, Friedlander, Coplan & Aronoff Attorneys",,,4210106879.0,204857.0,True,Other Board Member
 Robert Glidden,President,Ohio University,,,,,,4210106879.0,204857.0,True,Board President
-Robert Glidden,Trustee,Ohio University,,,,,,4210106879.0,204857.0,True,Regent
 N. Victor Goodman,Trustee,Ohio University,,,,,,4210106879.0,204857.0,True,Regent
 Brandon T. Grover,Chairman,Ohio University,,,,,,4210106879.0,204857.0,True,Board President
 Paul R. Leonard,Trustee,Ohio University,,,,,,4210106879.0,204857.0,True,Regent
@@ -390,7 +359,6 @@ Kevin J. Collins,Governor,Rutgers State University Of New Jersey,,,,,,102322142.
 Harry W. Janes,Faculty Representative Governor,Rutgers State University Of New Jersey,,,,,,102322142.0,186380.0,True,Other Board Member
 Nancy L. Lane,Governor,Rutgers State University Of New Jersey,,,,,,102322142.0,186380.0,True,Trustee
 Francis L. Lawrence,President,Rutgers State University Of New Jersey,,,,,,102322142.0,186380.0,True,Board President
-Francis L. Lawrence,Ex Officio Governor,Rutgers State University Of New Jersey,,,,,,102322142.0,186380.0,True,"Trustee, Ex Officio"
 Richard A. Levao,Vice Chairman,Rutgers State University Of New Jersey,,,,,,102322142.0,186380.0,True,Board Vice President
 Nancy Lotstein,Governor,Rutgers State University Of New Jersey,,,,,,102322142.0,186380.0,True,Trustee
 Gwendolyn McLoof,Student Representative Governor,Rutgers State University Of New Jersey,,,,,,102322142.0,186380.0,True,Other Board Member
@@ -401,18 +369,14 @@ Barbara Jean Ageno,Trustee,Saint Marys College Of California,,,,,,177081203.0,12
 "Br. David Brennan, F.S.C.",Trustee,Saint Marys College Of California,,,"Provincial, San Francisco Province of the Order of the Brothers of the Christian Schools, De La Salle Institute",,,177081203.0,123554.0,False,Regent
 Frank M. Brown,Trustee,Saint Marys College Of California,,,"President, Connell Bros. Company, Ltd",,,177081203.0,123554.0,False,Regent
 "Br. Kenneth Cardwell, FS.C.","Associate Professor, Integral Program",Saint Marys College Of California,,,,,,177081203.0,123554.0,False,Regent
-"Br. Kenneth Cardwell, FS.C.",Secretary,Saint Marys College Of California,,,,,,177081203.0,123554.0,False,Other Board Member
-"Br. Kenneth Cardwell, FS.C.",Faculty Trustee,Saint Marys College Of California,,,,,,177081203.0,123554.0,False,Regent
 B. J. Cassin,Chairman,Saint Marys College Of California,,,,,,177081203.0,123554.0,False,Board President
 Maryellen B. Cattani,Trustee,Saint Marys College Of California,,,Attorney,,,177081203.0,123554.0,False,Regent
 "Br. Louis DeThomasis, FS.C.",Trustee,Saint Marys College Of California,,,"President, Saint Mary's University of Minnesota",,,177081203.0,123554.0,False,Regent
 "Br. Craig J. Franz, FS.C",President,Saint Marys College Of California,,,,,,177081203.0,123554.0,False,Board President
-"Br. Craig J. Franz, FS.C",Trustee,Saint Marys College Of California,,,,,,177081203.0,123554.0,False,Regent
 "Br. James Gaffney, FS.C",Trustee,Saint Marys College Of California,,,"President, Lewis University",,,177081203.0,123554.0,False,Regent
 "N.W. Bill Jasper, Jr.",Trustee,Saint Marys College Of California,,,"President, Dolby Laboratories",,,177081203.0,123554.0,False,Regent
 Edward L. Lammerding,Trustee,Saint Marys College Of California,,,"Chairman, Sierra Resources Management",,,177081203.0,123554.0,False,Regent
 "C. Raymond Larkin, Jr.",Career: President,Saint Marys College Of California,,,Nellcor Puritan Bennett,,,177081203.0,123554.0,False,Board President
-"C. Raymond Larkin, Jr.",Chief Executive Officertrustee,Saint Marys College Of California,,,Nellcor Puritan Bennett,,,177081203.0,123554.0,False,Other Board Member
 Elizabeth R. Larson,Trustee,Saint Marys College Of California,,,"Managing Director, Soros Fund Management",,,177081203.0,123554.0,False,Regent
 Richard Matzke,Trustee,Saint Marys College Of California,,,"President, Chevron Overseas Division",,,177081203.0,123554.0,False,Regent
 Giles Miller,Trustee,Saint Marys College Of California,,,Cardiologist,,,177081203.0,123554.0,False,Regent
@@ -437,7 +401,6 @@ Jennifer Konecny-Costa,Trustee,Santa Clara University,,,"Cupertino, CA",,,162698
 Jack D. Kuehler,Trustee,Santa Clara University,,,Telluride. CO,,,16269868.0,122931.0,False,Regent
 John C. Lewis,Trustee,Santa Clara University,,,"Monte Sereno, CA",,,16269868.0,122931.0,False,Regent
 "Paul L. Locatelli, S.J",President,Santa Clara University,,,,,,16269868.0,122931.0,False,Board President
-"Paul L. Locatelli, S.J",Trustee,Santa Clara University,,,,,,16269868.0,122931.0,False,Regent
 "A. C. Markkula, Jr",Trustee,Santa Clara University,,,"Woodside, CA",,,16269868.0,122931.0,False,Regent
 Michael T. McCarthy,Trustee,Santa Clara University,,,"Granite Bay, CA",,,16269868.0,122931.0,False,Regent
 Regis McKenna,Trustee,Santa Clara University,,,"Sunnyvale, CA",,,16269868.0,122931.0,False,Regent
@@ -484,16 +447,13 @@ Joseph P. LaSala,Trustee,Seton Hall University,,,"Partner, McElroy, Deutsch & Mu
 Kent Manahan,Trustee,Seton Hall University,,,"Senior Anchor, New Jersey Network",,,12524447.0,186584.0,True,Regent
 Most Rev. Theodore E. McCarrick,Chairman,Seton Hall University,,,Archbishop of Newark,,,12524447.0,186584.0,True,Board President
 "Very Rev. Thomas R. Peterson, O.PMsgr. Ronald Rozniak",Chancellor,Seton Hall University,,,"Vicar General, Archdiocese of Newark",,,12524447.0,186584.0,True,Board President
-"Very Rev. Thomas R. Peterson, O.PMsgr. Ronald Rozniak",Trustee,Seton Hall University,,,"Vicar General, Archdiocese of Newark",,,12524447.0,186584.0,True,Regent
 Thomas Sharkey,Trustee,Seton Hall University,,,"Chairman and Chief Executive Officer, Meeker Sharkey Financial Group, Inc",,,12524447.0,186584.0,True,Regent
 "Rev. Msgr. Robert Sheeran, S.T.D",President,Seton Hall University,,,Sandy Hill Foundation,,,12524447.0,186584.0,True,Board President
-"Rev. Msgr. Robert Sheeran, S.T.D",Trustee,Seton Hall University,,,Sandy Hill Foundation,,,12524447.0,186584.0,True,Regent
 "Frank E. Walsh, Jr",Trustee,Seton Hall University,,,"President, Essex County College",,,12524447.0,186584.0,True,Regent
 A. Zachary Yamba,Trustee,Seton Hall University,,,"President, Essex County College",,,12524447.0,186584.0,True,Regent
 Sameer M. Ashar,Manager,Suffolk University,,,,,,24306055.0,168005.0,False,Trustee
 Neil R. Austrian,Manager,Suffolk University,,,,,,24306055.0,168005.0,False,Trustee
 Dulany Ogden Bennett,Manager,Suffolk University,,,,,,24306055.0,168005.0,False,Trustee
-Dulany Ogden Bennett,Executive Committee Member,Suffolk University,,,,,,24306055.0,168005.0,False,Other Board Member
 Mary Schmidt Campbell,Manager,Suffolk University,,,,,,24306055.0,168005.0,False,Trustee
 Barbara J. Dingfield,Manager,Suffolk University,,,,,,24306055.0,168005.0,False,Trustee
 Donald T. Fujihara,Manager,Suffolk University,,,,,,24306055.0,168005.0,False,Trustee
@@ -502,25 +462,20 @@ John D. Goldman,Manager,Suffolk University,,,,,,24306055.0,168005.0,False,Truste
 Neil Grabois,Manager,Suffolk University,,,,,,24306055.0,168005.0,False,Trustee
 Julie Lange Hall,Manager,Suffolk University,,,,,,24306055.0,168005.0,False,Trustee
 Graham O. Harrison,Manager,Suffolk University,,,,,,24306055.0,168005.0,False,Trustee
-Graham O. Harrison,Executive Committee Member,Suffolk University,,,,,,24306055.0,168005.0,False,Other Board Member
 Samuel L. Hayes III,Manager,Suffolk University,,,,,,24306055.0,168005.0,False,Trustee
 James C. Hormel,Manager,Suffolk University,,,,,,24306055.0,168005.0,False,Trustee
 Lillian E. Kraemer,Manager,Suffolk University,,,,,,24306055.0,168005.0,False,Trustee
 Frederick W. Kyle,Manager,Suffolk University,,,,,,24306055.0,168005.0,False,Trustee
-Frederick W. Kyle,Executive Committee Member,Suffolk University,,,,,,24306055.0,168005.0,False,Other Board Member
 Jane Lang,Manager,Suffolk University,,,,,,24306055.0,168005.0,False,Trustee
 Maeghan T. LeRoy Maloney,Manager,Suffolk University,,,,,,24306055.0,168005.0,False,Trustee
 Barbara Weber Mather,Manager,Suffolk University,,,,,,24306055.0,168005.0,False,Trustee
-Barbara Weber Mather,Executive Committee Member,Suffolk University,,,,,,24306055.0,168005.0,False,Other Board Member
 William G. Nelson IV,Manager,Suffolk University,,,,,,24306055.0,168005.0,False,Trustee
 "Preston C. Polk, Jr",Manager,Suffolk University,,,,,,24306055.0,168005.0,False,Trustee
 John A. Riggs,Manager,Suffolk University,,,,,,24306055.0,168005.0,False,Trustee
 Marge Perlman Scheuer,Vice Chairperson of the Board and Executive Committee,Suffolk University,,,,,,24306055.0,168005.0,False,Board Vice President
 J. Lawrence Shane,Chairman Of The Board,Suffolk University,,,,,,24306055.0,168005.0,False,Board President
-J. Lawrence Shane,Executive Committee Chairman,Suffolk University,,,,,,24306055.0,168005.0,False,Board President
 Thomas E. Spock,Manager,Suffolk University,,,,,,24306055.0,168005.0,False,Trustee
 Edward J. Steiner,Secretary,Suffolk University,,,,,,24306055.0,168005.0,False,Other Board Member
-Edward J. Steiner,Executive Committee Member,Suffolk University,,,,,,24306055.0,168005.0,False,Other Board Member
 William C. Stott,Manager,Suffolk University,,,,,,24306055.0,168005.0,False,Trustee
 Davia B. Temin,Manager,Suffolk University,,,,,,24306055.0,168005.0,False,Trustee
 "James M. Powers, Sr",Member,Tennessee Board Of Regents,,,,,,,,False,Regent
@@ -536,18 +491,6 @@ J. Stanley Rogers,Regent,Tennessee Board Of Regents,,,"Senior Partner, Rogers, R
 Debora J. Seivers,Regent,Tennessee Board Of Regents,,Mid Tennessee State,"Partner, Ben Smith Consulting Company",,,,,False,Regent
 Maxine A. Smith,Regent,Tennessee Board Of Regents,,,Educator and Civil Rights Leader,,,,,False,Regent
 The Hon. Jane Walters,Ex Officio Regent,Tennessee Board Of Regents,,Rhodes; U Memphis; Duke,"Commissioner, Education, State of Tennessee",,,,,False,"Regent, Ex Officio"
-Demetra Godsey Boyd,Regent,Tennessee Board Of Regents,,,"Publisher and Editor, The Citizen Tribune",,,,,False,Regent
-Robert Jack Fishman,Regent,Tennessee Board Of Regents,,,"Publisher and Editor, The Citizen Tribune",,,,,False,Regent
-Robert L. Gamble,Regent,Tennessee Board Of Regents,,U Memphis,"President, Gamble Construction Company, Inc",,,,,False,Regent
-Clifford H. Henry,Regent,Tennessee Board Of Regents,,,"Vice President, First American Bank","Vice President, Paine Webber, Inc.; Member, Tennessee House of Representatives",,,,False,Regent
-Ed Jernigan,Regent,Tennessee Board Of Regents,,Mid Tennessee State 1978,"President and Founder, The Jernigan Group","President, Arthritis Foundation",,,,False,Regent
-Jane G. Kisber,Regent,Tennessee Board Of Regents,,Wellesley,"Executive Director, Jackson/Madison County Convention and Visitors' Bureau","Coordinator, Special Projects, Jackson Area Chamber of Commerce",,,,False,Regent
-W. Keith McCord,Regent,Tennessee Board Of Regents,,Tennessee; Duke,"Senior Partner, McCord, Troutman and Irwin, P.C",,,,,False,Regent
-Leslie Parks Pope,Regent,Tennessee Board Of Regents,,,"Chief Executive Officer, Parks Group","Chairman, Parks Belk Company",,,,False,Regent
-J. Stanley Rogers,Regent,Tennessee Board Of Regents,,,"Senior Partner, Rogers, Richardson and Duncan; Chairman, Tennessee Appellate Court Judicial Selection Commission; Member, Tennessee House of Representatives",,,,,False,Regent
-Debora J. Seivers,Regent,Tennessee Board Of Regents,,Mid Tennessee State,"Partner, Ben Smith Consulting Company; Executive Assistant to Governor Ned MeWherter",,,,,False,Regent
-Maxine A. Smith,Regent,Tennessee Board Of Regents,,,"Educator and Civil Rights Leader; President, Memphis Board of Education, 1991-92",,,,,False,Regent
-The Hon. Jane Walters,Ex Officio Regent,Tennessee Board Of Regents,,Rhodes; U Memphis; Duke,"Principal, Craigmont Junior/Senior High School",,,,,False,"Regent, Ex Officio"
 The Hon. Riley C. Darnell,Ex Officio Member,Tennessee Board Of Regents,,Austin Pay State 1962 BS; Vanderbilt 1965 JD,"Secretary of State, State of Tennessee",,,,,False,"Regent, Ex Officio"
 Mark Apte,Trustee,University Of Akron,,,Vacant,,,110152177.0,200800.0,True,Regent
 Alex Arshinkoff,Chairman,University Of Akron,,,Vacant,,,110152177.0,200800.0,True,Board President
@@ -603,7 +546,6 @@ Arthur S. Bahnmuller,Trustee,University Of South Carolina,,,,,,155781252.0,21866
 David M. Beasley,Ex Officio Chairman,University Of South Carolina,,South Carolina JD,Governor. South Carolina,,,155781252.0,218663.0,True,"Board President, Ex Officio"
 James Bradley,Trustee,University Of South Carolina,,,,,,155781252.0,218663.0,True,Member
 "Mark W. Buck, Jr","President, Alumni Association",University Of South Carolina,,,,,,155781252.0,218663.0,True,Board President
-"Mark W. Buck, Jr",Ex Officio Trustee,University Of South Carolina,,,,,,155781252.0,218663.0,True,"Member, Ex Officio"
 William W. Doar. Jr.,Trustee,University Of South Carolina,,,,,,155781252.0,218663.0,True,Member
 C. Edward Floyd,Trustee,University Of South Carolina,,,,,,155781252.0,218663.0,True,Member
 Samuel R. Foster II,Trustee,University Of South Carolina,,,,,,155781252.0,218663.0,True,Member
@@ -698,7 +640,6 @@ Saul Kramer,Vice Chairman,Yeshiva University,Albert Einstein College of Medicine
 Charles A. Krasne,Overseer,Yeshiva University,Albert Einstein College of Medicine,,,,,19772626.0,197708.0,True,Governor
 Ira Kukin,Overseer,Yeshiva University,Albert Einstein College of Medicine,,,,,19772626.0,197708.0,True,Governor
 Norman Lamm,President,Yeshiva University,Albert Einstein College of Medicine,,,,,19772626.0,197708.0,True,Board President
-Norman Lamm,Overseer,Yeshiva University,Albert Einstein College of Medicine,,,,,19772626.0,197708.0,True,Governor
 Jay B. Langner,Overseer,Yeshiva University,Albert Einstein College of Medicine,,,,,19772626.0,197708.0,True,Governor
 Milton Levin,Overseer,Yeshiva University,Albert Einstein College of Medicine,,,,,19772626.0,197708.0,True,Governor
 David S. Mack,Overseer,Yeshiva University,Albert Einstein College of Medicine,,,,,19772626.0,197708.0,True,Governor
