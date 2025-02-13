@@ -23,7 +23,7 @@ Eastern Michigan University,Eastern Michigan University,1,138216421.0,False,Publ
 Emory University,Emory University,4,150468666.0,False,Private,South
 Fordham University,Fordham University,4,164389053.0,False,Private,Northeast
 George Mason University,George Mason University,1,162714631.0,False,Public,South
-George Washington University,George Washington University,2,193531525.0,False,Private,West
+George Washington University,George Washington University,2,193531525.0,False,Private,Northeast
 Georgetown University,Georgetown University,4,184565670.0,False,Private,Northeast
 Harvard University,Harvard University,2,136199984.0,False,Private,Northeast
 Hofstra University,Hofstra University,1,139290212.0,False,Private,Northeast
@@ -78,7 +78,7 @@ University System Of New Hampshire,University System Of New Hampshire,1,28004538
 University of Alabama System,University of Alabama System,2,17301866.0,False,Public,South
 Vanderbilt University,Vanderbilt University,1,200719446.0,False,Private,South
 Villanova University,Villanova University,1,7863295.0,False,Private,Northeast
-Washington University,Washington University,2,204465549.0,False,Private,West
+Washington University,Washington University,2,204465549.0,False,Private,Midwest
 West Virginia University,West Virginia University,19,12097938.0,False,Public,South
 Widener University,Widener University,1,138659443.0,False,Private,Northeast
 Worcester Polytechnic Institute,Worcester Polytechnic Institute,1,107077323.0,False,Private,Northeast
@@ -107,7 +107,7 @@ Emory University,Emory University,4,150468666.0,False,Private,South
 Florida Institute Of Technology,Florida Institute Of Technology,1,106959904.0,True,Private,South
 Fordham University,Fordham University,5,164389053.0,False,Private,Northeast
 George Mason University,George Mason University,1,162714631.0,False,Public,South
-George Washington University,George Washington University,1,193531525.0,False,Private,West
+George Washington University,George Washington University,1,193531525.0,False,Private,Northeast
 Georgetown University,Georgetown University,5,184565670.0,False,Private,Northeast
 Hofstra University,Hofstra University,2,139290212.0,False,Private,Northeast
 Howard University,Howard University,1,137853757.0,False,Private,Northeast
@@ -157,11 +157,11 @@ University Of St Thomas Minnesota,University Of St Thomas Minnesota,3,161515732.
 University Of Tulsa,University Of Tulsa,1,87208437.0,False,Private,South
 University System Of Georgia,University System Of Georgia,2,1289702989.0,False,Public,South
 University System Of New Hampshire,University System Of New Hampshire,1,2800453862.0,False,Public,Northeast
-University of Alabama System,University of Alabama System,5,2800507078.0,False,Public,South
+University of Alabama System,University of Alabama System,5,2800507078.0,False,Public,Unknown
 Vanderbilt University,Vanderbilt University,1,200719446.0,False,Private,South
 Villanova University,Villanova University,1,7863295.0,False,Private,Northeast
 Wake Forest University,Wake Forest University,1,47251452.0,False,Private,South
-Washington University,Washington University,2,204465549.0,False,Private,West
+Washington University,Washington University,2,204465549.0,False,Private,Midwest
 West Virginia University,West Virginia University,18,12097938.0,False,Public,South
 Worcester Polytechnic Institute,Worcester Polytechnic Institute,1,107077323.0,False,Private,Northeast
 Yale University,Yale University,3,32971472.0,False,Private,Northeast
@@ -186,7 +186,7 @@ Duquesne University,Duquesne University,3,165102784.0,False,Private,Northeast
 Emory University,Emory University,2,150468666.0,False,Private,South
 Fordham University,Fordham University,3,164389053.0,False,Private,Northeast
 George Mason University,George Mason University,2,162714631.0,False,Public,South
-George Washington University,George Washington University,1,193531525.0,False,Private,West
+George Washington University,George Washington University,1,193531525.0,False,Private,Northeast
 Georgetown University,Georgetown University,5,184565670.0,False,Private,Northeast
 Harvard University,Harvard University,2,136199984.0,False,Private,Northeast
 Hofstra University,Hofstra University,3,139290212.0,False,Private,Northeast
@@ -197,7 +197,7 @@ Johns Hopkins University,Johns Hopkins University,1,145311948.0,False,Private,So
 Lehigh University,Lehigh University,2,186143895.0,False,Private,Northeast
 Loma Linda University,Loma Linda University,5,26347476.0,False,Private,West
 Long Island University,Long Island University,1,138873065.0,False,Private,Northeast
-Louisiana State University System,Louisiana State University System,1,107341208.0,False,Unknown,South
+Louisiana State University System,Louisiana State University System,1,107341208.0,False,Unknown,Unknown
 Loyola Marymount University,Loyola Marymount University,2,35566140.0,False,Private,West
 Loyola University Chicago,Loyola University Chicago,5,1925986.0,False,Private,Midwest
 Marquette University,Marquette University,2,102461120.0,False,Private,Midwest
@@ -235,7 +235,7 @@ University Of St Thomas Minnesota,University Of St Thomas Minnesota,5,161515732.
 University Of Virginia,University Of Virginia,1,51556381.0,False,Public,South
 University System Of Georgia,University System Of Georgia,1,1289702989.0,False,Public,South
 University System Of New Hampshire,University System Of New Hampshire,1,2800453862.0,False,Public,Northeast
-University of Alabama System,University of Alabama System,3,2800507078.0,False,Public,South
+University of Alabama System,University of Alabama System,3,2800507078.0,False,Public,Unknown
 University of Minnesota System,University of Minnesota System,1,2800403580.0,False,Public,Midwest
 Vanderbilt University,Vanderbilt University,3,200719446.0,False,Private,South
 Villanova University,Villanova University,1,7863295.0,False,Private,Northeast
@@ -266,7 +266,7 @@ Drexel University,Drexel University,1,72816309.0,False,Private,Northeast
 Duke University,Duke University,4,170897317.0,False,Private,South
 Fordham University,Fordham University,4,164389053.0,False,Private,Northeast
 George Mason University,George Mason University,1,162714631.0,False,Public,South
-George Washington University,George Washington University,1,193531525.0,False,Private,West
+George Washington University,George Washington University,1,193531525.0,False,Private,Northeast
 Georgetown University,Georgetown University,4,184565670.0,False,Private,Northeast
 Harvard University,Harvard University,1,136199984.0,False,Private,Northeast
 Howard University,Howard University,1,137853757.0,False,Private,Northeast
@@ -317,7 +317,7 @@ University Of Tulsa,University Of Tulsa,1,87208437.0,False,Private,South
 University Of Virginia,University Of Virginia,1,51556381.0,False,Public,South
 University System Of Georgia,University System Of Georgia,3,1289702989.0,False,Public,South
 University System Of New Hampshire,University System Of New Hampshire,2,2800453862.0,False,Public,Northeast
-University of Alabama System,University of Alabama System,2,2800507078.0,False,Public,South
+University of Alabama System,University of Alabama System,2,2800507078.0,False,Public,Unknown
 University of Minnesota System,University of Minnesota System,1,130238516.0,False,Public,Midwest
 Vanderbilt University,Vanderbilt University,2,200719446.0,False,Private,South
 Villanova University,Villanova University,1,7863295.0,False,Private,Northeast
@@ -398,7 +398,7 @@ University Of Tulsa,University Of Tulsa,1,87208437.0,False,Private,South
 University Of Virginia,University Of Virginia,1,51556381.0,False,Public,South
 University System Of Georgia,University System Of Georgia,3,1289702989.0,False,Public,South
 University System Of New Hampshire,University System Of New Hampshire,2,2800453862.0,False,Public,Northeast
-University of Alabama System,University of Alabama System,2,2800507078.0,False,Public,South
+University of Alabama System,University of Alabama System,2,2800507078.0,False,Public,Unknown
 Vanderbilt University,Vanderbilt University,3,200719446.0,False,Private,South
 Villanova University,Villanova University,1,7863295.0,False,Private,Northeast
 Wake Forest University,Wake Forest University,1,47251452.0,False,Private,South
@@ -468,11 +468,11 @@ University Of Southern California,University Of Southern California,2,1174212.0,
 University Of St Thomas Minnesota,University Of St Thomas Minnesota,5,161515732.0,False,Private,Midwest
 University System Of Georgia,University System Of Georgia,1,1289702989.0,False,Public,South
 University System Of New Hampshire,University System Of New Hampshire,2,2800453862.0,False,Public,Northeast
-University of Alabama System,University of Alabama System,3,2800507078.0,False,Public,South
+University of Alabama System,University of Alabama System,3,2800507078.0,False,Public,Unknown
 Vanderbilt University,Vanderbilt University,4,200719446.0,False,Private,South
 Villanova University,Villanova University,1,7863295.0,False,Private,Northeast
 Wake Forest University,Wake Forest University,1,47251452.0,False,Private,South
-Washington University,Washington University,1,204465549.0,False,Private,West
+Washington University,Washington University,1,204465549.0,False,Private,Midwest
 West Virginia University,West Virginia University,1,12097938.0,False,Public,South
 Western Michigan University,Western Michigan University,1,141649380.0,False,Public,Midwest
 Worcester Polytechnic Institute,Worcester Polytechnic Institute,1,107077323.0,False,Private,Northeast
@@ -502,7 +502,7 @@ Howard University,Howard University,3,137853757.0,False,Private,Northeast
 Illinois Institute Of Technology,Illinois Institute Of Technology,1,180949307.0,False,Private,Midwest
 Johns Hopkins University,Johns Hopkins University,2,145311948.0,False,Private,South
 Loma Linda University,Loma Linda University,2,26347476.0,False,Private,West
-Louisiana State University System,Louisiana State University System,1,107341208.0,False,Unknown,South
+Louisiana State University System,Louisiana State University System,1,107341208.0,False,Unknown,Unknown
 Loyola University Chicago,Loyola University Chicago,3,1925986.0,False,Private,Midwest
 Marquette University,Marquette University,3,102461120.0,False,Private,Midwest
 Massachusetts Institute Of Technology,Massachusetts Institute Of Technology,3,63966007.0,True,Private,Northeast
@@ -518,7 +518,7 @@ St Johns University,St Johns University,4,142823887.0,False,Private,Northeast
 State University Of New York System,State University Of New York System,2,1327163397.0,True,Public,Northeast
 Syracuse University,Syracuse University,1,70983195.0,True,Private,Northeast
 Texas Christian University,Texas Christian University,2,128956969.0,False,Private,South
-University of Alabama System,University of Alabama System,3,2800507078.0,False,Public,South
+University of Alabama System,University of Alabama System,3,2800507078.0,False,Public,Unknown
 University Of Alaska System,University Of Alaska System,1,2802090665.0,False,Public,West
 University Of California System,University Of California System,1,2803209242.0,False,Public,West
 University Of Chicago,University Of Chicago,5,40347166.0,False,Private,Midwest
@@ -540,7 +540,7 @@ University System Of New Hampshire,University System Of New Hampshire,2,28004538
 Vanderbilt University,Vanderbilt University,3,200719446.0,False,Private,South
 Villanova University,Villanova University,2,7863295.0,False,Private,Northeast
 Wake Forest University,Wake Forest University,1,47251452.0,False,Private,South
-Washington University,Washington University,2,204465549.0,False,Private,West
+Washington University,Washington University,2,204465549.0,False,Private,Midwest
 West Virginia University,West Virginia University,2,12097938.0,False,Public,South
 Western Michigan University,Western Michigan University,1,141649380.0,False,Public,Midwest
 Worcester Polytechnic Institute,Worcester Polytechnic Institute,1,107077323.0,False,Private,Northeast
@@ -562,7 +562,7 @@ Drexel University,Drexel University,2,72816309.0,False,Private,Northeast
 Duke University,Duke University,4,170897317.0,False,Private,South
 Emory University,Emory University,2,150468666.0,False,Private,South
 Fordham University,Fordham University,4,164389053.0,False,Private,Northeast
-George Washington University,George Washington University,1,193531525.0,False,Private,West
+George Washington University,George Washington University,1,193531525.0,False,Private,Northeast
 Georgetown University,Georgetown University,2,184565670.0,False,Private,Northeast
 Harvard University,Harvard University,1,136199984.0,False,Private,Northeast
 Howard University,Howard University,2,137853757.0,False,Private,Northeast
@@ -588,7 +588,7 @@ State University Of New York System,State University Of New York System,2,132716
 Syracuse University,Syracuse University,3,70983195.0,True,Private,Northeast
 Temple University,Temple University,1,84392919.0,False,Public,Northeast
 Texas Christian University,Texas Christian University,1,128956969.0,False,Private,South
-University of Alabama System,University of Alabama System,2,2800507078.0,False,Public,South
+University of Alabama System,University of Alabama System,2,2800507078.0,False,Public,Unknown
 University Of California System,University Of California System,1,2803209242.0,False,Public,West
 University Of Chicago,University Of Chicago,4,40347166.0,False,Private,Midwest
 University Of Connecticut,University Of Connecticut,1,140172145.0,True,Public,Northeast
@@ -608,7 +608,7 @@ University System Of New Hampshire,University System Of New Hampshire,2,28004538
 Vanderbilt University,Vanderbilt University,2,200719446.0,False,Private,South
 Villanova University,Villanova University,2,7863295.0,False,Private,Northeast
 Wake Forest University,Wake Forest University,2,47251452.0,False,Private,South
-Washington University,Washington University,3,204465549.0,False,Private,West
+Washington University,Washington University,3,204465549.0,False,Private,Midwest
 West Virginia University,West Virginia University,3,12097938.0,False,Public,South
 Western Michigan University,Western Michigan University,1,141649380.0,False,Public,Midwest
 Yale University,Yale University,1,32971472.0,False,Private,Northeast
@@ -648,7 +648,7 @@ Rutgers State University Of New Jersey,Rutgers State University Of New Jersey,1,
 Seton Hall University,Seton Hall University,1,12524447.0,True,Private,Northeast
 St Johns University,St Johns University,1,142823887.0,False,Private,Northeast
 Temple University,Temple University,6,84392919.0,False,Public,Northeast
-University of Alabama System,University of Alabama System,2,2800507078.0,False,Public,South
+University of Alabama System,University of Alabama System,2,2800507078.0,False,Public,Unknown
 University Of Chicago,University Of Chicago,2,40347166.0,False,Private,Midwest
 University Of Connecticut,University Of Connecticut,1,140172145.0,True,Public,Northeast
 University Of La Verne,University Of La Verne,1,708430.0,True,Private,West
@@ -663,7 +663,7 @@ University Of Tulsa,University Of Tulsa,1,87208437.0,False,Private,South
 University System Of New Hampshire,University System Of New Hampshire,1,2800453862.0,False,Public,Northeast
 Vanderbilt University,Vanderbilt University,1,200719446.0,False,Private,South
 Villanova University,Villanova University,2,7863295.0,False,Private,Northeast
-Washington University,Washington University,3,204465549.0,False,Private,West
+Washington University,Washington University,3,204465549.0,False,Private,Midwest
 Widener University,Widener University,1,138659443.0,True,Private,Northeast
 Worcester Polytechnic Institute,Worcester Polytechnic Institute,1,107077323.0,True,Private,Northeast
 Yale University,Yale University,1,32971472.0,False,Private,Northeast
