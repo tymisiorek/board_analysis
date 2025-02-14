@@ -1,0 +1,66 @@
+Id,Source,Target,Type,Weight,Year
+e_2018_907,Catholic University Of America,Duquesne University,Undirected,0.01282051282051282,2018
+e_2018_908,Clark Atlanta University,Emory University,Undirected,0.014492753623188406,2018
+e_2018_909,Case Western Reserve University,Emory University,Undirected,0.012345679012345678,2018
+e_2018_910,Florida Agricultural and Mechanical University,Fordham University,Undirected,0.01818181818181818,2018
+e_2018_911,Florida Atlantic University,Fordham University,Undirected,0.01818181818181818,2018
+e_2018_912,Drexel University,Fordham University,Undirected,0.011235955056179775,2018
+e_2018_913,Brandeis University,Indiana University of Pennsylvania,Undirected,0.02,2018
+e_2018_914,Andrews University,Loma Linda University,Undirected,0.06944444444444445,2018
+e_2018_915,Chapman University,Loma Linda University,Undirected,0.011494252873563218,2018
+e_2018_916,Illinois Institute Of Technology,Loyola University Chicago,Undirected,0.014925373134328358,2018
+e_2018_917,Loyola Marymount University,Marquette University,Undirected,0.006711409395973154,2018
+e_2018_918,Drexel University,New Jersey Institute Of Technology,Undirected,0.009345794392523364,2018
+e_2018_919,Long Island University,New York University,Undirected,0.009523809523809525,2018
+e_2018_920,Indiana University of Pennsylvania,Pennsylvania State University,Undirected,0.03333333333333333,2018
+e_2018_921,Massachusetts Institute Of Technology,Rensselaer Polytechnic Institute,Undirected,0.009900990099009901,2018
+e_2018_922,Baylor University,Rutgers State University Of New Jersey,Undirected,0.009615384615384616,2018
+e_2018_923,Catholic University Of America,Seton Hall University,Undirected,0.009900990099009901,2018
+e_2018_924,Georgetown University,St Johns University,Undirected,0.014925373134328358,2018
+e_2018_925,Indiana University of Pennsylvania,Temple University,Undirected,0.034482758620689655,2018
+e_2018_926,Pennsylvania State University,Temple University,Undirected,0.02631578947368421,2018
+e_2018_927,Auburn University,Universitv of Alabama Tuscaloosa,Undirected,0.011363636363636364,2018
+e_2018_928,Loyola University Chicago,University Of Chicago,Undirected,0.012048192771084338,2018
+e_2018_929,Illinois Institute Of Technology,University Of Chicago,Undirected,0.011363636363636364,2018
+e_2018_930,Dartmouth College,University Of La Verne,Undirected,0.014925373134328358,2018
+e_2018_931,Boston University,University Of Louisville,Undirected,0.018867924528301886,2018
+e_2018_932,Fordham University,University Of Notre Dame,Undirected,0.011235955056179775,2018
+e_2018_933,Carnegie Mellon University,University Of Notre Dame,Undirected,0.010101010101010102,2018
+e_2018_934,Carnegie Mellon University,University Of Pittsburgh,Undirected,0.02912621359223301,2018
+e_2018_935,Temple University,University Of Pittsburgh,Undirected,0.022222222222222223,2018
+e_2018_936,Indiana University of Pennsylvania,University Of Pittsburgh,Undirected,0.02702702702702703,2018
+e_2018_937,Pennsylvania State University,University Of Pittsburgh,Undirected,0.021739130434782608,2018
+e_2018_938,Universitv of Alabama Tuscaloosa,University Of South Alabama,Undirected,0.011363636363636364,2018
+e_2018_939,Auburn University,University Of South Alabama,Undirected,0.03125,2018
+e_2018_940,Georgetown University,University Of St Thomas Minnesota,Undirected,0.012987012987012988,2018
+e_2018_941,Loyola University Chicago,University Of St Thomas Minnesota,Undirected,0.014492753623188406,2018
+e_2018_942,Mercer University,University Of Tulsa,Undirected,0.0125,2018
+e_2018_943,Fordham University,University of Central Florida,Undirected,0.01818181818181818,2018
+e_2018_944,Fordham University,University of Florida,Undirected,0.01818181818181818,2018
+e_2018_945,Massachusetts Institute Of Technology,University of Massachusetts at Worcester,Undirected,0.006622516556291391,2018
+e_2018_946,Dartmouth College,University of New Hampshire Durham,Undirected,0.013888888888888888,2018
+e_2018_947,Fordham University,University of North Florida,Undirected,0.01818181818181818,2018
+e_2018_948,Fordham University,University of South Florida,Undirected,0.01818181818181818,2018
+e_2018_949,University Of Notre Dame,University of Texas Health Science Center at Houston,Undirected,0.01694915254237288,2018
+e_2018_950,University Of Notre Dame,University of Texas Health Science Center at San Antonio,Undirected,0.014492753623188406,2018
+e_2018_951,University Of Notre Dame,University of Texas Medical Branch at Galveston,Undirected,0.01694915254237288,2018
+e_2018_952,University Of Notre Dame,University of Texas Southwestern Medical Center at Dallas,Undirected,0.014492753623188406,2018
+e_2018_953,University Of Notre Dame,University of Texas at Arlington,Undirected,0.01694915254237288,2018
+e_2018_954,University Of Notre Dame,University of Texas at Austin,Undirected,0.01694915254237288,2018
+e_2018_955,University Of Notre Dame,University of Texas at Brownsville/Texas Southmost College,Undirected,0.014492753623188406,2018
+e_2018_956,University Of Notre Dame,University of Texas at Dallas,Undirected,0.01694915254237288,2018
+e_2018_957,University Of Notre Dame,University of Texas at EI Paso,Undirected,0.014492753623188406,2018
+e_2018_958,University Of Notre Dame,University of Texas at San Antonio,Undirected,0.01694915254237288,2018
+e_2018_959,University Of Notre Dame,University of Texas at Tyler,Undirected,0.01694915254237288,2018
+e_2018_960,Villanova University,Washington University,Undirected,0.010526315789473684,2018
+e_2018_961,Emory University,Washington University,Undirected,0.009900990099009901,2018
+e_2018_962,Temple University,West Chester University of Pennsylvania,Undirected,0.02531645569620253,2018
+e_2018_963,University Of Pittsburgh,West Chester University of Pennsylvania,Undirected,0.021052631578947368,2018
+e_2018_964,Pennsylvania State University,West Chester University of Pennsylvania,Undirected,0.024691358024691357,2018
+e_2018_965,Brandeis University,West Chester University of Pennsylvania,Undirected,0.014084507042253521,2018
+e_2018_966,Rowan University,Widener University,Undirected,0.023255813953488372,2018
+e_2018_967,Loma Linda University,Worcester Polytechnic Institute,Undirected,0.015625,2018
+e_2018_968,University Of Connecticut,Yale University,Undirected,0.02564102564102564,2018
+e_2018_969,Vanderbilt University,Yeshiva University,Undirected,0.016129032258064516,2018
+e_2018_970,Harvard University,University Of Chicago,Undirected,0.01020408163265306,2018
+e_2018_971,New Jersey Institute Of Technology,Princeton University,Undirected,0.007751937984496124,2018

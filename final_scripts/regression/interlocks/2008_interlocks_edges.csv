@@ -1,0 +1,104 @@
+Id,Source,Target,Type,Weight,Year
+e_2008_510,Brandeis University,Columbia University,Undirected,0.008130081300813009,2008
+e_2008_511,Case Western Reserve University,Duke University,Undirected,0.013333333333333334,2008
+e_2008_512,Clark Atlanta University,Emory University,Undirected,0.013333333333333334,2008
+e_2008_513,Boston University,Florida Agricultural and Mechanical University,Undirected,0.019230769230769232,2008
+e_2008_514,Boston College,Georgetown University,Undirected,0.011627906976744186,2008
+e_2008_515,Fordham University,Georgetown University,Undirected,0.025,2008
+e_2008_516,Clark Atlanta University,Georgia Institute of Technology,Undirected,0.019230769230769232,2008
+e_2008_517,Clark Atlanta University,Georgia Southern University,Undirected,0.019230769230769232,2008
+e_2008_518,Clark Atlanta University,Georgia State University,Undirected,0.019230769230769232,2008
+e_2008_519,Brandeis University,Harvard University,Undirected,0.011764705882352941,2008
+e_2008_520,Duke University,Johns Hopkins University,Undirected,0.009433962264150943,2008
+e_2008_521,Clark Atlanta University,Kennesaw State University,Undirected,0.019230769230769232,2008
+e_2008_522,Carnegie Mellon University,Lehigh University,Undirected,0.007142857142857143,2008
+e_2008_523,Andrews University,Loma Linda University,Undirected,0.0847457627118644,2008
+e_2008_524,Boston College,Loyola Marymount University,Undirected,0.007246376811594203,2008
+e_2008_525,Fordham University,Loyola University Chicago,Undirected,0.012987012987012988,2008
+e_2008_526,Boston College,Loyola University Chicago,Undirected,0.024096385542168676,2008
+e_2008_527,Georgetown University,Loyola University Chicago,Undirected,0.012658227848101266,2008
+e_2008_528,Loyola University Chicago,Marquette University,Undirected,0.01282051282051282,2008
+e_2008_529,Dartmouth College,Marquette University,Undirected,0.017241379310344827,2008
+e_2008_530,Howard University,Massachusetts Institute Of Technology,Undirected,0.011764705882352941,2008
+e_2008_531,Cornell University,Massachusetts Institute Of Technology,Undirected,0.009708737864077669,2008
+e_2008_532,Kennesaw State University,Mercer University,Undirected,0.03076923076923077,2008
+e_2008_533,Georgia Institute of Technology,Mercer University,Undirected,0.03076923076923077,2008
+e_2008_534,Georgia State University,Mercer University,Undirected,0.03076923076923077,2008
+e_2008_535,Georgia Southern University,Mercer University,Undirected,0.03076923076923077,2008
+e_2008_536,Clemson University,Mercer University,Undirected,0.008620689655172414,2008
+e_2008_537,Massachusetts Institute Of Technology,New School,Undirected,0.00909090909090909,2008
+e_2008_538,Cornell University,New School,Undirected,0.009174311926605505,2008
+e_2008_539,Georgetown University,New York University,Undirected,0.0072992700729927005,2008
+e_2008_540,Columbia University,New York University,Undirected,0.005847953216374269,2008
+e_2008_541,Brandeis University,New York University,Undirected,0.013888888888888888,2008
+e_2008_542,New School,New York University,Undirected,0.006493506493506494,2008
+e_2008_543,Clarkson University,New York University,Undirected,0.008,2008
+e_2008_544,New School,Princeton University,Undirected,0.010101010101010102,2008
+e_2008_545,Loyola Marymount University,Rutgers State University Of New Jersey,Undirected,0.005714285714285714,2008
+e_2008_546,Columbia University,San Diego State University,Undirected,0.01,2008
+e_2008_547,Columbia University,San Francisco State University,Undirected,0.01,2008
+e_2008_548,Catholic University Of America,Seton Hall University,Undirected,0.010101010101010102,2008
+e_2008_549,Rensselaer Polytechnic Institute,St Johns University,Undirected,0.017543859649122806,2008
+e_2008_550,Rice University,Stanford University,Undirected,0.016666666666666666,2008
+e_2008_551,Rochester Institute Of Technology,Syracuse University,Undirected,0.012195121951219513,2008
+e_2008_552,Syracuse University,Temple University,Undirected,0.015625,2008
+e_2008_553,North Carolina Agricultural and Technical State University,Texas Christian University,Undirected,0.013157894736842105,2008
+e_2008_554,Brown University,Tufts University,Undirected,0.010752688172043012,2008
+e_2008_555,Auburn University,Universitv of Alabama Tuscaloosa,Undirected,0.010638297872340425,2008
+e_2008_556,Tufts University,University Of Chicago,Undirected,0.01098901098901099,2008
+e_2008_557,Clemson University,University Of Chicago,Undirected,0.008403361344537815,2008
+e_2008_558,Carnegie Mellon University,University Of Chicago,Undirected,0.006711409395973154,2008
+e_2008_559,Princeton University,University Of Chicago,Undirected,0.011111111111111112,2008
+e_2008_560,Johns Hopkins University,University Of Chicago,Undirected,0.008620689655172414,2008
+e_2008_561,Duke University,University Of Chicago,Undirected,0.011363636363636364,2008
+e_2008_562,Illinois Institute Of Technology,University Of Chicago,Undirected,0.010526315789473684,2008
+e_2008_563,Illinois Institute Of Technology,University Of Connecticut,Undirected,0.014925373134328358,2008
+e_2008_564,Tufts University,University Of New Mexico,Undirected,0.0196078431372549,2008
+e_2008_565,Dartmouth College,University Of Notre Dame,Undirected,0.0136986301369863,2008
+e_2008_566,New Jersey Institute Of Technology,University Of Notre Dame,Undirected,0.009433962264150943,2008
+e_2008_567,Pennsylvania State University,University Of Pittsburgh,Undirected,0.02197802197802198,2008
+e_2008_568,Carnegie Mellon University,University Of Pittsburgh,Undirected,0.01935483870967742,2008
+e_2008_569,Chapman University,University Of San Diego,Undirected,0.011235955056179775,2008
+e_2008_570,University Of Dayton,University Of San Diego,Undirected,0.012345679012345678,2008
+e_2008_571,Universitv of Alabama Tuscaloosa,University Of South Alabama,Undirected,0.011904761904761904,2008
+e_2008_572,Auburn University,University Of South Alabama,Undirected,0.023809523809523808,2008
+e_2008_573,North Carolina Agricultural and Technical State University,University Of South Carolina,Undirected,0.018518518518518517,2008
+e_2008_574,Georgetown University,University Of St Thomas Minnesota,Undirected,0.012195121951219513,2008
+e_2008_575,Catholic University Of America,University Of St Thomas Minnesota,Undirected,0.01098901098901099,2008
+e_2008_576,Seton Hall University,University Of St Thomas Minnesota,Undirected,0.011111111111111112,2008
+e_2008_577,Johns Hopkins University,University Of St Thomas Minnesota,Undirected,0.009259259259259259,2008
+e_2008_578,Cornell University,University Of Tulsa,Undirected,0.011111111111111112,2008
+e_2008_579,Princeton University,University Of Virginia,Undirected,0.016666666666666666,2008
+e_2008_580,Mercer University,University of Georgia,Undirected,0.03076923076923077,2008
+e_2008_581,Clark Atlanta University,University of Georgia,Undirected,0.019230769230769232,2008
+e_2008_582,Rutgers State University Of New Jersey,University of Illinois at Urbana-Champaign,Undirected,0.00909090909090909,2008
+e_2008_583,George Mason University,University of Maine Orono,Undirected,0.015151515151515152,2008
+e_2008_584,Mercer University,University of Nebraska Lincoln,Undirected,0.010638297872340425,2008
+e_2008_585,Mercer University,University of Nebraska Medical Center,Undirected,0.016129032258064516,2008
+e_2008_586,Mercer University,University of Nebraska at Omaha,Undirected,0.01282051282051282,2008
+e_2008_587,Dartmouth College,University of New Hampshire Durham,Undirected,0.013888888888888888,2008
+e_2008_588,Marquette University,University of New Hampshire Durham,Undirected,0.010638297872340425,2008
+e_2008_589,University Of South Carolina,University of North Carolina at Chapel Hill,Undirected,0.018518518518518517,2008
+e_2008_590,Texas Christian University,University of North Carolina at Chapel Hill,Undirected,0.013157894736842105,2008
+e_2008_591,New York University,Vanderbilt University,Undirected,0.00641025641025641,2008
+e_2008_592,Mercer University,Vanderbilt University,Undirected,0.009433962264150943,2008
+e_2008_593,University Of St Thomas Minnesota,Vanderbilt University,Undirected,0.009900990099009901,2008
+e_2008_594,Drexel University,Villanova University,Undirected,0.015384615384615385,2008
+e_2008_595,University of North Carolina at Charlotte,Wake Forest University,Undirected,0.016666666666666666,2008
+e_2008_596,Duke University,West Virginia University,Undirected,0.017857142857142856,2008
+e_2008_597,Wake Forest University,Western Michigan University,Undirected,0.018518518518518517,2008
+e_2008_598,George Mason University,Western Michigan University,Undirected,0.038461538461538464,2008
+e_2008_599,University of Maine Orono,Western Michigan University,Undirected,0.017857142857142856,2008
+e_2008_600,Boston College,Worcester Polytechnic Institute,Undirected,0.012345679012345678,2008
+e_2008_601,University of Alaska Fairbanks,Worcester Polytechnic Institute,Undirected,0.02127659574468085,2008
+e_2008_602,University Of Connecticut,Yale University,Undirected,0.024390243902439025,2008
+e_2008_603,Massachusetts Institute Of Technology,Yale University,Undirected,0.013888888888888888,2008
+e_2008_604,Fordham University,Yeshiva University,Undirected,0.007407407407407408,2008
+e_2008_605,Columbia University,Yeshiva University,Undirected,0.005847953216374269,2008
+e_2008_606,Johns Hopkins University,Yeshiva University,Undirected,0.006134969325153374,2008
+e_2008_607,Johns Hopkins University,Loyola Marymount University,Undirected,0.00625,2008
+e_2008_608,Loyola Marymount University,University Of San Diego,Undirected,0.007462686567164179,2008
+e_2008_609,Loyola Marymount University,University Of Notre Dame,Undirected,0.006756756756756757,2008
+e_2008_610,New Jersey Institute Of Technology,Princeton University,Undirected,0.010869565217391304,2008
+e_2008_611,Columbia University,New Jersey Institute Of Technology,Undirected,0.007936507936507936,2008
+e_2008_612,Hofstra University,Yeshiva University,Undirected,0.00819672131147541,2008

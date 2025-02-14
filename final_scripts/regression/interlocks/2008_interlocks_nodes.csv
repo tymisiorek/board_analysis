@@ -1,0 +1,90 @@
+Id,Label,Interlock_Count,AffiliationId,Board_Size
+Andrews University,Andrews University,5,102298084,38
+Auburn University,Auburn University,2,82497590,26
+Boston College,Boston College,5,103531236,45
+Boston University,Boston University,1,111088046,40
+Brandeis University,Brandeis University,4,6902469,48
+Brown University,Brown University,1,27804330,51
+Carnegie Mellon University,Carnegie Mellon University,5,74973139,100
+Case Western Reserve University,Case Western Reserve University,1,58956616,36
+Catholic University Of America,Catholic University Of America,2,84470341,50
+Chapman University,Chapman University,1,185071736,48
+Clark Atlanta University,Clark Atlanta University,6,52064589,33
+Clarkson University,Clarkson University,1,16944753,29
+Clemson University,Clemson University,2,8078737,70
+Columbia University,Columbia University,6,78577930,75
+Cornell University,Cornell University,3,205783295,51
+Dartmouth College,Dartmouth College,3,107672454,18
+Drexel University,Drexel University,1,72816309,39
+Duke University,Duke University,4,170897317,39
+Emory University,Emory University,1,150468666,42
+Florida Agricultural and Mechanical University,Florida Agricultural and Mechanical University,1,8248082,12
+Fordham University,Fordham University,4,164389053,39
+George Mason University,George Mason University,2,162714631,18
+Georgetown University,Georgetown University,6,184565670,41
+Georgia Institute of Technology,Georgia Institute of Technology,3,130701444,19
+Georgia Southern University,Georgia Southern University,3,39815113,19
+Georgia State University,Georgia State University,3,181565077,19
+Harvard University,Harvard University,1,136199984,37
+Hofstra University,Hofstra University,1,139290212,26
+Howard University,Howard University,1,137853757,33
+Illinois Institute Of Technology,Illinois Institute Of Technology,2,180949307,46
+Johns Hopkins University,Johns Hopkins University,5,145311948,67
+Kennesaw State University,Kennesaw State University,3,172980758,19
+Lehigh University,Lehigh University,1,186143895,40
+Loma Linda University,Loma Linda University,5,26347476,21
+Loyola Marymount University,Loyola Marymount University,5,35566140,93
+Loyola University Chicago,Loyola University Chicago,5,1925986,38
+Marquette University,Marquette University,3,102461120,40
+Massachusetts Institute Of Technology,Massachusetts Institute Of Technology,4,63966007,52
+Mercer University,Mercer University,15,150149174,46
+New Jersey Institute Of Technology,New Jersey Institute Of Technology,3,118118575,51
+New School,New School,4,102179633,58
+New York University,New York University,7,57206974,96
+North Carolina Agricultural and Technical State University,North Carolina Agricultural and Technical State University,2,35777872,32
+Pennsylvania State University,Pennsylvania State University,2,130769515,36
+Princeton University,Princeton University,4,20089843,41
+Rensselaer Polytechnic Institute,Rensselaer Polytechnic Institute,1,165799507,32
+Rice University,Rice University,1,74775410,25
+Rochester Institute Of Technology,Rochester Institute Of Technology,1,155173764,53
+Rutgers State University Of New Jersey,Rutgers State University Of New Jersey,2,102322142,82
+San Diego State University,San Diego State University,1,26538001,25
+San Francisco State University,San Francisco State University,1,71838634,25
+Seton Hall University,Seton Hall University,2,12524447,49
+St Johns University,St Johns University,1,142823887,25
+Stanford University,Stanford University,1,97018004,35
+Syracuse University,Syracuse University,2,70983195,29
+Temple University,Temple University,1,84392919,35
+Texas Christian University,Texas Christian University,2,128956969,44
+Tufts University,Tufts University,3,121934306,42
+Universitv of Alabama Tuscaloosa,Universitv of Alabama Tuscaloosa,2,17301866,68
+University Of Chicago,University Of Chicago,7,40347166,49
+University Of Connecticut,University Of Connecticut,2,140172145,21
+University Of Dayton,University Of Dayton,1,127591826,40
+University Of New Mexico,University Of New Mexico,1,169521973,9
+University of North Carolina at Charlotte,University of North Carolina at Charlotte,1,102149020,14
+University Of Notre Dame,University Of Notre Dame,3,107639228,55
+University Of Pittsburgh,University Of Pittsburgh,5,170201317,55
+University Of San Diego,University Of San Diego,3,160856358,41
+University Of South Alabama,University Of South Alabama,2,83809506,16
+University Of South Carolina,University Of South Carolina,2,155781252,22
+University Of St Thomas Minnesota,University Of St Thomas Minnesota,5,161515732,41
+University Of Tulsa,University Of Tulsa,1,87208437,39
+University Of Virginia,University Of Virginia,1,51556381,19
+University of Alaska Fairbanks,University of Alaska Fairbanks,1,141472210,11
+University of Georgia,University of Georgia,3,165733156,19
+University of Illinois at Urbana-Champaign,University of Illinois at Urbana-Champaign,1,157725225,28
+University of Maine Orono,University of Maine Orono,2,7947594,48
+University of Nebraska Lincoln,University of Nebraska Lincoln,1,114395901,48
+University of Nebraska Medical Center,University of Nebraska Medical Center,1,59130452,16
+University of Nebraska at Omaha,University of Nebraska at Omaha,1,122266389,32
+University of New Hampshire Durham,University of New Hampshire Durham,2,161057412,54
+University of North Carolina at Chapel Hill,University of North Carolina at Chapel Hill,2,114027177,32
+Vanderbilt University,Vanderbilt University,3,200719446,60
+Villanova University,Villanova University,1,7863295,26
+Wake Forest University,Wake Forest University,2,47251452,46
+West Virginia University,West Virginia University,1,12097938,17
+Western Michigan University,Western Michigan University,3,141649380,8
+Worcester Polytechnic Institute,Worcester Polytechnic Institute,2,107077323,36
+Yale University,Yale University,2,32971472,20
+Yeshiva University,Yeshiva University,4,19772626,96
