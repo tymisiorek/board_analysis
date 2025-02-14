@@ -121,17 +121,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2018,Dr. Charles W. Lentz,Trustee,Arcadia University,,Arcadia 2003,51204116.0,211088.0,False,,,,Trustee
 2018,Robert E. Putney Ill,Trustee,Arcadia University,,,51204116.0,211088.0,False,,,,Trustee
 2018,Thora T. Easton,Trustee,Arcadia University,,Arcadia 1968,51204116.0,211088.0,False,,,,Trustee
-2018,"Gen Ronald E. ""Ron"" Shoopman",Regent,Arizona Board Of Regents,,Arizona State BS,0.0,,,,,,Regent
-2018,Jay Heiler,Secretary,Arizona Board Of Regents,,Arizona State 1983,0.0,,,,,,Other Board Member
-2018,"Douglas A. ""Doug"" Ducey",Ex Officio Regent,Arizona Board Of Regents,,Arizona State 1982 BS,0.0,,,,,,"Regent, Ex Officio"
-2018,Diane Douglas,Ex Officio Regent,Arizona Board Of Regents,,,0.0,,,,,,"Regent, Ex Officio"
-2018,Lyndel R. Manson,Regent,Arizona Board Of Regents,,Middlebury 1983; Harvard 1987 MBA,0.0,,,,,,Regent
-2018,Jared Gorshe,Treasurer,Arizona Board Of Regents,,,0.0,,,,,,Other Board Member
-2018,"William ""Bill"" Ridenour",Ex Officio Regent,Arizona Board Of Regents,,"Arizona 1966 BA, 1970 JD",0.0,,,,,,"Regent, Ex Officio"
-2018,Karrin K. Taylor Robson,Regent,Arizona Board Of Regents,,,0.0,,,,,,Regent
-2018,Dr. Ram R. Krishna,Regent,Arizona Board Of Regents,,Bangalore (India) 1971 MBBS,0.0,,,,,,Regent
-2018,Dr. Larry Edward Penley,Chair,Arizona Board Of Regents,,"Wake Forest 1971 BA, 1972 MA; Georgia 1976 PhD",0.0,,,,,,Board President
-2018,"Richard T. ""Rick"" Myers, Jr",Regent,Arizona Board Of Regents,,Alabama BS,0.0,,,,,,Regent
 2018,Jay Heiler,Secretary,Arizona State University,,Arizona State 1983,55732556.0,,True,,,,Other Board Member
 2018,"Douglas A. ""Doug"" Ducey",Ex Officio Regent,Arizona State University,,Arizona State 1982 BS,55732556.0,,True,,,,"Regent, Ex Officio"
 2018,Diane Douglas,Ex Officio Regent,Arizona State University,,,55732556.0,,True,,,,"Regent, Ex Officio"
@@ -469,17 +458,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2018,Carol Stewart Hawkins,Trustee,Biola University,,,152479009.0,110097.0,True,,,,Trustee
 2018,Ray Johnson,Trustee,Biola University,,,152479009.0,110097.0,True,,,,Trustee
 2018,"Stanley ""Stan"" Jantz",Trustee,Biola University,,,152479009.0,110097.0,True,,,,Trustee
-2018,"Patricia Hines ""Patty"" Cownie",Regent,Board Of Regents State Of Iowa,,Iowa 1966 BS,0.0,,,,,,Regent
-2018,Sherry Bates,Regent,Board Of Regents State Of Iowa,,lowa State 1974 BS,0.0,,,,,,Regent
-2018,"Dr. Michael ""Mike"" Richards",President,Board Of Regents State Of Iowa,,"Iowa 1970, 1974 MD",0.0,,,,,,Board President
-2018,Bruce L. Rastetter,Regent,Board Of Regents State Of Iowa,,,0.0,,,,,,Regent
-2018,Katie S. Mulholland,Regent,Board Of Regents State Of Iowa,,,0.0,,,,,,Regent
-2018,Larry E. McKibben,Regent,Board Of Regents State Of Iowa,,Northern Iowa BA; Iowa JD,0.0,,,,,,Regent
-2018,Nancy A. Dunkel,Regent,Board Of Regents State Of Iowa,,Loras (Attended),0.0,,,,,,Regent
-2018,Milt J. Dakovich,Regent,Board Of Regents State Of Iowa,,lowa State BS,0.0,,,,,,Regent
-2018,Nancy Jane Boettger,Regent,Board Of Regents State Of Iowa,,Iowa State 1965 BS; Buena Vista Col 1982 BA,0.0,,,,,,Regent
-2018,Dr. Subhash C. Sahai,Regent,Board Of Regents State Of Iowa,,,0.0,,,,,,Regent
-2018,Rachael Johnson,Student Regent,Board Of Regents State Of Iowa,,,0.0,,,,,,Regent
 2018,Sherri Ybarra,Ex Officio Board Member,Boise State University,,,120156002.0,,True,,,,"Member, Ex Officio"
 2018,Richard Westerberg,Board Member,Boise State University,,,120156002.0,,True,,,,Member
 2018,Don Soltman,Board Member,Boise State University,,Air Force Acad BS; Baylor MHCA,120156002.0,,True,,,,Member
@@ -2897,14 +2875,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2018,James T. Morris,Chair,Indiana University Purdue University Indianapolis,,,55769427.0,,True,,,,Board President
 2018,Andrew F. Mohr,Governor Appointed Trustee,Indiana University Purdue University Indianapolis,,Indiana BS,55769427.0,,True,,,,Trustee
 2018,"Dr. Philip N. Eskew, Jr",Alumni Elected Trustee,Indiana University Purdue University Indianapolis,,DePauw 1963 BA; Indiana 1970 MD,55769427.0,,True,,,,Trustee
-2018,"Michael J. Mirro, MD, FACC",Governor Appointed Trustee,Indiana University System,,Loyola U (Chicago); iana MD,0.0,,,,,,Trustee
-2018,Anna M. Williams,Governor Appointed Student Trustee,Indiana University System,,Indiana 2010 BA,0.0,,,,,,Trustee
-2018,Melanie S. Walker,Governor Appointed Trustee,Indiana University System,,Cornell,0.0,,,,,,Trustee
-2018,Patrick A. Shoulders,Alumni Elected Trustee,Indiana University System,,"Indiana 1975 BA, 1978 JD",0.0,,,,,,Trustee
-2018,James T. Morris,Chair,Indiana University System,,,0.0,,,,,,Board President
-2018,"William Q. ""Quinn"" Buckner",Governor Appointed Trustee,Indiana University System,,,0.0,,,,,,Trustee
-2018,Andrew F. Mohr,Governor Appointed Trustee,Indiana University System,,Indiana BS,0.0,,,,,,Trustee
-2018,"Dr. Philip N. Eskew, Jr",Alumni Elected Trustee,Indiana University System,,DePauw 1963 BA; Indiana 1970 MD,0.0,,,,,,Trustee
 2018,"Thomas S. ""Tom"" Muller",Governor,Indiana University of Pennsylvania,,Syracuse; Fairleigh Dickinson MBA,200885203.0,,True,,,Pennsylvania State System,Governor
 2018,Guido M. Pichini,Governor,Indiana University of Pennsylvania,,,200885203.0,,True,,,Pennsylvania State System,Governor
 2018,"Michael K. Hanna, Sr",Governor,Indiana University of Pennsylvania,,Lock Haven 1977 BA; Pittsburgh 1980 JD,200885203.0,,True,,,Pennsylvania State System,Governor
@@ -4520,17 +4490,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2018,Kurt Kaufman,Regent,Ohio University,,Wittenberg BBA; Ohio Northern JD,4210106879.0,,True,,,,Regent
 2018,Vacant,Chairman,Ohio University,,,4210106879.0,,True,,,,Board President
 2018,Peggy Lehner,Ex Officio Regent,Ohio University,,,4210106879.0,,True,,,,"Regent, Ex Officio"
-2018,"Andrew W. ""Andy"" Lester",Regent,Oklahoma State System Of Higher Education,,"Duke 1977 BA; Georgetown 1981 MSFS, 1981 JD",0.0,,,,,,Regent
-2018,"Joseph L. Parker, Jr",Secretary,Oklahoma State System Of Higher Education,,Nebraska 1969 BA; U Washington 1971 MBA,0.0,,,,,,Other Board Member
-2018,Jay L. Helm,Vice Chairman,Oklahoma State System Of Higher Education,,,0.0,,,,,,Board Vice President
-2018,"Jeffrey W. ""Jeff"" Hickman",Regent,Oklahoma State System Of Higher Education,,Oklahoma 1996 BA,0.0,,,,,,Regent
-2018,"Dr. Glen D. Johnson, Jr",Chancellor,Oklahoma State System Of Higher Education,,,0.0,,,,,,Board President
-2018,Ann Holloway,Assistant Secretary,Oklahoma State System Of Higher Education,,Southeastern Oklahoma St,0.0,,,,,,Other Board Member
-2018,"MG Toney Stricklin, USA (Ret)",Regent,Oklahoma State System Of Higher Education,,Cameron 1975; National War Col,0.0,,,,,,Regent
-2018,"Michael C""Mike"" Turpen",Regent,Oklahoma State System Of Higher Education,,"Tulsa 1972 BS, 1974 JD",0.0,,,,,,Regent
-2018,"Dr. Ronald H. White, MD",Chairman,Oklahoma State System Of Higher Education,,,0.0,,,,,,Board President
-2018,"Dr. Glen D. Johnson, Jr",Chancellor,Oklahoma State System Of Higher Education,,"Oklahoma BA, JD",0.0,,,,,,Board President
-2018,John Massey,Regent,Oklahoma State System Of Higher Education,,,0.0,,,,,,Regent
 2018,"Andrew W. ""Andy"" Lester",Regent,Oklahoma State University,,"Duke 1977 BA; Georgetown 1981 MSFS, 1981 JD",115475287.0,,True,,,,Regent
 2018,"Dr. Ronald H. White, MD",Chairman,Oklahoma State University,,,115475287.0,,True,,,,Board President
 2018,"Michael C""Mike"" Turpen",Regent,Oklahoma State University,,"Tulsa 1972 BS, 1974 JD",115475287.0,,True,,,,Regent
@@ -5545,15 +5504,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2018,Barbara Latz Cohen,Trustee,Simmons College,,Simmons 1968 BA,179245896.0,167783.0,False,,,,Trustee
 2018,Pam J. Toulopoulos,Trustee,Simmons College,,Simmons 1973 BA,179245896.0,167783.0,False,,,,Trustee
 2018,Leslie Lake,Trustee,Simmons College,,Simmons 1986 BA,179245896.0,167783.0,False,,,,Trustee
-2018,Randy Schaefer,Regent,South Dakota Board Of Regents,,Dakota State 1984 BS,0.0,,,,,,Regent
-2018,John W. Bastian,Secretary,South Dakota Board Of Regents,,South Dakota State BS; Hamline JD,0.0,,,,,,Other Board Member
-2018,Kevin Schieffer,Vice President,South Dakota Board Of Regents,,South Dakota MPA,0.0,,,,,,Board Vice President
-2018,Dr. Joan Wink,Regent,South Dakota Board Of Regents,,Yankton; Arizona; Texas A&M PhD,0.0,,,,,,Regent
-2018,Bob Sutton,President,South Dakota Board Of Regents,,South Dakota MPA,0.0,,,,,,Board President
-2018,Jim Thares,Regent,South Dakota Board Of Regents,,Moorhead State BAcc,0.0,,,,,,Regent
-2018,"Dr. Michael G. ""Mike"" Rush",Regent,South Dakota Board Of Regents,,,0.0,,,,,,Regent
-2018,Jim Morgan,Regent,South Dakota Board Of Regents,,South Dakota State 1970 MSEE,0.0,,,,,,Regent
-2018,"Pamela S""Pam"" Roberts",Regent,South Dakota Board Of Regents,,South Dakota State 1977 BS,0.0,,,,,,Regent
 2018,"Phillip M. ""Phil"" Britt",Regent,Southeast Missouri State University,,Southeast Missouri State; Missouri JD,161165907.0,179557.0,False,,,,Regent
 2018,Thomas M. Meyer,Regent,Southeast Missouri State University,,,161165907.0,179557.0,False,,,,Regent
 2018,Donald G. LaFerla,Regent,Southeast Missouri State University,,Southeast Missouri State 1961 BS,161165907.0,179557.0,False,,,,Regent
@@ -6306,26 +6256,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2018,Patrick V. Larkin,Commonwealth Trustee,Temple University,,,84392919.0,216339.0,True,,,,Trustee
 2018,"James F. ""Jim"" Kenney",Ex Officio Trustee,Temple University,,La Salle U 1980 BA,84392919.0,216339.0,True,,,,"Trustee, Ex Officio"
 2018,Drew A. Katz,Trustee,Temple University,,,84392919.0,216339.0,True,,,,Trustee
-2018,Jai Templeton,Ex Officio Regent,Tennessee Board Of Regents,,,0.0,,,,,,"Regent, Ex Officio"
-2018,J. Parker Smith,Regent,Tennessee Board Of Regents,,,0.0,,,,,,Regent
-2018,"Thomas A. H""Tom"" White",Regent-at-Large,Tennessee Board Of Regents,,Sewanee 1980; Vanderbilt 1982 MB,0.0,,,,,,Regent
-2018,Dr. Barbara U. Prescott,Regent,Tennessee Board Of Regents,,,0.0,,,,,,Regent
-2018,Danni B. Varlan,Regent,Tennessee Board Of Regents,,,0.0,,,,,,Regent
-2018,Dr. Candice McQueen,Ex Officio Regent,Tennessee Board Of Regents,,Lipscomb U BA; Vanderbilt; Texas PhD,0.0,,,,,,"Regent, Ex Officio"
-2018,Dr. MaryLou Apple,Regent,Tennessee Board Of Regents,,"Tennessee BSN, MSN; East Tennessee State EdD",0.0,,,,,,Regent
-2018,Fran Marcum,Regent,Tennessee Board Of Regents,,Vanderbilt BS,0.0,,,,,,Regent
-2018,"Gregory M. ""Greg"" Duckett",Regent,Tennessee Board Of Regents,,Oberlin BA; U Memphis JD,0.0,,,,,,Regent
-2018,Mike Krause,Ex Officio Regent,Tennessee Board Of Regents,,Austin Peay State; Vanderbilt MPP,0.0,,,,,,"Regent, Ex Officio"
-2018,Rick Locker,"Director, Communications",Tennessee Board Of Regents,,,0.0,,,,,,Regent
-2018,"William Edward ""Bill"" Haslam",Chairman,Tennessee Board Of Regents,,Emory 1980 BA,0.0,,,,,,Board President
-2018,Jeremy Mitchell,Student Regent,Tennessee Board Of Regents,,,0.0,,,,,,Regent
-2018,Mary Moody,Board Secretary,Tennessee Board Of Regents,,Mississippi Women BS; U Memphis JD,0.0,,,,,,Other Board Member
-2018,Larry Autry,Faculty Regent,Tennessee Board Of Regents,,,0.0,,,,,,Regent
-2018,Joey Hatch,Regent,Tennessee Board Of Regents,,,0.0,,,,,,Regent
-2018,"Thomas C. ""Tom"" Griscom",Regent,Tennessee Board Of Regents,,,0.0,,,,,,Regent
-2018,Emily J. Reynolds,Vice Chair,Tennessee Board Of Regents,,Stephens 1978 BA,0.0,,,,,,Board Vice President
-2018,Yolanda S. Greene,Regent,Tennessee Board Of Regents,,,0.0,,,,,,Regent
-2018,Leigh A. Shockey,Regent-at-Large,Tennessee Board Of Regents,,,0.0,,,,,,Regent
 2018,"Thomas C. ""Tom"" Griscom",Regent,Tennessee State University,,,75256744.0,,True,,,,Regent
 2018,Yolanda S. Greene,Regent,Tennessee State University,,,75256744.0,,True,,,,Regent
 2018,Jai Templeton,Ex Officio Regent,Tennessee State University,,,75256744.0,,True,,,,"Regent, Ex Officio"

@@ -3,7 +3,7 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Michael Lazarus,Trustee,Adelphi University,,,71965598.0,188429.0,True,Trustee
 2007,Katherine Littlefield,Trustee,Adelphi University,,,71965598.0,188429.0,True,Trustee
 2007,"Kenneth A. McClane, Jr",Trustee,Adelphi University,,,71965598.0,188429.0,True,Trustee
-2007,Alva O. Way,Fellow,Brown University,,,27804330.0,217156.0,True,Trustee
+2007,Alva O. Way.,Fellow,Brown University,,,27804330.0,217156.0,True,Trustee
 2007,Wendy J. Strothman,Fellow,Brown University,,,27804330.0,217156.0,True,Trustee
 2007,Ruth J. Simmons,Fellow,Brown University,,,27804330.0,217156.0,True,Trustee
 2007,Ruth J. Simmons,President,Brown University,,,27804330.0,217156.0,True,Board President
@@ -33,7 +33,7 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,"Jack W. Carter, Jr",Board Member,Clemson University,,,8078737.0,217882.0,True,Member
 2007,Chalmers R. Carr III,Board Member,Clemson University,,,8078737.0,217882.0,True,Member
 2007,Darryl C. Caldwell,Board Member,Clemson University,,Clemson 1991 BS; North Carolina Central 1999 JD,8078737.0,217882.0,True,Member
-2007,Kim Wilkerson,Board Member,Clemson University,,,8078737.0,217882.0,True,Member
+2007,Kim Wilkerson.,Board Member,Clemson University,,,8078737.0,217882.0,True,Member
 2007,C. Green DesChamps II,Board Member,Clemson University,,,8078737.0,217882.0,True,Member
 2007,John J. Britton,Vice Chairman,Clemson University,,Clemson 1954 BS; South Carolina 1959 LLB,8078737.0,217882.0,True,Board Vice President
 2007,Paivi Nettamo,Board Member,Clemson University,,,8078737.0,217882.0,True,Member
@@ -44,7 +44,7 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,"Charles T. Walker, Sr",Board Member,Clemson University,,,8078737.0,217882.0,True,Member
 2007,"W. E. ""Bill"" Tumblin",Board Member,Clemson University,,,8078737.0,217882.0,True,Member
 2007,"John W. Tucker, Jr",Board Member,Clemson University,,,8078737.0,217882.0,True,Member
-2007,James W. Taylor,Board Member,Clemson University,,,8078737.0,217882.0,True,Member
+2007,James G. Taylor,Board Member,Clemson University,,,8078737.0,217882.0,True,Member
 2007,Diane Smock,Board Member,Clemson University,,,8078737.0,217882.0,True,Member
 2007,Thomas Andrew Sherard,Board Member,Clemson University,,,8078737.0,217882.0,True,Member
 2007,Robert W. Shepard,Board Member,Clemson University,,,8078737.0,217882.0,True,Member
@@ -77,27 +77,27 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,E. Garrison Walters,Chancellor,Clemson University,,"Boston U 1967 BA, 1968 MA; Ohio State 1972 PhD",8078737.0,217882.0,True,Board President
 2007,Daniel E. Youngblood,Board Member,Clemson University,,,8078737.0,217882.0,True,Member
 2007,Mary Jane Saunders,Provost (Interim),Clemson University,,,8078737.0,217882.0,True,Member
-2007,John J. Boyle III,"Vice President, Business Affairs and Finance",Clemson University,,,8078737.0,217882.0,True,Board Vice President
+2007,John J. Boyle III.,"Vice President, Business Affairs and Finance",Clemson University,,,8078737.0,217882.0,True,Board Vice President
 2007,Edward W. Hill,"Vice President, Economic Development",Clemson University,,,8078737.0,217882.0,True,Board Vice President
 2007,E. Garrison Walters,Ohio Board Of Regents (Interim),Clemson University,,"Boston U 1967 BA, 1968 MA; Ohio State 1972 PhD",8078737.0,217882.0,True,Member
 2007,William J. Spiker,"Vice President, University Advancement",Clemson University,,,8078737.0,217882.0,True,Board Vice President
 2007,Barbara E. Smith,"Coordinator, Special Events",Clemson University,,,8078737.0,217882.0,True,Other Board Member
 2007,Bill L. Amick,Trustee,Clemson University,,,8078737.0,217882.0,True,Member
-2007,"Leon J. Hendrix, Jr",Chairman,Clemson University,,,8078737.0,217882.0,True,Board President
+2007,Leon J. Hendrix. Jr,Chairman,Clemson University,,,8078737.0,217882.0,True,Board President
 2007,"Thomas C. Lynch, Jr",Trustee,Clemson University,,,8078737.0,217882.0,True,Member
-2007,Louis B. Lynn,Trustee,Clemson University,,,8078737.0,217882.0,True,Member
+2007,Louis B. Lynn.,Trustee,Clemson University,,,8078737.0,217882.0,True,Member
 2007,Patricia Herring McAbee,Trustee,Clemson University,,,8078737.0,217882.0,True,Member
 2007,James R. Williams,Board Member,Clemson University,,,8078737.0,217882.0,True,Member
 2007,"Thomas B. McTeer, Jr.",Trustee,Clemson University,,,8078737.0,217882.0,True,Member
-2007,Robert L. Peeler,Trustee,Clemson University,,,8078737.0,217882.0,True,Member
-2007,"William C. Smith, Jr.",Trustee,Clemson University,,,8078737.0,217882.0,True,Member
+2007,Robert L. Peeler.,Trustee,Clemson University,,,8078737.0,217882.0,True,Member
+2007,"William C. Smith, Jr",Trustee,Clemson University,,,8078737.0,217882.0,True,Member
 2007,Dent Adams,Board Member,Clemson University,,Clemson; Case Western 1969 MBA,8078737.0,217882.0,True,Member
 2007,Ellison Smyth McKissick III,Trustee,Clemson University,,Clemson BS; South Carolina MBA,8078737.0,217882.0,True,Member
 2007,Louis P. Batson III,Board Member,Clemson University,,,8078737.0,217882.0,True,Member
 2007,Sterling W. Beckman,Board Member,Clemson University,,,8078737.0,217882.0,True,Member
 2007,"Hubert E. Long, Jr.",Board Member,Clemson University,,,8078737.0,217882.0,True,Member
 2007,Tom B. LaRoche,Board Member,Clemson University,,,8078737.0,217882.0,True,Member
-2007,"Leonard L. ""Len"" Hutchinson",Board Member,Clemson University,,,8078737.0,217882.0,True,Member
+2007,Leonard L. Hutchinson II,Board Member,Clemson University,,,8078737.0,217882.0,True,Member
 2007,"F. K. Hill, Jr.",Board Member,Clemson University,,,8078737.0,217882.0,True,Member
 2007,W. Keller Kissam,Board Member,Clemson University,,,8078737.0,217882.0,True,Member
 2007,Irvine T. Welling III,Board Member,Clemson University,,,8078737.0,217882.0,True,Member
@@ -115,14 +115,14 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Richard E. D'Aquin,Regent,Louisiana Tech University,,,919208787.0,,True,Member
 2007,"Terry C. Landry, Jr.",Student Regent,Louisiana Tech University,,,919208787.0,,True,Other Board Member
 2007,Frances T. Henry,Vice Chairman,Louisiana Tech University,,,919208787.0,,True,Board Vice President
-2007,Ingrid T. Labat,Regent,Louisiana Tech University,,,919208787.0,,True,Member
+2007,Ingrid Labat,Regent,Louisiana Tech University,,,919208787.0,,True,Member
 2007,Mary Ellen Roy,Regent,Louisiana Tech University,,Southwestern 1981 BA; Harvard 1984 JD,919208787.0,,True,Member
-2007,Robert W. Levy,Regent,Louisiana Tech University,,,919208787.0,,True,Member
+2007,Robert Levy,Regent,Louisiana Tech University,,,919208787.0,,True,Member
 2007,"W. Clinton Rasberry, Jr",Regent,Louisiana Tech University,,,919208787.0,,True,Member
-2007,"Virgil Robinson, Jr",Regent,Louisiana Tech University,,,919208787.0,,True,Member
+2007,"Virgil Robinson, Jr.",Regent,Louisiana Tech University,,,919208787.0,,True,Member
 2007,Pat A. Strong,Secretary,Louisiana Tech University,,,919208787.0,,True,Other Board Member
 2007,William Clifford Smith,Regent,Louisiana Tech University,,,919208787.0,,True,Member
-2007,Harold M. Stokes,Regent,Louisiana Tech University,,,919208787.0,,True,Member
+2007,Harold Stokes,Regent,Louisiana Tech University,,,919208787.0,,True,Member
 2007,"Artis Terrell, Jr.",Regent,Louisiana Tech University,,,919208787.0,,True,Member
 2007,George A.V. Dunning,Trustee,Loyola Marymount University,,,35566140.0,117946.0,True,Regent
 2007,"Rev. Paul J. Fitzgerald, S.J",Trustee,Loyola Marymount University,,"Santa Clara 1980 BA; Weston Theology 1991 MDiv, 1993",35566140.0,117946.0,True,Regent
@@ -133,11 +133,11 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Deborah Lanni,Trustee,Loyola Marymount University,,,35566140.0,117946.0,True,Regent
 2007,Paul W. Mikos,Trustee,Loyola Marymount University,,,35566140.0,117946.0,True,Regent
 2007,Kathleen Hannon Aikenhead,Trustee,Loyola Marymount University,,,35566140.0,117946.0,True,Regent
-2007,"Father Robert B. Lawton, S.J",Trustee,Loyola Marymount University,,,35566140.0,117946.0,True,Regent
+2007,"Father Robert B. Lawton, S.J.",Trustee,Loyola Marymount University,,,35566140.0,117946.0,True,Regent
 2007,Kathleen L. McCarthy,Trustee,Loyola Marymount University,,,35566140.0,117946.0,True,Regent
 2007,R. Chad Dreier,Chairman,Loyola Marymount University,,Loyola Marymount 1969 BS,35566140.0,117946.0,True,Board President
-2007,"Father Robert B. Lawton, S.J",President,Loyola Marymount University,,,35566140.0,117946.0,True,Board President
-2007,"Thomas E. Larkin, Jr",Trustee,Loyola Marymount University,,Notre Dame 1961 BA,35566140.0,117946.0,True,Regent
+2007,"Father Robert B. Lawton, S.J.",President,Loyola Marymount University,,,35566140.0,117946.0,True,Board President
+2007,"Thomas E. Larkin, Jr.",Trustee,Loyola Marymount University,,Notre Dame 1961 BA,35566140.0,117946.0,True,Regent
 2007,"Rev. Daniel K. Lahart, S.J",Trustee,Loyola Marymount University,,,35566140.0,117946.0,True,Regent
 2007,"Robert H. Kerrigan, Jr",Trustee,Loyola Marymount University,,,35566140.0,117946.0,True,Regent
 2007,Margaret F. Jagels,Trustee Emerita,Loyola Marymount University,,,35566140.0,117946.0,True,Regent
@@ -148,13 +148,13 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Bruce C. Edwards,Trustee,Loyola Marymount University,,,35566140.0,117946.0,True,Regent
 2007,"Alex Chaves, Sr",Trustee,Loyola Marymount University,,,35566140.0,117946.0,True,Regent
 2007,"Rev. Kevin P. Quinn, S.J",Trustee,Loyola Marymount University,,,35566140.0,117946.0,True,Regent
-2007,"Edward P. Roski, Jr",Trustee,Loyola Marymount University,,,35566140.0,117946.0,True,Regent
+2007,"Edward P. Roski, Jr.",Trustee,Loyola Marymount University,,,35566140.0,117946.0,True,Regent
 2007,"Rev. Robert W. Scholla, S.J",Trustee,Loyola Marymount University,,,35566140.0,117946.0,True,Regent
 2007,John F. Cosgrove,Trustee,Loyola Marymount University,,,35566140.0,117946.0,True,Regent
 2007,Elbridge H. Stuart III,Trustee,Loyola Marymount University,,,35566140.0,117946.0,True,Regent
 2007,"Thomas R. Von Der Ahe, Sr",Trustee,Loyola Marymount University,,,35566140.0,117946.0,True,Regent
 2007,Walter F. Ulloa,Trustee,Loyola Marymount University,,,35566140.0,117946.0,True,Regent
-2007,"Rev. Jeffrey P. von Arx, SJ",Trustee,Loyola Marymount University,,,35566140.0,117946.0,True,Regent
+2007,"Rev. Jeffrey P. von Arx, S.J",Trustee,Loyola Marymount University,,,35566140.0,117946.0,True,Regent
 2007,"Sister Rita Arthur, RSHM",Trustee,Loyola Marymount University,,,35566140.0,117946.0,True,Regent
 2007,Michael R. Steed,Trustee,Loyola Marymount University,,,35566140.0,117946.0,True,Regent
 2007,Robert J. Abernethy,Trustee,Loyola Marymount University,,,35566140.0,117946.0,True,Regent
@@ -167,7 +167,7 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Peter B. Caloyeras,Trustee,Loyola Marymount University,,,35566140.0,117946.0,True,Regent
 2007,Larry R. Carter,Trustee,Loyola Marymount University,,Arizona State 1974 BS,35566140.0,117946.0,True,Regent
 2007,Joan A. Payden,Trustee,Loyola Marymount University,,Trinity Col (DC) BA; Harvard 1981 AN,35566140.0,117946.0,True,Regent
-2007,Arthur F. Powell,Trustee,New Jersey Institute Of Technology,,,118118575.0,185828.0,True,Overseer
+2007,Arthur F Powell,Trustee,New Jersey Institute Of Technology,,,118118575.0,185828.0,True,Overseer
 2007,David J. Samuel,Trustee,New Jersey Institute Of Technology,,,118118575.0,185828.0,True,Overseer
 2007,James M. Burns,Vice Chairman,New Jersey Institute Of Technology,,,118118575.0,185828.0,True,Board Vice President
 2007,"Anthony J. Knapp, Jr",Trustee,New Jersey Institute Of Technology,,,118118575.0,185828.0,True,Overseer
@@ -180,15 +180,15 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Jon S. Corzine,Ex Officio Trustee,New Jersey Institute Of Technology,,Illinois 1969 BA; Chicago 1973 MBA,118118575.0,185828.0,True,"Overseer, Ex Officio"
 2007,Philip K. Beachem,Trustee,New Jersey Institute Of Technology,,,118118575.0,185828.0,True,Overseer
 2007,Dennis M. Bone,Trustee,New Jersey Institute Of Technology,,,118118575.0,185828.0,True,Overseer
-2007,"Elizabeth ""Liz"" Garcia",Trustee,New Jersey Institute Of Technology,,,118118575.0,185828.0,True,Overseer
+2007,Elizabeth Garcia,Trustee,New Jersey Institute Of Technology,,,118118575.0,185828.0,True,Overseer
 2007,Richard L. McCormick,President,Rutgers State University Of New Jersey,,,102322142.0,186380.0,True,Board President
 2007,Leslie Eugene Goodman,Governor,Rutgers State University Of New Jersey,,"Rutgers 1965 BA, 1970 MBA; Rutgers (Camden) 1980 JD",102322142.0,186380.0,True,Trustee
-2007,"Rev. M. William Howard, Jr",Governor,Rutgers State University Of New Jersey,,Morehouse Col 1968 BA; Princeton Sem 1972 MDiv,102322142.0,186380.0,True,Trustee
+2007,"Rev. M. William Howard, Jr.",Governor,Rutgers State University Of New Jersey,,Morehouse Col 1968 BA; Princeton Sem 1972 MDiv,102322142.0,186380.0,True,Trustee
 2007,Paul L. Leath,Faculty Representative Governor,Rutgers State University Of New Jersey,,"Missouri 1961 BS, 1963 MS, 1966 PhD",102322142.0,186380.0,True,Other Board Member
 2007,Duncan L. MacMillan,Governor,Rutgers State University Of New Jersey,,Rutgers 1966 BA; Fordham 1967 MA; NYU 1971 MBA,102322142.0,186380.0,True,Trustee
-2007,"John F. Russo, Sr",Governor,Rutgers State University Of New Jersey,,Notre Dame 1955; Columbia 1958 JD,102322142.0,186380.0,True,Trustee
+2007,"John F. Russo, Sr.",Governor,Rutgers State University Of New Jersey,,Notre Dame 1955; Columbia 1958 JD,102322142.0,186380.0,True,Trustee
 2007,Richard L. McCormick,Ex Officio Governor,Rutgers State University Of New Jersey,,,102322142.0,186380.0,True,"Trustee, Ex Officio"
-2007,"Albert R. Gamper, Jr",Chairman,Rutgers State University Of New Jersey,,Rutgers (Newark) 1966 BS,102322142.0,186380.0,True,Board President
+2007,"Albert R. Gamper, Jr.",Chairman,Rutgers State University Of New Jersey,,Rutgers (Newark) 1966 BS,102322142.0,186380.0,True,Board President
 2007,Eugene Michael O'Hara,Governor,Rutgers State University Of New Jersey,,Rutgers (Newark) 1962 BS,102322142.0,186380.0,True,Trustee
 2007,Leslie A. Fehrenbach,Secretary,Rutgers State University Of New Jersey,,,102322142.0,186380.0,True,Other Board Member
 2007,Robert A. Laudicina,Governor,Rutgers State University Of New Jersey,,"Rutgers 1963 BA, 1965 MA; Columbia 1968 PhD",102322142.0,186380.0,True,Trustee
@@ -203,7 +203,7 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Rev. Anthony Kulig,Trustee,Seton Hall University,,,12524447.0,186584.0,True,Regent
 2007,Richard F. Liebler,Trustee,Seton Hall University,,,12524447.0,186584.0,True,Regent
 2007,Gerald P. Buccino,Trustee,Seton Hall University,,,12524447.0,186584.0,True,Regent
-2007,Thomas Sharkey,Trustee,Seton Hall University,,,12524447.0,186584.0,True,Regent
+2007,Thomas J. Sharkey,Trustee,Seton Hall University,,,12524447.0,186584.0,True,Regent
 2007,Monsignor Robert Sheeran,Trustee,Seton Hall University,,,12524447.0,186584.0,True,Regent
 2007,Monsignor Robert F. Coleman,Rector,Seton Hall University,Immaculate Conception Seminary School Of Theology,,12524447.0,186584.0,True,Other Board Member
 2007,Kurt T. Borowsky,Trustee,Seton Hall University,,,12524447.0,186584.0,True,Regent
@@ -218,38 +218,38 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Stanley H. Barer,Regent,University Of Washington,,,201448701.0,236948.0,True,Member
 2007,William L. Rasmussen,Student Regent,University Of Washington,,,201448701.0,236948.0,True,Other Board Member
 2007,Herb Simon,Regent,University Of Washington,,,201448701.0,236948.0,True,Member
-2007,Craig W. Cole,Regent,University Of Washington,,,201448701.0,236948.0,True,Member
-2007,"Virgil Robinson, Jr",Regent,University of Louisiana,,,79516672.0,,True,Member
-2007,Ingrid T. Labat,Regent,University of Louisiana,,,79516672.0,,True,Member
+2007,Craig Cole,Regent,University Of Washington,,,201448701.0,236948.0,True,Member
+2007,"Virgil Robinson, Jr.",Regent,University of Louisiana,,,79516672.0,,True,Member
+2007,Ingrid Labat,Regent,University of Louisiana,,,79516672.0,,True,Member
 2007,William Clifford Smith,Regent,University of Louisiana,,,79516672.0,,True,Member
-2007,Harold M. Stokes,Regent,University of Louisiana,,,79516672.0,,True,Member
+2007,Harold Stokes,Regent,University of Louisiana,,,79516672.0,,True,Member
 2007,Pat A. Strong,Secretary,University of Louisiana,,,79516672.0,,True,Other Board Member
 2007,Scott Brame,Regent,University of Louisiana,,,79516672.0,,True,Member
 2007,William Blake,Regent,University of Louisiana,,,79516672.0,,True,Member
 2007,Richard E. D'Aquin,Regent,University of Louisiana,,,79516672.0,,True,Member
 2007,Stanley J. Jacobs,Regent,University of Louisiana,,,79516672.0,,True,Member
-2007,Harold M. Stokes,Regent,University of Louisiana,,,79516672.0,,True,Member
+2007,Harold Stokes,Regent,University of Louisiana,,,79516672.0,,True,Member
 2007,"W. Clinton Rasberry, Jr",Regent,University of Louisiana,,,79516672.0,,True,Member
 2007,"Artis Terrell, Jr.",Regent,University of Louisiana,,,79516672.0,,True,Member
 2007,Frances T. Henry,Vice Chairman,University of Louisiana,,,79516672.0,,True,Board Vice President
 2007,Scott Brame,Regent,University of Louisiana,,,79516672.0,,True,Member
 2007,"W. Clinton Rasberry, Jr",Regent,University of Louisiana,,,79516672.0,,True,Member
-2007,"Virgil Robinson, Jr",Regent,University of Louisiana,,,79516672.0,,True,Member
+2007,"Virgil Robinson, Jr.",Regent,University of Louisiana,,,79516672.0,,True,Member
 2007,Mary Ellen Roy,Regent,University of Louisiana,,Southwestern 1981 BA; Harvard 1984 JD,79516672.0,,True,Member
 2007,William Blake,Regent,University of Louisiana,,,79516672.0,,True,Member
 2007,"Terry C. Landry, Jr.",Student Regent,University of Louisiana,,,79516672.0,,True,Other Board Member
 2007,Richard E. D'Aquin,Regent,University of Louisiana,,,79516672.0,,True,Member
 2007,Frances T. Henry,Vice Chairman,University of Louisiana,,,79516672.0,,True,Board Vice President
-2007,Ingrid T. Labat,Regent,University of Louisiana,,,79516672.0,,True,Member
-2007,Ingrid T. Labat,Regent,University of Louisiana,,,79516672.0,,True,Member
+2007,Ingrid Labat,Regent,University of Louisiana,,,79516672.0,,True,Member
+2007,Ingrid Labat,Regent,University of Louisiana,,,79516672.0,,True,Member
 2007,"Terry C. Landry, Jr.",Student Regent,University of Louisiana,,,79516672.0,,True,Other Board Member
-2007,Robert W. Levy,Regent,University of Louisiana,,,79516672.0,,True,Member
+2007,Robert Levy,Regent,University of Louisiana,,,79516672.0,,True,Member
 2007,Stanley J. Jacobs,Regent,University of Louisiana,,,79516672.0,,True,Member
 2007,"W. Clinton Rasberry, Jr",Regent,University of Louisiana,,,79516672.0,,True,Member
 2007,William Clifford Smith,Regent,University of Louisiana,,,79516672.0,,True,Member
-2007,Robert W. Levy,Regent,University of Louisiana,,,79516672.0,,True,Member
+2007,Robert Levy,Regent,University of Louisiana,,,79516672.0,,True,Member
 2007,Mary Ellen Roy,Regent,University of Louisiana,,Southwestern 1981 BA; Harvard 1984 JD,79516672.0,,True,Member
-2007,"Virgil Robinson, Jr",Regent,University of Louisiana,,,79516672.0,,True,Member
+2007,"Virgil Robinson, Jr.",Regent,University of Louisiana,,,79516672.0,,True,Member
 2007,"Artis Terrell, Jr.",Regent,University of Louisiana,,,79516672.0,,True,Member
 2007,Frances T. Henry,Vice Chairman,University of Louisiana,,,79516672.0,,True,Board Vice President
 2007,Richard E. D'Aquin,Regent,University of Louisiana,,,79516672.0,,True,Member
@@ -257,22 +257,22 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,William Blake,Regent,University of Louisiana,,,79516672.0,,True,Member
 2007,"Artis Terrell, Jr.",Regent,University of Louisiana,,,79516672.0,,True,Member
 2007,Pat A. Strong,Secretary,University of Louisiana,,,79516672.0,,True,Other Board Member
-2007,Harold M. Stokes,Regent,University of Louisiana,,,79516672.0,,True,Member
+2007,Harold Stokes,Regent,University of Louisiana,,,79516672.0,,True,Member
 2007,William Clifford Smith,Regent,University of Louisiana,,,79516672.0,,True,Member
 2007,Mary Ellen Roy,Regent,University of Louisiana,,Southwestern 1981 BA; Harvard 1984 JD,79516672.0,,True,Member
-2007,"Virgil Robinson, Jr",Regent,University of Louisiana,,,79516672.0,,True,Member
+2007,"Virgil Robinson, Jr.",Regent,University of Louisiana,,,79516672.0,,True,Member
 2007,Stanley J. Jacobs,Regent,University of Louisiana,,,79516672.0,,True,Member
 2007,"Terry C. Landry, Jr.",Student Regent,University of Louisiana,,,79516672.0,,True,Other Board Member
-2007,Robert W. Levy,Regent,University of Louisiana,,,79516672.0,,True,Member
+2007,Robert Levy,Regent,University of Louisiana,,,79516672.0,,True,Member
 2007,Frances T. Henry,Vice Chairman,University of Louisiana,,,79516672.0,,True,Board Vice President
 2007,Mary Ellen Roy,Regent,University of Louisiana,,Southwestern 1981 BA; Harvard 1984 JD,79516672.0,,True,Member
 2007,William Clifford Smith,Regent,University of Louisiana,,,79516672.0,,True,Member
-2007,Harold M. Stokes,Regent,University of Louisiana,,,79516672.0,,True,Member
+2007,Harold Stokes,Regent,University of Louisiana,,,79516672.0,,True,Member
 2007,Pat A. Strong,Secretary,University of Louisiana,,,79516672.0,,True,Other Board Member
 2007,Stanley J. Jacobs,Regent,University of Louisiana,,,79516672.0,,True,Member
-2007,Robert W. Levy,Regent,University of Louisiana,,,79516672.0,,True,Member
+2007,Robert Levy,Regent,University of Louisiana,,,79516672.0,,True,Member
 2007,"Artis Terrell, Jr.",Regent,University of Louisiana,,,79516672.0,,True,Member
-2007,Ingrid T. Labat,Regent,University of Louisiana,,,79516672.0,,True,Member
+2007,Ingrid Labat,Regent,University of Louisiana,,,79516672.0,,True,Member
 2007,Pat A. Strong,Secretary,University of Louisiana,,,79516672.0,,True,Other Board Member
 2007,William Blake,Regent,University of Louisiana,,,79516672.0,,True,Member
 2007,Scott Brame,Regent,University of Louisiana,,,79516672.0,,True,Member

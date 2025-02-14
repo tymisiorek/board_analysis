@@ -1,6 +1,6 @@
 Name,Position,Institution,SubInstitution,Education,Other Affiliation,page,Career,Notes,AffiliationId,carnegie_id,PrimarySample,FixedPosition
 Steven L. Rattner,Fellow,Brown University,,,"Managing Principal, Quadrangle Group LiC",166.0,,,27804330.0,217156.0,True,Trustee
-Artemis A.W. Joukowsky,Fellow,Brown University,,,,166.0,,,27804330.0,217156.0,True,Trustee
+Artemis A. W. Joukowsky,Fellow,Brown University,,,,166.0,,,27804330.0,217156.0,True,Trustee
 Frederick Lippitt,Fellow,Brown University,,,,166.0,,,27804330.0,217156.0,True,Trustee
 Elizabeth Z. Chace,Fellow,Brown University,,,"President, American Heritage Forbes Bldg., 60 5th Ave., New York, NY 10011",166.0,,,27804330.0,217156.0,True,Trustee
 Kathryn S. Fuller,Fellow,Brown University,,Brown 1968 BA: Texas 1976 JD,"President and Chief Executive Officer, World Wildlife Fund Post Office Box 97180, Washington, DC 20077-7180",166.0,,,27804330.0,217156.0,True,Trustee
@@ -19,11 +19,11 @@ Bill L. Amick,Trustee,Clemson University,,,"Chairman and Chief Executive Officer
 Joseph D. Swann,Vice Chairman,Clemson University,,Clemson: Case Western 1969 MBA,"Vice President and General Manager, Dodge/Rockwell Automation P.O. Box 499, Ponders Ct., Greenville, SC 29602",228.0,,,8078737.0,217882.0,True,Board Vice President
 "William C. Smith, Jr.",Trustee,Clemson University,,,"Chief Executive Officer, Holmes Smith Developments, IncP.O. Box 11334, Columbia, SC 29211",228.0,,,8078737.0,217882.0,True,Member
 Ellison Smyth McKissick III,Trustee,Clemson University,,,"President and Treasurer, Alice Manufacturing Company, Inc",228.0,,,8078737.0,217882.0,True,Member
-"Thomas C. Lynch, Jr",Trustee,Clemson University,,,,228.0,,,8078737.0,217882.0,True,Member
+"Thomas C. Lynch, Jr.",Trustee,Clemson University,,,,228.0,,,8078737.0,217882.0,True,Member
 Patricia Herring McAbee,Trustee,Clemson University,,,,228.0,,,8078737.0,217882.0,True,Member
 Louis B. Lynn,Trustee,Clemson University,,,"President, ENVIRO AgScience, Inc",228.0,,,8078737.0,217882.0,True,Member
-"Leon J. Hendrix, Jr",Chairman,Clemson University,,,"Chairman, Remington Arms Company, Inc",228.0,,,8078737.0,217882.0,True,Board President
-"Lawrence M. Gressette, Jr",Trustee,Clemson University,,,,228.0,,,8078737.0,217882.0,True,Member
+"Leon J. Hendrix, Jr.",Chairman,Clemson University,,,"Chairman, Remington Arms Company, Inc",228.0,,,8078737.0,217882.0,True,Board President
+"Lawrence M. Gressette, Jr.",Trustee,Clemson University,,,,228.0,,,8078737.0,217882.0,True,Member
 John J. Britton,Trustee,Clemson University,,Clemson 1954 BS; South Carolina 1959 LLB,,228.0,,,8078737.0,217882.0,True,Member
 Leslie G. McCraw,Trustee,Clemson University,,,"Chairman and Chief Executive Officer, Fluor Corporation",228.0,,,8078737.0,217882.0,True,Member
 James F. Rothenberg,Treasurer,Harvard University,,Harvard 1960 AB; Yale 1964 LLB; London School Econ (UK),"Chairman of the Executive Committee, Citigroup Inc",322.0,,,136199984.0,166027.0,True,Other Board Member
@@ -45,12 +45,12 @@ Michael P. Galgano,Overseer,Long Island University,,,,368.0,,,138873065.0,192448
 Jerry L. Cohen,Overseer,Long Island University,,NYU BS,,368.0,,,138873065.0,192448.0,True,Trustee
 R. Lawrence McCann,Education Division Director and Ex Offici,Long Island University,,,,368.0,,,138873065.0,192448.0,True,Trustee
 Theodore Baum,Overseer,Long Island University,,,"Chairman and Chief Executive Officer, Baum Investments, Inc",368.0,,,138873065.0,192448.0,True,Trustee
-Robert EX. Sillerman,Chancellor,Long Island University,,,,368.0,,,138873065.0,192448.0,True,Board President
+Robert F. X. Sillerman,Chancellor,Long Island University,,,,368.0,,,138873065.0,192448.0,True,Board President
 David Pinter,Overseer,Long Island University,,,,368.0,,,138873065.0,192448.0,True,Trustee
-"William Lynch, Jr",President,Long Island University,,,"Bill Lynch Associates; Director, Grants, The Brooklyn Academy of Music, Inc30 Lafayette Avenue, Brooklyn, NY 11217-1486",368.0,,,138873065.0,192448.0,True,Board President
+"William Lynch, Jr.",President,Long Island University,,,"Bill Lynch Associates; Director, Grants, The Brooklyn Academy of Music, Inc30 Lafayette Avenue, Brooklyn, NY 11217-1486",368.0,,,138873065.0,192448.0,True,Board President
 Adair A. Beutel,Overseer,Long Island University,,,,368.0,,,138873065.0,192448.0,True,Trustee
 Harry Marmion,Overseer,Long Island University,,,,368.0,,,138873065.0,192448.0,True,Trustee
-Robert EX. Sillerman,Overseer,Long Island University,,,,368.0,,,138873065.0,192448.0,True,Trustee
+Robert F. X. Sillerman,Overseer,Long Island University,,,,368.0,,,138873065.0,192448.0,True,Trustee
 Myron Levine,President,Long Island University,,,Autolog,368.0,,,138873065.0,192448.0,True,Board President
 Andrew Stein,Overseer,Long Island University,,,,368.0,,,138873065.0,192448.0,True,Trustee
 David J. Steinberg,President,Long Island University,,,Long Island University,368.0,,,138873065.0,192448.0,True,Board President
@@ -72,13 +72,13 @@ Reggie Dupre,Regent,Louisiana Tech University,,,"Chief Executive Officer, Dupre 
 Stanley J. Jacobs,Regent,Louisiana Tech University,,,,683.0,,,919208787.0,,True,Member
 "W. Clinton Rasberry, Jr",Regent,Louisiana Tech University,,,President and Chief Executive OfficerDryades Savings Bank,683.0,,,919208787.0,,True,Member
 Jeraul Mackey,Student Regent,Louisiana Tech University,,,E-mail: jmackey@uno.edu,683.0,,,919208787.0,,True,Other Board Member
-"Virgil Robinson, Jr",Regent,Louisiana Tech University,,,President and Chief Executive OfficerDryades Savings Bank,683.0,,,919208787.0,,True,Member
+"Virgil Robinson, Jr.",Regent,Louisiana Tech University,,,President and Chief Executive OfficerDryades Savings Bank,683.0,,,919208787.0,,True,Member
 William Clifford Smith,Regent,Louisiana Tech University,,,"Chairman of the Board, T. Baker Smith & Son, Inc",683.0,,,919208787.0,,True,Member
 Pat A. Strong,Secretary,Louisiana Tech University,,,,683.0,,,919208787.0,,True,Other Board Member
 "Artis Terrell, Jr.",Regent,Louisiana Tech University,,,,683.0,,,919208787.0,,True,Member
-Robert W. Levy,Regent,Louisiana Tech University,,,,683.0,,,919208787.0,,True,Member
+Robert Levy,Regent,Louisiana Tech University,,,,683.0,,,919208787.0,,True,Member
 "Edward P. Roski, Jr",Trustee,Loyola Marymount University,,,,378.0,,,35566140.0,117946.0,True,Regent
-"Rev. Kevin P. Quinn, S.J",Trustee,Loyola Marymount University,,,,378.0,,,35566140.0,117946.0,True,Regent
+"Rev. Kevin P. Quinn, SJ",Trustee,Loyola Marymount University,,,,378.0,,,35566140.0,117946.0,True,Regent
 Joan A. Payden,Trustee,Loyola Marymount University,,Trinity Col (DC) BA; Harvard 1981 AMP,,378.0,,,35566140.0,117946.0,True,Regent
 Stephen F. Page,Trustee,Loyola Marymount University,,Loyola Marymount,,378.0,,,35566140.0,117946.0,True,Regent
 John F. O'Reilly,Trustee,Loyola Marymount University,,,,378.0,,,35566140.0,117946.0,True,Regent
@@ -88,13 +88,13 @@ Stephen M. Mosko,Trustee,Loyola Marymount University,,,,378.0,,,35566140.0,11794
 Paul W. Mikos,Trustee,Loyola Marymount University,,,,378.0,,,35566140.0,117946.0,True,Regent
 "Sister Mary E. Milligan, RSHM",Trustee,Loyola Marymount University,,,,378.0,,,35566140.0,117946.0,True,Regent
 John A. McMahon,Trustee,Loyola Marymount University,,,,378.0,,,35566140.0,117946.0,True,Regent
-"Rev. Paul J. Fitzgerald, S.J",Trustee,Loyola Marymount University,,Santa Clara 1980 BA;,,378.0,,,35566140.0,117946.0,True,Regent
+"Paul J. Fitzgerald, SJ",Trustee,Loyola Marymount University,,Santa Clara 1980 BA;,,378.0,,,35566140.0,117946.0,True,Regent
 "Rev. Robert B. Lawton, SJ",Trustee,Loyola Marymount University,,,,378.0,,,35566140.0,117946.0,True,Regent
 "Rev. Robert B. Lawton, SJ",President,Loyola Marymount University,,,,378.0,,,35566140.0,117946.0,True,Board President
 "Thomas E. Larkin, Jr",Trustee,Loyola Marymount University,,Notre Dame 1961 BA,,378.0,,,35566140.0,117946.0,True,Regent
 John F. Grundhofer,Trustee,Loyola Marymount University,,Loyola Marymount 1960 BA: USC 1964 MBA,,378.0,,,35566140.0,117946.0,True,Regent
 Mrs. Terry Seidler,Trustee,Loyola Marymount University,,,,378.0,,,35566140.0,117946.0,True,Regent
-"Sister Anne Hennessy, CSJ",Trustee,Loyola Marymount University,,,,378.0,,,35566140.0,117946.0,True,Regent
+"Anne Hennessy, CSJ",Trustee,Loyola Marymount University,,,,378.0,,,35566140.0,117946.0,True,Regent
 "Louis A. ""Peter"" Siracusa",Trustee,Loyola Marymount University,,,,378.0,,,35566140.0,117946.0,True,Regent
 Liam E. McGee,Trustee,Loyola Marymount University,,UC San Diego; Pepperdine MBA; Loyola (CA) JD,,378.0,,,35566140.0,117946.0,True,Regent
 "Thomas R. Von Der Ahe, Sr",Trustee,Loyola Marymount University,,,,378.0,,,35566140.0,117946.0,True,Regent
@@ -105,22 +105,22 @@ Robert C. Baker,Trustee,Loyola Marymount University,,,,377.0,,,35566140.0,117946
 "Rev. Gerald R. Blaszczak, SJ",Trustee,Loyola Marymount University,,,,377.0,,,35566140.0,117946.0,True,Regent
 John F. Cosgrove,Trustee,Loyola Marymount University,,,,377.0,,,35566140.0,117946.0,True,Regent
 The Honorable Irma J. Brown-Dillon,Trustee,Loyola Marymount University,,,,377.0,,,35566140.0,117946.0,True,Regent
-Peter B. Caloyeras,Trustee,Loyola Marymount University,,,,377.0,,,35566140.0,117946.0,True,Regent
+Peter B. Caloveras,Trustee,Loyola Marymount University,,,,377.0,,,35566140.0,117946.0,True,Regent
 "Rev. Paul Bernadicou, SJ",Trustee,Loyola Marymount University,,,,377.0,,,35566140.0,117946.0,True,Regent
 R. Chad Dreier,Chairman,Loyola Marymount University,,Lovola Marymount 1969 BS,,377.0,,,35566140.0,117946.0,True,Board President
 Frederick B. Craves,Trustee,Loyola Marymount University,,,,377.0,,,35566140.0,117946.0,True,Regent
 "Father Stephen V. Sundborg, SJ",Trustee,Loyola Marymount University,,,,378.0,,,35566140.0,117946.0,True,Regent
 Bruce C. Edwards,Trustee,Loyola Marymount University,,,,377.0,,,35566140.0,117946.0,True,Regent
 "Rev. Jeffrey P. von Arx, SJ",Trustee,Loyola Marymount University,,"Princeton 1969 AB; Yale 1973 MA 1975 MPhil, 1980 PhD; Weston Theology 1981 MDiv",,378.0,,,35566140.0,117946.0,True,Regent
-"Joan Tracy, RSHM",Trustee,Loyola Marymount University,,,,378.0,,,35566140.0,117946.0,True,Regent
+"Joan Treacy, RSHM",Trustee,Loyola Marymount University,,,,378.0,,,35566140.0,117946.0,True,Regent
 "Robert H. Kerrigan, Jr",Trustee,Loyola Marymount University,,,,378.0,,,35566140.0,117946.0,True,Regent
 Kathleen L. McCarthy,Trustee,Loyola Marymount University,,,,378.0,,,35566140.0,117946.0,True,Regent
 Larry R. Carter,Trustee,Loyola Marymount University,,,,377.0,,,35566140.0,117946.0,True,Regent
-The Hon. Sharpe James,Ex Officio Trustee,New Jersey Institute Of Technology,,Montclair State BS; Springfield (MA) MA,"Mayor, City of Newark, New Jersey; Mayor (D), City of Newark, New Jersey",424.0,,,118118575.0,185828.0,True,"Overseer, Ex Officio"
+Sharpe James,Ex Officio Trustee,New Jersey Institute Of Technology,,Montclair State BS; Springfield (MA) MA,"Mayor, City of Newark, New Jersey; Mayor (D), City of Newark, New Jersey",424.0,,,118118575.0,185828.0,True,"Overseer, Ex Officio"
 Dennis M. Bone,Trustee,New Jersey Institute Of Technology,,,"President, Verizon New Jersey Inc540 Broad Street, Floor 20, Newark, NJ 07102",423.0,,,118118575.0,185828.0,True,Overseer
 Frank J. Ryan,Trustee,New Jersey Institute Of Technology,,,"Group Chairman, Johnson & Johnson",424.0,,,118118575.0,185828.0,True,Overseer
 James E. McGreevey,Ex Officio Trustee,New Jersey Institute Of Technology,,Columbia 1978 BA; Georgetown 1981 JD; Harvard 1982 MA,"Governor, New Jersey; Governor (D), New Jersey",424.0,,,118118575.0,185828.0,True,"Overseer, Ex Officio"
-Arthur Weinbach,Trustee,New Jersey Institute Of Technology,,"Pennsylvania 1965 BS, 1966 MS","Chairman and Chief Executive Officer, Automatic Data Processing, IncOne ADP Boulevard, Roseland, NJ 07068-1728",424.0,,,118118575.0,185828.0,True,Overseer
+Arthur F. Weinbach,Trustee,New Jersey Institute Of Technology,,"Pennsylvania 1965 BS, 1966 MS","Chairman and Chief Executive Officer, Automatic Data Processing, IncOne ADP Boulevard, Roseland, NJ 07068-1728",424.0,,,118118575.0,185828.0,True,Overseer
 John N. Bain,Vice Chairman,New Jersey Institute Of Technology,,NJIT 1953,"Partner, Carella, Byrne, Bain & Gilfillan",423.0,,,118118575.0,185828.0,True,Board Vice President
 "Hamilton V. Bowser, Sr",Trustee,New Jersey Institute Of Technology,,NJIT 1952,"President, Evanbow Construction Company",423.0,,,118118575.0,185828.0,True,Overseer
 Philip K. Beachem,Trustee,New Jersey Institute Of Technology,,,"President, New Jersey Alliance for Action",423.0,,,118118575.0,185828.0,True,Overseer
@@ -128,10 +128,10 @@ Stephen P. DePalma,Trustee,New Jersey Institute Of Technology,,,,424.0,,,1181185
 James M. Burns,Trustee,New Jersey Institute Of Technology,,,"Partner, Genova, Burns & Vernoia",424.0,,,118118575.0,185828.0,True,Overseer
 Peter A. Cistaro,Trustee,New Jersey Institute Of Technology,,NJIT 1968 PhD,"Vice President, Gas Delivery, Public Service Electric and Gas Company",424.0,,,118118575.0,185828.0,True,Overseer
 Vincent L. DeCaprio,Trustee,New Jersey Institute Of Technology,,NJIT 1972,"President, Vyteris",424.0,,,118118575.0,185828.0,True,Overseer
-"Anthony J. Knapp, Jr",Trustee,New Jersey Institute Of Technology,,,"Owner, Black Horse Inn",424.0,,,118118575.0,185828.0,True,Overseer
+"Anthony J. Knapp, Jr.",Trustee,New Jersey Institute Of Technology,,,"Owner, Black Horse Inn",424.0,,,118118575.0,185828.0,True,Overseer
 James A. Kennedy,Chairman,New Jersey Institute Of Technology,,,"President and Chief Executive Officer, National Starch and Chemical Company",424.0,,,118118575.0,185828.0,True,Board President
 Kevin F. Toolan,Trustee,New Jersey Institute Of Technology,,,"President and Chairman of the Board, T&M Associates",424.0,,,118118575.0,185828.0,True,Overseer
-W. Stanley Brown,Trustee,New Jersey Institute Of Technology,,,"President, Brown Global Enterprises, LLC",423.0,,,118118575.0,185828.0,True,Overseer
+W. Stanley Brown.,Trustee,New Jersey Institute Of Technology,,,"President, Brown Global Enterprises, LLC",423.0,,,118118575.0,185828.0,True,Overseer
 Paula R. Ammerman,Associate Secretary,Pennsylvania State University,,,,479.0,,,130769515.0,495767.0,True,Other Board Member
 Cynthia A. Baldwin,Governor,Pennsylvania State University,,,"Judge, Allegheny County Court of Common Pleas",479.0,,,130769515.0,495767.0,True,Trustee
 Francis V. Barnes,Ex Officio Trustee,Pennsylvania State University,,,"Secretary, Education Department, Pennsylvania",479.0,,,130769515.0,495767.0,True,"Trustee, Ex Officio"
@@ -158,24 +158,24 @@ David M. Joyner,Alumni Trustee,Pennsylvania State University,,,"Chief Executive 
 Deborah M. Meder,Assistant Treasurer,Pennsylvania State University,,,E-mail: dmm4@psu.edu,480.0,,,130769515.0,495767.0,True,Other Board Member
 "Edward R. Hintz, Jr",Industrial Trustee,Pennsylvania State University,,,"President, Hintz, Holman & Hecksher. Inc",479.0,,,130769515.0,495767.0,True,Trustee
 David F. Marshall,Assistant Treasurer,Pennsylvania State University,,,,480.0,,,130769515.0,495767.0,True,Other Board Member
-Robert D. Metzgar,Industrial Trustee,Pennsylvania State University,,,"President and Owner, North Penn Pipe & Supply, Inc",480.0,,,130769515.0,495767.0,True,Trustee
+Robert D. Metzgar*,Industrial Trustee,Pennsylvania State University,,,"President and Owner, North Penn Pipe & Supply, Inc",480.0,,,130769515.0,495767.0,True,Trustee
 Joel N. Myers,Alumni Trustee,Pennsylvania State University,,,"President, AccuWeather, Inc",480.0,,,130769515.0,495767.0,True,Trustee
 Patricia K. Poprik,Governor Appointed Trustee,Pennsylvania State University,,,"President and Chief Executive Officer, First American Municipals",480.0,,,130769515.0,495767.0,True,Trustee
 Keith W. Eckel,Agricultural Trustee,Pennsylvania State University,,,"Partner, Fred W. Eckel Sons Farms, Inc",479.0,,,130769515.0,495767.0,True,Trustee
 Steve A. Garban,Treasurer Emeritus,Pennsylvania State University,,Penn State 1959 BS,,479.0,,,130769515.0,495767.0,True,Other Board Member
 Nicole W. Lobaugh,Governor Appointed Trustee,Pennsylvania State University,,,,480.0,,,130769515.0,495767.0,True,Trustee
 Martha A. Cotter,Faculty Representative Governor,Rutgers State University Of New Jersey,,,,509.0,,,102322142.0,186380.0,True,Other Board Member
-"Rev. M. William Howard, Jr",Governor,Rutgers State University Of New Jersey,,,,509.0,,,102322142.0,186380.0,True,Trustee
+"M. William Howard, Jr",Governor,Rutgers State University Of New Jersey,,,,509.0,,,102322142.0,186380.0,True,Trustee
 Anne M. Thomas,Governor,Rutgers State University Of New Jersey,,,,509.0,,,102322142.0,186380.0,True,Trustee
 Eugene Michael O'Hara,Governor,Rutgers State University Of New Jersey,,Rutgers 1962 BS,,509.0,,,102322142.0,186380.0,True,Trustee
 Duncan L. MacMillan,Governor,Rutgers State University Of New Jersey,,Montclair State 1968 BA; Rutgers (Newark) 1976 JD; NYU 1982 LLM,"Senior Vice President and General Counsel, Ingersoll-Rand Company Limited",509.0,,,102322142.0,186380.0,True,Trustee
 Paul L. Leath,Faculty Representative Governor,Rutgers State University Of New Jersey,,,,509.0,,,102322142.0,186380.0,True,Other Board Member
-"David J. Harris, Jr",Governor,Rutgers State University Of New Jersey,,,,509.0,,,102322142.0,186380.0,True,Trustee
+"David Jefferson Harris, Jr",Governor,Rutgers State University Of New Jersey,,,,509.0,,,102322142.0,186380.0,True,Trustee
 Leslie Eugene Goodman,Governor,Rutgers State University Of New Jersey,,"Rutgers 1965 BA, 1970 MBA, 1980 JD",,509.0,,,102322142.0,186380.0,True,Trustee
 Joan L. Bildner,Governor,Rutgers State University Of New Jersey,,,,509.0,,,102322142.0,186380.0,True,Trustee
 Jeffrey C. Apfel,Senior Vice President,Rutgers State University Of New Jersey,,,,509.0,,,102322142.0,186380.0,True,Board Vice President
 Jeffrey C. Apfel,Chief Financial Officer,Rutgers State University Of New Jersey,,,,509.0,,,102322142.0,186380.0,True,Trustee
-Frederick DeSanti,Governor,Rutgers State University Of New Jersey,,,,509.0,,,102322142.0,186380.0,True,Trustee
+Frederick D. DeSanti,Governor,Rutgers State University Of New Jersey,,,,509.0,,,102322142.0,186380.0,True,Trustee
 Shashi K. Dholandas,Student Representative Governor,Rutgers State University Of New Jersey,,,,509.0,,,102322142.0,186380.0,True,Other Board Member
 "Albert R. Gamper, Jr",Chairman,Rutgers State University Of New Jersey,,Rutgers BA,"Chairman, CIT Group IncNote: Retires December 31, 2004One CIT Drive, Livingston, NJ 07039",509.0,,,102322142.0,186380.0,True,Board President
 Ronald W. Giaconia,Vice Chairman,Rutgers State University Of New Jersey,,,,509.0,,,102322142.0,186380.0,True,Board Vice President
@@ -184,12 +184,12 @@ Bishop Aurthur J. Serratelli,Trustee,Seton Hall University,,,Viscar General and 
 Thomas Sharkey,Trustee,Seton Hall University,,,"Chairman, Fleet Insurance Services",535.0,,,12524447.0,186584.0,True,Regent
 Monsignor Robert Sheeran,Trustee,Seton Hall University,,,,535.0,,,12524447.0,186584.0,True,Regent
 Monsignor Robert Sheeran,President,Seton Hall University,,,,535.0,,,12524447.0,186584.0,True,Board President
-The Most Reverend John J. Myers,Trustee,Seton Hall University,,,Archbishop-Elect. Archdiocese of Newark,535.0,,,12524447.0,186584.0,True,Regent
+John J. Myers,Trustee,Seton Hall University,,,Archbishop-Elect. Archdiocese of Newark,535.0,,,12524447.0,186584.0,True,Regent
 Rev. Anthony Kulig,Trustee,Seton Hall University,,,"Pastor, Lady of Mount Carmel",535.0,,,12524447.0,186584.0,True,Regent
 Rev. Joseph Reilly,Trustee,Seton Hall University,,,"Rector, The College Seminary, Seton Hall University",535.0,,,12524447.0,186584.0,True,Regent
 Kurt T. Borowsky,Trustee,Seton Hall University,,,"Chairman, Van Beuren Management, Inc",535.0,,,12524447.0,186584.0,True,Regent
 Monsignor John J. Gilchrist,Trustee,Seton Hall University,,,"Pastor, Holy Cross Church",535.0,,,12524447.0,186584.0,True,Regent
-"Virgil Robinson, Jr",Regent,University of Louisiana,,,President and Chief Executive OfficerDryades Savings Bank,683.0,,,79516672.0,,True,Member
+"Virgil Robinson, Jr.",Regent,University of Louisiana,,,President and Chief Executive OfficerDryades Savings Bank,683.0,,,79516672.0,,True,Member
 William Clifford Smith,Regent,University of Louisiana,,,"Chairman of the Board, T. Baker Smith & Son, Inc",683.0,,,79516672.0,,True,Member
 Pat A. Strong,Secretary,University of Louisiana,,,,683.0,,,79516672.0,,True,Other Board Member
 "Artis Terrell, Jr.",Regent,University of Louisiana,,,,683.0,,,79516672.0,,True,Member
@@ -202,19 +202,19 @@ William Blake,Regent,University of Louisiana,,,"President, The Lacassane Company
 "Artis Terrell, Jr.",Regent,University of Louisiana,,,,683.0,,,79516672.0,,True,Member
 Scott Brame,Regent,University of Louisiana,,,,683.0,,,79516672.0,,True,Member
 William A. Oliver,Regent,University of Louisiana,,MeNeese State BS; Tulane MBA,,683.0,,,79516672.0,,True,Member
-"Virgil Robinson, Jr",Regent,University of Louisiana,,,President and Chief Executive OfficerDryades Savings Bank,683.0,,,79516672.0,,True,Member
+"Virgil Robinson, Jr.",Regent,University of Louisiana,,,President and Chief Executive OfficerDryades Savings Bank,683.0,,,79516672.0,,True,Member
 Jeraul Mackey,Student Regent,University of Louisiana,,,E-mail: jmackey@uno.edu,683.0,,,79516672.0,,True,Other Board Member
 Stanley J. Jacobs,Regent,University of Louisiana,,,,683.0,,,79516672.0,,True,Member
 Stanley J. Jacobs,Regent,University of Louisiana,,,,683.0,,,79516672.0,,True,Member
-Robert W. Levy,Regent,University of Louisiana,,,,683.0,,,79516672.0,,True,Member
+Robert Levy,Regent,University of Louisiana,,,,683.0,,,79516672.0,,True,Member
 Jeraul Mackey,Student Regent,University of Louisiana,,,E-mail: jmackey@uno.edu,683.0,,,79516672.0,,True,Other Board Member
 William A. Oliver,Regent,University of Louisiana,,MeNeese State BS; Tulane MBA,,683.0,,,79516672.0,,True,Member
 "W. Clinton Rasberry, Jr",Regent,University of Louisiana,,,President and Chief Executive OfficerDryades Savings Bank,683.0,,,79516672.0,,True,Member
 William Clifford Smith,Regent,University of Louisiana,,,"Chairman of the Board, T. Baker Smith & Son, Inc",683.0,,,79516672.0,,True,Member
 Pat A. Strong,Secretary,University of Louisiana,,,,683.0,,,79516672.0,,True,Other Board Member
 "Artis Terrell, Jr.",Regent,University of Louisiana,,,,683.0,,,79516672.0,,True,Member
-Robert W. Levy,Regent,University of Louisiana,,,,683.0,,,79516672.0,,True,Member
-"Virgil Robinson, Jr",Regent,University of Louisiana,,,President and Chief Executive OfficerDryades Savings Bank,683.0,,,79516672.0,,True,Member
+Robert Levy,Regent,University of Louisiana,,,,683.0,,,79516672.0,,True,Member
+"Virgil Robinson, Jr.",Regent,University of Louisiana,,,President and Chief Executive OfficerDryades Savings Bank,683.0,,,79516672.0,,True,Member
 Frances T. Henry,Vice Chairman,University of Louisiana,,,,683.0,,,79516672.0,,True,Board Vice President
 Scott Brame,Regent,University of Louisiana,,,,683.0,,,79516672.0,,True,Member
 Richard E. D'Aquin,Regent,University of Louisiana,,,,683.0,,,79516672.0,,True,Member
@@ -223,11 +223,11 @@ William Blake,Regent,University of Louisiana,,,"President, The Lacassane Company
 Stanley J. Jacobs,Regent,University of Louisiana,,,,683.0,,,79516672.0,,True,Member
 William Clifford Smith,Regent,University of Louisiana,,,"Chairman of the Board, T. Baker Smith & Son, Inc",683.0,,,79516672.0,,True,Member
 Frances T. Henry,Vice Chairman,University of Louisiana,,,,683.0,,,79516672.0,,True,Board Vice President
-"Virgil Robinson, Jr",Regent,University of Louisiana,,,President and Chief Executive OfficerDryades Savings Bank,683.0,,,79516672.0,,True,Member
+"Virgil Robinson, Jr.",Regent,University of Louisiana,,,President and Chief Executive OfficerDryades Savings Bank,683.0,,,79516672.0,,True,Member
 "W. Clinton Rasberry, Jr",Regent,University of Louisiana,,,President and Chief Executive OfficerDryades Savings Bank,683.0,,,79516672.0,,True,Member
 William A. Oliver,Regent,University of Louisiana,,MeNeese State BS; Tulane MBA,,683.0,,,79516672.0,,True,Member
 Jeraul Mackey,Student Regent,University of Louisiana,,,E-mail: jmackey@uno.edu,683.0,,,79516672.0,,True,Other Board Member
-Robert W. Levy,Regent,University of Louisiana,,,,683.0,,,79516672.0,,True,Member
+Robert Levy,Regent,University of Louisiana,,,,683.0,,,79516672.0,,True,Member
 Richard E. D'Aquin,Regent,University of Louisiana,,,,683.0,,,79516672.0,,True,Member
 Scott Brame,Regent,University of Louisiana,,,,683.0,,,79516672.0,,True,Member
 William Blake,Regent,University of Louisiana,,,"President, The Lacassane Company",683.0,,,79516672.0,,True,Member
@@ -242,7 +242,7 @@ William Clifford Smith,Regent,University of Louisiana,,,"Chairman of the Board, 
 Reggie Dupre,Regent,University of Louisiana,,,"Chief Executive Officer, Dupre Transport, LLC",683.0,,,79516672.0,,True,Member
 William A. Oliver,Regent,University of Louisiana,,MeNeese State BS; Tulane MBA,,683.0,,,79516672.0,,True,Member
 Jeraul Mackey,Student Regent,University of Louisiana,,,E-mail: jmackey@uno.edu,683.0,,,79516672.0,,True,Other Board Member
-Robert W. Levy,Regent,University of Louisiana,,,,683.0,,,79516672.0,,True,Member
+Robert Levy,Regent,University of Louisiana,,,,683.0,,,79516672.0,,True,Member
 Stanley J. Jacobs,Regent,University of Louisiana,,,,683.0,,,79516672.0,,True,Member
 "W. Clinton Rasberry, Jr",Regent,University of Louisiana,,,President and Chief Executive OfficerDryades Savings Bank,683.0,,,79516672.0,,True,Member
 Thomas A. Fillippo,Trustee,West Chester University of Pennsylvania,Council of Trustees,,,476.0,,,161171246.0,216764.0,True,Trustee
@@ -253,8 +253,8 @@ Jessie Pincus,Secretary,West Chester University of Pennsylvania,Council of Trust
 Alan Novak,Trustee,West Chester University of Pennsylvania,Council of Trustees,,,476.0,,,161171246.0,216764.0,True,Trustee
 David James,Trustee,West Chester University of Pennsylvania,Council of Trustees,,,476.0,,,161171246.0,216764.0,True,Trustee
 Laurence Harmelin,Trustee,West Chester University of Pennsylvania,Council of Trustees,,,476.0,,,161171246.0,216764.0,True,Trustee
-Judy G. Hample,Ex Officio Trustee,West Chester University of Pennsylvania,Council of Trustees,,,476.0,,,161171246.0,216764.0,True,"Trustee, Ex Officio"
-Judy G. Hample,Chancellor,West Chester University of Pennsylvania,Council of Trustees,,,476.0,,,161171246.0,216764.0,True,Board President
+Dr. Judy G. Hample,Ex Officio Trustee,West Chester University of Pennsylvania,Council of Trustees,,,476.0,,,161171246.0,216764.0,True,"Trustee, Ex Officio"
+Dr. Judy G. Hample,Chancellor,West Chester University of Pennsylvania,Council of Trustees,,,476.0,,,161171246.0,216764.0,True,Board President
 Bernard J. Carrozza,Vice Chairman,West Chester University of Pennsylvania,Council of Trustees,,,476.0,,,161171246.0,216764.0,True,Board Vice President
 Diane DeVestern,"Assistant Vice President, Student Affairs",West Chester University of Pennsylvania,,,,476.0,,,161171246.0,216764.0,True,Board Vice President
 George Hong,"Associate Vice President, Sponsored Research and Faculty Development",West Chester University of Pennsylvania,,,,476.0,,,161171246.0,216764.0,True,Board Vice President

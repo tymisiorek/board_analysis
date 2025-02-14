@@ -292,19 +292,6 @@ Year,Name,Position,Institution,SubInstitution,Education,AffiliationId,carnegie_i
 2007,Andrew D. Graham,Trustee,Arcadia University,,Arcadia 1995 BA. 2004 MEd,51204116.0,211088.0,False,,,,Trustee
 2007,Ann N. Greene,Trustee,Arcadia University,,Pennsylvania 1954,51204116.0,211088.0,False,,,,Trustee
 2007,Jerry M. Greiner,Ex Officio Trustee,Arcadia University,,Arcadia 1971 BA,51204116.0,211088.0,False,,,,"Trustee, Ex Officio"
-2007,Ernest Calderon,Treasurer,Arizona Board Of Regents,,,0.0,,,,,,Other Board Member
-2007,Jack B. Jewett,"Senior Vice President, Public Policy, TMC",Arizona Board Of Regents,,Arizona BA,0.0,,,,,,Board Vice President
-2007,Anne L. Mariucci,Assistant Secretary,Arizona Board Of Regents,,Santa Clara 1979 BS; Virginia 1983 JD,0.0,,,,,,Other Board Member
-2007,Tom Horne,Ex Officio Regent,Arizona Board Of Regents,,Harvard JD,0.0,,,,,,"Regent, Ex Officio"
-2007,Robert Bulla,President,Arizona Board Of Regents,,,0.0,,,,,,Board President
-2007,Janet Napolitano,Ex Officio Regent,Arizona Board Of Regents,,,0.0,,,,,,"Regent, Ex Officio"
-2007,Fred Boice,President-Elect,Arizona Board Of Regents,,Occidental,0.0,,,,,,Board President
-2007,Christina A. Palacios,Regent,Arizona Board Of Regents,,,0.0,,,,,,Regent
-2007,Gary Stuart,Regent,Arizona Board Of Regents,,,0.0,,,,,,Regent
-2007,Mary Venezio,Student Regent,Arizona Board Of Regents,,,0.0,,,,,,Regent
-2007,Edward Hermes,Student Regent,Arizona Board Of Regents,,,0.0,,,,,,Regent
-2007,Joel Sideman,Executive Director,Arizona Board Of Regents,,,0.0,,,,,,Regent
-2007,Dennis DeConcini,Regent,Arizona Board Of Regents,,"Arizona 1959, 1963 JD",0.0,,,,,,Regent
 2007,Mary J. Hughes,Director,Arizona State University,Downtown Phoenix Campus,,55732556.0,104151.0,True,0.0,632.0,Arizona Board of Regents,Director
 2007,Craig E. Weatherup,Board Of Directors (Acting),Arizona State University,,Arizona State 1967 BS,55732556.0,104151.0,True,5.0,638.0,Arizona Board of Regents,Director
 2007,Craig E. Weatherup,Chairman,Arizona State University,,Arizona State 1967 BS,55732556.0,104151.0,True,4.0,637.0,Arizona Board of Regents,Board President
@@ -4907,15 +4894,6 @@ Chicago Medical 1971 PhD; Northwestern 1968 MS",176902721.0,238476.0,False,,,,Tr
 2007,Jeffrey S. Cohen,Governor Appointed Trustee,Indiana University Purdue University Indianapolis,,,55769427.0,,True,,,,Governor
 2007,William R. Cast,Governor Appointed Trustee,Indiana University Purdue University Indianapolis,,,55769427.0,,True,,,,Governor
 2007,Sue H. Talbot,Governor Appointed Trustee,Indiana University Purdue University Indianapolis,,"Indiana Institute for Advanced Study Einstein Drive, Princeton, NJ 08540-0631",55769427.0,,True,,,,Governor
-2007,Patrick A. Shoulders,Governor Appointed Vice President,Indiana University System,,,0.0,,,,,,Governor
-2007,Stephen L. Ferguson,Governor Appointed President,Indiana University System,,,0.0,,,,,,Governor
-2007,"Thomas E. Reilly, Jr.",Governor Appointed Trustee,Indiana University System,,Stanford 1961 BS; Harvard 1963 MBA,0.0,,,,,,Governor
-2007,Clarence W. Boone,Governor Appointed Trustee,Indiana University System,,"Indiana 1953 BS, 1956",0.0,,,,,,Governor
-2007,Casey B. Cox,Governor Appointed Student Trustee,Indiana University System,,,0.0,,,,,,Governor
-2007,Jeffrey S. Cohen,Governor Appointed Trustee,Indiana University System,,,0.0,,,,,,Governor
-2007,Sue H. Talbot,Governor Appointed Trustee,Indiana University System,,"Indiana Institute for Advanced Study Einstein Drive, Princeton, NJ 08540-0631",0.0,,,,,,Governor
-2007,William R. Cast,Governor Appointed Trustee,Indiana University System,,,0.0,,,,,,Governor
-2007,Cora Smith Breckenridge,Governor Appointed Trustee,Indiana University System,,,0.0,,,,,,Governor
 2007,Nancy S. MacMillan,Secretary,Institute For Advanced Study,,,40036882.0,,False,,,,Other Board Member
 2007,Jeffrey P. Bezos,Trustee,Institute For Advanced Study,,,40036882.0,,False,,,,Trustee
 2007,Andrew Strominger,Trustee,Institute For Advanced Study,,,40036882.0,,False,,,,Trustee

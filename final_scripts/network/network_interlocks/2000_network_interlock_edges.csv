@@ -1,0 +1,62 @@
+Id,Source,Target,Type,Weight,Year
+e_2000_62,Carnegie Mellon University,Duquesne University,Undirected,0.02112676056338028,2000
+e_2000_63,Brandeis University,Fordham University,Undirected,0.011764705882352941,2000
+e_2000_64,Fordham University,Georgetown University,Undirected,0.014285714285714285,2000
+e_2000_65,Howard University,Johns Hopkins University,Undirected,0.012048192771084338,2000
+e_2000_66,Brown University,Johns Hopkins University,Undirected,0.008547008547008548,2000
+e_2000_67,Andrews University,Loma Linda University,Undirected,0.03389830508474576,2000
+e_2000_68,Illinois Institute Of Technology,Loyola University Chicago,Undirected,0.021739130434782608,2000
+e_2000_69,Boston College,Loyola University Chicago,Undirected,0.013333333333333334,2000
+e_2000_70,George Washington University,Marquette University,Undirected,0.01282051282051282,2000
+e_2000_71,Johns Hopkins University,Massachusetts Institute Of Technology,Undirected,0.00847457627118644,2000
+e_2000_72,Boston University,Massachusetts Institute Of Technology,Undirected,0.009433962264150943,2000
+e_2000_73,Georgetown University,New York University,Undirected,0.00847457627118644,2000
+e_2000_74,Carnegie Mellon University,Oklahoma State System of Higher Education,Undirected,0.007751937984496124,2000
+e_2000_75,New York University,Rensselaer Polytechnic Institute,Undirected,0.017094017094017096,2000
+e_2000_76,Lehigh University,Seton Hall University,Undirected,0.012048192771084338,2000
+e_2000_77,Catholic University Of America,Seton Hall University,Undirected,0.011627906976744186,2000
+e_2000_78,Rice University,Stanford University,Undirected,0.019230769230769232,2000
+e_2000_79,Pennsylvania State University,Temple University,Undirected,0.013157894736842105,2000
+e_2000_80,Brown University,Tufts University,Undirected,0.011494252873563218,2000
+e_2000_81,Tufts University,University Of Chicago,Undirected,0.011904761904761904,2000
+e_2000_82,Marquette University,University Of Chicago,Undirected,0.011904761904761904,2000
+e_2000_83,Illinois Institute Of Technology,University Of Chicago,Undirected,0.009009009009009009,2000
+e_2000_84,New School,University Of Chicago,Undirected,0.01098901098901099,2000
+e_2000_85,Georgetown University,University Of Connecticut,Undirected,0.019230769230769232,2000
+e_2000_86,New York University,University Of Connecticut,Undirected,0.00980392156862745,2000
+e_2000_87,Marquette University,University Of Dayton,Undirected,0.014705882352941176,2000
+e_2000_88,Georgetown University,University Of Delaware,Undirected,0.015151515151515152,2000
+e_2000_89,Tufts University,University Of Delaware,Undirected,0.014925373134328358,2000
+e_2000_90,New York University,University Of Notre Dame,Undirected,0.007194244604316547,2000
+e_2000_91,New Jersey Institute Of Technology,University Of Notre Dame,Undirected,0.008620689655172414,2000
+e_2000_92,Carnegie Mellon University,University Of Pittsburgh,Undirected,0.013333333333333334,2000
+e_2000_93,Pennsylvania State University,University Of Pittsburgh,Undirected,0.023255813953488372,2000
+e_2000_94,Temple University,University Of Pittsburgh,Undirected,0.010869565217391304,2000
+e_2000_95,Hofstra University,University Of Pittsburgh,Undirected,0.012195121951219513,2000
+e_2000_96,New Jersey Institute Of Technology,University Of Pittsburgh,Undirected,0.008928571428571428,2000
+e_2000_97,Loyola University Chicago,University Of San Diego,Undirected,0.015384615384615385,2000
+e_2000_98,Auburn University,University Of South Alabama,Undirected,0.0625,2000
+e_2000_99,Marquette University,University Of St Thomas Minnesota,Undirected,0.012987012987012988,2000
+e_2000_100,University Of Notre Dame,University Of St Thomas Minnesota,Undirected,0.010309278350515464,2000
+e_2000_101,Cornell University,University Of Tulsa,Undirected,0.012345679012345678,2000
+e_2000_102,Clark Atlanta University,University System of Georgia,Undirected,0.05263157894736842,2000
+e_2000_103,Dartmouth College,University System of New Hampshire,Undirected,0.02631578947368421,2000
+e_2000_104,Case Western Reserve University,University System of Ohio,Undirected,0.005952380952380952,2000
+e_2000_105,Auburn University,University of Alabama System,Undirected,0.037037037037037035,2000
+e_2000_106,University Of South Alabama,University of Alabama System,Undirected,0.02857142857142857,2000
+e_2000_107,California State University System,University of California System,Undirected,0.06382978723404255,2000
+e_2000_108,Massachusetts Institute Of Technology,University of North Carolina System,Undirected,0.006134969325153374,2000
+e_2000_109,Seton Hall University,Villanova University,Undirected,0.014084507042253521,2000
+e_2000_110,Marshall University,West Virginia University,Undirected,0.35294117647058826,2000
+e_2000_111,Carnegie Mellon University,Worcester Polytechnic Institute,Undirected,0.0070921985815602835,2000
+e_2000_112,New School,Yale University,Undirected,0.016666666666666666,2000
+e_2000_113,University Of Connecticut,Yale University,Undirected,0.027777777777777776,2000
+e_2000_114,New York University,Yeshiva University,Undirected,0.00546448087431694,2000
+e_2000_115,Massachusetts Institute Of Technology,Yeshiva University,Undirected,0.006578947368421052,2000
+e_2000_116,Hofstra University,Yeshiva University,Undirected,0.007692307692307693,2000
+e_2000_117,Columbia University,Yeshiva University,Undirected,0.008130081300813009,2000
+e_2000_118,Brown University,University Of Rhode Island,Undirected,0.014705882352941176,2000
+e_2000_119,Loyola Marymount University,University Of Notre Dame,Undirected,0.007142857142857143,2000
+e_2000_120,Loyola Marymount University,University Of Southern California,Undirected,0.007751937984496124,2000
+e_2000_121,Loyola Marymount University,Loyola University Chicago,Undirected,0.008695652173913044,2000
+e_2000_122,Tennessee Board of Regents,University of Tennessee System,Undirected,0.17721518987341772,2000

@@ -1,0 +1,71 @@
+Id,Source,Target,Type,Weight,Year
+e_2007_191,Brandeis University,Columbia University,Undirected,0.010309278350515464,2007
+e_2007_192,California State University System,Columbia University,Undirected,0.013513513513513514,2007
+e_2007_193,Columbia University,Cornell University,Undirected,0.004524886877828055,2007
+e_2007_194,Brown University,Cornell University,Undirected,0.0043859649122807015,2007
+e_2007_195,Cornell University,Duke University,Undirected,0.004739336492890996,2007
+e_2007_196,Boston College,Georgetown University,Undirected,0.012987012987012988,2007
+e_2007_197,Fordham University,Georgetown University,Undirected,0.02631578947368421,2007
+e_2007_198,Duke University,Johns Hopkins University,Undirected,0.009345794392523364,2007
+e_2007_199,Andrews University,Loma Linda University,Undirected,0.1,2007
+e_2007_200,Cornell University,Long Island University,Undirected,0.0047169811320754715,2007
+e_2007_201,Boston College,Loyola Marymount University,Undirected,0.007518796992481203,2007
+e_2007_202,Fordham University,Loyola University Chicago,Undirected,0.01282051282051282,2007
+e_2007_203,Boston College,Loyola University Chicago,Undirected,0.012658227848101266,2007
+e_2007_204,Cornell University,Massachusetts Institute Of Technology,Undirected,0.004524886877828055,2007
+e_2007_205,Howard University,Massachusetts Institute Of Technology,Undirected,0.012658227848101266,2007
+e_2007_206,Clemson University,Mercer University,Undirected,0.005434782608695652,2007
+e_2007_207,Massachusetts Institute Of Technology,New School,Undirected,0.009523809523809525,2007
+e_2007_208,Cornell University,New School,Undirected,0.008849557522123894,2007
+e_2007_209,Cornell University,New York University,Undirected,0.003861003861003861,2007
+e_2007_210,Clarkson University,New York University,Undirected,0.008620689655172414,2007
+e_2007_211,New School,New York University,Undirected,0.006993006993006993,2007
+e_2007_212,Columbia University,New York University,Undirected,0.007246376811594203,2007
+e_2007_213,Brandeis University,New York University,Undirected,0.007407407407407408,2007
+e_2007_214,New School,Princeton University,Undirected,0.011764705882352941,2007
+e_2007_215,Cornell University,Rochester Institute Of Technology,Undirected,0.004464285714285714,2007
+e_2007_216,Rensselaer Polytechnic Institute,St Johns University,Undirected,0.014084507042253521,2007
+e_2007_217,Rice University,Stanford University,Undirected,0.017543859649122806,2007
+e_2007_218,Carnegie Mellon University,University Of Chicago,Undirected,0.006802721088435374,2007
+e_2007_219,Illinois Institute Of Technology,University Of Chicago,Undirected,0.013333333333333334,2007
+e_2007_220,Princeton University,University Of Chicago,Undirected,0.025,2007
+e_2007_221,New School,University Of Chicago,Undirected,0.009523809523809525,2007
+e_2007_222,Tufts University,University Of Chicago,Undirected,0.011235955056179775,2007
+e_2007_223,Tufts University,University Of New Mexico,Undirected,0.02127659574468085,2007
+e_2007_224,New Jersey Institute Of Technology,University Of Notre Dame,Undirected,0.009708737864077669,2007
+e_2007_225,Carnegie Mellon University,University Of Pittsburgh,Undirected,0.013513513513513514,2007
+e_2007_226,Pennsylvania State University,University Of Pittsburgh,Undirected,0.023809523809523808,2007
+e_2007_227,Chapman University,University Of San Diego,Undirected,0.011627906976744186,2007
+e_2007_228,Auburn University,University Of South Alabama,Undirected,0.022727272727272728,2007
+e_2007_229,Cornell University,University Of Southern California,Undirected,0.0045045045045045045,2007
+e_2007_230,Cornell University,University Of Tulsa,Undirected,0.004761904761904762,2007
+e_2007_231,Princeton University,University Of Virginia,Undirected,0.02127659574468085,2007
+e_2007_232,Clark Atlanta University,University System of Georgia,Undirected,0.02127659574468085,2007
+e_2007_233,Mercer University,University System of Georgia,Undirected,0.015384615384615385,2007
+e_2007_234,Dartmouth College,University System of New Hampshire,Undirected,0.022222222222222223,2007
+e_2007_235,Auburn University,University of Alabama System,Undirected,0.022727272727272728,2007
+e_2007_236,University Of South Alabama,University of Alabama System,Undirected,0.029411764705882353,2007
+e_2007_237,California State University System,University of California System,Undirected,0.06896551724137931,2007
+e_2007_238,University Of Southern California,University of California System,Undirected,0.011764705882352941,2007
+e_2007_239,University Of Chicago,University of California System,Undirected,0.011904761904761904,2007
+e_2007_240,Massachusetts Institute Of Technology,University of North Carolina System,Undirected,0.006711409395973154,2007
+e_2007_241,Tennessee Board of Regents,University of Tennessee System,Undirected,0.08888888888888889,2007
+e_2007_242,University Of St Thomas Minnesota,Vanderbilt University,Undirected,0.010101010101010102,2007
+e_2007_243,New York University,Vanderbilt University,Undirected,0.00684931506849315,2007
+e_2007_244,New York University,Virginia Commonwealth University,Undirected,0.009615384615384616,2007
+e_2007_245,University Of San Diego,Wake Forest University,Undirected,0.012345679012345678,2007
+e_2007_246,George Washington University,Washington State University,Undirected,0.023255813953488372,2007
+e_2007_247,Massachusetts Institute Of Technology,Yale University,Undirected,0.014705882352941176,2007
+e_2007_248,University Of Connecticut,Yale University,Undirected,0.025,2007
+e_2007_249,Johns Hopkins University,Yeshiva University,Undirected,0.005988023952095809,2007
+e_2007_250,Cornell University,Yeshiva University,Undirected,0.0036900369003690036,2007
+e_2007_251,Fordham University,Yeshiva University,Undirected,0.007246376811594203,2007
+e_2007_252,Columbia University,Yeshiva University,Undirected,0.006666666666666667,2007
+e_2007_253,Clemson University,University System of Ohio,Undirected,0.00851063829787234,2007
+e_2007_254,Loyola Marymount University,University Of Southern California,Undirected,0.020689655172413793,2007
+e_2007_255,Johns Hopkins University,Loyola Marymount University,Undirected,0.006211180124223602,2007
+e_2007_256,Loyola Marymount University,University Of San Diego,Undirected,0.007575757575757576,2007
+e_2007_257,Loyola Marymount University,University Of Notre Dame,Undirected,0.00684931506849315,2007
+e_2007_258,New Jersey Institute Of Technology,University Of Chicago,Undirected,0.009900990099009901,2007
+e_2007_259,New Jersey Institute Of Technology,Princeton University,Undirected,0.012345679012345678,2007
+e_2007_260,Columbia University,New Jersey Institute Of Technology,Undirected,0.009900990099009901,2007
