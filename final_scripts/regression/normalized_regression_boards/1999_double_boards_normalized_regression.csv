@@ -12,12 +12,12 @@ Wendy J. Strothman,Secretary,Brown University,Board of Fellows,,"Executive Vice 
 Alva O. Way,Fellow,Brown University,Board of Fellows,,"Chairman, IBJ Schroder Bank & Trust Company 1 State St., New York, NY 10004",,,27804330.0,217156.0,True,Trustee
 Artemis A.W. Joukowsky,Fellow,Brown University,Board of Fellows,,,,,27804330.0,217156.0,True,Trustee
 John P. Birkelund,Fellow,Brown University,Board of Fellows,,"Senior Advisor, Warburg Dillon Read. LLCSwiss Bank Ctr. 1, 677 Washington Blvd., Stamford, CT 06901",,,27804330.0,217156.0,True,Trustee
-Eleanor H. McMahon,Fellow,Brown University,Board of Fellows,,,,,27804330.0,217156.0,True,Trustee
+Eleanor McMahon os,Fellow,Brown University,Board of Fellows,,,,,27804330.0,217156.0,True,Trustee
 John J. Britton,Trustee,Clemson University,,,,,,8078737.0,217882.0,True,Member
 Allen P. Wood,Trustee,Clemson University,,,"President, Wilkins, Wood Goforth, Assoc., LtdP.O. Box 3868, Florence, SC 29502",,,8078737.0,217882.0,True,Member
 Joseph D. Swann,Vice Chairman,Clemson University,,,"Vice President and General Manager, Dodge/Rockwell AutomationP.O. Box 499, Ponders Ct., Greensville, SC 29602",,,8078737.0,217882.0,True,Board Vice President
-"William C. Smith, Jr",Trustee,Clemson University,,,"Chief Executive Officer, Holmes Smith Developments, IncP.O. Box 11334, Columbia, SC 29211",,,8078737.0,217882.0,True,Member
-"Thomas B. McTeer, Jr",Trustee,Clemson University,,,"President, MeTeer Real Estate, IncPO. Box 11923, Columbia, SC 29211",,,8078737.0,217882.0,True,Member
+"William C. Smith, Jr.",Trustee,Clemson University,,,"Chief Executive Officer, Holmes Smith Developments, IncP.O. Box 11334, Columbia, SC 29211",,,8078737.0,217882.0,True,Member
+"Thomas B. McTeer, Jr.",Trustee,Clemson University,,,"President, MeTeer Real Estate, IncPO. Box 11923, Columbia, SC 29211",,,8078737.0,217882.0,True,Member
 Ellison Smyth McKissick III,Trustee,Clemson University,,,"President and Treasurer, Alice Manufacturing Company, IncP.O. Box 369, Easley, SC",,,8078737.0,217882.0,True,Member
 Bill L. Amick,Trustee,Clemson University,,,"Chairman and Chief Executive Officer, Amick Farms",,,8078737.0,217882.0,True,Member
 Harold D. Kingsmore,Trustee,Clemson University,,,"Kingsmore Enterprises1359 Silver Bluff Rd., Ste., A-7, Aiken, SC 29803",,,8078737.0,217882.0,True,Member
@@ -30,8 +30,8 @@ Elizabeth K. Lanier,Chairperson,Cleveland State University,,Smith BA; Columbia J
 Merle G. Kearns,Ex Officio Regent,Cleveland State University,,,"Member, Ohio Senate",,,102607778.0,202134.0,True,"Trustee, Ex Officio"
 Stephen A. Perry,Regent,Cleveland State University,,,"Vice President, Human Resources and Logistics, The Timken Company",,,102607778.0,202134.0,True,Trustee
 Gerald M. Miller,Regent,Cleveland State University,,Dayton BA,"Chairman and Managing Partner, Miller-Valentine Group",,,102607778.0,202134.0,True,Trustee
-"Tahlman Krumm, Jr.",Vice Chairman,Cleveland State University,,South Florida BA; Ohio State PhD,"Founder and Chairman, Avalanche Creek Projects Group",,,102607778.0,202134.0,True,Board Vice President
-Jeanette G. Grasseli Brown,Regent,Cleveland State University,,Ohio BS; Case Western MS,Chairperson of the Board of Trustees,,,102607778.0,202134.0,True,Trustee
+"Tahlman Krumm, Jr",Vice Chairman,Cleveland State University,,South Florida BA; Ohio State PhD,"Founder and Chairman, Avalanche Creek Projects Group",,,102607778.0,202134.0,True,Board Vice President
+Jeanette G. Grasselli Brown,Regent,Cleveland State University,,Ohio BS; Case Western MS,Chairperson of the Board of Trustees,,,102607778.0,202134.0,True,Trustee
 Gerald H. Gordon,Regent,Cleveland State University,,,"President and Chief Operating Officer, Sun Media Corporation",,,102607778.0,202134.0,True,Trustee
 Michael A. Fox,Ex Officio Regent,Cleveland State University,,,,,,102607778.0,202134.0,True,"Trustee, Ex Officio"
 J. Gilbert Reese,Regent,Cleveland State University,,,"Senior Partner, Reese, Pyle, Drake and Meyer",,,102607778.0,202134.0,True,Trustee
@@ -120,7 +120,7 @@ Msgr. Thomas J. Hartman,Trustee and Executive,Long Island University,,,"Director
 Arthur I. Goldberg,Trustee,Long Island University,,,"Law Partner, Jacobson & Goldberg",,,138873065.0,192448.0,True,Overseer
 Irwin C. Gerson,Trustee,Long Island University,,,"Chairman, Lowe MAdams Healthcare",,,138873065.0,192448.0,True,Overseer
 Stephen P. Kaufman,Trustee,Long Island University,,,"Chairman and Chief Executive Officer, Arrow Electronics, Inc",,,138873065.0,192448.0,True,Overseer
-Gary S. Feldstein,Trustee,Long Island University,,,"President and Chief Executive Officer, Manhattan Medical Care",,,138873065.0,192448.0,True,Overseer
+Gary Feldstein,Trustee,Long Island University,,,"President and Chief Executive Officer, Manhattan Medical Care",,,138873065.0,192448.0,True,Overseer
 Stanley F. Barshay,Trustee,Long Island University,,,"Senior Vice President, American Home Products",,,138873065.0,192448.0,True,Overseer
 Steven A. Klar,Trustee,Long Island University,,,"President, The Klar Organization",,,138873065.0,192448.0,True,Overseer
 Eric Krasnoff,Trustee,Long Island University,,,"Chairman and Chief Executive Officer, Pall Corporation",,,138873065.0,192448.0,True,Overseer
@@ -162,7 +162,7 @@ Terry Semel,Trustee,Long Island University,,,"Chairman and Co-Chief Executive Of
 William P. Miller,Trustee,Long Island University,,,"Owner, Miller Transmission Tower Company",,,138873065.0,192448.0,True,Overseer
 Bruce C. Ratner,Executive Committee Member,Long Island University,,,"President and Chief Executive Officer, Forest City Ratner Companies",,,138873065.0,192448.0,True,Other Board Member
 Edward Travaglianti,"Chancellor, Brooklyn Campus",Long Island University,Brooklyn Campus,,,,,138873065.0,192448.0,True,Board President
-Roger B. Tilles,Senior Vice Chairman and Executive,Long Island University,,,"Chief Executive Officer, Tilles Committee Member Investment Company",,,138873065.0,192448.0,True,Board Vice President
+Roger Tilles,Senior Vice Chairman and Executive,Long Island University,,,"Chief Executive Officer, Tilles Committee Member Investment Company",,,138873065.0,192448.0,True,Board Vice President
 Howard M. Lorber,Trustee,Long Island University,,,"Chairman, Hallman & Lorber Associates",,,138873065.0,192448.0,True,Overseer
 Howard M. Smith,Trustee,Long Island University,,,"President and Chief Executive Officer, Dr. Fabricant's Foot Health Products, Inc",,,138873065.0,192448.0,True,Overseer
 Edward Travaglianti,Executive Committee Member,Long Island University,Brooklyn Campus,,,,,138873065.0,192448.0,True,Other Board Member
@@ -185,7 +185,7 @@ Ernest M. Camacho,Regent,Loyola Marymount University,Board of Regents,,,,,355661
 Barbara S. Casey,Regent,Loyola Marymount University,Board of Regents,,,,,35566140.0,117946.0,True,Trustee
 Louis J. Cassani,Regent,Loyola Marymount University,Board of Regents,,,,,35566140.0,117946.0,True,Trustee
 The Hon. Richard D. Aldrich,Vice Chairman,Loyola Marymount University,Board of Regents,,,,,35566140.0,117946.0,True,Board Vice President
-Robert Buckley,Regent,Loyola Marymount University,Board of Regents,,,,,35566140.0,117946.0,True,Trustee
+Robert R. Buckley,Regent,Loyola Marymount University,Board of Regents,,,,,35566140.0,117946.0,True,Trustee
 The Hon. Daniel A. Curry,Regent,Loyola Marymount University,Board of Regents,,,,,35566140.0,117946.0,True,Trustee
 Michael J. Smith,Regent,Loyola Marymount University,Board of Regents,,,,,35566140.0,117946.0,True,Trustee
 Charles K. Von Der Ahe,Regent,Loyola Marymount University,Board of Regents,,,,,35566140.0,117946.0,True,Trustee
@@ -216,7 +216,7 @@ Ed Jernigan,Regent,Middle Tennessee State University,,Mid Tennessee State 1978,"
 Robert Jack Fishman,Regent,Middle Tennessee State University,,U Memphis,"Publisher and Editor, The Citizen Tribune",,,169615421.0,,True,Regent
 Robert L. Gamble,Regent,Middle Tennessee State University,,U Memphis,"President, Gamble Construction Company, Inc",,,169615421.0,,True,Regent
 "James M. Powers, Sr",Member,Middle Tennessee State University,,,,,,169615421.0,,True,Regent
-"Anthony J. Knapp, Jr.",Trustee,New Jersey Institute Of Technology,,,"Affiliation: Proprietor, Black Horse Inn",,,118118575.0,185828.0,True,Overseer
+"Anthony J. Knapp, Jr",Trustee,New Jersey Institute Of Technology,,,"Affiliation: Proprietor, Black Horse Inn",,,118118575.0,185828.0,True,Overseer
 James A. Kennedy,Trustee,New Jersey Institute Of Technology,,,"Affiliation: President and Chief Executive Officer, National Starch and Chemical Company",,,118118575.0,185828.0,True,Overseer
 Oswald L. Cano,Trustee,New Jersey Institute Of Technology,,,"Affiliation: General Manager, Corporate Responsibilities, Public Service Electric and Gas Company",,,118118575.0,185828.0,True,Overseer
 W. Stanley Brown,Trustee,New Jersey Institute Of Technology,,,Affiliation: Consultant,,,118118575.0,185828.0,True,Overseer
@@ -224,7 +224,7 @@ W. Stanley Brown,Trustee,New Jersey Institute Of Technology,,,Affiliation: Consu
 Laura Bigley Battjer,Trustee,New Jersey Institute Of Technology,,,"Affiliation: President, Battier & Associates",,,118118575.0,185828.0,True,Overseer
 Victor A. Pelson,Trustee,New Jersey Institute Of Technology,,,"Affiliation: Director and Senior Advisor, SC Warburg Dillion Read Inc Swiss Bank Ctr. One, 677 Washington Blvd., Stamford, CT 06901 Tel: (203) 719-3000 Fax: (203) 719-5499",,,118118575.0,185828.0,True,Overseer
 John N. Bain,Trustee,New Jersey Institute Of Technology,,,"Affiliation: Carella, Byrne, Bain & Gilfillan",,,118118575.0,185828.0,True,Overseer
-The Hon. Christine Todd Whitman,Ex Officio Trustee,New Jersey Institute Of Technology,,Wheaton (MA) 1968 BA,"Affiliation: Governor, State of New Jersey 125 W. State St., P.O. Box 001, Trenton, NJ 08625-0001 Tel: (609) 777-2200 Fax: (609) 292-5212",,,118118575.0,185828.0,True,"Overseer, Ex Officio"
+Christine B. Whitman,Ex Officio Trustee,New Jersey Institute Of Technology,,Wheaton (MA) 1968 BA,"Affiliation: Governor, State of New Jersey 125 W. State St., P.O. Box 001, Trenton, NJ 08625-0001 Tel: (609) 777-2200 Fax: (609) 292-5212",,,118118575.0,185828.0,True,"Overseer, Ex Officio"
 Martin Tuchman,Trustee,New Jersey Institute Of Technology,,,"Affiliation: Chairman and Chief Executive Officer, Interpool, Inc",,,118118575.0,185828.0,True,Overseer
 The Hon. Sharpe James,Ex Officio Trustee,New Jersey Institute Of Technology,,Montclair State BA; Springfield (MA) MA,"Affiliation: Mayor, City of Newark City Hall, Rm. 200, 920 Broad St., Newark, NJ 07102 Tel: (973) 733-6400",,,118118575.0,185828.0,True,"Overseer, Ex Officio"
 "H. E. Rayfield, Jr",Chairman,North Carolina Agricultural and Technical State University,,,,,,35777872.0,,True,Board President
@@ -283,7 +283,7 @@ Anthony S. Cicatiello,Governor,Rutgers State University Of New Jersey,,,,,,10232
 Thomas A. Renyi,Governor,Rutgers State University Of New Jersey,,,,,,102322142.0,186380.0,True,Trustee
 Eugene M. O'Hara,Governor,Rutgers State University Of New Jersey,,,,,,102322142.0,186380.0,True,Trustee
 Gwendolyn McLoof,Student Representative Governor,Rutgers State University Of New Jersey,,,,,,102322142.0,186380.0,True,Other Board Member
-Nancy Lotstein,Governor,Rutgers State University Of New Jersey,,,,,,102322142.0,186380.0,True,Trustee
+Nancy K. Lotstein,Governor,Rutgers State University Of New Jersey,,,,,,102322142.0,186380.0,True,Trustee
 Richard A. Levao,Vice Chairman,Rutgers State University Of New Jersey,,,,,,102322142.0,186380.0,True,Board Vice President
 Francis L. Lawrence,President,Rutgers State University Of New Jersey,,,,,,102322142.0,186380.0,True,Board President
 Nancy L. Lane,Governor,Rutgers State University Of New Jersey,,,,,,102322142.0,186380.0,True,Trustee
@@ -297,15 +297,15 @@ Francis L. Lawrence,Ex Officio Governor,Rutgers State University Of New Jersey,,
 Most Rev. Theodore E. McCarrick,Chairman,Seton Hall University,,,Archbishop of Newark,,,12524447.0,186584.0,True,Board President
 Thomas Sharkey,Trustee,Seton Hall University,,,"Chairman and Chief Executive Officer, Meeker Sharkey Financial Group, Inc",,,12524447.0,186584.0,True,Regent
 Msgr. Walter Gorski,Trustee,Seton Hall University,,,"Administrator, Most Sacred Heart of Jesus Church",,,12524447.0,186584.0,True,Regent
-"Very Rev. Thomas R. Peterson, O.PMsgr. Ronald Rozniak",Trustee,Seton Hall University,,,"Vicar General, Archdiocese of Newark",,,12524447.0,186584.0,True,Regent
+"Very Rev. Thomas R. Peterson, OP",Trustee,Seton Hall University,,,"Vicar General, Archdiocese of Newark",,,12524447.0,186584.0,True,Regent
 A. Zachary Yamba,Trustee,Seton Hall University,,,"President, Essex County College",,,12524447.0,186584.0,True,Regent
 Msgr. John J. Gilchrist,Trustee,Seton Hall University,,,"Pastor, Holy Cross Church",,,12524447.0,186584.0,True,Regent
 Kurt T. Borowsky,Trustee,Seton Hall University,,,"Chairman, Van Beuren Management, Inc",,,12524447.0,186584.0,True,Regent
 Jerome D. Greco,Trustee,Seton Hall University,,,"Consultant, First Union National Bank",,,12524447.0,186584.0,True,Regent
 Joseph P. LaSala,Trustee,Seton Hall University,,,"Partner, McElroy, Deutsch & Mulvaney",,,12524447.0,186584.0,True,Regent
 Kent Manahan,Trustee,Seton Hall University,,,"Senior Anchor, New Jersey Network",,,12524447.0,186584.0,True,Regent
-"Very Rev. Thomas R. Peterson, O.PMsgr. Ronald Rozniak",Chancellor,Seton Hall University,,,"Vicar General, Archdiocese of Newark",,,12524447.0,186584.0,True,Board President
-"Rev. Msgr. John W. Flesey, S.T.D",Trustee,Seton Hall University,,,"Rector and Dean, Immaculate Conception Seminary School of Theology and Trustee",,,12524447.0,186584.0,True,Regent
+"Very Rev. Thomas R. Peterson, OP",Chancellor,Seton Hall University,,,"Vicar General, Archdiocese of Newark",,,12524447.0,186584.0,True,Board President
+"Msgr. John W. Flesey, STD",Trustee,Seton Hall University,,,"Rector and Dean, Immaculate Conception Seminary School of Theology and Trustee",,,12524447.0,186584.0,True,Regent
 Jane G. Kisber,Regent,Tennessee State University,,Wellesley,"Executive Director, Jackson/Madison County Convention and Visitors' Bureau","Coordinator, Special Projects, Jackson Area Chamber of Commerce",,75256744.0,,True,Regent
 W. Keith McCord,Regent,Tennessee State University,,Tennessee; Duke,"Senior Partner, McCord, Troutman and Irwin, P.C",,,75256744.0,,True,Regent
 Demetra Godsey Boyd,Regent,Tennessee State University,,,"Publisher and Editor, The Citizen Tribune",,,75256744.0,,True,Regent
@@ -359,12 +359,12 @@ Ed Jernigan,Regent,Tennessee Technological University,,Mid Tennessee State 1978,
 Clifford H. Henry,Regent,Tennessee Technological University,,,"Vice President, First American Bank",,,63920570.0,,True,Regent
 Leslie Parks Pope,Regent,Tennessee Technological University,,,"Chief Executive Officer, Parks Group",,,63920570.0,,True,Regent
 Patricia L. Graves,Trustee,University Of Akron,,,Vacant,,,110152177.0,200800.0,True,Regent
-Mark Apte,Trustee,University Of Akron,,,Vacant,,,110152177.0,200800.0,True,Regent
+Mark N. Apte,Trustee,University Of Akron,,,Vacant,,,110152177.0,200800.0,True,Regent
 Raymond D. Meyo,Trustee,University Of Akron,,,Vacant,,,110152177.0,200800.0,True,Regent
 Howard L. Flood,Trustee,University Of Akron,,,Vacant,,,110152177.0,200800.0,True,Regent
 John A. Fink,Trustee,University Of Akron,,,Vacant,,,110152177.0,200800.0,True,Regent
 Alex Arshinkoff,Chairman,University Of Akron,,,Vacant,,,110152177.0,200800.0,True,Board President
-Michael Allen,Trustee,University Of Cincinnati,,,,,,63135867.0,201885.0,True,Regent
+J. Michael Allen,Trustee,University Of Cincinnati,,,,,,63135867.0,201885.0,True,Regent
 Joan R. Herschede,Trustee,University Of Cincinnati,,,,,,63135867.0,201885.0,True,Regent
 Joseph T. Deters,Trustee,University Of Cincinnati,,,,,,63135867.0,201885.0,True,Regent
 Benjamin Gettler,Secretary,University Of Cincinnati,,,,,,63135867.0,201885.0,True,Other Board Member
@@ -389,31 +389,31 @@ John Keller,Regent,University Of Louisville,,,,,,142740786.0,157289.0,True,Trust
 Frances T. Henry,Regent,University Of Louisville,,,,,,142740786.0,157289.0,True,Trustee
 John D. Georges,Regent,University Of Louisville,,,,,,142740786.0,157289.0,True,Trustee
 Reggie Dupre,Regent,University Of Louisville,,,,,,142740786.0,157289.0,True,Trustee
-Richard D'Aquin,Regent,University Of Louisville,,,,,,142740786.0,157289.0,True,Trustee
+Richard E. D'Aquin,Regent,University Of Louisville,,,,,,142740786.0,157289.0,True,Trustee
 George L. Luffey,Regent,University Of Louisville,,,,,,142740786.0,157289.0,True,Trustee
 E. Joseph Savoie,Regent,University Of Louisville,,,"Affiliation: Commissioner of Higher Education
 150 3rd St., Ste. 129,
 Baton Rouge, LA 70801-1389
 Tel: (504) 342-4253 Fax: (504) 342-6926",,,142740786.0,157289.0,True,Trustee
 Arthur S. Bahnmuller,Trustee,University Of South Carolina,,,,,,155781252.0,218663.0,True,Member
-Herbert C. Adams,Trustee,University Of South Carolina,,,,,,155781252.0,218663.0,True,Member
+Adam W. Herbert,Trustee,University Of South Carolina,,,,,,155781252.0,218663.0,True,Member
 Samuel R. Foster II,Trustee,University Of South Carolina,,,,,,155781252.0,218663.0,True,Member
 David M. Beasley,Ex Officio Chairman,University Of South Carolina,,South Carolina JD,Governor. South Carolina,,,155781252.0,218663.0,True,"Board President, Ex Officio"
-"Mark W. Buck, Jr",Ex Officio Trustee,University Of South Carolina,,,,,,155781252.0,218663.0,True,"Member, Ex Officio"
+"Mark W. Buyck, Jr",Ex Officio Trustee,University Of South Carolina,,,,,,155781252.0,218663.0,True,"Member, Ex Officio"
 "Mack I. Whittle, Jr",Trustee,University Of South Carolina,,,,,,155781252.0,218663.0,True,Member
 "Othniel H. Wienges, Jr.",Trustee,University Of South Carolina,,,,,,155781252.0,218663.0,True,Member
 William M. Gregg I,Trustee,University Of South Carolina,,,,,,155781252.0,218663.0,True,Member
 Helen C. Harvey,Trustee,University Of South Carolina,,,,,,155781252.0,218663.0,True,Member
 William C. Hubbard,Trustee,University Of South Carolina,,,,,,155781252.0,218663.0,True,Member
-James Bradley,Trustee,University Of South Carolina,,,,,,155781252.0,218663.0,True,Member
+James Bradley Wilson,Trustee,University Of South Carolina,,,,,,155781252.0,218663.0,True,Member
 Miles Loadholt,Trustee,University Of South Carolina,,,,,,155781252.0,218663.0,True,Member
 Robert N. McLellan,Trustee,University Of South Carolina,,,,,,155781252.0,218663.0,True,Member
 Toney J. Lister,Trustee,University Of South Carolina,,,,,,155781252.0,218663.0,True,Member
 Michael J. Mungo,Trustee,University Of South Carolina,,,,,,155781252.0,218663.0,True,Member
 J. DuPre Miller,Trustee,University Of South Carolina,,,,,,155781252.0,218663.0,True,Member
 John C. vonLehe,Trustee,University Of South Carolina,,,,,,155781252.0,218663.0,True,Member
-"Mark W. Buck, Jr","President, Alumni Association",University Of South Carolina,,,,,,155781252.0,218663.0,True,Board President
-William W. Doar. Jr.,Trustee,University Of South Carolina,,,,,,155781252.0,218663.0,True,Member
+"Mark W. Buyck, Jr","President, Alumni Association",University Of South Carolina,,,,,,155781252.0,218663.0,True,Board President
+"William W. Doar, Jr",Trustee,University Of South Carolina,,,,,,155781252.0,218663.0,True,Member
 Thomas L. Stepp,Trustee,University Of South Carolina,,,,,,155781252.0,218663.0,True,Member
 C. Edward Floyd,Trustee,University Of South Carolina,,,,,,155781252.0,218663.0,True,Member
 M. Wayne Staton,Trustee,University Of South Carolina,,,,,,155781252.0,218663.0,True,Member
@@ -421,7 +421,7 @@ The Hon. Barbara S. Nielsen,Trustee,University Of South Carolina,,,,,,155781252.
 Michael A. Fox,Ex Officio Regent,University Of Toledo,,,,,,90871651.0,206084.0,True,"Trustee, Ex Officio"
 Gerald H. Gordon,Regent,University Of Toledo,,"Cleveland State BA, MA","President and Chief Operating Officer, Sun Media Corporation",,,90871651.0,206084.0,True,Trustee
 Merle G. Kearns,Ex Officio Regent,University Of Toledo,,,"Member, Ohio Senate",,,90871651.0,206084.0,True,"Trustee, Ex Officio"
-"Tahlman Krumm, Jr.",Vice Chairman,University Of Toledo,,South Florida BA; Ohio State PhD,"Founder and Chairman, Avalanche Creek Projects Group",,,90871651.0,206084.0,True,Board Vice President
+"Tahlman Krumm, Jr",Vice Chairman,University Of Toledo,,South Florida BA; Ohio State PhD,"Founder and Chairman, Avalanche Creek Projects Group",,,90871651.0,206084.0,True,Board Vice President
 Thomas W. Noe,Regent,University Of Toledo,,,"President, Vintage Coins and Cards; Chairman, Lucas County Republican Party, 1992-95",,,90871651.0,206084.0,True,Trustee
 Gerald M. Miller,Regent,University Of Toledo,,,"Chairman and Managing Partner, Miller-Valentine Group",,,90871651.0,206084.0,True,Trustee
 Stephen A. Perry,Regent,University Of Toledo,,Akron BS; Stanford MS,"Vice President, Human Resources and Logistics, The Timken Company; Chairman, Timken Mercy Medical Center; Chairman, Stark County District Library Board",,,90871651.0,206084.0,True,Trustee
@@ -524,7 +524,7 @@ June Scobee Rodgers,Member,University of Tennessee Health Science Center,,,,,,16
 John L. Parish,Member,University of Tennessee Health Science Center,,,,,,160606119.0,,True,Trustee
 Debby Patterson Koch,Secretary,University of Tennessee Health Science Center,,,,,,160606119.0,,True,Other Board Member
 William Ransom Jones,Member,University of Tennessee Health Science Center,,,,,,160606119.0,,True,Trustee
-The Hon. Steve Adams.,Ex Officio Member,University of Tennessee Health Science Center,,,"Treasurer, State of Tennessee",,,160606119.0,,True,"Trustee, Ex Officio"
+The Hon. Steve Adams,Ex Officio Member,University of Tennessee Health Science Center,,,"Treasurer, State of Tennessee",,,160606119.0,,True,"Trustee, Ex Officio"
 The Hon. Riley C. Darnell,Ex Officio Member,University of Tennessee Health Science Center,,,"Secretary of State, State of Tennessee",,,160606119.0,,True,"Trustee, Ex Officio"
 J. V. Sailors,Ex Officio Member,University of Tennessee Health Science Center,,,"Comptroller, State of Tennessee State Capitol, Nashville, TN 37243-0260",,,160606119.0,,True,"Trustee, Ex Officio"
 Joe Lancaster,Member,University of Tennessee Health Science Center,,,,,,160606119.0,,True,Trustee
@@ -541,7 +541,7 @@ The Hon. William R. Snodgrass.,Vice Chairman,University of Tennessee Health Scie
 Joe Lancaster,Member,University of Tennessee Health Science Center,,,,,,160606119.0,,True,Trustee
 Angela Marie Neal,Ex Officio Member,University of Tennessee Health Science Center,,,,,,160606119.0,,True,"Trustee, Ex Officio"
 William Ransom Jones,Member,University of Tennessee Health Science Center,,,,,,160606119.0,,True,Trustee
-The Hon. Steve Adams.,Ex Officio Member,University of Tennessee Health Science Center,,,"Treasurer, State of Tennessee",,,160606119.0,,True,"Trustee, Ex Officio"
+The Hon. Steve Adams,Ex Officio Member,University of Tennessee Health Science Center,,,"Treasurer, State of Tennessee",,,160606119.0,,True,"Trustee, Ex Officio"
 The Hon. Riley C. Darnell,Ex Officio Member,University of Tennessee Health Science Center,,,"Secretary of State, State of Tennessee",,,160606119.0,,True,"Trustee, Ex Officio"
 J. V. Sailors,Ex Officio Member,University of Tennessee Health Science Center,,,"Comptroller, State of Tennessee State Capitol, Nashville, TN 37243-0260",,,160606119.0,,True,"Trustee, Ex Officio"
 June Scobee Rodgers,Member,University of Tennessee Health Science Center,,,,,,160606119.0,,True,Trustee
@@ -553,7 +553,7 @@ The Hon. William R. Snodgrass.,Vice Chairman,University of Tennessee at Knoxvill
 John L. Parish,Member,University of Tennessee at Knoxville,,,,,,75027704.0,,True,Trustee
 Debby Patterson Koch,Secretary,University of Tennessee at Knoxville,,,,,,75027704.0,,True,Other Board Member
 William Ransom Jones,Member,University of Tennessee at Knoxville,,,,,,75027704.0,,True,Trustee
-The Hon. Steve Adams.,Ex Officio Member,University of Tennessee at Knoxville,,,"Treasurer, State of Tennessee",,,75027704.0,,True,"Trustee, Ex Officio"
+The Hon. Steve Adams,Ex Officio Member,University of Tennessee at Knoxville,,,"Treasurer, State of Tennessee",,,75027704.0,,True,"Trustee, Ex Officio"
 The Hon. Riley C. Darnell,Ex Officio Member,University of Tennessee at Knoxville,,,"Secretary of State, State of Tennessee",,,75027704.0,,True,"Trustee, Ex Officio"
 Wanda McMahan,Vice Chairman,University of Tennessee at Knoxville,,,,,,75027704.0,,True,Board Vice President
 "James M. Powers, Sr",Member,University of Tennessee at Knoxville,,,"Executive Director, State Board of Education",,,75027704.0,,True,Trustee
@@ -614,7 +614,7 @@ Charles A. Krasne,Overseer,Yeshiva University,Albert Einstein College of Medicin
 Saul Kramer,Vice Chairman,Yeshiva University,Albert Einstein College of Medicine,,,,,19772626.0,197708.0,True,Board Vice President
 Marilyn Katz,Overseer,Yeshiva University,Albert Einstein College of Medicine,,,,,19772626.0,197708.0,True,Governor
 Stanley M. Katz,Overseer,Yeshiva University,Albert Einstein College of Medicine,,,,,19772626.0,197708.0,True,Governor
-John E. Zucotti,Overseer,Yeshiva University,Albert Einstein College of Medicine,,,,,19772626.0,197708.0,True,Governor
+John E. Zuccotti,Overseer,Yeshiva University,Albert Einstein College of Medicine,,,,,19772626.0,197708.0,True,Governor
 Roy J. Zuckerberg,Overseer,Yeshiva University,Albert Einstein College of Medicine,,,,,19772626.0,197708.0,True,Governor
 Zygfryd B. Wolloch,Overseer,Yeshiva University,Albert Einstein College of Medicine,,,,,19772626.0,197708.0,True,Governor
 Joan K. Eigen,Overseer,Yeshiva University,Albert Einstein College of Medicine,,,,,19772626.0,197708.0,True,Governor
@@ -625,9 +625,9 @@ Rita Rosen,Overseer,Yeshiva University,Albert Einstein College of Medicine,,,,,1
 Philip Rosen,Overseer,Yeshiva University,Albert Einstein College of Medicine,,,,,19772626.0,197708.0,True,Governor
 Philip Altheim,Vice Chairman,Yeshiva University,Albert Einstein College of Medicine,,,,,19772626.0,197708.0,True,Board Vice President
 Diane Belfer,Overseer,Yeshiva University,Albert Einstein College of Medicine,,,,,19772626.0,197708.0,True,Governor
-Renee Belfer,Overseer,Yeshiva University,Albert Einstein College of Medicine,,,,,19772626.0,197708.0,True,Governor
+Renee E. Belfer,Overseer,Yeshiva University,Albert Einstein College of Medicine,,,,,19772626.0,197708.0,True,Governor
 Robert A. Belfer,Treasurer,Yeshiva University,Albert Einstein College of Medicine,,,,,19772626.0,197708.0,True,Other Board Member
 Robert A. Bernhard,Overseer,Yeshiva University,Albert Einstein College of Medicine,,,,,19772626.0,197708.0,True,Governor
 Sol W. Cantor,Overseer,Yeshiva University,Albert Einstein College of Medicine,,,,,19772626.0,197708.0,True,Governor
-Samuel J. Weinberg,Overseer,Yeshiva University,Albert Einstein College of Medicine,,,,,19772626.0,197708.0,True,Governor
+Samuel G. Weinberg,Overseer,Yeshiva University,Albert Einstein College of Medicine,,,,,19772626.0,197708.0,True,Governor
 Norman Lamm,President,Yeshiva University,Albert Einstein College of Medicine,,,,,19772626.0,197708.0,True,Board President
