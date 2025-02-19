@@ -1,80 +1,80 @@
 Id,Source,Target,Type,Weight,Year
-e_2013_698,Brown University,Carnegie Mellon University,Undirected,0.009708737864077669,2013
-e_2013_699,Case Western Reserve University,Clemson University,Undirected,0.006993006993006993,2013
-e_2013_700,Brandeis University,Cornell University,Undirected,0.01098901098901099,2013
-e_2013_701,Case Western Reserve University,Duke University,Undirected,0.008849557522123894,2013
-e_2013_702,Clark Atlanta University,Emory University,Undirected,0.014084507042253521,2013
-e_2013_703,Boston College,Fordham University,Undirected,0.01098901098901099,2013
-e_2013_704,Catholic University Of America,Fordham University,Undirected,0.012048192771084338,2013
-e_2013_705,Brandeis University,George Washington University,Undirected,0.012345679012345678,2013
-e_2013_706,Duke University,Johns Hopkins University,Undirected,0.010526315789473684,2013
-e_2013_707,Andrews University,Loma Linda University,Undirected,0.09836065573770492,2013
-e_2013_708,Fordham University,Loyola University Chicago,Undirected,0.012345679012345678,2013
-e_2013_709,Boston College,Loyola University Chicago,Undirected,0.01020408163265306,2013
-e_2013_710,Dartmouth College,Marquette University,Undirected,0.013888888888888888,2013
-e_2013_711,Boston College,Marquette University,Undirected,0.011904761904761904,2013
-e_2013_712,Harvard University,Massachusetts Institute Of Technology,Undirected,0.00819672131147541,2013
-e_2013_713,Boston University,Massachusetts Institute Of Technology,Undirected,0.008849557522123894,2013
-e_2013_714,Fordham University,New School,Undirected,0.01282051282051282,2013
-e_2013_715,Cornell University,New School,Undirected,0.011363636363636364,2013
-e_2013_716,Georgetown University,New York University,Undirected,0.008403361344537815,2013
-e_2013_717,Long Island University,New York University,Undirected,0.008130081300813009,2013
-e_2013_718,Drexel University,Pennsylvania State System of Higher Education,Undirected,0.015873015873015872,2013
-e_2013_719,Pennsylvania State System of Higher Education,Pennsylvania State University,Undirected,0.022222222222222223,2013
-e_2013_720,Howard University,Princeton University,Undirected,0.0136986301369863,2013
-e_2013_721,Carnegie Mellon University,Rensselaer Polytechnic Institute,Undirected,0.01282051282051282,2013
-e_2013_722,Seton Hall University,St Johns University,Undirected,0.012345679012345678,2013
-e_2013_723,Rensselaer Polytechnic Institute,St Johns University,Undirected,0.017241379310344827,2013
-e_2013_724,Dartmouth College,Stanford University,Undirected,0.013513513513513514,2013
-e_2013_725,St Johns University,State University of New York System,Undirected,0.023255813953488372,2013
-e_2013_726,Rensselaer Polytechnic Institute,State University of New York System,Undirected,0.022222222222222223,2013
-e_2013_727,Rensselaer Polytechnic Institute,Syracuse University,Undirected,0.019417475728155338,2013
-e_2013_728,Syracuse University,Temple University,Undirected,0.009259259259259259,2013
-e_2013_729,Dartmouth College,Texas Christian University,Undirected,0.011111111111111112,2013
-e_2013_730,Loyola University Chicago,University Of Chicago,Undirected,0.010526315789473684,2013
-e_2013_731,Illinois Institute Of Technology,University Of Chicago,Undirected,0.011904761904761904,2013
-e_2013_732,Duke University,University Of Chicago,Undirected,0.01098901098901099,2013
-e_2013_733,Johns Hopkins University,University Of Chicago,Undirected,0.009433962264150943,2013
-e_2013_734,Howard University,University Of Delaware,Undirected,0.015151515151515152,2013
-e_2013_735,Duke University,University Of La Verne,Undirected,0.015151515151515152,2013
-e_2013_736,Carnegie Mellon University,University Of Notre Dame,Undirected,0.010526315789473684,2013
-e_2013_737,Dartmouth College,University Of Notre Dame,Undirected,0.011235955056179775,2013
-e_2013_738,Rochester Institute Of Technology,University Of Pittsburgh,Undirected,0.008695652173913044,2013
-e_2013_739,Pennsylvania State System of Higher Education,University Of Pittsburgh,Undirected,0.02531645569620253,2013
-e_2013_740,Carnegie Mellon University,University Of Pittsburgh,Undirected,0.009345794392523364,2013
-e_2013_741,Pennsylvania State University,University Of Pittsburgh,Undirected,0.011904761904761904,2013
-e_2013_742,University Of Dayton,University Of San Diego,Undirected,0.013333333333333334,2013
-e_2013_743,Chapman University,University Of San Diego,Undirected,0.011764705882352941,2013
-e_2013_744,Cornell University,University Of Southern California,Undirected,0.010101010101010102,2013
-e_2013_745,Princeton University,University Of Southern California,Undirected,0.01098901098901099,2013
-e_2013_746,Georgetown University,University Of St Thomas Minnesota,Undirected,0.012048192771084338,2013
-e_2013_747,Boston College,University Of St Thomas Minnesota,Undirected,0.009708737864077669,2013
-e_2013_748,University Of San Diego,University Of St Thomas Minnesota,Undirected,0.012345679012345678,2013
-e_2013_749,St Johns University,University Of St Thomas Minnesota,Undirected,0.012987012987012988,2013
-e_2013_750,Mercer University,University System of Georgia,Undirected,0.03125,2013
-e_2013_751,Dartmouth College,University System of New Hampshire,Undirected,0.014705882352941176,2013
-e_2013_752,Marquette University,University System of New Hampshire,Undirected,0.017857142857142856,2013
-e_2013_753,University Of South Alabama,University of Alabama System,Undirected,0.0625,2013
-e_2013_754,California State University System,University of California System,Undirected,0.0784313725490196,2013
-e_2013_755,University Of Southern California,University of California System,Undirected,0.012987012987012988,2013
-e_2013_756,Massachusetts Institute Of Technology,University of Massachusetts System,Undirected,0.010309278350515464,2013
-e_2013_757,Cornell University,University of Massachusetts System,Undirected,0.013888888888888888,2013
-e_2013_758,Drexel University,University of North Texas System,Undirected,0.018867924528301886,2013
-e_2013_759,Tennessee Board of Regents,University of Tennessee System,Undirected,0.09090909090909091,2013
-e_2013_760,University Of St Thomas Minnesota,Vanderbilt University,Undirected,0.009615384615384616,2013
-e_2013_761,Dartmouth College,Vanderbilt University,Undirected,0.010309278350515464,2013
-e_2013_762,Drexel University,Villanova University,Undirected,0.013333333333333334,2013
-e_2013_763,University of North Carolina System,Wake Forest University,Undirected,0.013333333333333334,2013
-e_2013_764,University Of Pacific,Washington University,Undirected,0.012345679012345678,2013
-e_2013_765,Emory University,Washington University,Undirected,0.010309278350515464,2013
-e_2013_766,Villanova University,Washington University,Undirected,0.011627906976744186,2013
-e_2013_767,University Of Notre Dame,West Virginia University,Undirected,0.015625,2013
-e_2013_768,Massachusetts Institute Of Technology,West Virginia University,Undirected,0.011235955056179775,2013
-e_2013_769,Carnegie Mellon University,West Virginia University,Undirected,0.015384615384615385,2013
-e_2013_770,Wake Forest University,Western Michigan University,Undirected,0.02,2013
-e_2013_771,University Of Connecticut,Yale University,Undirected,0.025,2013
-e_2013_772,Brown University,Howard University,Undirected,0.011235955056179775,2013
-e_2013_773,Brown University,Princeton University,Undirected,0.010638297872340425,2013
-e_2013_774,Dartmouth College,Massachusetts Institute Of Technology,Undirected,0.008771929824561403,2013
-e_2013_775,New Jersey Institute Of Technology,University Of Southern California,Undirected,0.009523809523809525,2013
-e_2013_776,New Jersey Institute Of Technology,Princeton University,Undirected,0.010869565217391304,2013
+e_2013_777,Brown University,Carnegie Mellon University,Undirected,0.009708737864077669,2013
+e_2013_778,Case Western Reserve University,Clemson University,Undirected,0.006993006993006993,2013
+e_2013_779,Brandeis University,Cornell University,Undirected,0.01098901098901099,2013
+e_2013_780,Case Western Reserve University,Duke University,Undirected,0.008849557522123894,2013
+e_2013_781,Clark Atlanta University,Emory University,Undirected,0.014084507042253521,2013
+e_2013_782,Boston College,Fordham University,Undirected,0.01098901098901099,2013
+e_2013_783,Catholic University Of America,Fordham University,Undirected,0.012048192771084338,2013
+e_2013_784,Brandeis University,George Washington University,Undirected,0.012345679012345678,2013
+e_2013_785,Duke University,Johns Hopkins University,Undirected,0.010526315789473684,2013
+e_2013_786,Andrews University,Loma Linda University,Undirected,0.09836065573770492,2013
+e_2013_787,Boston College,Loyola University Chicago,Undirected,0.01020408163265306,2013
+e_2013_788,Fordham University,Loyola University Chicago,Undirected,0.012345679012345678,2013
+e_2013_789,Dartmouth College,Marquette University,Undirected,0.013888888888888888,2013
+e_2013_790,Boston College,Marquette University,Undirected,0.011904761904761904,2013
+e_2013_791,Boston University,Massachusetts Institute Of Technology,Undirected,0.008849557522123894,2013
+e_2013_792,Harvard University,Massachusetts Institute Of Technology,Undirected,0.00819672131147541,2013
+e_2013_793,Fordham University,New School,Undirected,0.01282051282051282,2013
+e_2013_794,Cornell University,New School,Undirected,0.011363636363636364,2013
+e_2013_795,Georgetown University,New York University,Undirected,0.008403361344537815,2013
+e_2013_796,Long Island University,New York University,Undirected,0.008130081300813009,2013
+e_2013_797,Drexel University,Pennsylvania State System of Higher Education,Undirected,0.015873015873015872,2013
+e_2013_798,Pennsylvania State System of Higher Education,Pennsylvania State University,Undirected,0.022222222222222223,2013
+e_2013_799,Howard University,Princeton University,Undirected,0.0136986301369863,2013
+e_2013_800,Carnegie Mellon University,Rensselaer Polytechnic Institute,Undirected,0.01282051282051282,2013
+e_2013_801,Seton Hall University,St Johns University,Undirected,0.012345679012345678,2013
+e_2013_802,Rensselaer Polytechnic Institute,St Johns University,Undirected,0.017241379310344827,2013
+e_2013_803,Dartmouth College,Stanford University,Undirected,0.013513513513513514,2013
+e_2013_804,Rensselaer Polytechnic Institute,State University of New York System,Undirected,0.022222222222222223,2013
+e_2013_805,St Johns University,State University of New York System,Undirected,0.023255813953488372,2013
+e_2013_806,Rensselaer Polytechnic Institute,Syracuse University,Undirected,0.019417475728155338,2013
+e_2013_807,Syracuse University,Temple University,Undirected,0.009259259259259259,2013
+e_2013_808,Dartmouth College,Texas Christian University,Undirected,0.011111111111111112,2013
+e_2013_809,Illinois Institute Of Technology,University Of Chicago,Undirected,0.011904761904761904,2013
+e_2013_810,Johns Hopkins University,University Of Chicago,Undirected,0.009433962264150943,2013
+e_2013_811,Duke University,University Of Chicago,Undirected,0.01098901098901099,2013
+e_2013_812,Loyola University Chicago,University Of Chicago,Undirected,0.010526315789473684,2013
+e_2013_813,Howard University,University Of Delaware,Undirected,0.015151515151515152,2013
+e_2013_814,Duke University,University Of La Verne,Undirected,0.015151515151515152,2013
+e_2013_815,Carnegie Mellon University,University Of Notre Dame,Undirected,0.010526315789473684,2013
+e_2013_816,Dartmouth College,University Of Notre Dame,Undirected,0.011235955056179775,2013
+e_2013_817,Pennsylvania State System of Higher Education,University Of Pittsburgh,Undirected,0.02531645569620253,2013
+e_2013_818,Rochester Institute Of Technology,University Of Pittsburgh,Undirected,0.008695652173913044,2013
+e_2013_819,Pennsylvania State University,University Of Pittsburgh,Undirected,0.011904761904761904,2013
+e_2013_820,Carnegie Mellon University,University Of Pittsburgh,Undirected,0.009345794392523364,2013
+e_2013_821,University Of Dayton,University Of San Diego,Undirected,0.013333333333333334,2013
+e_2013_822,Chapman University,University Of San Diego,Undirected,0.011764705882352941,2013
+e_2013_823,Cornell University,University Of Southern California,Undirected,0.010101010101010102,2013
+e_2013_824,Princeton University,University Of Southern California,Undirected,0.01098901098901099,2013
+e_2013_825,Georgetown University,University Of St Thomas Minnesota,Undirected,0.012048192771084338,2013
+e_2013_826,Boston College,University Of St Thomas Minnesota,Undirected,0.009708737864077669,2013
+e_2013_827,University Of San Diego,University Of St Thomas Minnesota,Undirected,0.012345679012345678,2013
+e_2013_828,St Johns University,University Of St Thomas Minnesota,Undirected,0.012987012987012988,2013
+e_2013_829,Mercer University,University System of Georgia,Undirected,0.03125,2013
+e_2013_830,Marquette University,University System of New Hampshire,Undirected,0.017857142857142856,2013
+e_2013_831,Dartmouth College,University System of New Hampshire,Undirected,0.014705882352941176,2013
+e_2013_832,University Of South Alabama,University of Alabama System,Undirected,0.0625,2013
+e_2013_833,California State University System,University of California System,Undirected,0.0784313725490196,2013
+e_2013_834,University Of Southern California,University of California System,Undirected,0.012987012987012988,2013
+e_2013_835,Massachusetts Institute Of Technology,University of Massachusetts System,Undirected,0.010309278350515464,2013
+e_2013_836,Cornell University,University of Massachusetts System,Undirected,0.013888888888888888,2013
+e_2013_837,Drexel University,University of North Texas System,Undirected,0.018867924528301886,2013
+e_2013_838,Tennessee Board of Regents,University of Tennessee System,Undirected,0.09090909090909091,2013
+e_2013_839,Dartmouth College,Vanderbilt University,Undirected,0.010309278350515464,2013
+e_2013_840,University Of St Thomas Minnesota,Vanderbilt University,Undirected,0.009615384615384616,2013
+e_2013_841,Drexel University,Villanova University,Undirected,0.013333333333333334,2013
+e_2013_842,University of North Carolina System,Wake Forest University,Undirected,0.013333333333333334,2013
+e_2013_843,Emory University,Washington University,Undirected,0.010309278350515464,2013
+e_2013_844,University Of Pacific,Washington University,Undirected,0.012345679012345678,2013
+e_2013_845,Villanova University,Washington University,Undirected,0.011627906976744186,2013
+e_2013_846,University Of Notre Dame,West Virginia University,Undirected,0.015625,2013
+e_2013_847,Massachusetts Institute Of Technology,West Virginia University,Undirected,0.011235955056179775,2013
+e_2013_848,Carnegie Mellon University,West Virginia University,Undirected,0.015384615384615385,2013
+e_2013_849,Wake Forest University,Western Michigan University,Undirected,0.02,2013
+e_2013_850,University Of Connecticut,Yale University,Undirected,0.025,2013
+e_2013_851,Brown University,Princeton University,Undirected,0.010638297872340425,2013
+e_2013_852,Brown University,Howard University,Undirected,0.011235955056179775,2013
+e_2013_853,Dartmouth College,Massachusetts Institute Of Technology,Undirected,0.008771929824561403,2013
+e_2013_854,New Jersey Institute Of Technology,University Of Southern California,Undirected,0.009523809523809525,2013
+e_2013_855,New Jersey Institute Of Technology,Princeton University,Undirected,0.010869565217391304,2013

@@ -6,98 +6,98 @@ e_1999_4,Carnegie Mellon University,Duquesne University,Undirected,0.02189781021
 e_1999_5,Clark Atlanta University,Emory University,Undirected,0.043478260869565216,1999
 e_1999_6,Brandeis University,Fordham University,Undirected,0.0125,1999
 e_1999_7,Fordham University,Georgetown University,Undirected,0.02631578947368421,1999
-e_1999_8,Brown University,Johns Hopkins University,Undirected,0.008695652173913044,1999
-e_1999_9,Howard University,Johns Hopkins University,Undirected,0.011494252873563218,1999
+e_1999_8,Howard University,Johns Hopkins University,Undirected,0.011494252873563218,1999
+e_1999_9,Brown University,Johns Hopkins University,Undirected,0.008695652173913044,1999
 e_1999_10,Drexel University,Johns Hopkins University,Undirected,0.01,1999
-e_1999_11,Arizona Board of Regents,Lehigh University,Undirected,0.0196078431372549,1999
+e_1999_11,Arizona Board of Regents,Lehigh University,Undirected,0.02,1999
 e_1999_12,Andrews University,Loma Linda University,Undirected,0.06666666666666667,1999
 e_1999_13,Illinois Institute Of Technology,Loyola University Chicago,Undirected,0.015873015873015872,1999
 e_1999_14,Baylor University,Marquette University,Undirected,0.014705882352941176,1999
 e_1999_15,George Washington University,Marquette University,Undirected,0.013333333333333334,1999
 e_1999_16,Cornell University,Marshall University,Undirected,0.016129032258064516,1999
 e_1999_17,Chapman University,Marshall University,Undirected,0.017857142857142856,1999
-e_1999_18,Boston University,Massachusetts Institute Of Technology,Undirected,0.009615384615384616,1999
-e_1999_19,Clemson University,Massachusetts Institute Of Technology,Undirected,0.009009009009009009,1999
+e_1999_18,Clemson University,Massachusetts Institute Of Technology,Undirected,0.009009009009009009,1999
+e_1999_19,Boston University,Massachusetts Institute Of Technology,Undirected,0.009615384615384616,1999
 e_1999_20,George Washington University,Massachusetts Institute Of Technology,Undirected,0.010416666666666666,1999
 e_1999_21,Cornell University,Michigan State University,Undirected,0.017857142857142856,1999
 e_1999_22,Dartmouth College,New School,Undirected,0.014925373134328358,1999
-e_1999_23,Georgetown University,New York University,Undirected,0.00847457627118644,1999
-e_1999_24,Carnegie Mellon University,New York University,Undirected,0.005952380952380952,1999
-e_1999_25,Carnegie Mellon University,Oklahoma State System of Higher Education,Undirected,0.008264462809917356,1999
+e_1999_23,Carnegie Mellon University,New York University,Undirected,0.005952380952380952,1999
+e_1999_24,Georgetown University,New York University,Undirected,0.00847457627118644,1999
+e_1999_25,Carnegie Mellon University,Oklahoma State System of Higher Education,Undirected,0.008333333333333333,1999
 e_1999_26,Harvard University,Pennsylvania State System of Higher Education,Undirected,0.014492753623188406,1999
 e_1999_27,Duquesne University,Pennsylvania State University,Undirected,0.011904761904761904,1999
 e_1999_28,New York University,Rensselaer Polytechnic Institute,Undirected,0.01834862385321101,1999
 e_1999_29,Princeton University,Rice University,Undirected,0.01694915254237288,1999
 e_1999_30,Indiana State University,Rochester Institute Of Technology,Undirected,0.019230769230769232,1999
-e_1999_31,Michigan Technological University,Rutgers State University Of New Jersey,Undirected,0.011904761904761904,1999
-e_1999_32,Brown University,Rutgers State University Of New Jersey,Undirected,0.007462686567164179,1999
+e_1999_31,Brown University,Rutgers State University Of New Jersey,Undirected,0.007462686567164179,1999
+e_1999_32,Michigan Technological University,Rutgers State University Of New Jersey,Undirected,0.011904761904761904,1999
 e_1999_33,Lehigh University,Seton Hall University,Undirected,0.013157894736842105,1999
 e_1999_34,New Jersey Institute Of Technology,St Johns University,Undirected,0.011627906976744186,1999
 e_1999_35,Adelphi University,State University of New York System,Undirected,0.017857142857142856,1999
 e_1999_36,Eastern Michigan University,Syracuse University,Undirected,0.018518518518518517,1999
-e_1999_37,Emory University,Temple University,Undirected,0.012345679012345678,1999
-e_1999_38,Pennsylvania State University,Temple University,Undirected,0.02531645569620253,1999
+e_1999_37,Pennsylvania State University,Temple University,Undirected,0.02531645569620253,1999
+e_1999_38,Emory University,Temple University,Undirected,0.012345679012345678,1999
 e_1999_39,Syracuse University,Texas A&M University System,Undirected,0.03333333333333333,1999
 e_1999_40,New York University,Texas Christian University,Undirected,0.008064516129032258,1999
 e_1999_41,Boston University,Texas Tech University System,Undirected,0.016666666666666666,1999
-e_1999_42,Brandeis University,Tufts University,Undirected,0.012345679012345678,1999
-e_1999_43,St Johns University,Tufts University,Undirected,0.016666666666666666,1999
+e_1999_42,St Johns University,Tufts University,Undirected,0.016666666666666666,1999
+e_1999_43,Brandeis University,Tufts University,Undirected,0.012345679012345678,1999
 e_1999_44,Illinois Institute Of Technology,University Of Chicago,Undirected,0.009345794392523364,1999
-e_1999_45,New School,University Of Chicago,Undirected,0.010101010101010102,1999
+e_1999_45,Baylor University,University Of Chicago,Undirected,0.011904761904761904,1999
 e_1999_46,Marquette University,University Of Chicago,Undirected,0.0125,1999
-e_1999_47,Baylor University,University Of Chicago,Undirected,0.011904761904761904,1999
+e_1999_47,Tufts University,University Of Chicago,Undirected,0.012048192771084338,1999
 e_1999_48,George Mason University,University Of Chicago,Undirected,0.015873015873015872,1999
-e_1999_49,Tufts University,University Of Chicago,Undirected,0.012048192771084338,1999
+e_1999_49,New School,University Of Chicago,Undirected,0.010101010101010102,1999
 e_1999_50,Marquette University,University Of Dayton,Undirected,0.015384615384615385,1999
 e_1999_51,Nevada System of Higher Education,University Of Dayton,Undirected,0.022727272727272728,1999
 e_1999_52,Tufts University,University Of Delaware,Undirected,0.015151515151515152,1999
 e_1999_53,Georgetown University,University Of Delaware,Undirected,0.0136986301369863,1999
 e_1999_54,New York University,University Of Notre Dame,Undirected,0.007692307692307693,1999
-e_1999_55,Pennsylvania State System of Higher Education,University Of Notre Dame,Undirected,0.011627906976744186,1999
-e_1999_56,Harvard University,University Of Notre Dame,Undirected,0.01098901098901099,1999
-e_1999_57,New Jersey Institute Of Technology,University Of Notre Dame,Undirected,0.008695652173913044,1999
+e_1999_55,New Jersey Institute Of Technology,University Of Notre Dame,Undirected,0.008695652173913044,1999
+e_1999_56,Pennsylvania State System of Higher Education,University Of Notre Dame,Undirected,0.011627906976744186,1999
+e_1999_57,Harvard University,University Of Notre Dame,Undirected,0.01098901098901099,1999
 e_1999_58,Indiana State University,University Of Pacific,Undirected,0.02631578947368421,1999
 e_1999_59,Hofstra University,University Of Pittsburgh,Undirected,0.011111111111111112,1999
 e_1999_60,New York University,University Of Pittsburgh,Undirected,0.007874015748031496,1999
 e_1999_61,Carnegie Mellon University,University Of Pittsburgh,Undirected,0.02097902097902098,1999
-e_1999_62,Pennsylvania State University,University Of Pittsburgh,Undirected,0.011111111111111112,1999
-e_1999_63,Temple University,University Of Pittsburgh,Undirected,0.01098901098901099,1999
-e_1999_64,New Jersey Institute Of Technology,University Of Pittsburgh,Undirected,0.008928571428571428,1999
+e_1999_62,New Jersey Institute Of Technology,University Of Pittsburgh,Undirected,0.008928571428571428,1999
+e_1999_63,Pennsylvania State University,University Of Pittsburgh,Undirected,0.011111111111111112,1999
+e_1999_64,Temple University,University Of Pittsburgh,Undirected,0.01098901098901099,1999
 e_1999_65,Auburn University,University Of South Alabama,Undirected,0.06451612903225806,1999
 e_1999_66,Loyola Marymount University,University Of Southern California,Undirected,0.010752688172043012,1999
 e_1999_67,Carnegie Mellon University,University Of Southern California,Undirected,0.007462686567164179,1999
 e_1999_68,Marquette University,University Of St Thomas Minnesota,Undirected,0.014285714285714285,1999
-e_1999_69,University Of Notre Dame,University Of St Thomas Minnesota,Undirected,0.010869565217391304,1999
-e_1999_70,Catholic University Of America,University Of St Thomas Minnesota,Undirected,0.012658227848101266,1999
-e_1999_71,Central Michigan University,University Of Tulsa,Undirected,0.023255813953488372,1999
-e_1999_72,Oklahoma State System of Higher Education,University Of Tulsa,Undirected,0.015384615384615385,1999
-e_1999_73,Carnegie Mellon University,University Of Tulsa,Undirected,0.0078125,1999
+e_1999_69,Catholic University Of America,University Of St Thomas Minnesota,Undirected,0.012658227848101266,1999
+e_1999_70,University Of Notre Dame,University Of St Thomas Minnesota,Undirected,0.010869565217391304,1999
+e_1999_71,Oklahoma State System of Higher Education,University Of Tulsa,Undirected,0.015625,1999
+e_1999_72,Carnegie Mellon University,University Of Tulsa,Undirected,0.0078125,1999
+e_1999_73,Central Michigan University,University Of Tulsa,Undirected,0.023255813953488372,1999
 e_1999_74,Clark Atlanta University,University System of Georgia,Undirected,0.045454545454545456,1999
 e_1999_75,Dartmouth College,University System of New Hampshire,Undirected,0.02564102564102564,1999
 e_1999_76,Case Western Reserve University,University System of Ohio,Undirected,0.006369426751592357,1999
-e_1999_77,University Of South Alabama,University of Alabama System,Undirected,0.02857142857142857,1999
-e_1999_78,Auburn University,University of Alabama System,Undirected,0.03571428571428571,1999
+e_1999_77,Auburn University,University of Alabama System,Undirected,0.03571428571428571,1999
+e_1999_78,University Of South Alabama,University of Alabama System,Undirected,0.02857142857142857,1999
 e_1999_79,Cornell University,University of Alaska System,Undirected,0.017241379310344827,1999
 e_1999_80,Chapman University,University of Alaska System,Undirected,0.019230769230769232,1999
 e_1999_81,Marshall University,University of Alaska System,Undirected,0.03571428571428571,1999
 e_1999_82,Harvard University,University of Alaska System,Undirected,0.02040816326530612,1999
 e_1999_83,California State University System,University of California System,Undirected,0.061224489795918366,1999
 e_1999_84,Old Dominion University,University of California System,Undirected,0.023809523809523808,1999
-e_1999_85,Syracuse University,University of Nebraska System,Undirected,0.030303030303030304,1999
-e_1999_86,Texas A&M University System,University of Nebraska System,Undirected,0.047619047619047616,1999
-e_1999_87,Case Western Reserve University,University of North Carolina System,Undirected,0.0064516129032258064,1999
-e_1999_88,Boston University,University of North Carolina System,Undirected,0.0064516129032258064,1999
-e_1999_89,Texas Tech University System,University of North Carolina System,Undirected,0.008849557522123894,1999
+e_1999_85,Texas A&M University System,University of Nebraska System,Undirected,0.047619047619047616,1999
+e_1999_86,Syracuse University,University of Nebraska System,Undirected,0.030303030303030304,1999
+e_1999_87,Texas Tech University System,University of North Carolina System,Undirected,0.008928571428571428,1999
+e_1999_88,Boston University,University of North Carolina System,Undirected,0.006493506493506494,1999
+e_1999_89,Case Western Reserve University,University of North Carolina System,Undirected,0.006493506493506494,1999
 e_1999_90,Tennessee Board of Regents,University of North Texas System,Undirected,0.02127659574468085,1999
 e_1999_91,State University of New York System,Vanderbilt University,Undirected,0.012987012987012988,1999
 e_1999_92,Seton Hall University,Villanova University,Undirected,0.015625,1999
-e_1999_93,University of North Carolina System,Wake Forest University,Undirected,0.00684931506849315,1999
-e_1999_94,Fordham University,Washington University,Undirected,0.011904761904761904,1999
-e_1999_95,Brandeis University,Washington University,Undirected,0.010416666666666666,1999
+e_1999_93,University of North Carolina System,Wake Forest University,Undirected,0.006896551724137931,1999
+e_1999_94,Brandeis University,Washington University,Undirected,0.010416666666666666,1999
+e_1999_95,Fordham University,Washington University,Undirected,0.011904761904761904,1999
 e_1999_96,Marshall University,West Virginia University,Undirected,0.47058823529411764,1999
 e_1999_97,Cornell University,West Virginia University,Undirected,0.015625,1999
-e_1999_98,Chapman University,West Virginia University,Undirected,0.017241379310344827,1999
-e_1999_99,University of Alaska System,West Virginia University,Undirected,0.03333333333333333,1999
+e_1999_98,University of Alaska System,West Virginia University,Undirected,0.03333333333333333,1999
+e_1999_99,Chapman University,West Virginia University,Undirected,0.017241379310344827,1999
 e_1999_100,State University System of Florida,Widener University,Undirected,0.023809523809523808,1999
 e_1999_101,Carnegie Mellon University,Worcester Polytechnic Institute,Undirected,0.007692307692307693,1999
 e_1999_102,University Of Notre Dame,Yale University,Undirected,0.0136986301369863,1999
@@ -107,11 +107,11 @@ e_1999_105,Brown University,University Of Rhode Island,Undirected,0.014285714285
 e_1999_106,Drexel University,Loyola Marymount University,Undirected,0.011111111111111112,1999
 e_1999_107,New Jersey Institute Of Technology,Princeton University,Undirected,0.009900990099009901,1999
 e_1999_108,Catholic University Of America,Seton Hall University,Undirected,0.012658227848101266,1999
-e_1999_109,University Of South Carolina,University of North Carolina System,Undirected,0.006622516556291391,1999
+e_1999_109,University Of South Carolina,University of North Carolina System,Undirected,0.006666666666666667,1999
 e_1999_110,State University System of Florida,University Of South Carolina,Undirected,0.015873015873015872,1999
 e_1999_111,University Of Virginia,University System of Ohio,Undirected,0.008130081300813009,1999
 e_1999_112,Tennessee Board of Regents,University of Tennessee System,Undirected,0.02702702702702703,1999
 e_1999_113,Columbia University,Yeshiva University,Undirected,0.008264462809917356,1999
-e_1999_114,Massachusetts Institute Of Technology,Yeshiva University,Undirected,0.006711409395973154,1999
-e_1999_115,New York University,Yeshiva University,Undirected,0.005813953488372093,1999
+e_1999_114,New York University,Yeshiva University,Undirected,0.005813953488372093,1999
+e_1999_115,Massachusetts Institute Of Technology,Yeshiva University,Undirected,0.006711409395973154,1999
 e_1999_116,Hofstra University,Yeshiva University,Undirected,0.007407407407407408,1999

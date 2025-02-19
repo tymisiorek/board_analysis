@@ -2,7 +2,7 @@ Id,Label,Interlock_Count,AffiliationId,Board_Size
 Adelphi University,Adelphi University,0,71965598,29
 American University,American University,0,181401687,31
 Andrews University,Andrews University,5,102298084,38
-Arizona Board of Regents,Arizona Board of Regents,0,203172682,13
+Arizona Board of Regents,Arizona Board of Regents,0,203172682,12
 Auburn University,Auburn University,2,82497590,18
 Ball State University,Ball State University,0,198089087,9
 Baylor University,Baylor University,0,157394403,20
@@ -94,7 +94,7 @@ Texas Womans University,Texas Womans University,0,150913223,10
 Tufts University,Tufts University,3,121934306,43
 University Of Chicago,University Of Chicago,6,40347166,49
 University Of Connecticut,University Of Connecticut,2,140172145,21
-University Of Dayton,University Of Dayton,1,127591826,39
+University Of Dayton,University Of Dayton,0,127591826,39
 University Of Delaware,University Of Delaware,0,86501945,31
 University Of Hartford,University Of Hartford,0,162281398,57
 University Of Kentucky,University Of Kentucky,0,143302722,21
@@ -107,7 +107,7 @@ University Of Notre Dame,University Of Notre Dame,2,107639228,54
 University Of Pacific,University Of Pacific,0,119942576,25
 University Of Pittsburgh,University Of Pittsburgh,4,170201317,51
 University Of Rhode Island,University Of Rhode Island,0,17626003,12
-University Of San Diego,University Of San Diego,3,160856358,41
+University Of San Diego,University Of San Diego,2,160856358,41
 University Of South Alabama,University Of South Alabama,3,83809506,16
 University Of South Carolina,University Of South Carolina,1,155781252,22
 University Of Southern California,University Of Southern California,5,1174212,52
@@ -135,7 +135,7 @@ University of Missouri System,University of Missouri System,0,4777552,10
 University of Nebraska System,University of Nebraska System,0,2802450327,14
 University of North Carolina System,University of North Carolina System,2,4210158053,32
 University of North Texas System,University of North Texas System,0,2802090120,10
-University of Tennessee System,University of Tennessee System,2,2799495847,23
+University of Tennessee System,University of Tennessee System,2,2799495847,22
 University of Texas System,University of Texas System,0,16452829,20
 University of Wisconsin System,University of Wisconsin System,0,1304256225,19
 Vanderbilt University,Vanderbilt University,4,200719446,55

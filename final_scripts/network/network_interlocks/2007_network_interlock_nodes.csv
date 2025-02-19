@@ -2,8 +2,8 @@ Id,Label,Interlock_Count,AffiliationId,Board_Size
 Adelphi University,Adelphi University,0,71965598,18
 American University,American University,0,181401687,25
 Andrews University,Andrews University,7,102298084,38
-Arizona Board of Regents,Arizona Board of Regents,1,203172682,17
-Auburn University,Auburn University,2,82497590,26
+Arizona Board of Regents,Arizona Board of Regents,1,138006243,17
+Auburn University,Auburn University,2,82497590,25
 Ball State University,Ball State University,0,198089087,8
 Baylor University,Baylor University,0,157394403,31
 Biola University,Biola University,0,152479009,27
@@ -28,7 +28,7 @@ Cornell University,Cornell University,14,205783295,169
 Dartmouth College,Dartmouth College,3,107672454,18
 Drexel University,Drexel University,1,72816309,40
 Duke University,Duke University,4,170897317,40
-Duquesne University,Duquesne University,0,165102784,25
+Duquesne University,Duquesne University,0,165102784,24
 Eastern Michigan University,Eastern Michigan University,0,138216421,8
 Emory University,Emory University,0,150468666,36
 Florida Institute Of Technology,Florida Institute Of Technology,0,106959904,34
@@ -47,7 +47,7 @@ Johns Hopkins University,Johns Hopkins University,6,145311948,67
 Lehigh University,Lehigh University,1,186143895,40
 Loma Linda University,Loma Linda University,7,26347476,22
 Long Island University,Long Island University,1,138873065,41
-Loyola Marymount University,Loyola Marymount University,9,35566140,94
+Loyola Marymount University,Loyola Marymount University,8,35566140,94
 Loyola University Chicago,Loyola University Chicago,5,1925986,40
 Marquette University,Marquette University,0,102461120,11
 Marshall University,Marshall University,0,88694374,15
@@ -105,7 +105,7 @@ University Of New Mexico,University Of New Mexico,1,169521973,8
 University Of Northern Colorado,University Of Northern Colorado,0,71966907,8
 University Of Notre Dame,University Of Notre Dame,5,107639228,52
 University Of Pacific,University Of Pacific,1,119942576,30
-University Of Pittsburgh,University Of Pittsburgh,5,170201317,51
+University Of Pittsburgh,University Of Pittsburgh,4,170201317,51
 University Of Rhode Island,University Of Rhode Island,0,17626003,13
 University Of San Diego,University Of San Diego,5,160856358,38
 University Of South Alabama,University Of South Alabama,2,83809506,17
@@ -122,8 +122,8 @@ University System of New Hampshire,University System of New Hampshire,2,28004538
 University System of Ohio,University System of Ohio,2,2802096936,98
 University of Alabama System,University of Alabama System,2,2800507078,17
 University of Alaska System,University of Alaska System,2,2802090665,12
-University of Arkansas System,University of Arkansas System,0,2799691083,14
-University of California System,University of California System,8,2803209242,34
+University of Arkansas System,University of Arkansas System,0,2799691083,13
+University of California System,University of California System,8,2803209242,33
 University of Colorado System,University of Colorado System,0,2802236040,11
 University of Hawaii System,University of Hawaii System,0,1331384533,11
 University of Houston System,University of Houston System,2,2801525821,10

@@ -2,7 +2,7 @@ Id,Label,Interlock_Count,AffiliationId,Board_Size
 Adelphi University,Adelphi University,0,71965598,24
 American University,American University,0,181401687,24
 Andrews University,Andrews University,5,102298084,32
-Arizona Board of Regents,Arizona Board of Regents,0,203172682,10
+Arizona Board of Regents,Arizona Board of Regents,0,138006243,10
 Auburn University,Auburn University,3,82497590,28
 Ball State University,Ball State University,0,198089087,8
 Baylor University,Baylor University,1,157394403,36
@@ -35,7 +35,7 @@ Florida Institute Of Technology,Florida Institute Of Technology,0,106959904,32
 Fordham University,Fordham University,4,164389053,38
 George Mason University,George Mason University,2,162714631,18
 George Washington University,George Washington University,1,193531525,33
-Georgetown University,Georgetown University,5,184565670,45
+Georgetown University,Georgetown University,6,184565670,44
 Harvard University,Harvard University,2,136199984,41
 Hofstra University,Hofstra University,3,139290212,30
 Howard University,Howard University,1,137853757,26
@@ -48,7 +48,7 @@ Lehigh University,Lehigh University,2,186143895,33
 Loma Linda University,Loma Linda University,5,26347476,22
 Long Island University,Long Island University,1,138873065,65
 Loyola Marymount University,Loyola Marymount University,11,35566140,85
-Loyola University Chicago,Loyola University Chicago,6,1925986,66
+Loyola University Chicago,Loyola University Chicago,7,1925986,66
 Marquette University,Marquette University,2,102461120,40
 Marshall University,Marshall University,1,88694374,15
 Massachusetts Institute Of Technology,Massachusetts Institute Of Technology,6,63966007,49
@@ -74,9 +74,9 @@ Princeton University,Princeton University,4,20089843,40
 Purdue University,Purdue University,0,219193219,8
 Rensselaer Polytechnic Institute,Rensselaer Polytechnic Institute,2,165799507,30
 Rice University,Rice University,0,74775410,24
-Rochester Institute Of Technology,Rochester Institute Of Technology,2,155173764,54
+Rochester Institute Of Technology,Rochester Institute Of Technology,3,155173764,54
 Rowan University,Rowan University,0,44265643,18
-Rutgers State University Of New Jersey,Rutgers State University Of New Jersey,2,102322142,77
+Rutgers State University Of New Jersey,Rutgers State University Of New Jersey,3,102322142,77
 Seton Hall University,Seton Hall University,0,12524447,39
 Southern Illinois University System,Southern Illinois University System,0,2801502357,12
 St Johns University,St Johns University,0,142823887,29
@@ -85,7 +85,7 @@ State University System of Florida,State University System of Florida,0,28016494
 State University of New York System,State University of New York System,0,1327163397,38
 Syracuse University,Syracuse University,0,70983195,26
 Temple University,Temple University,4,84392919,44
-Tennessee Board of Regents,Tennessee Board of Regents,4,94658018,20
+Tennessee Board of Regents,Tennessee Board of Regents,4,75256744,20
 Texas A&M University System,Texas A&M University System,0,173268674,9
 Texas Christian University,Texas Christian University,0,128956969,47
 Texas State University System,Texas State University System,0,2801273398,9
@@ -149,5 +149,5 @@ West Virginia University,West Virginia University,1,12097938,15
 Western Michigan University,Western Michigan University,1,141649380,8
 Widener University,Widener University,0,138659443,21
 Worcester Polytechnic Institute,Worcester Polytechnic Institute,0,107077323,38
-Yale University,Yale University,1,32971472,17
+Yale University,Yale University,1,32971472,16
 Yeshiva University,Yeshiva University,4,19772626,97

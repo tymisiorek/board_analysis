@@ -24,7 +24,7 @@ board_dataframes = "board_dataframes\\"
 split_dataframes = "split_dataframes\\"
 
 
-years = ["1999", "2000", "2005", "2007", "2008", "2009", "2011", "2013", "2018"]
+years = ["1999", "2000", "2005", "2007", "2008", "2009", "2010", "2011", "2013", "2018"]
 
 
 #Extract the names of all the institutions for validation

@@ -2,7 +2,7 @@ Id,Label,Interlock_Count,AffiliationId,Board_Size
 Adelphi University,Adelphi University,1,71965598,17
 American University,American University,0,181401687,28
 Andrews University,Andrews University,4,102298084,36
-Arizona Board of Regents,Arizona Board of Regents,1,203172682,13
+Arizona Board of Regents,Arizona Board of Regents,1,203172682,12
 Auburn University,Auburn University,3,82497590,12
 Ball State University,Ball State University,0,198089087,9
 Baylor University,Baylor University,2,157394403,36
@@ -21,7 +21,7 @@ Clark Atlanta University,Clark Atlanta University,5,52064589,28
 Clark University,Clark University,0,130785548,21
 Clarkson University,Clarkson University,1,16944753,25
 Clemson University,Clemson University,1,8078737,58
-College Of William And Mary,College Of William And Mary,0,16285277,17
+College Of William And Mary,College Of William And Mary,0,16285277,16
 Colorado School Of Mines,Colorado School Of Mines,0,167576493,7
 Columbia University,Columbia University,2,78577930,25
 Cornell University,Cornell University,5,205783295,46
@@ -61,11 +61,11 @@ Nevada System of Higher Education,Nevada System of Higher Education,1,68260882,1
 New Jersey Institute Of Technology,New Jersey Institute Of Technology,4,118118575,61
 New School,New School,2,102179633,51
 New York University,New York University,8,57206974,76
-North Dakota University System,North Dakota University System,0,4210127926,16
+North Dakota University System,North Dakota University System,0,4210127926,15
 Northern Illinois University,Northern Illinois University,0,102502594,8
 Nova Southeastern University,Nova Southeastern University,0,203088144,28
 Oakland University,Oakland University,0,177721651,8
-Oklahoma State System of Higher Education,Oklahoma State System of Higher Education,2,8692664,29
+Oklahoma State System of Higher Education,Oklahoma State System of Higher Education,2,115475287,28
 Old Dominion University,Old Dominion University,1,81365321,16
 Pace University,Pace University,0,126863827,34
 Pennsylvania State System of Higher Education,Pennsylvania State System of Higher Education,2,29957033,32
@@ -85,7 +85,7 @@ State University System of Florida,State University System of Florida,2,28016494
 State University of New York System,State University of New York System,2,1327163397,39
 Syracuse University,Syracuse University,3,70983195,21
 Temple University,Temple University,4,84392919,40
-Tennessee Board of Regents,Tennessee Board of Regents,3,169615421,38
+Tennessee Board of Regents,Tennessee Board of Regents,3,75256744,38
 Texas A&M University System,Texas A&M University System,2,173268674,9
 Texas Christian University,Texas Christian University,1,128956969,48
 Texas State University System,Texas State University System,0,2801273398,10
@@ -133,7 +133,7 @@ University of Maine System,University of Maine System,0,2802397601,16
 University of Massachusetts System,University of Massachusetts System,0,2802841742,22
 University of Missouri System,University of Missouri System,0,4777552,10
 University of Nebraska System,University of Nebraska System,2,2802450327,12
-University of North Carolina System,University of North Carolina System,5,4210158053,104
+University of North Carolina System,University of North Carolina System,5,4210158053,103
 University of North Texas System,University of North Texas System,1,2802090120,9
 University of Tennessee System,University of Tennessee System,2,2799495847,36
 University of Texas System,University of Texas System,0,16452829,17

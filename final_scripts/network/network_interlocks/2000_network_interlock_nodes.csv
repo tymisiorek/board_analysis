@@ -2,8 +2,8 @@ Id,Label,Interlock_Count,AffiliationId,Board_Size
 Adelphi University,Adelphi University,0,71965598,17
 American University,American University,0,181401687,28
 Andrews University,Andrews University,3,102298084,36
-Arizona Board of Regents,Arizona Board of Regents,1,203172682,12
-Auburn University,Auburn University,4,82497590,12
+Arizona Board of Regents,Arizona Board of Regents,1,203172682,11
+Auburn University,Auburn University,4,82497590,11
 Ball State University,Ball State University,0,198089087,6
 Baylor University,Baylor University,2,157394403,36
 Biola University,Biola University,0,152479009,20
@@ -59,17 +59,17 @@ Mississippi Institutions of Higher Learning,Mississippi Institutions of Higher L
 Montclair State University,Montclair State University,0,166088655,13
 Nevada System of Higher Education,Nevada System of Higher Education,1,68260882,11
 New Jersey Institute Of Technology,New Jersey Institute Of Technology,4,118118575,61
-New School,New School,2,102179633,42
+New School,New School,2,102179633,41
 New York University,New York University,10,57206974,84
 North Dakota University System,North Dakota University System,0,4210127926,8
 Northern Illinois University,Northern Illinois University,0,102502594,7
 Nova Southeastern University,Nova Southeastern University,1,203088144,28
 Oakland University,Oakland University,0,177721651,7
-Oklahoma State System of Higher Education,Oklahoma State System of Higher Education,1,8692664,28
+Oklahoma State System of Higher Education,Oklahoma State System of Higher Education,1,8692664,27
 Old Dominion University,Old Dominion University,0,81365321,17
 Pace University,Pace University,0,126863827,33
 Pennsylvania State System of Higher Education,Pennsylvania State System of Higher Education,1,29957033,20
-Pennsylvania State University,Pennsylvania State University,1,130769515,35
+Pennsylvania State University,Pennsylvania State University,3,130769515,35
 Princeton University,Princeton University,0,20089843,39
 Purdue University,Purdue University,0,219193219,8
 Rensselaer Polytechnic Institute,Rensselaer Polytechnic Institute,2,165799507,33
@@ -84,8 +84,8 @@ Stanford University,Stanford University,2,97018004,34
 State University System of Florida,State University System of Florida,2,2801649442,15
 State University of New York System,State University of New York System,0,1327163397,32
 Syracuse University,Syracuse University,2,70983195,21
-Temple University,Temple University,2,84392919,41
-Tennessee Board of Regents,Tennessee Board of Regents,16,169615421,34
+Temple University,Temple University,3,84392919,41
+Tennessee Board of Regents,Tennessee Board of Regents,16,75256744,33
 Texas A&M University System,Texas A&M University System,2,173268674,9
 Texas Christian University,Texas Christian University,1,128956969,47
 Texas State University System,Texas State University System,0,2801273398,10
@@ -105,7 +105,7 @@ University Of New Mexico,University Of New Mexico,0,169521973,11
 University Of Northern Colorado,University Of Northern Colorado,0,71966907,8
 University Of Notre Dame,University Of Notre Dame,6,107639228,55
 University Of Pacific,University Of Pacific,1,119942576,24
-University Of Pittsburgh,University Of Pittsburgh,8,170201317,51
+University Of Pittsburgh,University Of Pittsburgh,9,170201317,51
 University Of Rhode Island,University Of Rhode Island,1,17626003,16
 University Of San Diego,University Of San Diego,1,160856358,35
 University Of South Alabama,University Of South Alabama,4,83809506,20
@@ -117,7 +117,7 @@ University Of Vermont,University Of Vermont,0,111236770,25
 University Of Virginia,University Of Virginia,1,51556381,17
 University Of Washington,University Of Washington,0,201448701,8
 University Of Wyoming,University Of Wyoming,0,12834331,14
-University System of Georgia,University System of Georgia,2,1289702989,16
+University System of Georgia,University System of Georgia,2,1289702989,15
 University System of New Hampshire,University System of New Hampshire,2,2800453862,22
 University System of Ohio,University System of Ohio,3,2802096936,115
 University of Alabama System,University of Alabama System,5,2800507078,15
@@ -135,8 +135,8 @@ University of Missouri System,University of Missouri System,0,4777552,12
 University of Nebraska System,University of Nebraska System,2,2802450327,12
 University of North Carolina System,University of North Carolina System,2,4210158053,110
 University of North Texas System,University of North Texas System,0,2802090120,9
-University of Tennessee System,University of Tennessee System,15,2799495847,35
-University of Texas System,University of Texas System,0,16452829,26
+University of Tennessee System,University of Tennessee System,15,2799495847,34
+University of Texas System,University of Texas System,0,16452829,25
 University of Wisconsin System,University of Wisconsin System,0,1304256225,14
 Vanderbilt University,Vanderbilt University,0,200719446,56
 Villanova University,Villanova University,1,7863295,26
